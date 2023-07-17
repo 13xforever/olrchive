@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "8d66c8155d54481d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8df219d4bd14f079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b3ddcb11672753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2002/06/Episode 01 - June 23, 2002.txt",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "517cb065f2a74ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4891e3f146a139e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed0aa6fb865cc75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "248cd251a1cc0ca5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a58199164530aba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f39c08081a60b143",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d8cf04862a9a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7942fefdffd56e60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2002/06/Episode 01 - June 23, 2002.txt",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79d5986702bcff5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2002/06/Episode 01 - June 23, 2002.txt",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65e20998db2214f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9e0df7b9d34af90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2002/06/Episode 01 - June 23, 2002.txt"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "95b3ddcb11672753",
+  "lastOpenFiles": [
+    "2002/06/Episode 01 - June 23, 2002.txt"
+  ]
+}

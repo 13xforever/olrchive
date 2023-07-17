@@ -1,0 +1,2693 @@
+It feels like the PC gaming world has been having a resurgence of variety.
+Games that felt like they would have always been console exclusives are coming or already
+on the PC.
+I suppose that has to do with the fact that consoles are even more PC like now, similar
+CPU, specs and technologies, Wi-Fi, Bluetooth, USB, etc.
+No matter the cause, it's a win for gamers to have to buy into fewer silos to play the
+games they love.
+This is my 33 second commentary.
+It's time for the details with your hosts, Rob Roberts, Jamie Summers, and Loki starting
+right now on the show where every gamer has a voice.
+Hello, my friends out there on the internet, and welcome back to another week of the show
+where every gamer has a voice, it is Orange Lounge Radio, and we are live once again tonight
+on Valentine's Day, February the 14th of 2021.
+My name is Rob Roberts, and it's episode number 856 of our show, and not joining us
+at the moment, but will be here shortly is Dark Sakura or Jamie Summers.
+Unfortunately, she had a little, she had a computer crash right before we went live.
+And so she's a little frustrated, but she's making her way back.
+So she'll be joining us here shortly.
+But who we do have here live with us is Techmaster Loki.
+Hey, Loki.
+And you're muted.
+We're having all sorts of errors and problems tonight.
+What is going on?
+I just wanted to be muted when the intro is going.
+It's fine.
+It's fine.
+I'm editing and voila while I, you know, do the show.
+Yeah, right.
+Pixel Pacas in chat because we do tape live every Sunday night at the Voice of Geeks Network,
+twitch.tv slash VOG Network, six o'clock Pacific, nine o'clock Eastern, right after the Bobby
+Blackwell show, Pixel Pacas in chat says, amazing start tonight, right?
+This is the one I'm going to submit to the award show reel.
+That's for sure.
+Definitely.
+Right.
+Anyway, the podcast folks won't realize, but we had like two fault starts on Twitch as
+well, just because either I hit the wrong button or I started choking while I was trying
+to do the intro.
+So it's just, it's just one of those nights.
+Well, at least there's some success story this week because Loki, you released a game.
+I feel like there should be streamers and balloons and you know, dude, dude, like, yay,
+you do.
+We are the champions.
+Okay.
+I don't want to get muted, but you did it.
+So yeah, finally, congratulations.
+So all right.
+So since I know you're going to have to do a lot of promo now to actually sell copies
+of your game, let's hear the elevator pitch.
+Tell us all about Loki.
+Loki's here on my wacky gaming podcast and I want to know you've got this new game, Pixel
+Poops, number two, who makes games for Nintendo anymore?
+Tell us about Pixel Poops, number two.
+Well, it's a puzzle action game that features eating lots of tacos and making large amounts
+of poop to trap joggers and other things.
+And so it got 40 levels over the course of five different worlds, two player co-op and
+great music.
+Good.
+Well done.
+Good.
+Tell us where we can play this game.
+It's available on itch.io and Steam right now.
+So yeah, you can check it out there.
+Physical release is coming soon.
+I had my cartridge around here somewhere.
+I think it's actually in the Nintendo because the kids are playing it, but I'll get that
+later.
+I had the box art mocked up already.
+So oh, the box art's amazing.
+It's on your Twitter.
+If people...
+I saw the mock up of the cartridge.
+Yeah.
+Yeah, it is.
+Actually, right now I'm working on putting together box art for that IGDB page so that
+we can put that on Twitch as well.
+So I'm working on that right now because apparently my box art is not of the ratio three by four.
+So I need to redo it, which is fine because my box originally had this like kind of a
+paper texture on it that the guy that made it had put on there, but I just turned that
+off and it's much clearer now.
+So it'll look nicer when I put it on there.
+I also want to make sure...
+That'll be done tonight.
+I also want to make sure I give a shout out to Yyr without whom Pixel Poops number anything
+would be...
+If we didn't have him, that wouldn't be possible because he also had basically the main Pixel
+Poops game, the one that's playing behind you on stream tonight for those watching live
+on Twitch, the Atari 2600 influence version, that is free to play on Steam.
+So even if you don't want to spend the money on Loki's version or you don't want to spend
+other money on a Commodore 64 version that Yyr also did, you can at least play the base
+Atari 2600 game for free.
+Although I would encourage you, it's not that expensive.
+Throw the extra coin.
+I played all three of them this week and I had fun.
+They're all different too.
+That's the kind of interesting part about it is that the Atari 2600 version is very
+Atari 2600, simple kind of game, but has that replayability kind of charm and high score
+chase potential.
+And then the Commodore 64 is almost more, you have to really think because the joggers
+only go left and right, but there's no taco stand.
+They drop food that you have to refill your meter with and you kind of have to think through
+it carefully because you might not...
+There's only certain joggers that actually create the food and you want to make sure
+you don't eliminate them from the screen before they make food or yeah.
+So you have to do a little more thinking in the Commodore 64 version.
+And then yours is very like, it's a lot more like fast paced, like it plays like an NES
+game and it's a little bit different.
+Well let me ask you that wacky DJ question.
+How is your game different from the other two Pixel Poops games?
+So it's more of like, I was trying to be a little bit more faster paced.
+It is different in the sense that there's a lot more challenges that you may face.
+So instead of just joggers walking across the screen and slowly getting faster, there's
+kind of twists to each of the different enemies of the game.
+So the joggers will walk across the screen, but then if they hit a wall, they'll randomly
+turn.
+And then also there's ghosts that will, if you make smaller poops and they disappear,
+the ghosts do, they will float over them.
+And so they won't actually get caught by them.
+There's dogs that will eat the smaller poops.
+And so they will just chew through the whole thing.
+There was, there's a Yeti that runs a little bit faster than the other joggers.
+And then there's, there's other like special things towards the last few levels as well
+that it gets weird, but it's fun.
+I want to ask you a little bit about this because, you know, we've talked about Pixel
+Poops at length on this show, and if people aren't going to try it out by this point,
+they're just not going to, and that's fine, you know, spend your time how you want.
+But I'm kind of curious because this could apply for a lot of games or a lot of people
+that are thinking about making a game.
+How did it go from, okay, so you made what you used NES Maker or something like that?
+You used a tool called that?
+So Nest Maker is basically, it's not something, you can make games completely out of that,
+but it's more of just a front end for setting up your code and setting up sprites and everything.
+So normally if you're making an NES game from scratch, you would have to create your
+CHR files or the basically the tile files that you use in the game.
+And so this kind of simplifies it where you can set up your animations, you can set up
+some sort of scripting and everything.
+But when it gets down to it though, that'll just get you the, the bare minimum basics.
+Like you could barely cobble together a game with that, the simplest of simple things.
+So it just came down to straight up learning how to write assemblers.
+So I had to learn how to program an assembly language and being able to rewrite code and
+everything to do what I wanted it to do.
+So I had to create a random spawn system, which was interesting to try to do that.
+I had to rewrite the, right now, like with NES Maker, there's not really two player modules
+at all.
+There used to be, and it was some basic stuff, but like there isn't anything right now that
+supports two players.
+So I had to write that from scratch.
+And then just like, you know, the animations, everything I had to kind of come up with that,
+but it gives you the framework, like to be able to set up, okay, I want this enemy to
+have, you know, two frames of animation and I'm going to select the tiles from my tile
+set, you know, that are going to go to make up one of the enemies or something.
+So it does ease you through that, but basically it just links to different program files and
+then you have to like code everything.
+So it's not like...
+So how do you, I was just going to say, how do you go from that, like, okay, so you coded
+everything and you got your game together.
+How do you go from that to, I'm selling it on Steam?
+That's kind of the part I'm curious about.
+Like how did you, how does that part happen?
+Like how did you get listed on Steam and all that?
+Well thanks to YYR for that.
+So basically it's, it's just kind of trying to polish it, put it all together and get
+like a complete game.
+So this time around, the whole reason why I made an NES game in the first place with
+Nest Makers, because I know, I know with the NES, it's very limited on what you can do.
+Like artwork, it's very limited to space.
+You're limited on what you can do with processing and just in general what you can do with it.
+And so I knew because I have a problem with scope creep and I can't possibly like under
+scope stuff, that this is the only way that I can do it right now is so something that
+actually forced my scope down to the point where I could finish something.
+And so that's kind of what it ended up being is, you know, I took that and I had to come
+up with, you know, what do I want to do to, what do I want to make in this?
+You know, there's a lot of different things I could make.
+And so one of the first like kind of tutorials I went through on there, they have like these
+different modules you can do and one of them is called this like maze tutorial.
+So it's like a kind of collect things and like shoot enemies and stuff, but it's basically
+just a one screen game and you can teleport from screen to screen.
+So I was like, Oh, okay, that's kind of cool.
+I'm like, Hey, you know what?
+I bet I can make something like Pixel Poops with this.
+And you know, that kind of just, it went from there.
+So like that's, I saw that and I was like, okay, I probably could make a game like Pixel
+Poops with that.
+And then it just fun off into like all these crazy directions.
+Like I tried to figure out like a storyline for it, which I never ended up doing.
+Like I just got too far into it and I was like, I don't know, you know, it is what it
+is.
+It's like, I could come up with a storyline for it.
+Like, I don't know why they're doing what they're doing, but like, and I was like, well,
+why do I have to do that?
+Like, you know, you have like games like Pac-Man and stuff like that.
+It's like, it's this, it's this thing getting like chased by, you know, it's like there,
+there is no story, but the, but the part I'm curious about is like, how did you get it
+listed on steam or is that, is that because YYR was already there?
+So it was just kind of like you send it to him and he kind of helped you out.
+Okay.
+So yeah, he, he did the publishing on that and he got it.
+I mean, I don't know how they feel about like having NES games on steam.
+But since he did like DLC and stuff, so that's how he got it on there.
+And then itch, you know, I was able to publish that myself, but like he got it on steam because
+he's already on there.
+I probably could have gone on steam, but like they have like ways to actually publish a
+NES games.
+There's a thing called NES tech that it can actually use that it's kind of like its own
+built-in emulator.
+So I could have done that.
+That's how this one game flea has done it.
+So they've used that, that software before, but I don't know.
+It was just that it was, you know, when I told him about it, he's like, Oh yeah, I'm
+working on this version as well.
+And so we just kind of decided to work together as far as releasing the games towards the
+same time.
+And then he helped out a lot on last week with testing as well, because, you know, it
+was kind of getting down to the end of the wire there and there was a lot of tests.
+Yeah.
+So it worked out a matter of time, like lots of balancing, you know, difficulties and everything
+like that.
+And so he was a great help with that.
+Now Bobby Blackwolf and Chad is asking how much is YYR's take?
+Now that's none of your business.
+That's always, I'm not going to make you answer that because that's nobody's business.
+I mean, I don't think he's taking anything.
+I mean, he can, I don't care, but yeah.
+What a nice guy.
+So how much does steam's take?
+I think that's a legit, cause that's for everybody's the same.
+There's that.
+Do they take 30%?
+30% I think.
+Yeah.
+Itch is 10.
+So that's not bad.
+Yeah.
+Okay.
+So yeah.
+And yes, thank you for reminding me.
+We want to make sure it's promoted on itch.io as well, but I kind of, I know itch.io is
+way easier to self publish on because it is very much for the indie crowd.
+So I kind of like, I'm not as curious about how you do it on that site, but I certainly
+don't want to ignore the fact that the game is on itch.io and you get a bigger cut if
+they buy it there.
+So that is, it is there as well.
+At the end of the day, like somewhat like it was ridiculous cause I've been trying to
+promote it like crazy.
+So I've been trying to like post wherever, like in Reddit and stuff like that.
+And there's someone that said, I remember when homebrew used to be free.
+I'm like, dude, it's like, then don't buy it.
+Like I don't know.
+Okay.
+So I remember when people used to just do it for fun and not for profit.
+I'm like, you think I'm going to make a profit on this?
+Well, that that's funny, but like, it's, it's like, honestly, like,
+But isn't there an interesting kind of, I don't know if you call it Shez and Freud
+or whatever going on here where now you're on the other side of this because, you know,
+not that I'm saying you've ever been like anti-developer or whatever, but you do talk
+a lot about hacking and modding and like that whole scene and everything.
+But now you're on the other side of this, having to bear some of these comments.
+So I'm kind of curious, like, has this whole, has reading a comment like that.
+And obviously internet comments are trash.
+You know that.
+Don't read too much into it, but did you, did you, did you think about maybe past things
+that you've said in a different light now?
+No, cause I've never said something stupid like that.
+So you know what I did, all I did was I just, I just took it like, okay, you know, Hey,
+that's understandable.
+I just joke, like kind of said, yeah, I'm never, I'm not really expecting to make any
+money off this and like, well, Hey, you know what?
+I get it.
+If you don't want to pay for it, that's fine.
+I'm like, Hey, I put out a free demo, you know, a few, a couple months ago, if you want
+to check that out instead, that's free.
+So you can go do that.
+And I mean, it seemed kind of positive about that.
+Yeah.
+Oh, that's right.
+You put out a demo as well.
+I remember.
+So there is a way to play a free version of it and get a sense of the game.
+And I do also kind of like that answer is this is kind of like, okay, well then, you
+know, don't play.
+You know, it's kind of like one of those, like I don't know, but I can't help, but think
+of like, when I see these Twitter threads where like artists who do drawings, get people
+going into their DMS asking for a sale cut and the artist is like, no.
+And you know, the person will be like throwing a fit or whatever.
+And the artist is like, okay, then don't do it.
+You know, like they're, they're hashtag unbothered.
+By that whole thing.
+Oh, hi Jamie.
+You're here.
+Hi.
+I'll be right back.
+Okay.
+You can die of exposure.
+What's that?
+Say that again.
+People, artists die of exposure.
+Uh, anyway.
+Okay.
+Well then while Loki stepped away, let me say hello to dark soccer or Jamie Summers
+who made it through the whole crappy tech issues on that end, but you're here.
+This computer is ancient.
+You're here and this is a day of love and we love you.
+We're glad you're back this week.
+Can you hear me?
+Yeah, I can hear you.
+Okay.
+Cause I've been saying stuff and there was, you didn't say anything.
+Oh, sorry.
+Sorry.
+I was trying to get a certain thought out, but anyway, um, what, uh, we were talking
+before the show about your do tonight, your getup, your, we're wearing a new wig for the
+show tonight.
+Well, the wig.
+Yeah.
+But it's the makeup.
+That's the important thing.
+Yes.
+So let's talk about that makeup.
+I wish I actually, I should go get it, but, um, I was only able to get two of the pieces,
+but, um, ColourPop and Animal Crossing had a, uh, a collaboration.
+So today I am wearing the, the Tom Nook eyeshadow collection.
+I also have, uh, the, uh, Celeste and Blathers one.
+That's the, the more earthy golden reddish tones.
+So for those who are watching, I will lean forward and show off my shadow.
+So now we're not just indie game development, but we're makeup tutorial blogs.
+So we've, we're covering all the bases here on our website.
+Actually your, your face looks great, which is a weird compliment, but I'm sorry.
+It's true.
+Your face looks great.
+Well, I kind of did a little bit of that half daytime drag look, you know, I, I, I contorted
+I busted out some of my sister makeup, actually, it was kind of funny.
+Um, but because I don't have any lipstick that matches, I actually found an eyeshadow,
+an eyeliner that was the Pantone color from like four years ago that actually goes quite
+well with the rest of the, it's like the Pantone Emerald that, uh, Sephora had a few years
+ago and it fits very well with the rest of the, uh, the, um, Animal Crossing colors.
+But, um, I, yeah, I, they were way sold out by the time I got to it.
+But I, those were the two palettes that I wanted.
+Um, there's another like Isabelle one and they have like some, you know, some other
+like a lip pencils or something, but really what I wanted was, were these two eyeshadows
+cause I wanted the nice greens and I wanted the earth tones and they're supposed to have
+them out, I think again on the 17th.
+So in two days, three days from today.
+Um, but I mean, it was, I don't know.
+I'm usually not one like for collabs like that.
+I'm like, Oh, okay.
+Hello Kitty.
+Kind of cute.
+I did get the Hello Kitty sugar pill one.
+Nope.
+Not sugar pill.
+Was it, was it sugar pill?
+It was the little twin stars one.
+I think it was sugar pill cause I got it at a drag con.
+You can, there's always that thing though where you're like, not you specifically, but
+we as people are always like, I'm not really into that.
+But then that certain like team up happens and you're like, Ugh, I might have to get
+into this.
+Like big example, Fortnite and Tron.
+That was news this week.
+So I don't like Fortnite really.
+Um, but now it's got a Tron thing and I'm like, Ugh, I guess I'm going to have to try
+it again.
+Oh yeah.
+I, I saw that, but I mean, it's just like, I, and normally I'll, I'll even put it this
+way.
+I haven't in the past been happy with ColourPop's eyeshadows.
+But since these pallets are just really, they're, they're kind of even tiny.
+I figured they wouldn't dry out by the time I've used them up.
+Um, cause that's kind of what happens with some of their stuff is that they dry up a
+little bit and lose pigment.
+Um, but, uh, but I really actually like these.
+The pigmenting is good.
+I mean, I do have to work it a little harder cause I mean, like I said, ColourPop's eyeshadows
+are really not the best, but I do really enjoy the colors.
+I was able to blend it nicely.
+The glitters actually stay in place.
+So, um, it's, it's, it's not very expensive either.
+ColourPop has, um, uh, kind of a reputation for some of their stuff not being too expensive.
+So these little four color, um, pallets are like 12 bucks a pop, I think.
+Hmm.
+Nice.
+I'll have to check your website again, but, um, I'll, I'll find it and link it in chat.
+But if you just go to ColourPop and look up their Animal Crossing collab, it's like one
+of the first things on there.
+So, and it's color with a U.
+ColourPop.
+ColourPop.
+Very Canadian or British.
+Well, I, I love it.
+So dark soccer really worked hard on her hair and makeup tonight.
+Logie worked hard releasing a game on steam this week.
+I shook this wig out of the bag really nicely.
+I'm wearing pajama bottoms tonight.
+So am I.
+Which you can't see on TV.
+So I just ruined the illusion because for all you know, I'm wearing normal bottoms,
+but tonight I'm lazy.
+Well, I put on a bra for y'all.
+I will, I will tell you, thank you.
+I will tell you this from, uh, the, the short time I was interning at the, the nightly news,
+uh, at one of our local stations is that most of the anchors you see on TV, they are wearing
+pants.
+That's not the gag, but many of them are not wearing like suit pants.
+A lot of them wear jeans underneath, like there'll be really dressed.
+You know how like news anchors always like suit and tie.
+They're almost all wearing jeans underneath, unless it's like a lady who's wearing a dress
+and you know, you can't really, you know, there's no other bot, but, um, if chances
+are if they can wear some type of comfortable bottom, they are so, and that's, that's probably
+true of a lot of things you see on Twitch.
+I see.
+I'm, I'm kind of annoyed that guys don't wear kilts and skirt long skirts more often.
+Cause that seems to me like it would be a lot more comfortable on, you know, the crotch
+region.
+Well, buy me one for my birthday and I will.
+I wasn't meaning you in particular, I was just meaning a bunch of dudes.
+I think, and, uh, some folks in chat saying, uh, Bobby Blackwell saying, I'm always wearing
+sweat pants in the winter time.
+Uh, and fifth dream says at least you guys are wearing pants, why I can't afford a Twitch
+screw up.
+So I have to make sure, you know, we're, we're all covered in that aspect.
+But, um, I really think my pajama top to one of my sports bras in a nicer tank top.
+I think in this zoom culture that we're in now, I think a lot of like, I think that whole,
+you know, thing I kind of told you about most people don't wear pants on TV or they're wearing
+jeans.
+Um, like people that might've shocked people a couple of years ago, but now that zoom culture
+is like such a thing, I think we all do it.
+I think we've all done that work or even school call where we're wearing pajama bottoms, you
+know, or, you know, gym shorts is another one for me, onesie to work meetings and they
+don't care cause no one sees us, but you know, but my boss laughs at it.
+He thinks it's hilarious that I wear a red Panda onesie.
+Um, I mean, I was actually reading, um, you know, cause I would just like to look at,
+I read Forbes and I read a few, you know, of the financial things and they, um, I think
+it was Forbes that had, uh, a fashion industry report.
+It talks about the declining sales of a high heels and, um, and the change in women's professional
+wear.
+Interesting.
+They're going more toward, uh, casual classy, I guess casual classy was, I thought what
+the term that they used was, um, but just something, something more, you know,
+comfortable, something that's easier for staying in the house, you know, nice looking,
+but not slouchy, not like pajamas, but comfortable like that, like, uh, investing in more linens
+and softer materials and wide legs and no heels because heels are the devil.
+Um, I want to get into the kickoff topic here in a moment, but I do want to, uh, address
+a kind of going back to pixel poops for a minute, uh, Loki Bobby Blackwolf in chat over
+twitch.tv slash vog network says, by the way, I will say that I just put my money where
+my mouth was and double dipped on pixel poops number two to support Loki since I gave him
+so much shit for years.
+So I appreciate it.
+There you go.
+I bought a copy for Gwen and myself.
+Nice.
+Yeah.
+I might, I might give some copies too.
+We'll see.
+So Loki, I hope you make a little bit of coin off of it.
+Obviously it's none of our business, but I would be curious if you do end up selling,
+you know, enough to, I don't know, like just pay the mortgage for one month maybe.
+We'll see.
+I don't know.
+I'd be, I'd be curious.
+I'm going to use to hold my breath.
+Yeah, that's fair.
+That's fair.
+I mean, I don't know what, I don't know what it's selling on steam, but on itch, I'm not
+holding my breath.
+That's fine.
+That's fine.
+I owe you a pizza.
+Oh, that's right.
+The monumental challenge has come to a conclusion.
+I'll tell you what, I'll make it from scratch.
+I have a pizza oven now.
+I'll make it calzone.
+Yes.
+Look, Loki has won a pizza.
+Ding, ding, ding, ding, ding.
+You win because you made a game.
+I promised.
+That's right.
+I forgot about that bet.
+That was like a year ago.
+I love it.
+Maybe I'll just deliver it, have it delivered and then I'll, I'll make pizzas when we can
+all get together again.
+There you go.
+I like that.
+Okay.
+That's even better if I get pizza because Loki made a game, that's the best and I'll,
+I'll continue to wear sweatpants.
+You're getting something else tomorrow, Rob.
+Oh, okay.
+Remember, I'm baking and I'm stealing your ring fit.
+All right, let's get into, we were like 30 minutes in and we have yet to talk about the
+news.
+We got to get into our kickoff topic tonight.
+Hey, I just got here.
+That's fine.
+The show doesn't start until I get here.
+We had like three false starts tonight, so I swear we did everything possible to delay
+the start tonight, but oh well.
+Okay.
+Let's get into our kickoff topic tonight.
+We have some conventions that are making a digital transition.
+One of them is coming up this weekend.
+This is a convention that's usually in the fall and that's Blizzcon, excuse me, I actually
+went to Blizzcon one fall.
+Oh, golly.
+It was probably like a good five years ago at this point, but I'm, I had a lot of fun
+when I went, obviously they didn't have the event in person in the fall because you know,
+it's not going to let them do that, but they didn't even really have a virtual event at
+that point.
+So what happened is that they kind of took a little time to get together the virtual
+event that they wanted and Blizzcon 2021 is going to be happening online later this week.
+So the schedule has gone up and they're going to be running multiple channels basically
+over on Twitch.
+They're not going to run all day long, but a good chunk of the day.
+It's going to kick off on Friday at 5 PM Eastern, that would be 2 PM Pacific.
+And that's going to be basically their keynote type of presentation, where they're going
+to tell us all the latest and greatest what's going on with Blizzard games.
+Co-streaming is allowed and I would have loved to have done a co-stream, but unfortunately
+that time during the day, I'm still working, I'm not going to be able to make that work.
+But I'm sure many folks will be watching at 2 PM Pacific, 5 PM Eastern, and we're going
+to get updates on Diablo 4 and Overwatch 2, although we know neither of those games are
+releasing this year.
+Maybe there will be some surprises.
+I would imagine we're getting a lot closer to that Diablo mobile phone game launching,
+although I'm sure Blizzard is going to be very cautious at how much time and focus they
+give that game after what happened to them a couple Blizzcons ago.
+If the rumors are true about a Diablo 2 remaster, I think a lot of people are going to be happy
+about that.
+And this might be a real kind of pie in the sky kind of idea, but Blizzard has kind of
+been hinting that they might be working on some new things and new IPs.
+I don't want to set the bar too high, but maybe, especially because they're doing this
+whole virtual convention at this time, maybe we're going to hear about something new.
+And that would be very exciting, I think.
+So we'll see.
+Otherwise we're going to see some other, they're kind of doing like one kind of, excuse me,
+they're going to do like one game kind of focused on each channel that they're running
+through the weekend, or Friday and Saturday really, just they're not doing Sunday programming.
+So they'll give updates on all sorts of things and you know what's going to be coming to
+a Warcraft patch and things like that.
+I doubt they'll announce an expansion, but you never know.
+So we will bring you all the updates we hear about on next Sunday's show.
+I'm curious if any of you guys out there in chat are going to be checking this out this
+weekend.
+The nice thing about it being all virtual is that it's going to be free.
+So that's going to be easy.
+Any of you guys interested in watching the virtual BlizzCon at all?
+No.
+And that's fair to me.
+I'm really interested in a lot of the Blizzard products.
+I mean, I'm curious to see what Overwatch 2 does, but I don't know.
+I quit playing WoW and that was really all I played, you know?
+So I don't know, I mean, they just really haven't been doing many interesting things
+to me.
+So I haven't really felt like paying attention to them.
+They haven't really done a lot in the past couple of years, to be honest.
+They did release that Warcraft 3 remaster, which didn't go over that well.
+They released Warcraft Classic, or World of Warcraft Classic, which went over a little
+bit better.
+I think there's some people that are into that.
+I played it for a hot minute, it was cool.
+And then I know some people that love the Warcraft expansion, I know some people that
+don't love the Warcraft expansion.
+So just kind of, you know, it's a matter of taste at that point.
+I'm curious enough though about, I think especially when it comes to like Overwatch 2, I'm kind
+of curious if we're going to get a look at the game that maybe distances it a little
+more from Overwatch 1.
+I'm kind of curious, even though I know they didn't want to dilute things too much when
+it comes to Overwatch League, I'm kind of curious what other kind of change, I'm kind
+of curious why Overwatch 2 is taking so long, if it's just like an Overwatch 1 plus kind
+of thing.
+So I really want to see like, what is that plus that really takes us further.
+And I imagine that's going to be, you know, things that play into PlayStation 5 and Xbox
+Series X and all that stuff.
+So I'll be curious.
+SSG100Matt says, I hope they take some steps to resort their image.
+I think maybe like rehab their images is what he means there.
+Because you know, they've had a rough couple of years ever since Mike Morheim left.
+So it'll be interesting to see what happens with that.
+Let's talk about another convention that was confirmed going digital this week.
+Loki, do you want to talk about this one?
+You want me to talk about it?
+Sure.
+So E3, because E3 is just not knowing what E3 is going to be anymore, I think so.
+The ESA says that they're transforming the gaming showcase.
+It sounds like though, it's going to be kind of similar to what it was last year.
+Actually, did they really, is it even considered E3 last year?
+I don't know what the Jeff Keighley thing was, but I guess it was the IGM thing they
+did last year.
+Yeah, there really wasn't an E3 last year.
+There was just kind of like substitute teach 3.
+Yeah, the Summer Games Fest thing.
+So basically, they said that right now that they're looking at doing some broadcast events,
+it sounds like kind of similar what they did with the Summer Games Fest last year.
+And I don't even know if necessarily, I think that's probably still happening.
+So no word exactly, nothing set in stone of what it is exactly going to be.
+But right now that they are changing what they're doing, obviously, I mean, COVID and
+the fact that I don't think anything's going to be opened up, they're not going to want
+to have large events like that, you know, even come June.
+So they'll still be vaccinating people in June.
+So we'll be getting closer, hopefully, like, you know, maybe like, like in California,
+we have that tier system with closure, we might be getting closer to like yellow tier
+type of stuff, because more people are getting vaccinated.
+But these huge shows that draw thousands of people, those are gonna be the last things
+to come back.
+We'll be lucky if there's a dragon con this year, I'm still holding out hope, though,
+you know, especially for people who have been vaccinated, at least, but we'll see.
+I mean, we just don't know.
+Their plan is to hold multiple two hour keynote sessions from games partners and award show
+a preview night on June 14.
+And smaller streams of various games publishers, influencers and media partners.
+So basically, what they did last year for summer's game, Summer Games Fest, they're
+like, okay, I'm gonna copy exactly that.
+So whatever, as long as I get my information, I don't care who it comes from.
+You just want the information.
+You don't care.
+I just don't care.
+I don't care if he's putting on the event, I don't care if IGN is putting on the event
+or if it's Jeff Keeley or, or whoever, you know, I just want to see the information.
+That's it.
+I don't care.
+All right.
+Yeah.
+Um, how do you feel?
+Well, so I was gonna ask, how do you feel about E3 going virtual?
+But I guess you kind of answered it.
+And I got to admit, I'm kind of with you on that is it's more like, you know, honestly,
+like what if what has been one of my biggest criticisms, excuse me, I'm coughing choking
+tonight.
+Um, what has been one of my biggest criticisms about E3?
+The last time I actually went was that everything I was experiencing in person, I could just
+go get online.
+You know, I was waiting in line to see things that I would just end up watching on YouTube.
+And there was a lot less stuff to really get your hands on and play and a lot more where
+it was like, here is a rendered conception thing or here is a somebody else is going
+to play through it and you can watch type of video and it's all the stuff that was just
+on YouTube and whatever else.
+So in a way, I'm kind of like a digital transition.
+For me and for a lot of us, isn't that just what E3 was anyway?
+The only people this really affects are the people that were going in person.
+And as someone who used to go in person, I kind of started to prefer the digital version.
+So maybe...
+Exactly.
+It's like, I don't know, it's not a big deal that whatever they're doing, I just think
+we'll see what it comes, what they actually do, if it's anything unique.
+Yeah.
+Dr. Sakra, I'm curious about your thoughts on E3.
+You've gone to E3 before.
+What do you think about the whole digital?
+I mean, not the part about the decision to go digital.
+We all know why they're doing it, but how do you think digital is going to compare to
+being in person?
+I think people are going to make it work one way or another.
+You know, honestly enough, I really like a digital option, even if there wasn't a big
+thing going on right now, a pandemic, because it gives people who can't easily get out there
+a chance to attend.
+So I think that what they would lack for the in-person, they would make up for in other
+virtual attendees.
+You know, you bring up a great idea on how E3 can kind of be a big deal again.
+You know, E3's lost a lot of, even before the pandemic.
+I think a lot of us had kind of had it with a lot of the ESA decisions, weren't thrilled
+with the direction ESA is going.
+But this idea of maybe even once the pandemic is over, that there's maybe like a digital
+access kind of E3.
+I think this is a thing post-pandemic, a lot of like conventions and big things are going
+to be thinking of.
+Go ahead.
+So I need to point out one thing actually.
+It has actually been released just like within recent weeks that this disease is going nowhere.
+And they're even saying that there will be seasonal mutations that are going to be going
+on for pretty much the rest of forever.
+So the pandemic is going nowhere.
+Well, it may turn endemic, but yes.
+Exactly.
+Yeah.
+But I'm saying that I think people need to start putting more investment into virtual
+gatherings instead.
+Right.
+Because I think that, I think it's way too premature to think that this year it's going
+to be over.
+Yeah.
+Well, I mean, this starts to delve into another issue because I really do see like what's
+going to happen is that even and you're already seeing it happening.
+Even if the disease is not gone, people have hit their limit with it and they're just going
+to act like everything's OK, whether that's a good idea or a bad idea.
+It doesn't matter because, again, it's people's perception that really dictates what's going
+to happen.
+And I think even if we're looking at an endemic type of COVID in 2022, there's going to be
+a push to have all these cons in person again, because there's going to be a lot of people
+that are just like, I've had it.
+I'm not like I'm not able to live my life.
+So people are idiots.
+I'm going to say it right now.
+Those people are stupid.
+Selfish and stupid.
+I think you know a lot of people like that.
+I think we all do.
+I do.
+And I told them to their face.
+So the but the reality is it's so what I'm saying is that they're still going to be these
+types of conventions and things that happen.
+So whether there's a pandemic endemic or not.
+So I think a virtual option is something that kind of has to be there after, you know, it
+goes endemic, I guess we'll say, because there are still going to be plenty of people.
+I think you're going to see there's going to be people that are comfortable doing that
+type of stuff.
+There's going to be people that are not comfortable doing that type of stuff.
+And I think the virtual option is the only way you're going to cater to a crowd that
+doesn't necessarily feel comfortable attending in-person events for a long time.
+That makes sense.
+The only people who are going to be safe at any of these are going to be the vaccinated.
+Yeah.
+So, you know, I, I do not feel like I would feel like I would be completely irresponsible
+if I went out and put somebody else at risk.
+So maybe I'm not, okay, so stupid is not the best word for it, but I'm going to say irresponsible
+and I'm going to die on that mountain.
+I think it's irresponsible.
+I'm waiting to see what the CDC has to say after the vaccine rolls out more and all this
+stuff.
+You know, I think, I think it's just too early to predict either way, but we'll see.
+I'm choosing to believe in science and the science right now tells me that gatherings
+are still irresponsible.
+Right.
+Now, but we don't know what it's going to look like in six to nine months.
+So, but I think, again, I think some people's perception of big gatherings is going to be
+kind of like permanently kind of changed.
+So a virtual option like what's happening with E3.
+And I think just to keep E3 something that, you know, is of the importance that it is,
+you know, E3 has always kind of been that, oh, it's gamer Christmas and all that.
+I think like a virtual option is a good way to kind of keep that relevancy.
+There's the word I'm looking for.
+I think it's a good way for them to do that.
+So anyway, all right.
+Let's move on and talk about our gaming weeks and the types of video games that we have
+been playing this week.
+So Dark Soccer, I'll start with you.
+How was your gaming week?
+I did play Animal Crossing.
+I played pinball today.
+I played actually a little bit of Twilight Zone.
+I also played Kirby's Dreamland 3 on Super Nintendo and I forgot how slow that game is.
+So it was pretty slow.
+I've also played, well, I started playing Mark of the Ninja.
+I got through it a little bit and then I had to stop playing, so I actually lost my progress
+in it and I played some Scott Pilgrim vs. the World.
+So that was pretty fun.
+Just tried to play some different stuff.
+So that's all.
+All right.
+Did that event with the fancy bird start today?
+Was that a Valentine's thing in Animal Crossing?
+I can't remember his name.
+No, it's tomorrow.
+I'm sorry.
+Oh, it's tomorrow.
+Pave for Festivale.
+Pave, that's it.
+So, okay.
+Because I knew it was like really closely aligned with Valentine's Day.
+Okay.
+All right.
+Loki, I mean, I know you released a game this week, but maybe finally after getting your
+game on Steam and Itch, you got to play your own game.
+So how was your gaming week?
+I did play my own game actually.
+So we had, I bought an NES a couple weeks ago in anticipation of having to test my cartridges
+when I burned them, which I must say scared me a little bit.
+The burning process is actually pretty fast.
+24 seconds it takes to actually burn a cartridge.
+It's pretty great.
+Wow.
+That's awesome.
+But the thing is that they have these special security chips inside of them that it's for
+all regions because you may remember the original Nintendo.
+You can't play games from other regions without having that appropriate NES because they have
+lockout chips.
+Well, there's a special lockout chips in these where you can.
+But what happens is if you don't, if they're in a different region, if it's set up in a
+different region, it doesn't work right away.
+So I burned one of them and I put it in my NES and it just kept flashing the red light
+and like, Oh, that's not good.
+So I burned it a couple more times and tried a few different boards and it kept doing the
+same thing.
+Come to find out you have to hit reset a few times and it automatically switches the chip
+to your region.
+So it'll be something I'll have to like preface when people do end up purchasing physical
+versions of it.
+But thankfully all of the boards have worked, so it's great.
+So with that said, I actually did get to play my game on a TV with actual NES hardware and
+it's awesome.
+My kids played it for a long time too.
+They had a really great time.
+So you know, that's pretty cool to see.
+Aside from the Pixel Poop stuff, even though that was the, I did end up playing some Minecraft.
+We have one of our friends, a member of her punk night, uh, his daughter Hazel, she's
+been looking for some people to play Minecraft.
+I've seen this really cute exchange on, it was either Twitch or Facebook.
+I kind of saw you guys talking about this.
+Sorry.
+Go ahead.
+Yeah.
+So she's been looking for people to play Minecraft with and I said, well, you know, you can just
+come to our realm and you know, the kids will play with you.
+So that's why I did, we invited her in there and she, she created her house up on a hill
+and she, she was going to create a shop to sell dogs, but then she didn't realize that
+all the dogs that she tamed are all hers.
+So now she has like 13 dogs, but it's kind of funny.
+So you have the puppy cafe.
+Exactly.
+So I was like, well, now you have all these, all these dogs, uh, the ranch, but the good
+guys.
+The good kind.
+Yeah.
+So she's just building, you know, a bunch of stuff.
+She's having a good time with that.
+So I played a little bit of that.
+I probably used some more Minecraft this week.
+My kids have been bugging me for a while to, uh, well, I should say my youngest son's been
+bugging me a while at my oldest son's doing Roblox stuff now, but, um, so that's what
+I've really been kind of doing.
+I didn't play too much.
+I've worn a little bit, um, yeah, it's mainly just been, you know, cramming this week to
+get the release out.
+So now that that's done, I can kind of relax a little bit cause they, Oh my God is some
+stress nights, 1am for three days straight.
+So during the work week, uh, um, but yeah, it was a lot of work and it's not over either
+because, um, I still want to do an updated demo, so I got to, I've got to put one of
+those together.
+And then, um, eventually when we get to the physical release, I'm going to do be doing
+like a special edition.
+So I still have room on the cart to put more things.
+And I did have some stuff I was trying to implement at the 11th hour, but I didn't get
+a chance to, um, so one of the things I was actually going to implement was the option
+to choose between male and female characters.
+Um, I have the sprites in there already and it's pretty much hooked up.
+It's just, it, there's something, I don't know, um, what's bugged out about it, but
+there's something that's not exactly the same as I set up the second player.
+And so you, when you push a direction, it moves a block or it moves one tile and it
+stops and you have to keep pushing the button in order to do that.
+So I think it's something in one of my physics scripts or something that's looking specifically
+for the, uh, characters that are player one and player two.
+And so I just need to alter those.
+So eventually you'll be able to select gender sort of, or at least one has a ponytail.
+One has another hairstyle that's as far as you get, you know, with, uh, you know, gender
+options and so whatever.
+Um, so that'll be something that'll be in the, and you, you did commit that, that you're
+not going to charge again for special edition, right?
+Right.
+Yeah, no, no, no.
+It'll be just a free up update to the game.
+Whenever we do that, it'll be, that'll be good guy, Loki.
+It'll be the only version that's available on cartridge.
+So once they get to the cartridges, um, they it'll be, cause I want to pack those things
+full ever.
+You have 40 levels in there.
+Um, I don't know.
+I could add more, I guess.
+We'll, we'll see.
+I don't know.
+It's, it's long as it is.
+And I mean, we had people beat it in one day, so apparently it's not hard enough.
+Always going to be that there's always going to be that.
+Um, Bobby black was asking what about the physical edition?
+So to be clear, this definitive edition, when you are going to be done, done, that is the
+one that's going to the cartridge.
+So there will be no, like you're missing out cause you got the cartridge version.
+Once you put, once you've put a version on cartridge, you're done.
+Everybody that bought the game on steam itch IO gets the free, uh, director's cut directors
+for whatever you're calling it.
+Yeah.
+Fair.
+All right.
+Awesome.
+I like that.
+All right.
+I don't know.
+We'll, we'll have to workshop that Loki, my, my rates for think tanking are very low.
+All right.
+Anyway.
+Um, let's talk about, uh, my gaming week.
+So I don't have a lot to talk about.
+I played a lot of the usual stuff, Ingress, Orna, Pokemon go.
+Uh, I did, I just barely finished that lunar new year event today because you have to like
+catch all the fire types.
+I like went downtown and did it earlier today because I was having a hard time finding fire
+types.
+But once I went downtown and started driving around, it was really easy.
+I think I like did a raid to finish one and now they just started the Valentine's event
+today and the collection challenge is kind of a beast.
+Like there's like five Pokemon in there you have to get in raids or no four of them are
+raids and one of them is like field tasks or something like that.
+I don't remember.
+Maybe it's also a raid.
+I don't remember.
+Um, so there's a lot to do in that game.
+So, uh, working on that, but, uh, also still playing Final Fantasy 14 cause I play that
+game a lot, but I also did play some other games this week, including namely another
+Final Fantasy game.
+I played quite a bit of Final Fantasy 12, um, because as I'm sure some of you have been
+following Final Fantasy 12 just hit Xbox game pass this week.
+So, you know, even though I already own the game on PlayStation four, three question mark,
+whichever I think it was on four only, uh, zodiac age, of course.
+Uh, even though I already bought it there, you know, it's kind of nice because it's basically
+like free and I'm using my quotey fingers cause you know, nothing's free.
+Um, but because I pay for Xbox game pass, um, I, you know, I'm able to play it without
+an additional charge we'll say.
+And so I've been kind of playing through it again.
+Obviously loading times great, uh, and nothing is really suffering kind of like in Dragon
+Quest 11, you can't read some things in the loading screens cause it's too fast.
+Um, but there really is like Final Fantasy 12 just use a regular stuff in the cut scenes.
+This time I'm playing almost exclusively at double speed.
+Technically you could go up to quad speed.
+That's a bit much for me, but I'm playing almost exclusively in double speed and it
+is such a nice quality of life increase.
+And I always, I just always forget until I go back and visit what a great, um, you know,
+story, especially in the opening moments.
+I know later in the game it starts to drag a little, but like Final Fantasy 12, I think
+Final Fantasy 12 is aged better than most Final Fantasy games do.
+I don't know.
+Maybe I'm wrong in that, but I think 12 is really aged well compared to the other Final
+Fantasy games.
+So I think it's a fun one to play.
+So, um, uh, yeah, so that's one way I've been sinking lots of hours this week.
+Um, I mentioned that I'm paying for game pass, which I am, but, um, if you didn't know
+about this, there's an app on your, uh, Xbox one, the Microsoft or your Xbox one X, whatever
+there's a series X there's a Microsoft rewards app.
+Um, and again, you know, when you're opting into the rewards program, you're usually kind
+of opting into data collection and things like that.
+So you may not be comfortable with this whole thing, you know, read the fine print.
+I figure Microsoft knows all about me anyway, so whatever.
+So I do the Microsoft rewards thing.
+And honestly, if you use game pass and have that, you really start to rack up points.
+And if you pay attention to that rewards app, when you earn an achievement, once a day,
+you can turn that into 50 points.
+Um, there's usually like things you can do to get like a thousand points, or I think
+it's like even 2000 points and you donate a thousand of it to charity and all this stuff.
+So my point is, if you really pay attention to that stuff and the rewards, um, your points
+can start to add up.
+And what I did this week, I had 12,000 points or something like that.
+So I turned that into one month of game pass ultimate.
+So there's going to be this, this upcoming, cause I think my, I was paid through March
+3rd.
+So March I will have game pass and I didn't pay any extra for it.
+So that's kind of neat.
+So I just really, if you didn't know that that's a thing, the Microsoft has all those
+quests and stuff and you get points and you can actually being as well, I think you can,
+yeah, you can like, they do, it's all tied together.
+Like if you have the, the edge browser and you're using that with the rewards plugin
+and all that, it all adds up.
+But again, I completely understand why not everybody is comfortable with this.
+So I don't want to just jump out there and say, Oh, you should be using this.
+I'm just saying this is an option.
+And if you're comfortable with it, I just redeemed a month of free game pass ultimate.
+So I don't have to pay for it.
+So um, you decide what's best for you.
+But I feel like there's a lot of people that don't even know it's a thing.
+Um, and especially if you're already playing games on game pass, even just turning those
+into points, you can get like a dollar in Xbox live credit.
+It's just a dollar, but that's a dollar off whatever you buy digitally next.
+It's a free and it, you know what, if you can do it three times in a month, that's $3.
+If you buy a $10 game, that's 30% off.
+So it's, um, it's something to look into.
+So anyway, um, that was my gaming week.
+So let's get into some news, shall we, and we'll start off with a story from Loki.
+Yeah.
+So EA has acquired glue mobile for $2.1 billion.
+So you could say they're huffing glue.
+Sure.
+Um, they, they have done such games as diner dash cooking dash restaurant dash Gordon Ramsey
+and Kim Kardashian, Hollywood dashed, um, they've also, I guess they're doing some other
+games including Disney sorcerers arena and a deer Hunter.
+So so yes, Kim Kardashian is now an EA license.
+Yeah.
+Yay.
+Yay.
+Likes that, you know, mobile, uh, format for even their name.
+Yeah.
+Yeah.
+It's another thing with dash in the name.
+You're right.
+Do they have rainbow dash too?
+No, they do not.
+But uh, should we expect Madden dash pretty soon or, uh, who knows?
+Or FIFA dash?
+Well, man, I'm curious.
+What do you think?
+I mean, we can make all the Kim Kardashian jokes and we will, but what do you think EA
+is trying to do with this?
+Do you think that maybe that is actually you joke, but maybe a casual Madden type of thing
+on mobiles in the mobile space?
+I think they already have a casual Madden game on mobile.
+I guess it's just money they, they got, they've got money to buy developers and mobiles still
+hot.
+I mean, why not?
+They want all the money.
+So it makes sense.
+Do you think we can get Kim Kardashian Hollywood on switch?
+I actually played that game for a hot minute when it was first EA doesn't know what switch
+is.
+They're only, they're only willing to put old versions of, uh, their, you know, soccer
+games on there.
+They, they don't put anything new on there.
+Um, did you play that Kim Kardashian Hollywood ever dark soccer, like when it was first out?
+Cause we've played some dumb games online.
+I thought that was one of them, but maybe not.
+No.
+No.
+All right.
+I will say, okay, do you want to know a really dumb mobile phone game I'm playing right now?
+And I'm actually going to expressly tell you guys, do not download this game.
+It is full of ads and it's very annoying, but like, yes, it's the one with the high
+heels for the five seconds that you're playing.
+It's actually really fun.
+It's a Zynga game.
+Did you know that?
+Um, for the five seconds that you're playing, it's actually really funny and it's actually
+just called high heels.
+And all you're doing is you're, it's like you're walking down and you're strutting in
+high heels and you're trying to avoid obstacles.
+And at the very end, if your heels are tall enough, um, you actually get to strut the
+runway and your, your little character sashay is down the runway.
+It's really, and the great thing is there's all these different characters.
+Um, there's actually, they actually have like a plus size character.
+They have, you know, lots of, you know, women that you would expect would be parading around
+in high heels.
+They have a, actually two dude characters in high heels that I've seen so far.
+So high heels are for everyone.
+And I think, uh, the game cracks me up.
+But again, please do not download this game because it is full of spammy ads.
+It's it's a lot like, it's a lot like I played it for a little bit and I got, they do, they
+have an ad free version and maybe I just need to suck it up and pay the three, but I feel
+like I still won't get around some ads with that though.
+Cause like you can watch ads to unlock characters and stuff.
+I'm telling you ads are everywhere in that game.
+And if you, if you pay for it, then a lot of those will just give you the unlocks or
+you can pay like, like, uh, an in-app purchase or something.
+Yeah.
+Um, pixel pockets and chat says I played that high heels game.
+It amuses me how the chick claps her hands over her head when she does the splits.
+The guys do it too.
+When they're going down the ramps, they go, it's so ridiculous.
+I love it.
+Like, you know, who would love this game is your wife, Loki.
+I feel like she'd crack up maybe just show her the part where the guy's going down the
+ramp and the splits going, she might, yeah, she might check it out.
+I don't know.
+Uh, pixel pocket says I didn't unlock any guys yet.
+There's one in the, um, the, the guy wearing the suit is three videos.
+You have to look in the little shot.
+I can't believe, wow.
+Orange orange radio.
+We give tips on high heels.
+The game.
+Anyway.
+That's what it is.
+It's a high heel game podcast now.
+I quit.
+All right.
+Get all your, get all your high heel hacks and tips right here.
+Just wait until we get to our games of the year.
+All right.
+Anyway, how we got from EA and glue to that, who knows, but anyway, let's talk about another
+game that gets me excited where I go, whoa, a crash bandicoot crash bandicoot.
+That series is a lot of fun.
+And of course, crash bandicoot part four recently came out.
+It came out on PlayStation and Xbox anyway, but it's also going to be coming to the switch
+and at some point the PC.
+So a Activision said this week that crash four will be coming to switch on March 12th
+as well as PlayStation five and Xbox series X.
+There will be a PC version in the future.
+So you know, you can get your mods, which user generated levels, I bet will show up
+too.
+So that'll be a lot of fun.
+So that's pretty cool.
+Can't wait for all the nude mods.
+Let's not.
+So anyway, the PS five and Xbox series X versions will be 60 bucks.
+The switch and the PC versions only 40 bucks.
+So I guess it costs money to print them disks.
+I don't know.
+Or maybe it's the higher graphics.
+I would imagine the switch version is more of a port of the existing PlayStation four
+and Xbox one versions.
+And then the PlayStation five and series X and S versions will be more refined.
+They don't really say exactly what the whole thing.
+Oh, well.
+Oh, yeah.
+I'm sorry.
+The 60 frame a second visual is what you'd expect with the upgrade to PlayStation five
+and the series X and S. So, all right.
+Let's move on.
+Dark Sakura.
+There's a company that's basically telling Sony, fuck you, sue us.
+It's a Canadian company called dbrand.
+They're doing replacement PS five plates that they've called dark plates.
+And they're just basically like, we're going to sell them.
+Don't worry.
+They're forty nine dollars, I guess, forty nine US without the cost of shipping.
+And on their website, I'm just going to read the quote with the release of dark plates.
+The unthinkable has happened.
+We've taken Sony's monumental achievement in bad design and fixed it.
+We can only assume that our prizes are in the mail.
+So it's.
+It's interesting.
+I mean, especially since, you know, there's other companies that try to do it and one
+of them, which is PlayStation five dot com, had to change their name and remove the imagery
+when Sony threatened them.
+And I mean, and basically the plates are actually a little bit difficult to get off and it looks
+like Sony was actually going to try to be doing their own, even though they haven't
+made an announcement on it.
+But I mean, the the dbrand ones look cool, I mean, but they are what they are.
+And they're right on the top of the website.
+It says, go ahead, sue us.
+Why are they so I mean, maybe someone will like why are they so confident that there's
+lawsuit proof?
+Are they in another country or something where they're in Canada?
+Well.
+I don't think I mean, I feel like there's been Canadian companies and things that have
+been shut down, like that's not usually distance enough, I think, from the US, I guess.
+You know, usually you have to you have to go somewhere that gets a little more competitive
+with the US sometimes, things like China or Russia or things like that to have a website
+that can really just, you know, not give a hoot about trademarks and things like that.
+So it's interesting to me that they're being so bold about come for us, Sony.
+But I mean, could they potentially be right?
+Like what what are they really selling?
+They're selling some plastic, right?
+That just so conveniently copyrighted, though the shape of the plastic is is a copyrighted
+thing.
+That actual shape is wow.
+Okay.
+I mean, I guess I mean, that's what I thought when the initial lawsuit was that they're
+saying that, listen, that's intellectual property.
+You can't do that.
+More like, I don't know, like, there's lots of things that they've had that like, people
+have made designs for remember when we used to have like faceplates for the Xbox 360?
+I don't know if those were necessarily licensed from Microsoft.
+I don't know.
+It seems silly, but there's a little bit more for that they they have a different texture
+on it than the official ones.
+And their face button designs are a little different.
+So I think that they're relying on that 50 percent difference thing to bypass the copyright.
+I see.
+So we'll see.
+Interesting.
+Yeah.
+S.J. 100 Matt in our chat at Twitch.TV slash Vogue Network says doesn't seem very friendly
+reaction by them.
+Not really Canadian.
+That's true.
+This is a very this is a very this is very aggressive for Canadians.
+I'm just pointing out, you know, I think it's very clearly Canadian.
+Yeah, I get it.
+I get it.
+This pandemic has clearly changed us all.
+All right.
+I've been watching way too much Fuzzy Bear.
+Waka waka.
+All right.
+Next story, Loki.
+All right.
+So I don't remember if we talked about this last week, but CG product red had been hacked
+and hackers had stolen the source code for several games, including Witcher three, Cyberpunk
+2077.
+There is also a Witcher three.
+I think an RTX version of Witcher three or something like that that hasn't been released
+yet and some other stuff.
+So yeah, along with that, there was also investor information, H.R. information, stuff like
+that.
+They had originally made the threat that to see your product read that if you don't pay
+us the money that we're asking for, we're going to sell it the black market basically.
+And CG product red said, nope, we're not paying you.
+And so they went ahead and sold it on the black market.
+So apparently through this exploit forum posts, they were asking for a starting bid of $1
+million and a otherwise a kind of a bite now price of 7 million.
+But apparently, though, based on some of the posts there, they have a buyer that they found.
+And so someone did purchase the information for apparently a decent price, according to
+the person that posted it on there.
+So we'll see what that was one of the Project Red people that did it like in disguise or
+something.
+One of the CEOs.
+I don't know that.
+So they basically said that they're not going to be posting, they're not going to be leaking
+out any of the source code or anything.
+Whoever bought it is going to be the one that basically gets the source code.
+I don't know what they're going to do with it or who would have bought it, but I don't
+know.
+Well, I'm saying if they had an employee or something with their funds earmarked for it,
+they could in theory make the purchase, retain their information and still have stuck to
+their guns.
+Make sense?
+Yeah, maybe.
+But it'd be weird, though, if they did purchase it and then but said that they weren't going
+to deal with them.
+I don't know.
+It's kind of weird.
+Technically, the company is not dealing with them.
+Somebody for them is dealing with them, just to think of it.
+There's actually an Internet conspiracy theory that goes even further.
+Bobby Blackwilven's chat says, read the ransom note, lol.
+You did such a good job, Bobby, on your show tonight that I don't feel the need to try
+to one up it.
+Go check out the clip.
+But one kind of like Internet conspiracy theory that Bobby kind of went into on his show a
+little bit is the thought that CD Projekt Red may have made this whole thing up.
+Now this meaning that they essentially never lost their code and that they set this whole
+thing up start to finish.
+Now this gets a little bit dicey because if law enforcement is involved and they made
+it up, then they're probably breaking a much bigger law by doing that than having their
+source code out there.
+But I don't think I mean, kind of like where Dark Soccer was going, where like an employee
+could kind of do it and then it's not actually CD Projekt Red.
+I really don't think that's outside the realm of possibility at all.
+I think one of the CEOs could have done it if it's legit.
+But there's there's the Internet conspiracy theory that the whole thing's alive.
+Just like make us like, oh, we'll forgive Cyberpunk being, you know, the way it is right
+now because you had your stuff, you know, stolen.
+Oh, we feel bad for you.
+All is forgiven.
+No, no.
+It could be one of those you have to go down to go up sort of things.
+And if the hacking or whatever, the stealing of the source code caused the stock price
+to go down, then the news that somebody has saved the source code and prevented it from
+being leaked is going to cause the stock to go up.
+Just a thought.
+I kind of agree.
+I don't know what the angle really is to make the whole thing up.
+Wall Street Bets is behind it the whole time.
+Except I don't think CD Projekt Red is on Wall Street.
+It's a different stock market.
+They're using their GameStop tendies to buy black market source code.
+How much have you lost on the GameStop game, Loki?
+50 bucks.
+No, that's not too bad.
+I only bought one share.
+It's fine.
+I haven't lost anything because I haven't sold it yet.
+So it's all theoretical losses at the moment.
+Hopefully you'll make that money back on Pixel Poop's number two sales.
+Well, I made that money back on Bitcoin.
+No, not Bitcoin, but Dogecoin.
+I've already made that money back on Dogecoin, so it's fine.
+But I wasn't playing it to make, I mean, I was playing the stock market to make some
+money, but I wasn't like, if I lose this money, it's like, oh, whatever, you know, gambling
+basically.
+Yeah.
+All right.
+Well, moving on.
+We talked earlier in the show about how Crash Bandicoot number four is coming to PC at
+some point.
+Well, there was a pretty big announcement about another big franchise coming to PC,
+and I'm not sure a lot of people saw this coming.
+I don't think people really expected that this was a series that was kind of targeting
+PC, but it's going to happen.
+And that is Kingdom Hearts is coming to PC.
+Which Kingdom Hearts?
+Pretty much all of them are coming to PC, meaning Kingdom Hearts, the HD 1.5 and 2.5
+remix, that jumbo collection that has like all the early Kingdom Hearts games, Kingdom
+Hearts HD 2.8 final chapter prologue, the Kingdom Hearts 3 and the Remind DLC also coming
+to PC, and the recent Kingdom Hearts Melody of Memory also, I'm sorry, not Steam, coming
+to PC, actually very different.
+They are going to be Epic Game Store exclusives when they come out, and that's the other big
+surprise behind this, is that they are going to be exclusive on the Epic Store March 30th
+when they all come out.
+The 1.5 and 2.5 remix will cost 50 bucks, the rest will cost 60 bucks, and of course
+due to the needs on the PC of some of these games, they will vary in what they're going
+to require graphically in order for them to work, especially when you consider the older
+games were out a couple years ago, and Kingdom Hearts 3 is as recent as 2019, so yeah, big
+surprise there.
+I don't know if anyone's interested in playing that on PC again, but I think it's interesting
+that, again, we joke about the mods and how people kind of rip into the PC games that
+way, but we now have Kingdom Hearts, a Disney property that is going to, I mean it's not
+like it's the first Disney thing to ever be on PC, but I think of something at this level,
+it's kind of surprising a little bit, but I think it also just goes to show that there's
+a lot of money to be made on PC game sales.
+I think especially in, and I think this is always something important to consider, especially
+in territories outside the big ones we usually talk about, the US, Canada, and the big countries
+in Europe that are big video game countries, I think outside of that, especially when you
+get into countries like South America and so forth, you get a lot of PC gamers because
+consoles may not be as readily available, so I think that's, I think it's interesting
+because it allows the game to reach a wider audience.
+I'm curious what you think about that, Loki.
+I think it's exciting that they're coming to PC, mainly because I, well, I have a lot
+of these, at least I have Kingdom Hearts 3, I think I have the other ones as well on PlayStation
+right now, but I just haven't gotten around to playing them, but maybe I'll play them
+on PC if I buy them again, or maybe I won't because I'll just own another copy, it'll
+rot away in your library, go into my library, hey, maybe I can use this free time to play
+all these games I haven't played yet.
+What?
+You haven't thought about your next game?
+I have so many next games, it's not even funny.
+Phoenix7726 in chat says, 60 bucks was way too much for 2.8 on PS4 and it still is on
+PC.
+I'm kind of of that mindset.
+These games have been on sale, I don't know how many times at this point, I'm not gonna
+pay full price for these games on PC, but by the time, you know, the holidays come around,
+they'll all be half off, so I might dip into one of them at that point.
+I don't know, I need to spend some money on upgrading my PC, I think, just because it's
+a few years old at this point and I don't see something like Kingdom Hearts 3 running
+very well on it at all, so we'll see.
+But I find the news fascinating, because it's one of those things where it's like, I don't
+think there were a lot of people asking for this, but then again, maybe I'm just spoiled
+because okay, I have Xbox, I have PlayStation, maybe there were gamers in other places that
+were asking for this that only game on PC and they got it.
+It was just a surprise that it actually happened, I think.
+So anyway, that'll be in March.
+Let's move on to our next story, Dark Sakura.
+There have been some interesting trademarks that have shown up recently.
+It was actually earlier this week, there is a trademark for The Legend of Zelda Phantom
+Hourglass, and then we also have for Ocarina of Time and Wind Waker.
+So maybe we are getting updated versions of those games, especially for the 35th anniversary
+of The Legend of Zelda.
+They're going to do the same thing they did with All-Stars on the Switch, but just do
+it with Zelda.
+They better not.
+That's going to be terrible.
+They are, because I totally get it called up they are, because they already have the
+emulators built for those other systems.
+That's why you have All-Stars the way it is right now.
+I think it was emulating those older games.
+So now we just pop some Zelda games in there, run them off the same emulators.
+Makes perfect sense to me.
+And they're going to do the limited time thing again, you think?
+Yes.
+That would be foolish.
+It would be foolish, but it would be the Nintendo way, because when something can't have a shortage
+or an artificial shortage, create an artificial shortage.
+In the case of digital goods, where there literally isn't infinite supply, but we're
+going to make it short for some reason.
+That Mario 3D is in the top selling list.
+I don't like it either.
+I don't think it's in the top selling because of the fact that it's not artificially scarce.
+I think people are going to buy it anyways, but it's stupid.
+It really is.
+If they think that's just going to drive the price up, I mean, I guess, but it's not like
+it's going to come down in price anyways.
+They don't drop the price of any of their games, like hardly ever.
+So that's why they're pulling it.
+We'd rather pull it than see it go on sale.
+It doesn't go on sale, even if they weren't going to pull it.
+I think just recently, Splatoon 2 had come down to $49.99, and I think that was just
+a limited time sale.
+I mean, they never put their games on sale anyways.
+I don't think that there would be any risk of this, whatever.
+I'm not even going to try to guess what Nintendo's thinking because it's going to hurt my brain.
+Dr. Tetsuya in chat says, my theory is that the Mario stuff ends in March, right?
+Maybe they'll move on to Zelda after it's all done, and there might be another collection
+involved.
+It would make sense.
+Again, as much as I also hate the limited time thing, it just seems like a very Nintendo
+thing to do.
+And I think the story Dark Soccer just reported on, it's one of those where there's smoke,
+there's fire type of things, but we'll see.
+We haven't really had any updates from Nintendo in quite some time.
+So I think most of us are just looking forward to some type of official Nintendo update.
+I mean, we haven't had a legitimate Nintendo Direct since the pandemic began.
+Am I right?
+We've had some minis, we've had some indie showcases.
+I don't think we've had a full-on Nintendo Direct since the pandemic began.
+It's been a long time.
+We had one since the pandemic because we had one during their E3 time.
+Didn't we have something around that time, I thought?
+I thought we didn't even get that, to be honest, but I think you're right.
+I think we did get some type of little mini showcase right around in there.
+You're right.
+You're right.
+Still, even then, that's like six months ago.
+I don't think there's been anything since then.
+Well, they dropped, I remember that was one of the things where they dropped Paper Mario
+on us.
+Like, hey, by the way, it's coming out next month type of thing.
+I don't know why they don't do a Direct.
+All right.
+Well, moving on, let's talk about not a Direct, but a Drift.
+Yeah, you know, I don't understand why these companies can't get their hardware right.
+Like if you're a company like Sony and you saw that, hey, Nintendo released these Joy-Cons
+and they're having issues with their analog sticks drifting.
+Let's use the same parts.
+That'd be a great idea.
+So like apparently now they're having the same issue with drifting.
+I'm assuming it's coming from the analog sticks, the same parts with that.
+It's just beyond stupid at this point and I'm sure they're going to play it down.
+But apparently people complained and you can get it fixed, but it is a pain in the ass
+to do it.
+I just wish that they would just do some damn research.
+What is wrong with the analog sticks we used to have?
+Like the ones from like the Xbox 360.
+Never had really drifting issues with that.
+I had a couple die, but they never got to the point where like it was drifting or we
+had it, was it with the PlayStation 4 where the rubber on them would just disintegrate.
+Like stop using cheap shit in your expensive consoles.
+I mean, come on, just fix this shit.
+If I'm paying like, what is this, controllers probably like at least like $60, $70, if I'm
+paying $70 for this crap, put some damn analog sticks in it that are actually going to last.
+Or is this on purpose so I have to buy more of your damn controllers?
+Absolutely on purpose.
+Well, that's how you get class action lawsuits and then nobody wins.
+But seriously, you don't want to be known as a company that puts out like fucking cheap
+shit.
+I mean, seriously, this is annoying.
+It's hard for me to comment because I still don't have a PlayStation 5.
+When I hear kind of news like this, I kind of go, oh, maybe it's a good thing I waited.
+Maybe they'll be able to work this out before I decide to jump on board with the PlayStation
+5 finally.
+The chat is lighting up about this a little bit.
+Sia Tabiri in chat says, didn't it take almost a year for Joy-Con Drift to be a thing?
+I think maybe for people to discover that.
+I don't think it took a year, but it's a similar kind of length of time, I think.
+S.G.O.
+and Hunter Matt says they cut corners to save as much as they can on the console or controller.
+Quest Buster says two words, cost savings.
+So a lot of people saying that even though it's an expensive console, it doesn't mean
+they still don't nickel and dime where they can to produce it cheaply so they don't lose
+as much money with every console that they sell.
+All right.
+Let's move on to a follow up from something last week.
+So we talked a little bit about Google Stadia last week and how they were no longer going
+to be making first party games or exclusives.
+And a lot of people, including us to an extent, were kind of saying, well, this is the beginning
+of the end for Stadia because a system is only as good as the games that are on it.
+And if Google is not going to make their own games anymore to push their own console or
+you know, cloud console, whatever you want to call it, then the idea is pretty much dead
+in the water.
+Well, I think Google is seeing the way that people online are reacting to this.
+So they decided to put out a statement this week, an announcement that said there are
+over 100 games coming to Stadia this year.
+So that's what they said in their post.
+They even dated some of the games.
+FIFA 21 on March 17th, an action RPG title called Judgment on April 23rd by the folks
+behind Yakuza, Shantae Half Genie Hero Ultimate Edition, as well as Grisky Revenge.
+Anyway, obviously I can't read all 100 games on air, but Google is kind of going out there
+to say, hey, you know, there's still all of this that is coming to Stadia.
+So it was interesting that they kind of put that out there after they see again, I don't
+know if I were managing the company, I would have put this out at the same time as the
+prior announcement.
+I don't know why the way that they announced that they have 100 games coming out because
+even still, you're going to have who cares if you still have to purchase those games
+on those platforms.
+And it's not that I don't trust that there's going to be games on time script.
+First off, none of those are exclusive to Stadia.
+None of them are exclusive.
+Yeah.
+Like, why do I even bother?
+And second, it's Google is the one running it.
+So you know that if they're not backing it up, then that's it.
+They can pull the plug in any time.
+It doesn't matter how many games they have on the platform.
+If Google themselves isn't interested in it and they go to something else that's shiny
+instead, then it's gone.
+All those games you purchased, well, too bad.
+I mean, like, I don't know.
+Like it's, it's silly.
+So like, I would think if I'm going to purchase those games in particular, and especially
+some of those I've already been on other platforms, um, I'm just going to purchase those on PC
+or another platform that has those because I know that those platforms aren't going away.
+It just seems very risky.
+I'll tell you one game that's not coming to Stadia.
+Some of you may have heard about this as well.
+So the game Terraria, which is kind of like a 2D version of Minecraft, uh, this game's
+pretty old.
+It's been out a long time.
+Yeah.
+Yeah.
+Oh yeah.
+It's very popular.
+It's on a lot of console at pretty much every console out there, but it will not be going
+to Stadia.
+And why is that happening?
+Because the, uh, CEO behind, uh, re logic, who is the Terraria co-creator Andrew Spinks
+went up, popped off as they say on Twitter.
+But honestly, I, you know, hearing this side of the story, I get where he's coming from,
+uh, apparently, and I'll just read the tweets.
+My phone has lost access to thousands of dollars in apps on Google play.
+I had just bought LOTR Lord of the rings 4k and I can't finish it.
+My Google drive data is completely gone.
+I can't access my YouTube channel.
+The worst of all is losing access to my Gmail address of over 15 years.
+I absolutely have not done anything to violate your terms of service so I can take this no
+other way than you deciding to burn this bridge.
+Consider it burned Terraria for Google Stadia is canceled.
+My company will no longer support any of your platforms moving forward.
+So essentially this guy got some type of ban on a Google product, which I think they're
+saying was a YouTube thing.
+Uh, demi logic, which is the, uh, parent account for re logic, got a notice from YouTube saying
+it was in violation of the site's policies.
+But of course they don't know what it is and they hadn't uploaded anything in three months
+and it's not like they're producing, you know, R rated content and things like this.
+Like there really is no explanation for the ban.
+And this plays into the scary reality, you know, and I'm one of those people that I have
+a lot invested in Google.
+I've been using Gmail as, as one of my main emails for a very long time.
+And you know, it is scary if I were to, you know, put up a YouTube that got myself banned
+or something, I would lose access to all this stuff.
+And it's kind of scary.
+And what's really scary about it is that there's no fucking human being at Google.
+That's willing to answer these questions.
+Or if there is a fucking human being, it's not one that has any fucking compassion or
+one that can go off of a script whatsoever.
+It is a, all you, I guarantee it an outsourced, lower than minimum wage person that is paid
+to stick to a script and can't do anything outside of that script.
+And that is the behavior from Google that I really should change.
+You know, these whole like, well, you got banned, can't do anything about it.
+Like there needs to be real people to talk through these issues with.
+It's horrible customer service to do the alternative.
+And that's what's happening.
+And it's, it's kind of not just Google.
+And again, I'm deferring to something that came up on Bobby's show because he gets to
+go before us.
+So sometimes he beats us to some points.
+He talks about Facebook and Oculus and why a lot of people are turned off from the new
+Oculus Rift devices, because in order to use them, you have to have a Facebook account.
+And if your Facebook account gets banned, guess what?
+And Dark Sakura, I saw you playing around on Facebook earlier, kind of trying to get
+banned doing stuff.
+So I'm trying to see where the limit is.
+So basically you're trying to challenge the bot on Facebook that bans things for just
+saying certain phrases.
+Yeah.
+I went to, cause I tried whore.
+One of my friends got a ban for saying, for saying that they were a whore for something.
+So I did whore.
+I did slut.
+I did man slut.
+I'm not going to do child porn just because that makes me feel disgusting, but, hold on.
+I did another one.
+Let me see.
+Well, and you should stick to things that have legitimate reasons for talking about
+them.
+Like whore, you know, there might be a little bit.
+You know, and honest, you know, and, and the, the phrase die bitch, while it might sound
+harsh, you know, if I'm talking to my friend or something, if we're being catty, if we've
+had a company.
+No, bye.
+B-Y-E.
+Oh, bye bitch.
+Oh, I'm sorry.
+I thought you said die bitch.
+Well.
+No.
+I mean, I tell people that.
+I don't tell people that because I take like suicide stuff.
+I don't joke about that.
+Yeah.
+But you know, if it, but I could see other people like that are friends and if they're
+just being catty with each other, you know, and somebody says like, you know, oh, I get
+the whole week off work because die bitch, you know, like I'm so jealous, you know, like
+that's between them and that shouldn't get them banned from Facebook for doing something
+like that.
+Especially not bye bitch because I probably said that myself on January 20th.
+But anyway, I'm going to chat for some other comments.
+Tiger Claw says, Google does not have a good track record when they create new services.
+They ultimately, at some point, get shut down.
+As 200 Matt says, my work uses a lot of Google workspace stuff.
+We use it for two-factor auth, sheets, doc, drive, email.
+If we were to lose that, then we would, they'd be very challenged to do their work.
+Unfortunately, it's a corporate decision, but we're forever beholden to Google.
+So I think this, if nothing else, this Terraria news should really make a lot of people kind
+of go like, maybe I need to reevaluate this Google thing.
+You know, Google's done a lot of great stuff, but as we're starting to peel back some of
+the layers here, especially with how they've botched Stadia, and now we have this news
+and everything, like you find that Google is not always a well-run company.
+And there's very, I mean, there's lots of people that work at Google, very few who can
+help you out with these types of issues.
+And that's a problem.
+You know, and they lost the guy who made Terraria as a result.
+So yeah, and Bobby Blackwell for the great point, Google used to have the motto, don't
+be evil.
+They removed that motto about 10 years ago.
+So evil is okay.
+Yeah, I remember that they did that because they were a lot of staff contesting some of
+the military contracts that they were taking or not taking.
+I don't remember what exactly, I think they denied taking some of those.
+Yeah.
+So anyway, they lost Terraria.
+I mean, I don't think there were a lot of people lining up to play Terraria on Stadia
+and that's no disrespect to Terraria, but I just think that game is on so many other
+platforms.
+You can very easily play it.
+It's on Android devices already.
+It's on mobile.
+It's on iOS.
+I mean like, I would never like even like on like, say like a Chromebook or something
+like that, like let's just take the least powerful thing.
+I think those could still run Terraria.
+Like there's literally no reason to play it on Stadia and a lot of these, like even Shantae
+and stuff, there's no reason for me to buy it on that platform, like, cause that I don't
+think you're going to need a very powerful PC to run that.
+It just doesn't make sense as an offering on that platform.
+Cyberpunk makes sense cause you need a beefy PC to be able to run that good.
+And that's a good use case for it, but all this other stuff makes no sense.
+And the fact that they've pulled their own internal support so there's no exclusive content
+on those platforms, that shows me how much faith they have in that platform.
+Not very much.
+And so I would not be wanting to throw my money behind it.
+Bobby in chat says a Chromecast Ultra is still cheaper than a low-end PC to run Terraria.
+True.
+And this could be about, you know, gaming in other places where the electronics are
+harder to come by sometimes, but we could talk all sorts of ways about this, like who
+really wanted to play this or not.
+The point is it's not happening and it's because Google is not well run as a company in some
+areas.
+And Bobby also says...
+You can get an Xbox 360 for less than, I get better, Chromecast Ultra, that can run Terraria.
+And Bobby says a point I agree with in chat, as much shit as I give Apple, at least you
+can get in touch with an actual human there.
+So Apple is greater than Google ecosystem in that regard.
+And yes, and Google should probably take some notes that if they want to stop burning bridges
+with very important people by letting bots do that, they should take some notes here
+and consider setting up some type of customer service and they would create some jobs in
+the process.
+So, but I mean, it's all about pension pennies.
+And into what Bobby was saying about being available in areas where they may not have
+access to that stuff.
+I don't think it's available in very many countries that begin with.
+So like, I don't know.
+That's right.
+Stadia isn't available everywhere.
+You're right.
+You're right.
+It's limited.
+It doesn't have a point to me.
+I don't know.
+Let's move on to a much simpler time when we weren't...
+We didn't game in the cloud.
+All right.
+We gamed on cartridge.
+All right.
+Or maybe a CD.
+I don't know.
+It's a classic game of the week.
+And dark soccer is going to step into the gaming vault and find a game that she thinks,
+Hey, nerds, check this game out.
+You don't need, you don't need to be playing those newfangled Terraria games, even though
+it's actually probably eligible for classic game of the week at this point, but I digress
+because once a month dark soccer says, Oh, Oh, you get, you were getting comfortable
+with games every week, huh?
+Well, in a 2021 twist, dark soccer decides to find a flag.
+I said, F W A G a fucking weird arcade, a flag and a fucking weird arcade game to highlight.
+I'm excited because we've only had one of these so far this year, but now we're in February
+and we get to have our second flag.
+Well, our second flag, if you're ready for it, um, comes from Namco.
+So we're now getting into some of our, uh, popular vendors here.
+Um, so there's a game called, um, it's call me, you'll say gets nice.
+It's call me.
+Um, and the game is actually based off of Monzai, which is a kind of comedy routine.
+Um, and Monzai has existed in Japan since the Haeon period.
+Um, so, I mean, I'm sorry to interrupt, but I just want to state for the podcast listeners,
+there is no audio on the video this week because this is like the, the, it's very hard to find
+a video of some of these flags.
+So this is like some dude who has a ton of these games in a warehouse somewhere and he's
+showing this off and he's doing a lot of chatting.
+So just wanted to make sure you understand why you're not hearing this one, but Twitch
+can see it.
+Sorry, Jamie, but important to note, well, to put this into perspective, the Haeon period
+was between like 794 to 1185, um, uh, AE.
+So this is, this is a very, very old style of, uh, of, uh, comedy.
+Um, and basically the way that I have to give an explanation about the comedy first.
+So you have two performers called, um, Monzaishi, you have the straight guy, the tsukomi, and
+you have a funny guy who's bokeh.
+And they do these jokes back and forth really fast, including, uh, puns, uh, different kinds
+of double talk, uh, different type of verbal gags.
+And if you saw, um, uh, Kill Bill, I think it was volume, was it volume two or volume
+one when she got the Hanzo sword, I think it was the first one.
+Um, but that's kind of what Sony Chiba and the other guy, that's kind of the type of
+joking that they're doing with each other.
+Um, but at any rate, um, so a lot of the physical puns that go on with Monzai, they basically
+have taken some of that and, uh, put it into a game.
+So basically what this, this game is, is that you have to listen to, uh, the instructions
+in the game and you hit a color of text.
+So the text will have you hit a foot pedal to keep going to the next part of the act.
+And, um, and then there's like red text tells you to strike the bokeh, which is the dummy
+that's in front of the game.
+So you basically have to beat up a dummy for comedy points.
+Um, so you're graded on your timing and your accuracy.
+Um, and because this actually relies on, you know, different puns and Japanese verbal cues,
+you have to be pretty damn fluent to play, to play.
+Okay.
+Um, so basically you are playing the tsukomi and the dummy is the bokeh.
+So you have to, you know, trade those jokes and hit the dummy at the right time sometimes
+by smacking him or punching him or kicking him in the ass or something.
+So it's a physical comedy game.
+Um, at any rate, the game came out in 2002 in Japan.
+It was developed by Metro, um, and published by Namco.
+Um, the website for the game is actually still up.
+It looks like it's though, like meant for like a cell phone or some kind of tablet,
+but, um, it's, it's there.
+I haven't seen, I only found very limited information about it, but, um, I w for, for,
+um, the people in the chat, I'm listing the, uh, uh, what's the word I'm thinking of the
+URL, but I'll read it aloud.
+That's a Metro doc, uh, sorry, Metro dash japan.com slash game slash log slash O Y I
+underscore H P that's O W a R a I slash index.html.
+All right.
+That's it.
+Yeah.
+I mean, it's just, I mean a little bit more, it does run on the Namco system 10 hardware.
+Um, it, uh, uses the PlayStation S P U, uh, for their sound chips.
+Um, it's two mega Ram to make video Ram 50, uh, 512 KB sound Ram.
+I mean, it's, it's older, definitely older technology, but the, the system is definitely,
+it's dated of course, I mean by today's standards, but it is still, I mean, pretty, pretty interesting
+that it exists.
+I, I had never seen or heard of this and I thought I've seen a lot of wacky stuff.
+I did not know there was a game where like the whole point is to just slap somebody basically.
+And that's what you do is slap the dummy.
+Like when the dummy says something, you're listening for visual clues.
+I mean, basically it's interactive comedy where you are one of the comedians.
+I mean, in its most base form.
+That's what it is.
+Yeah.
+And Bobby Blackwell says, I can't believe there's an entire game about pooping.
+Yep.
+People, people make games about weird stuff.
+All it's, it's, I guess one of the big rules of the internet.
+Yeah.
+Well at any rate, um, so that's what, what I have chosen for the game.
+Uh, uh, it's call me, you'll say gips.
+Nice call me.
+All right.
+There it is.
+Not just your classic game of the week, but your fucking weird arcade game of the month.
+It is pretty fucking weird.
+I mean, it's interesting.
+It's, it's really novel concept, but yeah, there wouldn't be a way to make that work
+in America.
+How did you even think of that one?
+Did you see it somewhere once?
+Um, yeah, I had seen it, uh, a video about it a while back.
+And it just sort of stuck in my head.
+So I basically just looked up like Japanese comedy punching game.
+Okay.
+Um, and that's how I found the game because I couldn't remember the, the name of it, you
+know?
+Well, yeah.
+So, but Hey, you know, it's, it's definitely, definitely interesting.
+And most importantly, for the record, it's to call me T S U K K O M I when Romanized.
+All right.
+All right.
+Good pick.
+So it has nothing to do with scum, orange, right?
+I like, I like these ones, uh, where it's a game I have literally never heard of and
+I learned something a little bit.
+So I feel like these flags, the fucking weird arcade games, I feel like a lot of these are
+going to deliver on that.
+So looking forward to seeing what else you have in store.
+It's definitely to expand our horizons just a little bit.
+Sometimes when to places we don't need them to go.
+All right.
+Whether you want it to or not.
+Yeah.
+All right.
+Let's do some news, rapid fire style and travel around and check out some other headlines
+real quick.
+Uh, Loki, we'll start with you.
+Yeah.
+So we have a release date now for the new ratchet and clank game rip the part, which
+is going to be coming out in June on the 11th.
+And that was announced on the PlayStation blog, uh, by Insomniac games.
+So pretty awesome.
+And they said, in addition, the game will feature a few graphic modes as well.
+They're going to have a four K 30 FPS mode.
+And then of course one that's at 60 FPS running at lower resolution, that's kind of similar
+to what they had like Spiderman miles Morales.
+Uh, so yeah, that's pretty cool.
+And then, um, Minecraft dungeons is still doing incredibly well.
+They just hit 10 million players and it's expected to get some more DLC as well.
+Um, admittedly I have this game and have not played it yet, so I need to go and actually
+check it out because it's cute.
+It really invokes like an old Diablo kind of style.
+I enjoy, I need to go back and play it again.
+Um, but I enjoyed when I played a bit.
+It's cute.
+Yeah.
+So I'll have to definitely check it out.
+All right.
+Well let's travel on to some other headlines here, including a new classic games announced
+for Nintendo switch online.
+Uh, there will be some new additions for the super Nintendo and Nintendo, uh, uh, collections
+for the super Nintendo.
+We're going to get doomsday warrior prehistoric man, psycho dream.
+And for the NES, we get fire and ice.
+And those are all being added in just a few days, February 17th.
+And I got to say, we're really reaching here at this point.
+Like honestly, no guardian legend.
+What's that?
+Psycho dream.
+Isn't a bad game.
+Oh, I see.
+I was, I was going to say, if I remember, and I remember a little bit of prehistoric
+man, just, I think I played that once, but I don't remember it being that good.
+What did you tell?
+Tell a little more about psycho dream.
+Oh gosh.
+I haven't played this game in like for freaking ever.
+So I, I just remember that it was really, that it wasn't too bad.
+Um, and who knows, maybe I was going to do it for a classic game.
+Well, and what's interesting is that it's, um, it's also bearing the Famicom logo.
+So is this one of those games that was never actually.
+Yeah, it was Japan only there had been a, um, a, uh, uh, fan translation, of course,
+but basically you're playing as this character, either named Leo or Maria.
+And so Rio is like a, like a swordsman and she's like an angel with a whip.
+So um, so basically it's just like an, uh, an action game.
+Um, so you're, um, you just have to go through the game.
+You have a time limit to defeat enemies.
+Um, and it's set in like modern day Japan.
+So kind of, it's, it's got a weird story to it.
+I will admit that, that it's sort of like a virtual reality based story, but there's,
+it's, it's weird, but it's not bad.
+It's not bad.
+I mean, it wasn't a great game, but I thought it was fun.
+I mean,
+well, on your recommendation, I will check it out when these, uh, uh, hit the Nintendo
+switch online on February 17th, I will say fire and ice groundbreaking, you know, it's
+not like florals for spring, but it is, it is, it is an intro, you know, I do enjoy when
+we get the games that were never released here, kind of like the Mario P cross in the
+last update.
+So, you know, I'll, I'll, I'll check it out.
+Why not?
+I'm paying for Nintendo online anyway.
+I will say though, um, fire and ice, if you didn't already know, um, out there, um, is
+actually Solomon's key to basically, um, in fact, I believe that's what it was called
+in Japan.
+Um, actually, yes, because, uh, Japan also is getting their updates.
+So what's interesting, Japan is now getting Mario's super P cross, even though we already
+got it.
+They're also getting sire psycho dream.
+They're getting Solomon's key to which same thing as fire and ice, but the third one,
+instead of prehistoric man, they're getting shimagami tensei too.
+I want, yeah, well, you, it's very easy to, uh, make a Japanese account and
+download that client.
+And, uh, you don't have to pay like for a Japanese online.
+You don't have to do all you do.
+All you're doing is going in to get the client and then you play the client on your
+American account and it's fine.
+Except I don't read that well.
+Oh, and it's going to require, uh, gotcha.
+Gotcha.
+Yeah.
+Well, I am maybe a third through my kanji course.
+Got it.
+Well, you're going to have to sit there with your, uh, FAQ that's translated.
+All right.
+My, with my translation app that I can use my camera for.
+All right.
+Uh, and one other quick, uh, kind of story here has to do with the upcoming Mario
+brothers movie that we know is happening.
+And folks are wondering, will the definitive voice of Charles Martinet
+actually be voicing Mario in the movie?
+Well, um, Charles Martinet actually did a convention that was virtual this weekend
+called galaxy con live.
+Uh, and he was asked about his thoughts on the movie.
+And some of the comment was, if they invite me to play, I'll go in and play
+with great joy and happiness now.
+Who knows?
+Some wonder.
+Okay.
+Well, if they haven't asked him by now, that's not a great sign, but he could be
+faking it.
+However, I think the reality is I love Charles Martinet.
+I do.
+And I would love to see him actually be the voice of Mario, but I think since they
+plan to have Mario speaking fluent, fluent language, cause we know that the voice
+that Charles Martinet gives Mario, which is iconic.
+Again, I will not say anything bad about Charles Martinet, but he, he brings to the
+table the, you know, he, he does a lot of the emotional types of responses.
+You never see Mario going and I think the only thing he says, like he doesn't say
+anything like full phrases, right?
+Maybe like very, very short phrases in the movie.
+I imagine Mario is going to speak more than that and they will probably want a
+stunt cast and they're probably going to bring somebody a list from Hollywood to
+voice it.
+And I think we need to be prepared for that reality.
+Now, the nice thing would be to allow Charles Martinet to still voice a
+significant character in the game.
+Like Wario, I think would be let him voice Wario, but I don't, I don't see it.
+Is it animated or live action?
+It's animated.
+Animated.
+Okay.
+I was going to say.
+The same studio that did like the minions and Despicable Me and that stuff are doing
+the Mario movie.
+Yeah.
+So, um, you know what I want?
+What?
+I think it would be hilarious if John Leguizamo did a voice.
+Me too.
+I think that's funny.
+Yeah.
+Yeah.
+No, have him be Luigi.
+Why not?
+SDG100 Matt says he was in the other live action movie, right?
+Yeah.
+SDG100 Matt says Papa Mario.
+Yeah.
+Why not?
+Why not have like a grandpa Mario that's in it and Charles Martinet gets to play that
+part.
+I hope they, they do something nice for him because you know, he is part of what
+brings Mario's iconicness to the table.
+So anyway, I'm making this rapid fire news segment way too long, but I just had to get
+that out.
+So let me move on to Dark Sakura.
+Well, for anyone who wants to follow in Loki's footsteps, making a game, there is
+a unity training bundle that's out.
+Um, it is $44.99 right now.
+Um, for the, uh, 2021 premium unity game developer certification bundle.
+That's 98% off.
+So, I mean, this shit ain't cheap.
+So, um, it's, I mean, basically has a lot of different tools, tutorials, um, walks
+you through, uh, some basic creation.
+Um, and it's actually, uh, led with training on both unity and blender by
+John Bura, um, who is a developer, many games that came out on the app store are
+doing really good, um, also owns mammoth interactive, uh, worked with Nintendo.
+So, I mean, so basically you're getting a $3,000 gaming suite for like less than 50
+bucks.
+I'm actually thinking about it.
+They grossly overpriced those though.
+I mean, it's just like Udemy where they say, Oh yeah, this is a $200 course, but
+it's never over $20.
+Um, just be careful with a lot of those courses, especially when they're bundled
+like that, because a lot of that information's really old.
+And especially with unity, it updates all the time.
+Uh, honestly, like there's a lot of free court.
+There's a lot of free material out there.
+Unity has like courses in everything, like the entire suite of stuff for free.
+Uh, Udemy has some courses that are a little bit smaller and those are like,
+you know, just keep watching it.
+Usually they go down to like $10.
+You know, it's really cheap right now on humble bundle.
+They have a unity, uh, learn unity course thing that you can get a bundle of those
+for, and some assets for like, you know, really cheap as well.
+So just keep an eye on that.
+Um, you know, like a lot of these I've seen these before, like with, uh, was it,
+there's a lot through Zenva, which a lot of that stuff is offered on, um, Humble
+bundle every like month or so they have like a bunch of these courses.
+So just be careful.
+Uh, you know, just like looking at what's included with that.
+Cause like, for example, they have construct three tutorials in here.
+Well, this is a unity course.
+Construct three is not going to really help you out with that stuff.
+Um, some of it might be helpful, but like if you're looking for more specific
+things, I'd definitely start with the unity, uh, tutorials themselves,
+or just go on YouTube.
+There's so many out there.
+There's, uh, you know, uh, Braxis, which is not, um, publishing anymore,
+but he had a ton of stuff on there.
+Kenny's got a lot of like free assets out there.
+There's so much content.
+That's free that you don't have to even pay for.
+It ends up being a lot better.
+Like sometimes I've done some of the, uh, some of the Udemy courses and they've
+helped out with like learning specific things.
+Um, but a lot of it tends, you have to be careful cause a lot of it tends to be
+very dated by the time you get in there.
+Um, and since they don't specifically rapid fire,
+yes, please.
+Cause I have another story to do.
+All right, fine.
+I'm not trying to be rude, but we get it.
+Go ahead, Jamie.
+Sorry.
+Um, at any rate, um, so for more freebies, uh, in this case actually,
+um, uh, Assassin's Creed, uh, Chronicles China is free.
+So you can get that from, um, the Ubisoft website, uh, through actually tomorrow.
+So if you're going to get it, get it now.
+Um, but I think you have to have an account set up for Ubisoft connect.
+So, but Hey, I mean, let's hear it for a free game that you get to keep forever.
+Yeah.
+Get on that.
+If, uh, yeah, you're right.
+By the time most podcast folks hear this, unfortunately it's probably gone unless
+you listen Monday morning maybe.
+So, yeah.
+All right.
+Well, and I'm, I'm, uh, I'm actually, cause I'd forgotten to do this earlier.
+I'm going to get it right now.
+Uh, pixel pockets and chat says, what was that again?
+It's Assassin's Creed, China.
+It's Chronicles, Assassin's Creed Chronicles, Chronicles China.
+Yes.
+All right.
+Let's travel around the world and check out some games that are coming out real
+soon as we do some world release dates.
+And Loki, we'll start with you in the US.
+Yep.
+So we've got a few things coming out this week, starting off with, uh, Azure
+lane cross wave, uh, that's coming out on Nintendo switch.
+Uh, we've got fallen Legion, revenants on into the switch and PlayStation four.
+Speed limit on PlayStation four.
+Uh, we have SNK versus Capcom, the match of the millennium on Nintendo switch.
+Uh, we have also speed limit coming out on PC as well.
+The 25th ward, a silver case on Nintendo switch, uh, anodyne to return to dust on
+Nintendo switch, PlayStation four, PlayStation five, Xbox one, Xbox series X.
+Um, speed limit also coming out throughout the week, I guess, on multiple systems
+on Nintendo switch on that as well.
+Um, also have looks like the silver case coming out on the Nintendo switch.
+I think that's different from the 25th ward, the silver case, uh, void terrarium
+plus on PlayStation five and Thomas was alone on Nintendo switch and that's it.
+All right.
+Traveling to Japan and looking at some of the releases there, uh, a little slower
+this week, but there's still a couple of things to mention, including on the
+Nintendo switch, a game called the silver 24, 25 is coming out on the Nintendo
+switch on the PlayStation five this week.
+That void terrarium plus that Loki just mentioned for the U S is also out in
+Japan this week and going to the PlayStation four kingdom come deliverance
+gets like a Royal edition, uh, as, when it gets a price reduction as well.
+So you have that to check out.
+Um, that's, that's really it.
+Otherwise it's pretty quiet week in Japan.
+How about the UK?
+Dark Sakura?
+Um, nothing, literally nothing.
+All right.
+It happens.
+It's still first quarter is usually a little slow.
+You might have a couple of big titles, but it won't really start to ramp up
+until like, you know, the new finance.
+I don't know.
+You get some titles that try to get in there right at the end of the
+fiscal year and then, uh, some that get in there at the beginning.
+So it just kind of depends, but it's going to be some slow weeks sometimes.
+All right.
+We still have some new story stories for you guys.
+And then we'll get to the round table, which include a couple of emails tonight.
+So let's get to some Hollywood news, right?
+Loki.
+Yeah.
+So we were just talking about, you know, voice cast decisions made by studios
+that may not necessarily jive with the video games.
+So, um, some of the casts that we have now, we're learning about more folks,
+um, cast for the new Borderlands movie.
+So starting off, we have Jack Black as Claptrap.
+I can see that.
+I think that's fine.
+Um, also we have Jamie Lee Curtis now playing Dr.
+Tanis, I could definitely see that as well.
+So I think those are okay.
+Um, I, I do want to, I really want to see this movie.
+So, um, looking forward to that.
+Um, I think, I think Jack Black will be pretty good.
+I get it though.
+Claptrap has a kind of an iconic voice, but I think he'll do it justice.
+Yeah.
+I was kind of curious.
+You're, you're the big Borderlands fan of the three of us Loki.
+So I was kind of curious your sort of take on this.
+I mean, I love Jamie Lee Curtis.
+I don't particularly care for Kevin Hart after what he pulled a couple of years
+ago, but Jamie Lee Curtis is such an icon.
+It kind of balances out at least.
+Well, Kevin Hart out of all of those as the least kind of appropriate, I think
+for the cast, cause like the, the main character Roland, isn't so, he's more of
+a serious character, not like Kevin Hart at all.
+Like I really don't think that's cast well.
+But funny guys go serious sometimes though.
+Like, you know, I'll give that a shot that caught that comedic actors make
+some of the best dramatic actors.
+They're like Ronald Williams when he was around Tom Hanks.
+And I guess it depends on when, when in the timeline we're talking about here.
+Cause if like, if this is like around like the first game, he like Roland,
+you know, kind of, he goes through like a character, a lot of character
+development, um, between games because of, you know, certain people dying.
+Um, so I don't know.
+We'll see.
+I don't, I don't know.
+I'm not a huge fan of Kevin Hart.
+So, but there's a lot of other people in the movie where I'm kind of like, you
+know, like again, Jamie Lee Curtis kind of an icon, so, but I'm, I'm not really
+like huge on Borderlands lore.
+So I don't know.
+We'll see right now.
+I'm kind of like, I'll, I'll rent it when it comes to comes to home.
+I mean, it's, it's hard to imagine the theater again, uh, anytime soon anyway,
+but also this movie hasn't shot a single frame, so it will also not be out anytime
+soon.
+Right.
+All right.
+Um, wasn't there another one too?
+Another casting this week?
+Oh, yes.
+Yes.
+Sorry.
+Yes.
+Outside of Borderlands, uh, for HBO's Last of Us series, uh, we have Pedro
+Pascal now in the role of Joe, um, Joel, I should say so that should be pretty good.
+I mean, he's been great in Mandalorian, so I'm looking forward to that.
+I'm sure he'll be great.
+Did they say who they had as Ellie?
+They did.
+Um, so just for game of Thrones, I think, uh, yeah, I don't remember who's
+going to portray Ellie, unfortunately.
+Um, chat, you're going to have to help us out here at twitch.tv slash
+remember who it was.
+Hmm.
+Uh, Bella Ramsey.
+That sounds right.
+Yeah.
+She played a Leanna Mormont.
+Ah, yeah, actually, poor Leanna Mormont.
+Oh my God.
+So she's going to play Ellie.
+Um, cool.
+I mean, I'm sure that'll be great.
+I, I haven't played the game, so I don't, yeah, I, it'll be interesting.
+Someone will need to screen that for me to let me know how violent it is.
+I'm going to be able to watch probably incredibly violent.
+I mean, it's the last of us be ready to just, you know, watch death and cry.
+No, thanks.
+All right.
+Can I watch a story?
+Can I watch a comedy?
+All right.
+Uh, moving on, let's talk about, uh, steam launching in another new country.
+And this is a pretty big deal because that country is China.
+So steam is launching in China, uh, or has launched, I should say they've
+officially had their launch in China.
+Uh, and it's, you know, one of the, the, the world's biggest
+gaming market, actually.
+We often forget, um, because, uh, you know, where our show is based and where
+most people are checking out our show from that there is a whole lot of people
+in China and a lot of them play video games.
+So steam is finally there now because, you know, it's a little bit different
+in China and there is, you know, a lot of, um, censorship basically.
+And, you know, a lot of things that you're not allowed to do in video games.
+Um, Valve has done this through a local publisher.
+So perfect world who you might know from some of their MMOs is the one
+that they've kind of teamed up with in order to make this happen.
+Only 41 titles are available in steam China right now.
+I'm assuming pixel poops.
+Number two is not one of them.
+And probably not planned to be out there anytime soon.
+What are their thoughts on, on large amounts of feces in video games?
+Um, appropriate for challenge.
+I can tell you the zombies and there's not a spoiler alert, but the
+zombies and the zombie level would be, and it's just no zombies.
+There's ghosts.
+There's no zombies in the game.
+I can't remember what the rule is on ghosts, but I know there was a problem
+with the undead in world of Warcraft.
+So they changed it to something else.
+Um, that was similar, but, uh, it didn't have like the flesh
+falling off like ghosts.
+It's a cartoon ghost.
+I don't think.
+What, what do I have to do to get my game approved for China?
+Uh, let us know.
+Okay.
+But yeah, steam says that every game on the service is vetted for
+approval by the country's government.
+And once it gets the green light, it gets an ISBN number that's
+delayed or excuse me, displayed on the steam product page.
+So kind of interesting, but yeah, I mean, you know, uh, again, even
+though that might not be something right in front of our face here in
+the States, or even those you in places like Canada, Mexico, Europe,
+Australia, wherever it is, you are in the world listening to this show,
+um, steam launching in China.
+That's still, that's a huge market and a huge deal.
+Um, but not, not, not nearly the same amount of games are
+going to be available on it.
+I bet perfect worlds.
+MMOs are on it though, since, you know, they're the partner.
+All right, let's move on dark soccer.
+Well, um, there is, uh, uh, a book coming out that I'm
+actually kind of excited about.
+Um, we all know Howard and Howard Phillips were, he was a big
+spokesperson for Nintendo, you know,
+yeah, yeah.
+Well, um, that was Nestor.
+They should have a cameo in the Mario movie.
+You're right.
+Howard and Nestor.
+I'm sorry.
+I, I messed it up.
+Yeah.
+Although the, uh, it looks like that the cover for it has like
+kind of someone who looks like Nestor in the background, following
+them around, but, um, basically it's going to be the inside stories
+from Nintendo's history called game master classified.
+So, um, that'd be pretty interesting.
+Um, uh, it was a successful Kickstarter.
+I already reached its goal, but you can, uh, throw in some cash
+yourself if you want your copy.
+So cool.
+I'm kind of curious what sorts of insights, especially on the, uh, you
+know, Nintendo versus Sega years and some of that interesting insight on some of
+those meetings that probably happened there, so, all right, um, act deaf to
+saying Matthew Taranto, I hope I said that last name, right.
+Is helping with that book.
+If I recall correctly, what else might we know him from?
+Um, SSG100 Matt says, uh, Howard and Nestor should be a
+shop or something in the movie.
+Well, let's hope.
+I think a cameo would be very cute, but the problem is like in that
+comic, you know, Howard and Nestor Howard had Howard Phillips likeness.
+And so that probably is something they would have to go back to Howard Phillips
+to get, and if he's about to write, tell all books about Nintendo, I'm not sure
+they have that type of relationship right now.
+I don't know.
+I don't know.
+It's hard to say.
+So, um, act deaf to saying the, uh, person helping with the book, uh, brawl in the
+family comics and tadpole treble, which was on switch not too long ago.
+Interesting.
+All right.
+Cool.
+All right.
+Just a few more stories and then we'll get to the mailbag and your
+other questions in our chat.
+Loki.
+Yes.
+So we had hackers bringing Android to the Nintendo switch and now they're bringing
+a newer version of Android to the Nintendo switch, so now we have, um,
+Android 10 coming to the switch.
+Apparently it's a little bit faster and more responsive.
+And they said that they're using a, um, an Android TV build to port that over.
+Uh, cool.
+I have the tools to do that.
+I just probably will never do that cause I don't want to brick my switch.
+So I was going to ask if that's something you've played around with at all, but
+I just didn't really, I don't know.
+I just, I kind of lost interest in it pretty fast.
+Like I, once I saw what you could do with, I was like, eh, there's a good
+chance they'll get it banned and I just don't want to do that.
+So I said, forget it.
+I don't need to put like, you know, NES games on there or something.
+But for those that like to live dangerously, have fun.
+And so that if you have a second one that you want to keep offline and
+just use it specifically for hacking stuff and by all means, go right ahead.
+That would be a fun way to, uh, I like the idea of trying to get the emulator
+running to play pixel poops, number two on the switch switch version confirmed.
+I still need to work out.
+There is a way to supposedly that you can, uh, change the, the format to
+a mapper too, which will allow you to put it on the, uh, NES classic
+edition and the SNES classic.
+So I need to try doing that as well to try to, um, see if I can get it in,
+in there, um, that'd be pretty cool.
+All right.
+Well, uh, we've had a bit of news tonight where it's like, well,
+I didn't see that one coming.
+And I think this last official story we have slotted for the night
+probably fits into that category.
+You know, Pokemon is celebrating its 25th anniversary this year, and
+they're doing a lot of, you know, team ups and things, uh, and, uh, special
+events to celebrate their 25th anniversary.
+Well, I can say I definitely didn't see this one coming on February 27th.
+The Pokemon company will have a virtual concert that will be
+headlined by Post Malone.
+That's right.
+Post Malone is headlining the Pokemon 25th anniversary concert.
+Apparently there will be some type of contribution from Katy Perry here as well.
+I don't know if that just means a video of her singing in her house.
+I don't know.
+Um, but you can find this whole event at seven o'clock Eastern.
+That would be four o'clock Pacific again on February 27th on YouTube and
+their official Twitch channel, which is just Pokemon.
+This is just the main Pokemon channel and they are saying watch until the
+end because we will have some more Pokemon 25 music announcements then.
+They're not saying game announcements, so cool your hype for gen four remakes.
+And if that's coming or not this year, um, anyhow, I think that's interesting.
+That's happened.
+This story also brings up something that, um, I was texting with Jason
+about earlier, and that is the whole, I don't know if you guys know about this,
+but did you know that there is a Pokemon and McDonald's promotion going on right now?
+Um, and what's happening right now is that there are certain Pokemon cards
+that are exclusive to McDonald's right now, and you have to get them in Happy Meals.
+And yes, I talked to Shane about it and he bought a few Happy, he didn't buy a ton,
+but I guess some scalpers and some YouTubers are buying a shit ton of Happy
+Meals to sell the cards because that's the only way you can get them.
+But I talked to Shane and he only wants Oshawa basically.
+And I guess there's two versions and he got them both after like four or five
+Happy Meals, so he's fine.
+Uh, and he went multiple times.
+Uh, but I guess the whole trading card thing and the Happy Meal thing is like,
+what is this?
+Is this, is this Beaty Babies or whatever?
+Oh, Shane is in chat.
+How fortunate.
+Oh, he's saying you don't need Happy Meals.
+I never bought a Happy Meal.
+Oh, I thought you had to buy, that's why they were limiting how many you could buy.
+I thought that was the whole thing.
+Do they not come free?
+Are you able to just buy them separately outside the Happy Meal?
+Uh, Shane is saying it depends on what store, what they do.
+So, hmm.
+Act F is saying you now have to buy a Happy Meal.
+Again, it probably just depends on the store.
+Like if the person selling it to you doesn't give a crap, then you can, that's
+probably how some of these scalpers and YouTubers are buying hundreds of them.
+So, cause you know, there's so many McDonald's everywhere.
+It's probably hard to do anything consistently with that.
+So there you go.
+All right.
+Oh, is that Midna?
+Hi kitty.
+Oh, I wish we could get, um, Smush to come on stream sometimes, but I will give a
+cheap plug cause I have to do this at some point.
+So I talk about my husband, Alan, a lot on this show and I've been saying for like
+the past couple of years, he should really get into streaming and he has, he did his
+first live stream last night.
+He played, um, uh, Dead by Daylight and Dark Souls, a little bit of that.
+And he did get Smush to come cause Smush always sits by him in the office.
+So he did get Smush to come on cam.
+So anyway, I have to, um, you know, be a good husband and tell you all to go
+follow him at Alan Alchemy.
+So, and for those watching live on Twitch, he might be doing something tonight.
+So stay tuned.
+Um, but, uh, yeah, so I have to give him a shout out.
+I think she got stuck in here when I locked the door to lock her out.
+She's just been in here quietly.
+Oh, Oh, how funny.
+So you accidentally shut her in and said, shut her out.
+We did that to Smush once.
+Cause usually we don't let him in the bedroom at night cause he likes to jump
+on the windowsill at 3 AM.
+Um, but you know, one time I think we shut the door and he was hiding under the bed.
+And so instead we got woken up with that at 3 AM.
+All right.
+All right.
+Well, I hate to interrupt Midna time, but this is the part of the show where we go
+to our mailbag because every week you can send us emails, participate
+at orange lounge, radio.com, uh, is the place to send us emails.
+And we re like to read some on air.
+Um, let me read this quick comment from chat.
+W O four in chat says option to donate a happy meal.
+You know, I have heard with the Pokemon thing that there were some like
+YouTubers that were doing that, where they bought the happy meal with the cards.
+And then they donated the happy meals to like a, uh, like a homeless foundation
+or charity or something like that, uh, providing meals.
+So I thought, I thought that wasn't a nice way to do it.
+I guess if you're going to hoard those Pokemon cards, that's a
+nice way to give back, I suppose.
+So, all right.
+Anyway, if Jamie's ready, we'll go to emails.
+I'm just joking.
+My pussy.
+Please don't clip that.
+All right.
+Hi, OLR.
+I just built a PC for the first time this weekend.
+I have a simple question.
+What PC exclusive games would you recommend to be played on it?
+Thanks.
+Pixel pockets.
+Um, I don't really know of any exclusives, but, um, mass effect, all of them.
+Dragon age hush.
+You're the one who got yourself stuck in here.
+You're going to be quiet.
+Sorry.
+I'm disciplining my child.
+Um, satisfactory.
+Oh, that is, that is a game.
+It is a game.
+It's a factory building FPS.
+Well, Minecraft is technically not, you know, exclusive Java
+version of Minecraft, I guess, but, um, yeah, satisfactory is pretty good.
+Or was it phantasmophobia is another fun one that people are playing a lot of now.
+I got to check out there's this new game that I keep playing.
+Like, um, it's like a Viking, was it Valorant, like a, uh, maybe not Valorant.
+No, it's a different game.
+I think Valorant is a different game.
+Yeah, it's, uh, there's another, there's like a Viking, um, survival game.
+Now Valheim is what questmaster is saying.
+Yes.
+Yes.
+Yes.
+Um, that looked pretty cool.
+Uh, and pixel pockets is in chat and is clarifying games that are best played on PC.
+Well, I was going to go the civilization route and say civilization six.
+Like, I know those games are on console, but I just feel like there's
+something that's really rooted in PC.
+Um, if you feel like playing an MMO or really any of the blizzard games, I think
+play better on PC and I know they've ported some of them to console, like
+Overwatch, of course, and the new Diablo, but things like Warcraft, World of
+Warcraft, those don't exist on console.
+Um, if you're into those, you know, technical kind of game heroes of the
+storm, all of that really only exists on the PC.
+And so I think, you know, blizzard, um, you know, it has a history.
+We'll say, I know they've done some weird things in the past couple of years, but
+we'll say they have a history really rooted in PC games, uh, and they've
+done a lot of strong stuff.
+So, um, that's worth checking out too.
+I think.
+Well, last email.
+Um, sure.
+Let me do just a couple of quick things.
+Um, so, um, so, um, so, um, so, um, so, um, so, um, so, um, so, um, so, um,
+quick, uh, comments from chat to, uh, DJ Roma S says, friends of mine were trying
+to get me to play, uh, Phasmo, Phasmophobia, uh, with them.
+I told them they'd have to drive out here and put a gun to my head.
+I wouldn't play.
+Yeah.
+Scary games can be a little, Hey, Alan likes to play dead by daylight.
+I.
+It's not, and you know, honestly, in watching him and hearing him explain it,
+it's not really a scary game, but, um, I it's, it's interesting how
+popular that game is on Twitch.
+My God.
+So anyway, pretty much so.
+Yeah.
+All right.
+Sorry, Jamie.
+You can go on with the next email.
+Seeing if Dan will come get Midna.
+Um,
+I was sorry.
+I was gonna say it funny.
+No, I mentioned Valheim and satisfactory.
+Those are all the same publisher.
+That's coffee stain actually.
+And they did the, you know, uh, the goat simulator games as well.
+So I guess I'm a fan.
+All right.
+Cool.
+Next email.
+Yep.
+Hello, LR.
+I was catching up on a slightly out of date episode from the end of January
+where a listener emailed asking about the best song and video games.
+During the discussion that followed, Rob mentioned electronic artist,
+Porter Robinson, and mentioned that he'd been influenced by BeatMania 2DX.
+Well, did you know that he has now appeared in BeatMania 2DX and BeatMania
+2DX 26 rootage, he appears as a virtual self with some particle arts.
+The genre is listed neo-trans and well, I'm not going to mince word.
+Song is a fucking amazing.
+Uh, he, he gave us a YouTube link.
+Um, this feels right at home in 2DX.
+That's for sure.
+I hope we can see more from him in the future.
+Um, I don't know if you got the link, Rob.
+I do, but I can't, I can't put it on on air.
+So, um, but you can, you could easily search for it on YouTube if
+you're curious what that sounds.
+So he's under another name.
+That's how I didn't catch it.
+He's on virtual self was the name.
+Yeah.
+A virtual self now out of curiosity.
+And if Shane is still listening, I know he's the DJ max expert.
+At least that I know is because I know Porter Robinson has a song and DJ max.
+Is that, does he show up under virtual self in that game as well?
+Cause I don't know why that name sounds familiar.
+Like I've heard it before.
+Okay.
+Okay.
+So Shane says that's under virtual self ghost voices.
+Okay.
+I was like, I swear I've heard that name.
+All right.
+Got it.
+All right.
+So to continue that said, I have a question.
+What is the best video game song and why is it super, uh, super street
+fighter two version of guile's theme?
+So, so, you know, true, um, lies, it may be versatile, but it is not the best.
+I have always been a bigger fan of reuse theme anyway.
+Lastly, I would say this on air, even if it's vicariously through the person
+reading this email, congratulations, Loki on not only releasing a game, but
+also releasing a really fun game.
+It's my pleasure to have had a hand in well to be, uh, associated
+with pixel poops.
+Number two, I am definitely looking forward to more news about the physical
+release, me too, as I'm sure many of the listeners are, but I also want to
+encourage everyone listening to check the game out either on steam or on itch.io.
+It's definitely worth your time and money.
+Anyway, thanks again for the show, of course, and to those who enjoy my
+games, please look forward to what's next, the final expansion of super multitasking.
+See you later, Aaron, Y Y R thanks for the email Y Y R.
+Um, I don't want to ignore the question about favorite video game song, although
+it sounds like you're catching up on back episodes, O L R and I want to say this
+came up in chat just like two weeks ago, if that, so we are, this is a little bit
+of a retread, but I'll quickly ask if anyone wants to kind of talk about, or at
+mention their favorite video game song.
+And I think when I had answered this question before, um, I said something a
+lot about like scars of time.
+I think the question was slightly different that was in chat.
+Cause I think if you were to say like, just like favorite video game song,
+Ooh, that is a toughie.
+Um, probably, I don't even know how to like, there's so many, probably
+probably Tara's theme from final fantasy six for me, but there's so many.
+I'm still going to probably stick with shallow's theme from Chrono Trigger.
+Okay.
+Okay.
+And act deaf said it was, he asked it and it was what song made you appreciate
+or notice video game music.
+Okay.
+So it was slightly different, but still, um, Loki, you have a favorite track.
+I don't even know.
+There's so many.
+Um, I like a lot of the stuff from DJ hero.
+Like, um, there was the remix that they did between, um, shout
+and piano.
+That was awesome.
+Um, outside of like DJ hero, I would say, I mean, I don't know.
+There's so many DDR songs.
+I mean, outside of like music games, maybe like some of the Katamari music
+or, um, you know, buggy running beats from rez.
+Oh yeah.
+Rez.
+I don't know.
+There's just, there's too much to choose from.
+There is, I think we have to exclude those stuff in, uh, in a, uh, rock band.
+Uh, as Bobby was suggesting, Tom Sawyer.
+All right.
+Well, besides that, I'd prefer working man to sing it all depends on
+how you want to interpret the question, but there you go.
+There you go.
+So, all right.
+I think that was it for emails.
+So a reminder, if you want to send us an email, that was it.
+All right.
+Participate at orange on trader.com is the place where you can send an
+email and get read on air as well.
+Um, I want to ask in chat, is there anything you guys want us to bring up
+or talk about here before we wrap it up?
+Otherwise I'm going to kick it over to Loki to see if he has any last minute
+stories, because I do feel like there was a ton of stuff you submitted that it
+was just like a lot of little things this week, but I don't know if there's
+anything you want to mention.
+There is a mod for Tekken to add Tifa into it, which makes me wish that they
+would just do a new Ergites game.
+Right.
+But it looked awesome.
+Like they have, they took Tifa from the new, uh, the, the final
+fantasy seven remake and just looks amazing.
+I mean, just like, give me a new, like.
+Ergits I would like that, or not even necessarily that like more
+of that crossover stuff.
+I could always use more crossover stuff in like different
+fighting games, um, would be amazing.
+Um, hell it'd be awesome.
+It's like having some of like the characters from the boys appear in
+like some of these fighting games, you know, like kind of, kind of like
+what they did with, um, Injustice and stuff like that.
+Um, gosh, I don't know.
+Yeah, it looks really good.
+Like it is surprisingly good.
+Um, let's see, let me try to see what else I had in there.
+Um, uh, six days in, uh, Flugia is coming back.
+So that was a shooter that was set in, uh, the, I, it was set in Iraq.
+And I know that was something we talked about years ago, but apparently
+now they're supposed to be like starting development on that again.
+So it'd be interesting to see if that ends up coming out at some point.
+Um, but yeah, um, interesting.
+And then what else?
+Uh, this weird, like concierge service that switch has now, where they're
+basically going to, um, kind of like walk you through like some of the features
+of the Nintendo switch and also do some sort of like, I guess, maybe
+recommendations for games as well.
+Um, so that's kind of interesting.
+And there's six, I guess, there's six half hour sessions to choose from.
+They have a switch one a one games, games, what to play next, security and
+privacy and head to account customization.
+And so it's kind of like a tutorial for the switch platform.
+So that's interesting, I guess, kind of going towards
+their like family friendly stuff.
+Um, here's one, actually, they didn't put in the show role, but I was going
+to mention anyways, it was because it brought me back to like Roosevelt
+golf land, um, where there was an arcade, uh, like some teenager got arrested
+for kicking an arcade machine.
+So it was one of those ones where you actually like have to punch it, like it,
+it, uh, registered, like how hard do you hit something?
+But, um, he had kicked the machine because it took a while to get to the
+machine because it took his money.
+And so they arrested him like, man, why can't they do that here?
+I guess we might have to rethink our, uh, ultra Cade thing from like 15 years.
+Well, it wasn't an ultra Cade.
+It was, it was something else, but yeah, it's, yeah, yeah, we're going to
+be in charges inciting violence.
+The chat just lit up about the ultra Cade thing too.
+I'm sorry.
+Some of you remember we talked, I don't even remember why it
+was kick an ultra Cade machine.
+I think they did something shady.
+And I think they were trying to trademark or a copyright maim is what it was.
+I remember taking a picture of dark soccer, kicking the cabinet at
+Roseville golf land and like putting it on either our website or whatever.
+So live journal, whatever social media we were using at the time.
+Um, dark soccer.
+Do you remember that?
+Me taking a picture of you kicking an ultra Cade?
+Yeah.
+So, um, what was that?
+Yeah, I do.
+Oh yeah.
+Um, so yeah, dark tissue says, yeah, I remember that too.
+Yeah.
+So, um, so basically I took pictures of dark soccer, committing a crime.
+That's so cool.
+They're going to such a rebel mayor.
+Put you in jail.
+Jail.
+This, uh, DJ says, I also sent a photo of me kicking an ultra Cade machine.
+Oh, that was probably back when the website, you could submit your own
+pictures and they'd show up at the challenge.
+Yeah.
+It was like a challenge.
+And I think we, like, we had a thing where you could send a picture to an
+email and it would show up on the website.
+And then of course, one of those shitposting sites found it and we had to
+take it down cause it just became obnoxious.
+So, but when it was working, it worked.
+It was a lot of fun.
+That memories.
+All right.
+Yeah.
+Is that it for last minute stories?
+Yeah, that's it.
+All right.
+Well, I'm not seeing a lot of comments in chat, so I think it is about time to wrap
+up, but I do want to thank everybody who's listening live tonight, whether you're
+listening live over at twitch.tv slash vog network, or if you're listening on our
+podcast, we really appreciate you being here and listening this week.
+Hope you all had a good Valentine's day.
+Those that are live are on podcast.
+And I hope you've had, have a great week with gaming.
+If you enjoyed what you heard here at Orange Lounge Radio, please tell a friend
+or two about the show.
+Help us spread the word because we are the show where every gamer has a voice.
+But if the voices aren't here to put out on air, then we don't have those voices.
+Um, if you feel like supporting the show financially, which you don't have to do,
+but we really appreciate it.
+Uh, check out our shop over at vog network.com slash shop.
+You can buy yourself a t-shirt or some other, like a sticker and some other stuff
+that's on there.
+And again, we're hoping to add to that in the coming months, but we're just, you
+know, we just haven't gotten to making the new products yet.
+Um, and, uh, what else do I want to say?
+Um, I forget.
+Oh, an auto host.
+What's that?
+Words.
+You were going to say some words and I remembered.
+Uh, an auto host here at Twitch.
+Those go a long way as well.
+So I really want to thank those that go out of your way to a host us here on Twitch TV.
+Um, thank you.
+Thank you so much for all of the support and helping us grow and continuing to do so in
+2021 as well.
+So, uh, with that, I think we are on final thoughts.
+So, um, dark soccer, I'll start with you.
+Your final thought.
+Um, I hate sinus infections.
+I'm glad I only have to take doxy one more day and my head feels like it's exploding from the
+inside.
+All right.
+Well, feel better.
+We missed you last week.
+I had an F you that I didn't, that I didn't get a chance to do, and I've brought to tell you about
+it.
+Go ahead.
+Fuck you to see a stupid black face in your movie for your stupid having a neurotypical actress play
+an autistic woman.
+Fuck you.
+Fuck your movie.
+Fuck everything about you.
+I don't ever want to hear from you ever again.
+I hope that you die.
+Penny, listen to gutter.
+Well, Loki, I don't know how you can follow that, but I'll ask you for your final thought anyway.
+Um, well, I'm going to take a break and if you haven't checked that pixel whoops number two, check
+it out.
+Same with the original and the Commodore 64 version as well.
+So go check those out.
+Like I said, I put it in the, um, that was at the, that independent game database.
+So hopefully that'll be up on Twitch eventually as a selectable option.
+And they say it takes 24 hours to update.
+So we'll see.
+Um, and Loki, get yourself out there, promote your game.
+I know you want to take a break, but I've been trying.
+No one has like story submissions.
+They get to like register for their website and stuff.
+And I've said stuff like to different publishing or like different sites, but it's just, it's a nothing game.
+I just thought, Hey, ha ha.
+And NES game is pooping.
+You know, you just click bait enough.
+You need one site to pick it up and then everybody else will copy paste it.
+Exactly.
+So good luck.
+Well, don't forget podcasts and things like that as well.
+You know, hit up some other gaming podcasters that we know, see what you can do.
+All right.
+Um, and then my final thought is, um, just I, how great that things have come full circle.
+I mean, we, of course have, thanks to YYR had an OLR joke game kind of become a real game before, uh, with Bungie ferret tossing and all that stuff.
+But for, for Loki to now kind of bring that to us and bring that full circle where it's like, not, not only did we think of the game or dark soccer thought of the game, but then Loki made the game.
+And I, well, it's shake and bake and I helped, um, that's pretty much it, but, um, but the fact that that's really come full circle where now OLR has, has impacted games like that, I think is a really awesome thing.
+So keep gaming, keep making, keep creating, whether it be games or whatever art you're into and just have yourself a wonderful week.
+Everybody we'll see you in seven days.
+Good night.
+Bye.
+You've been listening to orange lounge radio.
+Orange lounge radio is a production of OLR studios to join us for a live show.
+Tune into vog network.com Sunday nights at 6 PM Pacific 9 PM Eastern the views and opinions expressed in this program do not necessarily reflect those of the staff of orange lounge radio or vog network, but you know, they were all still true.
+See you next week.

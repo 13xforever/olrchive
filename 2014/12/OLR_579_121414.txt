@@ -1,0 +1,5088 @@
+Orange Lounge Radio
+These are hosts, DarkSakura, Skie, and Loki
+Tonight we interview Max, Philip, and Jeffrey of Cooking with Unity, a web series of YouTube videos that teaches you how to create video games using Unity step by step in detail. We'll take your questions live and chat along with your comments, calls, and emails right now on the show, where every gamer has a voice.
+Orange Lounge Radio
+Hello my friends out there on the internet and welcome back to another week of the show where every gamer has a voice. It is Orange Lounge Radio, live with this, our 579th episode, December the 14th, 2014, live as we are every Sunday night at the Voice of Geeks Network, vognetwork.com, 6 o'clock Pacific, 9 o'clock Eastern-ish, right after the Bobby Black Wolf show.
+My name is Rob Roberts, here with you to talk about video games, gaming culture, and the gamer lifestyle with my co-hosts. Say hello first off to the one and only DarkSakura, or Jamie Summers.
+Maybe I should just go by Madame Spanky, I don't know.
+You do have a very hoarse voice tonight, I don't mean like a...
+What happened? Are you okay?
+I had the plague.
+Oh, I thought maybe you went to a New Kids on the Block concert and were screaming really loud or something.
+No, everyone at Locat has had the plague and I starved it off for a solid two to three weeks and then it finally got me and then when it got me, it really freaking got me.
+Well, as long as you don't give it to us here in the studio.
+You know, that's so rude. You should be like, oh, I hope you feel better and then go take some vitamins. I'm kidding.
+People always say that and I'm just always like, you know what, maybe it just always strikes me as a little bit odd.
+Because all I've been hearing is, don't get me sick, don't get me sick. I'm like, don't you want me to feel better?
+Of course we want you to feel better, but you know...
+I'm not getting you sick.
+I mean, either you're going to feel better or you're going to die. There's no like...
+I don't know, death might sometimes make you feel better. No, I'm kidding.
+Kidding, kidding, kidding.
+But it turned into an upper respiratory infection, so...
+Yikes.
+Yeah, I took codeine today.
+Well, you know what'll fix you right up is some coffee. That's what you need.
+I'm drinking some, but I can't taste it.
+Well, good luck, but...
+It tastes vaguely like coldies.
+If we hear a little less from you tonight, this is why, because you're obviously...
+Even when you walked in here, you were sign languaging me, basically.
+Or that, or you just really wanted to flip me off for something I did. I don't know.
+No.
+All right. And they're even asking in chat there, does Jamie need to be turned up a little bit?
+Probably, but she's just also a little... She's just quiet, because...
+I could try talking like this.
+Hey, what's up, bitches?
+You're fine. Your audio's fine. You're just a little... You're a little weak tonight.
+Well, he's not weak tonight. He's here, strongest ever. Say hello to Techmaster Loki.
+I eat too much too fast, I think.
+Uh-oh.
+Yeah.
+I hope you don't get the other kind of sick.
+No, no, no, no. I skipped lunch today, because I was working on the show, rolling stuff,
+and then I was just tired and I was gonna take a nap because of the kids.
+And so I didn't bother to get up from the couch to make lunch.
+And so then I just got the bacon ultimate cheeseburger. I know, a very light meal.
+And then I just ate that really fast, and I'm like, oh, wow. I'm really full now.
+Oh, that hurt. That hurt.
+A power meal to get you through the show.
+I'm just uncomfortably full, but that's all right.
+All right.
+Let's see, going to our chat room over at live.vognetwork.com if you want to participate with our show,
+because, again, we tape live on Sunday nights at vognetwork.com.
+You can join us in the chat, live.vognetwork.com.
+Black Wolf, Bobby Black Wolf, our pal who's on before us, saying,
+Jamie channeling her inner Travis Donovan with that what's up, bitches.
+Our good pal from under Sedation Live, which is Saturdays here.
+So there you go.
+Let's see, DarkSakura, you wonder. I just have to say this comment because you're talking about this.
+I wonder if I should try making a webcomic in Unity.
+Well, why not? Maybe you should.
+I want to do it dating sim style, you know, with image, image, image,
+because I love Homestuck, how it's got all the animations and whatnot,
+but I hate how all the text is at the bottom.
+You have to scroll through 50 million piles of, you know, stuff.
+Well, if you make it, you can put it at the top.
+They do have, I have seen in the assets store,
+they did have something for, like, dating sim style game,
+like a system already built out, you know, for that.
+So, but I've had the idea of doing it that way for a little bit, so.
+Well, let's talk about why our chatters are talking about Unity tonight,
+because we do have some special guests coming on the show in about 45 minutes here.
+Loki, I'm going to have you talk about these guys,
+because this is actually a show that you've referenced quite a bit
+in the making of your own game that you're trying to make right now,
+amongst, you know, New Job, amongst Raising Kids,
+amongst Ultimate Bacon Cheeseburger.
+Yes. So, yeah, so I don't even remember how I came across them.
+I'm sure probably just looking up information about Unity on YouTube
+and stuff like that, just kind of trying to learn wherever.
+And I found the show, and it was just very informative, very entertaining.
+You know, that's incredibly important, and it's just fun to listen to.
+Like, even, you know, while I'm working on my stuff and programming stuff,
+I just love listening to them, and just...
+Does this show have a name?
+Yes, I'm getting there. Hold on.
+Oh, sorry, you're building anticipation.
+So, anyway, so, yes, well, the show is Cooking with Unity,
+and hosted by Maximilien Moreau,
+and, of course, he has Jeffrey and Phil on the show as well.
+Occasionally, sometimes they're there, sometimes they're not.
+But they do a show twice weekly, or originally it was twice weekly,
+on Monday, and then also on Thursdays.
+Thursdays tends to be, like, a 2D episode.
+So they'll do, for example, two different games kind of at the same time.
+So, one, I think they were working on, like, was it last week?
+It was, like, a rail shooter.
+So kind of like House of the Dead, I guess, if you want to,
+you know, something like that, for the 3D show.
+And then on the 2D show, they're working on a project called Fight Go Right,
+which is kind of like a beat-em-up, you know, 2D arcade game,
+like Ninja Turtles or, you know, the Simpsons arcade, or Final Fight,
+or something like that.
+And so, kind of the two different styles in there.
+Plus, now Max has been doing a show in the mornings called, you know,
+Breakfast with Unity, which actually started off about,
+it'd be like 10 to 15 minute shows.
+I've been noticing they've been getting longer and longer,
+which is cool, because he goes over kind of quick little tips on-
+That's okay, when the Orange Launch Radio podcast started,
+it was supposed to be 45 minutes.
+And now-
+Oops.
+But yes, absolutely entertaining.
+What's kind of cool though is they interact with the people that are listening
+or watching the show live, and so you can ask questions about things,
+you can make suggestions on stuff,
+and it's just kind of nice to have that live feedback, you know.
+And also, you know, he invites everyone on every show, you know,
+hey, if you have a question about something,
+or you just, you know, need some help on something,
+just send me an email and, you know, I'll help you out.
+And it's really nice.
+And I love their attitude, you know, I can't profess to know as much about Unity,
+I'm not as into, quote unquote, the programming side,
+but I love that these guys, at the end of their videos,
+they talk about, you know, in their descriptions too,
+they say, you know, go download Unity and make a game.
+You know, that's very much kind of like their message,
+is that more people should, you know, basically be making games.
+And I love that, because that's kind of the type of thing
+I've always said about podcasting,
+because I've had people come to me and say,
+well, Rob, I want to start my own video game podcast,
+but I don't want you to be mad or see me as competition,
+because I know you've got a video game podcast.
+I'm like, it's not, no, no, no, it's not like that.
+I want you to make your, that's like the ultimate compliment
+if somebody goes and creates their own podcast.
+We need more indie voices out there.
+Go forth and podcast, please.
+That's a great thing.
+So I love that they bring that kind of message to games.
+We need more people making games.
+I love that.
+And I haven't caught up on all the back videos I missed,
+because I came into it a little bit late, but...
+There's a lot. I had no idea where to begin.
+Yeah, they've got like a couple series,
+highly recommend that they've done.
+One recently, which I just think is fantastic,
+and I'm probably going to go look at it a bunch
+when I'm actually getting to publishing,
+but it's from scratch to publish,
+where they literally make a game,
+and I even have it on my phone, you know, it's fun,
+because my phone actually tries to play it on its own sometimes,
+because it's possessed.
+But they start, and they make a game from scratch,
+and he goes through all the steps to even getting it published
+on iOS, on the Android store.
+I noticed that.
+Windows store, yeah.
+It got into a lot of like, not just here's how you program,
+but here's how, you know, all that other stuff
+that sometimes a programmer doesn't want to have to get involved with,
+but you do.
+Yeah, so it was very informative,
+and then he's got like some other series.
+He did one which was like a Star Fox style game.
+I think I saw one, a pinball in there.
+One that I looked at, because it was short,
+and it was their little featured video on their page,
+was the one where they made the game in three minutes.
+It was kind of like the reverse kaboom,
+where you don't try to catch the bombs, you try to avoid them.
+Instead, it was such a like,
+it kind of gets back into what we were talking about, you know,
+and it's kind of been almost a running theme on this show
+over the past month ever since YYR unveiled pixel sheds here on,
+yes, that was the game he made,
+and I think he did that in Unity, right?
+I don't know if he's used their videos,
+but he used Unity to make that very Atari 2600 game,
+and we've talked about how sometimes it's just the idea.
+Like, you don't necessarily need all these like gung-ho
+Final Fantasy-esque graphics,
+although that's a nice thing for games to have.
+You don't necessarily need that.
+So, I mean, this game that they did in three minutes,
+and they're like, time me, and the whole thing,
+was a stupidly simple concept.
+I mean that in a complimentary way
+that was executed quickly and easily,
+so it was really cool,
+and it just kind of went to show like,
+oh yeah, you really can do this if you're just willing to,
+you know, put a little time in learning it.
+So, they will be on the show 45 minutes, give or take.
+We'll have them on the show,
+and you can ask your questions live,
+if you happen to be listening,
+over at live.vognetwork.com.
+Before we get there, though,
+to the Cooking with Unity guys,
+which, quick plug for their site, of course,
+if you want to look at their videos,
+you know, when you're done with the show, of course,
+cookingwithunity.com just takes you right to their YouTube page.
+Yeah, they also have a Patreon,
+and also, I believe, YouTube slash pushypixels
+is their channel, I want to say.
+Alright, we'll let them plug all their stuff they want to plug.
+They got Twitters and all that stuff.
+We'll get that a little later on,
+but let's get into, we got to talk about video gaming,
+and what's been going on,
+because this week was a little less crazy than last week.
+Obviously, last week was a very atypical week
+for a December news pattern with the PlayStation experience going on
+and the game awards happening.
+We had a lot of news come in last week,
+so things have started to slow down a little bit this week,
+but there's still quite a bit going on,
+and so I want to talk about this big one to start,
+because this is something that's outside of even just gaming.
+This is something that has started with something you've heard about
+on the nightly news.
+You've heard about it everywhere,
+and that is about the hack that took place of Sony Pictures.
+The two are not tied together, Sony Pictures and PlayStation,
+other than the obvious partnership,
+because at the end of the day, it's the same parent company,
+so a lot of the stuff they pitch to you on the PlayStation Network
+are movies made by Sony Pictures, right?
+But that's, I mean, just because Sony Pictures got hacked,
+it didn't really affect the PlayStation side of things at all,
+but certainly this is the second time in less than five years
+that Sony has had to deal with a major, major hacking issue,
+and there's been a lot of stuff exposed because of this hack,
+and some of that has to do with very tabloid sorts of stuff,
+like what did this director say in this confidential email
+about Angelina Jolie and so forth,
+but it's also been very interesting into how Hollywood really works,
+and it's really been eye-opening for a lot of people,
+not always in a positive way.
+And certainly there's an ethical debate to be had about that,
+about should we be analyzing all this stuff that came out of a hack,
+but I don't really want to have that debate today
+because I can't really talk about should it or should it not have happened.
+It did happen, and now all this stuff is out there for us to sort of analyze,
+and us turning our back to it and saying,
+La-la-la, it didn't happen is not going to necessarily make it go away, right?
+So that all being said, one of the big things that's catching a lot of gamers' attention
+is this talk of is Sony about to make a Super Mario Bros. movie,
+and how the fuck does that even work when Super Mario Bros. is a Nintendo thing?
+Nintendo has said we're never doing a movie again
+because that John Leguizamo Bob Hoskins movie was so bad,
+Dennis Hopper, right, in that too.
+It was so, so bad we're never doing a movie again.
+How does it even work when Nintendo teams up with their quote-unquote enemy to make a movie?
+Now quickly, if you haven't heard about this,
+some of the information that came out of the Sony Pictures hack
+were some emails that went back and forth between producer Avi Arad
+to Sony studio chief Amy Pascal.
+And in the emails, which were dated, like this is recent.
+This is not like, this is a project that happened four years ago that got shelved,
+this email was from October 23rd.
+And the producer said, I am the proud father of Mario the Animated Film.
+And he sent pictures with Shigeru Miyamoto, Satoru Iwata,
+and one of them actually said, happy CEO, let's get together, it's the mother lode.
+So essentially this producer went over to Japan, had a meeting with the Nintendo higher-ups,
+and apparently, and we were having to kind of read between the lines a little bit,
+you know, again, consider that this information, we're not supposed to know.
+We are not supposed to know this, but it got out.
+So take it with a huge grain of salt.
+But apparently what happened, the Sony producer went over there,
+or the producer went over there and pitched the movie.
+It's supposed to be an animated film.
+Yeah, I was going to say, I could see that as an animated film.
+Which also makes a little more sense as to why Nintendo might be on board,
+because it wouldn't necessarily be like a live action thing.
+Nintendo has been experimenting a little bit with the animated film.
+They had the Pikmin movies that showed up at that Japanese film festival
+that Miyamoto actually was a big part of.
+So certainly Nintendo's dipping their toe in the water of these animated films.
+But I'm sure a lot of people are asking, well, why Sony?
+But, well, why not Sony?
+Because they're a motion picture studio.
+They've got, you know, an animation studio.
+Nintendo doesn't have an animation studio.
+I mean, so your choices are, I think, I mean, I don't know if they're limited,
+but if you're looking at really big animation studios,
+I mean, you've got Pixar and Sony Pictures Animation, DreamWorks Animation,
+and there's a lot of other smaller ones out there.
+But, I mean, it makes sense.
+I mean, look at, and also kind of look at how they treated their properties.
+You know, Sony, I mean, they've got a Ratchet and Clank movie coming out
+that looks pretty awesome.
+And I don't know about the, what was it, the other PlayStation 3 title
+that they made an animated movie, whatever.
+That one wasn't that great,
+but the source of material wasn't that great to begin with either.
+Let me jump in here in the chat room
+because a lot of people saying this in our chat over at live.vognetwork.com,
+and Rama starting us off saying,
+Sony Pictures is technically different from SCEI,
+so it's plausible for this to happen.
+And, yeah, I think that's the important thing is that even though at the end of the day
+you have Sony, and then these are different divisions of Sony,
+that agreement that Nintendo may or may not have with Sony Pictures
+doesn't necessarily have to carry over into PlayStation.
+Like, and I'm sure that is very explicitly stated in the contract.
+This does not mean that Mario's going to show up on the PlayStation,
+so get those fanboy images out of your head.
+You're not going to have Super Mario the Game,
+or Super Mario the Movie the Game.
+What was it called when they did it with Street Fighter II?
+The movie was, the game was so bad.
+It was Street Fighter the Movie the Game.
+Street Fighter the Movie the Game.
+You're not going to have Super Mario Brothers the Movie the Game
+show up on the PlayStation 4.
+That's not going to happen.
+And I bet Nintendo has that all very clamped.
+There would be no, and Nintendo probably has 100% control over the merchandise
+because merchandising is something Nintendo really wants to get into now,
+probably especially after what's going on with all this amiibo crap that we get in later.
+I got to say it.
+Merchandising.
+Right?
+So I'm sure the agreement is very much this is about a movie and only a movie.
+And, you know, but as they say in the email, it's the mother lode.
+I mean, an animated Super Mario Brothers movie,
+I mean, there's an instant audience for that.
+You don't even need to see a trailer for it.
+You really don't.
+Heavenly Sword was the title I was thinking of,
+because they did a direct-to-video animated movie and it was just crap,
+but Heavenly Sword wasn't that great to begin with.
+Yeah.
+Directed to you in chat saying,
+who was behind Final Fantasy The Spirits Within?
+Was that Sony?
+That was Sony.
+Yeah, but Square Pictures was a part of that.
+That was a division that Square created and faded away real quick.
+A company that I wish would really do more stuff,
+because it wasn't bad.
+It was just not Final Fantasy.
+It's just they kind of it's as much Final Fantasy as was like,
+I don't know, the Castlevania game.
+Honestly, there was a lot in that movie that was kind of ahead of its time,
+but we digress here a little bit.
+So what do you guys think when you hear about a Super Mario Brothers animated movie?
+Do you think this is something that should happen,
+or let's stop with these video games?
+Video games should be video games.
+Movies should be movies.
+When they cross over, it rarely does well.
+No, no, I think it's fine.
+I mean, especially if it's animated.
+That'd be fine, because it's when you do the live-action stuff
+that doesn't really make any sense.
+Look at how many Pokémon movies have we had.
+I mean, seriously, it's based off a game, so there's no problems there.
+I don't see why this would be a problem.
+Animal Crossing movie, I don't know.
+I didn't see it, but I heard it wasn't bad.
+My biggest concern about a Mario movie would be the voice of Mario
+would be so, so important, because Mario, I mean, Mario has a very distinctive voice.
+Obviously, Charles Martin.
+Of course, it's going to be still him in the movie.
+But Charles Martinet never says anything besides the wahoo, yahoo, and all those voices.
+Mario doesn't really have...
+He'll just get Troy Baker to do it.
+He does everybody, so that's fine. He can do it.
+But I can imagine that Charles Martinet is going to be asked to voice the entire movie.
+With all due respect to the fantabulous man that Charles Martinet is,
+I would just think that Sony would probably want to barter for some name-recognizable talent
+as painful as that is for a lot of you guys to hear.
+That's the reality of the harsh business in Hollywood.
+Look at some of those other emails about Andrew Garfield and Spider-Man for what I'm talking about.
+I think it'll be fine.
+Just like, you know, there are people that can do the Mario voice that aren't him.
+Right, and I do think, well, Captain Lou, rest in peace, also pulled off an amazing Mario.
+It was a different Mario, but it was an amazing, memorable Mario that was a big part of our childhood.
+So to say that nobody else besides Charles Martinet can portray Mario would not exactly be right,
+because Captain Lou had a different, but awesome Mario.
+But that's where we get into the tricky thing, because if we bring in another talent,
+then should it be different from the Mario we know in the games?
+Here's the tricky thing is...
+Then is it really based off the game?
+Here's the tricky thing is when you bring in talent and they're better than the source material.
+Perfect example.
+Heath Ledger as the Joker.
+No one's going to be able to compare to Jack Nicklaus' Joker.
+He was fantastic, and then...
+I mean, the guy that played golf.
+Jack Nicholson.
+Jack Nicholson, whatever, yes.
+The golf guy was good, too.
+But anyways, Jack Nicholson, you know, hey, I'm a fan of both, so that's fine.
+So, you know, no one can compare to him.
+Heath Ledger, that's a terrible casting.
+And then they saw it and they're like, oh, never mind.
+No one's going to be able to...
+Now when, you know, the next, you know, was it the Batman Superman movie comes out, you know,
+now it's like, I think there's going to be another Joker in there.
+Or, I don't know, Suicide Squad.
+Yeah, the new Joker's in Suicide Squad, and that, I mean, not to digress into a movie podcast,
+but I mean, they're lining up some huge talent for that movie.
+They're talking about Will Smith in that movie.
+And I don't know if it's fan wank or whatever, but there's been talk about Oprah playing Amanda...
+What's... Jamie, who's the head of the Suicide Squad?
+Well, it's DC. I mean, who's the head of the Suicide Squad? Amanda?
+This is why I give you this flat look, like, the fuck do I read DC? No.
+Okay, well they're talking about putting Oprah Winfrey in the damn movie, and I'm like,
+is she really going to be... But then the comic book movies are huge.
+Oprah was in The Color Purple.
+Yeah, I know, I know.
+She was awesome in The Color Purple.
+If there was going to be a real-life Suicide Squad run by, like, you know, a powerful woman,
+then yes, Oprah I could see doing that.
+But anyway, and then who's the...
+What is the guy's name that got to play the Joker?
+Jared Leto.
+Who I think all the way back to... Wasn't he on My So-Called Life?
+Wasn't that where he started?
+I don't remember, but...
+Or one of those, like, 90s shows or something.
+And then he did the band. He had that band for a while, and now he's doing this.
+And so he's going to be the Joker, and now you're right.
+Everybody's going to inevitably compare him to...
+Heath Ledger.
+Heath Ledger.
+Same with Batman. I mean, Batman, they've been doing that, you know, comparing...
+It's true.
+It's just, it's a different take on it, and honestly...
+I don't know, I think...
+Amanda Waller, thank you.
+So that's why I'm not seeing if they come out with...
+If he's going to have a different voice in the movie.
+It's not a big deal.
+I don't think it's going to...
+As long as it works, I don't have a problem with it.
+Yeah.
+If it's really weird, then yeah, that's going to be...
+Okay.
+What other quick thought on this, and then we'll get into our gaming weeks.
+This could be interesting.
+I mean, who knows what's going to happen because of the hack now.
+Mario may get cold feet and pull out of this all together, and the hack may have fucked this movie.
+I mean, who knows?
+No, I doubt it.
+Movies end up in development hell all the time.
+Just because this conversation happened doesn't mean the movie was ever, ever going to end up really being a thing.
+But it does open this interesting door.
+I mean, if Mario's going to end up being an animated thing, you know, every Friday on the Super Mario Brothers Super Show...
+What did they have every Friday?
+The Zelda cartoon.
+Screw that show Monday through Thursday. It was all about Friday with no disrespect to Captain Lou.
+But it really was all about Fridays and the Zelda cartoon.
+And again, creating that very distinctive character that wasn't necessarily the same one from the games.
+Excuse me, princess.
+When has that ever been uttered in one of the games?
+They really should reference that.
+They really should, actually.
+But anyway, you can see the point I'm getting to.
+If a Nintendo Mario movie comes out, could Sony soon make a Zelda movie?
+Is an animated Zelda movie the type of thing you guys would want to see?
+Or do we need to see IGN's April Fools trailer from six years ago expanded into a full movie?
+Both.
+You want both.
+Also, speaking of IGN, I would also like to see their series. What was it? The Hogwarts Detective series or whatever that they had?
+Where it was like a cop drama set in the Harry Potter world. Yeah, I'd totally be down for that, too.
+Alan Alchemy in our chat room confirming that Jared Little's big break was my so-called life.
+Thank god I haven't forgot my 90s pop culture trivia. Phew.
+I could still kick butt in a game of Trivial Pursuit.
+Some various people in chat talking about Amanda Waller and the different portrayals.
+We have Brad from Pod Culture coming right out and saying, fuck the new 52.
+So, not always popular, the reboot there.
+So anyway, and Akuma JP singing along.
+Friday, Friday, gotta get down.
+No. Stop.
+You know what? She did a sequel song called Saturday and it was actually kind of good.
+She milked that 15 minutes of fame.
+Well, the Saturday one is totally just making fun of Friday, but it was pretty funny.
+Back to the movie chat. We get on tangents sometimes on the show. Back to the movie chat.
+What you don't say?
+Dark Sakura, Mario animated movies, is that something you'd be down for?
+I think the Robitussin face that I just made sort of applies to that, too.
+So no, that was a very much do not want or it's nope o'clock face.
+It might be good for me, but I don't really want it.
+I'd be down with a Mario movie as long as it's set in like the Super Mario RPG universe,
+because they had some pretty awesome characters for that.
+All right.
+I do kind of miss the old Super Show cartoon, because that was fun.
+Actually, the ones I liked were the Saturday morning ones that was set in the Mario world.
+Oh yeah, the later ones, right?
+Yeah, those were good. Those were good. I like those.
+All right, well, we will maybe see what comes of this, because my other big question,
+would it be traditional cell animation like the old cartoons,
+or would it be like that more modern CGI, Viva Pinata looking thing?
+Well, I was actually going to say if they did a Zelda one,
+it would have to be a bit more serious and not the 80s cartoon style.
+Right. Viva Pinata. There's a franchise that Microsoft really wanted to force down our throats
+into becoming popular. It just didn't happen.
+I'd like to see something the way that you know how Street Fighter IV is done,
+with that sort of 3D yet 2D-esque.
+Kind of that jump out at you animation?
+Right, where it's got the appearance of cell shading, but not quite.
+A comic book in motion.
+Yeah.
+That's kind of what that looks like to me.
+Or like Borderlands.
+Yeah.
+So, was it a cartoon shading with an outline?
+Super Smash Brothers on the 3DS, basically.
+I just think that it would lend itself well to Zelda.
+All right.
+If it was going to be an animated thing.
+Some quick comments from chat to wrap this all up,
+and then we'll get into our gaming weeks.
+Because it is a show where every gamer has a voice,
+and some of the voices in chat right now.
+Raginator says,
+Hell, I'll take any Zelda movie, live-action or animated, so long as it's good.
+Rama saying a live-action Super Mario Brothers movie would be great,
+provided it's his fantasy setting like Willow.
+And some comments on Viva Pinata.
+YYR saying Viva Pinata was actually a pretty good game.
+Magma Lemur. I don't think I've seen that before.
+Magma Lemur.
+Magma Lemur, sorry.
+Saying Viva Pinata was a fine game.
+And if I remember correctly,
+I want to say it's one of the free games of gold games that's coming up pretty soon.
+I think it was a while ago.
+A while ago.
+Oh yeah, because I didn't download it.
+I'm like, Viva Pinata.
+I played it when it came out.
+All right.
+We're going to get into our gaming weeks.
+We've got plenty more news to get to,
+but let's talk about our gaming weeks first
+and the types of video games that we have been playing this week
+to help you establish, like where's our head at
+when we're talking about all these games this week?
+What games have been filling our brains this week?
+Dark Soccer, I'll start with you.
+I've been playing a lot of Dragon Age.
+Oh yes.
+A lot.
+A lot.
+I hit 40 hours on my starting my second playthrough.
+And she's still in the Hinterlands.
+No, I'm not.
+Actually, I keep going back to the Hinterlands whenever I need elf root.
+Although I did find, of all places,
+a really good place to get elf root and blood lotus
+in the western approach in the desert.
+Why 40 hours?
+What has grabbed you about this game for 40 hours?
+I'm just running around doing shit.
+Really.
+I'm MMOing it.
+It keeps you a busy bee?
+I'm MMOing the lawn.
+So Dragon Age, I almost want to say Dragon Age Origins,
+but Dragon Age Inquisition is like an MMO without the other people.
+Exactly.
+That makes it perfect.
+I'm serious.
+Because then I can just have, because I run it through Steam so I can screen shot it.
+After this playthrough though, I'm going to go in and set up the cinematic tools.
+So I can go in and take pretty screen caps and whatnot.
+But I've been doing this odd thing where because I've been delirious on coding for the last couple of days,
+I've been creating my own dialogue in my head.
+So now my Inquisitor is just this utter airhead who's like, everyone's like,
+we're dying, we're being killed.
+She's like, look, I found blood lotus.
+Help me gather.
+But the quillbacks, blood lotus.
+Is that like when Alan and I watch the nightly news and we mute it
+and then we just talk instead of the anchors when they're saying to each other?
+That sounds awesome.
+We're really good at that game, by the way.
+I've actually just been tempted to make a stupid video.
+I've been tempted to make a stupid Tumblr just for the weird dialogue
+that goes on in my head during that game.
+I've already started putting some on my regular Tumblr and I'm like, I can't.
+I don't know.
+D-A-I-M-H. Dragon Age in my head.
+Well, actually a few someones have said, are you going to do Dragon LoL?
+Like you do LoL Effect?
+And I'm like, fuck no.
+Do you know how long it takes me just to think of something for Mass Effect?
+Haven't you talked about, you were mentioning to me the other day,
+you were trying to do some broadcasting with it, but it was kind of bumpy.
+No, no, no. I wasn't trying to do broadcasting.
+Raginator kept wanting to watch me play.
+Oh.
+And it worked fine a couple of times, but every other time it's like,
+freeze the game and it would eventually unfreeze and I could save this last time.
+Here I was freshly on a dose of Coding Cough syrup
+and when I am on opiates, I will switch from moods like you will not believe.
+And I was like, I can't, I can't, I got to turn off the game.
+It better save. My last save corrupted. What am I going to do?
+And then it worked.
+And then I ended up playing like another fucking 15 minutes.
+That's probably the whole conflict between the fact that Dragon Age is not really a Steam game
+because it's all on Origin.
+And then I was like, but wait, I play this game so I don't have to play with other people.
+I don't want anyone to watch. Watch me run around in circles.
+Well, turn off the broadcasting then.
+Well, no, I'm gonna, I'm just going to deny him in the future.
+But like half the thing that I do is like, can I jump up on this cliff?
+I found half the shit I found by trying to climb rocks.
+I just keep, I keep my broadcast channel open all the time.
+I don't care. I still try to do that.
+If somebody wants to watch me stream when I'm playing, then that's fine.
+I am not an exhibitionist like you, Rob.
+Well, but I always say, don't expect me to entertain you.
+Like if I do a Twitch stream, then I'm going to be on cam and make witty commentary.
+But if you're going to tap in and watch me playing something on Steam,
+that's what you're going to see is me playing something on Steam.
+I'm not, you know, I'm usually trying to relax and do that.
+But at any rate, my big thing lately is I'm just really running around and exploring.
+You know, I want to, I'm actually customizing my castle right now, which is like,
+oh, we've got this big guy out of here with red shit growing out of his face.
+We got to stop him or he's going to destroy the world.
+And I'm like, blood Lotus.
+All hail Skyhold. It is the best castle ever.
+I will decorate it with all the things.
+Can you quickly tell us about that funny thing we were talking about on Steam chat the other day,
+the staff of sad or whatever it was called.
+The sad weapon.
+Whoa.
+I have, I have slayed dark soccer with this sad weapon.
+It's like Mark something mace.
+It's a banana nailed to a stick.
+You find a schematic for it and it requires three sad splinters to make it.
+It is a banana nailed to a stick.
+So I've decided that maybe if, if, you know,
+when a gamer X happens this next year,
+I'm actually thinking about doing some kind of dwarf cosplay because I'm short and you know,
+buxom and I have decided that if I cosplay a dwarf,
+she's going to carry around the sad weapon.
+Nice.
+The banana on a stick.
+The question is who will get it.
+But I bet that there'll be a lot of people probably that actually get that.
+So I also have a slight regret and that's putting a Varick in the scout meal
+because he needs to show off his, his carpeted chest,
+his carpeted dwarven chest.
+All right.
+Manly chest hairs.
+All right.
+I played other shit.
+Okay.
+Well God, you could talk for three hours just about dragon age.
+Clearly I played some final fantasy today so that I wouldn't get kicked out.
+14.
+Right?
+Yes.
+So I wouldn't get kicked out.
+And um, I've played some flux.
+Okay.
+And I have an odd addiction to a game called Moonlight Mahjong.
+Makes me feel like I'm 70 years old, but I fucking love that game.
+I have no idea why, but whenever I just need something mindless to do, it's Moonlight Mahjong.
+That's it.
+Awesome.
+All right.
+Uh, Loki, how was your gaming week?
+I just, my son has been playing a ton of Lego Marvel superheroes, so I had to play the game too.
+So I finished the game, at least the story portion of it.
+And I'm still trying to, I guess trying to platinum it.
+But the thing is, now that I've been playing it more, I'm starting to notice all the bugs.
+And um, yeah, it's, first off, okay, I had to reinstall the game because it crashed,
+it would crash like all the time and it was really annoying.
+So I finally reinstalled it and that seems to fix that part.
+But now I'm getting weird glitch issues where, you know, I'll play as a character or something.
+And like I had one the other day where I couldn't control the character very well.
+Like it would only go in one direction and not the other directions.
+And end up having to kill him with another character in order to get control of him again.
+But um, what else?
+Oh, and then for some reason, they have like these racing segments you have to do in the game.
+And the flying controls aren't very good, so you either go slow or you go super fast and can't control it.
+And you know, trying to go a little bit faster or just kind of control things, it just goes out of control very often.
+And the racing, they have racing controls.
+So your driving controls are just, you know, gas break and left right and that's steers.
+Okay, well that's how it is for the cars.
+But then they have these little RC car type things where they're like,
+Hey, you know what, let's just fucking change the steering control altogether.
+Let's just have it gas break and then you have to push in the direction that you want to go.
+So like if I want to turn and I'm going to the left, I have to push down, which makes no fucking sense.
+And so I was getting super frustrated with it because I'm trying to go, it's literally like just an oval track that happens to be on a roof.
+But the car just veers off the edge and just flies into the ground.
+I'm like, fuck this, I don't want that stupid car that this thing unlocks.
+Anyways, but I can't get platinum in the game if I don't finish it and it's really annoying.
+But it's fun. I have been unlocking some characters, you know, my son's now a fan of the song that plays.
+Well, in the credits and also in the home screen for the game, which is the Mary Marvel marching song or something like that.
+It's basically, I think, the Stanley's fan club's official song or something. So he's like really into that.
+And then he's been enjoying playing Loki because now I have Loki unlocked. So it's fun.
+And then I finally figured out how to customize my character.
+So I have a character with Thor's hammer and Loki's helmet and a goatee and stuff.
+That sounds awesome that you've been able to be doing a lot of gaming with your kid.
+Yeah, he's been very obsessed with it though. Like he gets mad if you have to turn the game off.
+So yeah, we're working on that. But yeah, he can actually play it now.
+I'm just trying to get him to be able to do it without me having to help him.
+Switching characters is what he has trouble with usually.
+Alright. My gaming week, if you're all done.
+I am.
+My gaming week, not a lot of new stuff to talk to you guys about.
+I've been playing a lot of the same stuff, you know, because not a lot of new stuff's come out.
+I've continued to play Final Fantasy XIV, which I decided to level a gladiator who's now a paladin for no particular reason.
+But Alan made my little female lala, I play a little female lala, an entire set of all-pink armor.
+So I look adorable. So that's kind of one thing I've been doing in Final Fantasy XIV.
+I played Geometry Wars 3 earlier this week.
+And I actually played over SharePlay because Extifer saw me playing and he's like,
+I don't know much about that game, but I really like twin-stick shooters because he's really into super stardust.
+So Extifer, if you listen to my other show, Hoard House, you know Extifer.
+He was like, can we do the SharePlay thing?
+And I was like, sure.
+So we hopped on SharePlay and then I realized, oh, he doesn't just have to watch me.
+Geometry Wars has that whole co-op built in.
+And it has the, you can play online mode, but then there's also the couch co-op.
+But thanks to SharePlay, you don't really need the couch.
+You can have the virtual couch.
+So we actually played a little bit of that and it actually ran.
+You would think there'd be a lot of lag, especially in a shooter.
+It ran really well and Extifer was able to hold his own pretty good on Geometry Wars over SharePlay.
+So thumbs up to that SharePlay technology because it's really unlocking new uses in these games.
+So being able to play Geometry Wars on the big virtual couch was a really awesome thing.
+So that was cool.
+So more Geometry Wars 3.
+And then one new but not really new thing that I've been playing a lot of this week,
+and this might surprise some of you guys.
+I've been playing a lot of Final Fantasy XIII on Steam.
+As you guys probably know, Final Fantasy XIII came out on Steam a couple months ago
+and a lot of people weren't happy with it because it had some really weird issues with the graphics.
+Such as you could play in a window that was 720 pixels, that's it.
+Or you could play it full screen, 720 pixels, that's it.
+And there was just a lot of weird, crappy bugs with it.
+Well, they released this week a graphic patch.
+So now you can play in a window that's 720 pixels or you can play in a 1080 pixel window.
+And they actually have the 1080p modes are kind of in this now.
+And you can play a whole lot of custom resolutions full screen.
+So I can play my native resolution full screen, which is what I've been doing.
+And the game looks great.
+Now not everything in the game is 1080p because like some of the pre-rendered movies and things like that,
+like that is stuck at the way they were rendered.
+They haven't really gone back and upped any of those things.
+But I'll tell you what, maybe it's because my machine's a little newer.
+I upgraded a lot of it this year.
+But some parts of the game run smoother at like 60 frames a second,
+like smoother than it does on the PlayStation 3.
+And just the way a lot of the colors and things are kind of even more vibrant on a computer monitor
+than they are necessarily on the TV while I'm playing on the PlayStation 3,
+I can just sit there and just watch the beauty of this game really unfold.
+And I know the game itself gets a lot of shit for some of its characters
+and the fact that the first few hours of the game is press A to win type of thing.
+But I think if you can get over that little hurdle, there's a really great story in there
+that's a lot of fun to experience.
+And I'm having fun kind of going back and experiencing it again
+because this is really my second full proper playthrough.
+And I'm noticing a bunch of shit this time that I didn't notice the first time,
+such as characters that don't show up until partway through the game
+are actually in the game early on if you look for them.
+They're in the background or like in a side type of thing, but they're there.
+So I'm kind of having fun looking at that.
+So kudos to Square for putting out that patch that actually fixed the damn game.
+Mostly, though, I do have one thing I've got to still complain about,
+and that is that I was really thrown a fit on Twitter and IRL
+because I got the graphic patch installed and I started running it,
+and I'm like, why is it skipping?
+And what would happen is that it would run 20 frames skip, 20 frames skip.
+And it was this very noticeable skip.
+It would be like, go, stop, go, stop, go, stop.
+It was just really, really annoying. I can't play the game like that.
+It's too distracting.
+Well, I get really frustrated, and I'm like, God damn it.
+Why don't they put out a fucking demo so I can see that this is a piece of shit port
+before I start playing it, da da da da da da.
+And Alan looks over my shoulder and he goes, oh, I have that same problem,
+and that's happening because your Xbox controller isn't plugged in.
+If you plug it in, it'll stop doing that.
+And I'm like, really? And I plugged it in, and sure enough, it stopped doing that.
+That doesn't make any fucking sense.
+That doesn't make any fucking sense, but swear to God, that's what fixed it.
+And I don't know, I don't think an Xbox controller is required,
+so I don't know if it's because I used one previously.
+It shouldn't still cause any frame skips if it's an Xbox controller's plugged in.
+Yeah, so a lot of that stuff was annoying to say the least,
+but if you can clear some of those technical issues, the game is really good.
+Not that I can necessarily give Square a buy on a lot of these issues that are just like,
+really? Really? It skips if the controller's not plugged in, really?
+There's a lot of those little issues that it's hard to give Square a buy on,
+but if you can get past them, I would argue that the Final Fantasy 13 PC port
+may actually be better than the PS3 port.
+And I'm really excited to get into 13.2 at some point,
+even though I hear not all the DLC carried over because of licensing issues.
+I'm really excited to beat 13 and then get into 13.2, which just released on Steam this past week.
+So there you go. I've been spending a lot of time playing 13.
+I do have my broadcast channel open, so if you happen to see me online, you can jump in.
+And I used to with Steam, I used to only accept people on my friends list that I knew,
+like IRLs I used to beat, but I'm not such a stickler anymore,
+so for whatever reason I said no to your request before, just request again and I'll accept.
+So that broadcasting stuff is actually working now on Steam?
+Yeah, it's working. It's not as rich as, say, Twitch, but what I can do is I can say,
+I have a little thing that is, you check the box, and if a friend right-clicks my name
+and wants to watch my game, then they can. It'll just start streaming the game to them.
+Yeah, and it'll show me in the corner a little, because Alan and I are playing this a little bit,
+because I want to see what it'll look like. It'll show a little record light in the corner,
+it'll say one viewer or two viewers, whatever, and then in the top left in a really tiny font,
+if anybody says something in chat, it'll show.
+So it kind of uses that Steam overlay a little bit to be able to pop the important broadcasting information in there.
+But there's still no webcam, there's still a lot to be desired for,
+maybe a broadcaster that really, really wants to go pro.
+So do you have to turn that on, or is that just on by default?
+You can turn it off.
+Because I can imagine that would use a lot of bandwidth if...
+No, you can disable it altogether if you want. Most people have it set to the way that Jamie has it set,
+where somebody can request to watch your stream.
+But I just open my... if you're on my friends list, you can just tap in and watch whatever I'm playing.
+But I just say, when I do a Twitch broadcast, that is performing.
+That is, I'm going to talk through the game, I'm going to give some explanations,
+I'm going to tell you what I'm thinking, and all that stuff.
+When I'm Steam broadcasting a game, that's just you peeking in my window looking at my TV.
+You know, I'm not going to...
+That's a little stalker-ish.
+It is a little stalker-y, but it's not like it's a webcam in my home,
+it's just Final Fantasy XIII, so it's not too big a deal.
+Alright, well, in just a couple minutes, we're going to get to our interview here,
+but I think we have time to squeeze in one story.
+Oh, I've got to do housekeeping real quick.
+Twitter.com slash O-L-R, of course, and if you want to follow us on Facebook, you can.
+Facebook.com slash OrangeLoungeRadio, and we're also on Google.
+Google.com slash plus OrangeLoungeRadio.
+And we are on YouTube as well, OrangeLoungeRadio,
+and old episodes of the show available on YouTube.
+Since I know we're interviewing a YouTube channel tonight,
+we may have some YouTube people that are listening or viewing or what have you tonight,
+so we do have the YouTube, although the YouTube is just static pictures
+over the show that Jason puts together.
+We do not at this time have a camera in our studio because it's OrangeLoungeRadio,
+and we're really not that excited.
+If you want to see me in gym shorts bundled up in a Snuggie, then so be it,
+but otherwise it's not that interesting to look at, I don't think.
+And I still need a haircut, so yes.
+All right, you can see I did some light remodeling in Studio N7,
+that arcade cabinet that Loki was complaining about last week.
+Last time.
+We finally got it lifted and on and working.
+It's been a lot of fun, actually.
+I was playing BurgerTime on it earlier.
+Nice.
+That's all I ever wanted was a BurgerTime cabinet in my house.
+All right, let's get into some news.
+We'll do one story here, and then we'll get to our interview tonight.
+Okay, so Amiibos have been selling pretty well.
+That's good for Nintendo.
+I mean, I guess everybody will be willing to buy anything that's in figure form nowadays.
+But apparently they've sold, well, Smash Brothers has sold nearly 700,000 copies,
+and they're saying that apparently the Amiibos themselves have sold quite a few as it is,
+almost as many copies as the game.
+So, wow, you guys will really buy a lot of this stuff.
+I don't know.
+Personally, I just don't get the Amiibo thing.
+I mean, it's a cool add-on.
+I mean, if I want figure for my desk or something, that might be a cool thing to buy,
+but the functionality is just not there for me.
+I have a lot of Nintendo friends, like Nintendo fan friends, on my Twitter,
+and let me tell you, the thirst is real for these things.
+I have people, somebody I follow on Twitter actually said,
+I am so frustrated over this, I'm going to cry,
+because they couldn't find the figures that they want.
+Like, I guess Nintendo released three new figures today,
+the Little Mac and the Diddy Kong came out today, and Zelda.
+Oh, yeah, because that's obviously one people want is Zelda.
+And so people really want these figures, right?
+But they're so hard to find because Nintendo and hardware equals lull.
+And I guess these things are really hard to find,
+and people are getting really, really frustrated at how hard these things are to get,
+because now that we know Nintendo's pulling them from shelves,
+you know, it's like maybe they're not going to get one.
+I don't know.
+Well, I think that you guys are just pointing to their hands if you ask me, but that's fine.
+And yeah, they're saying Nintendo did confirm that they're discontinuing some Amiibo figures after initial shipments.
+They're saying we will aim for certain Amiibos to always be available.
+These will be for our most popular characters like Mario and Link.
+Do the shelf space constraints.
+Other figures will not return to the market once they've sold through their initial shipment.
+I think that's a load of crap if you ask me, because I think that the reason they're doing that is not necessarily shelf space,
+but they want you to feel the urge, like, oh crap, if I don't buy this right now, I'm never going to get it.
+It's just like the fucking Wii U was.
+They're trying to give you that impression that if you don't buy it now when you see it on that shelf, you're never going to get one.
+I don't believe that for one second, because they know that they're making money off of this.
+They're going to keep reprinting this.
+If it's any indication, like they've done with other games, they will have variants that they'll make.
+Or they'll be a different color one or something that comes out later on or something.
+Of course, they're saying that certain Amiibos are sold out, and they may return later on.
+They're saying that some Amiibos were very popularly launched, and possibly some Amiibos in the United States.
+Canada and Latin America may not be available right now due to the high demand efforts.
+I guess that's the expected, because people are really clamoring for these.
+I don't understand why, but once again, it's Nintendo. People are fans of Nintendo.
+I'm not going to buy for a second, though, that if there's an Amiibo that's sold out,
+I don't think that there's any figure that's in low demand right now, so I'm just not buying that.
+Go to our chatroom over at live.vognetwork.com.
+YYR says, I called Nintendo because of a problem redeeming a prepaid card.
+I asked the phone rep about whether they were going to make more Wii U GameCube adapters.
+Exact quote from rep. I know, right?
+Bottom line, NOA has no clue as to whether more stuff is being made.
+I would expect the same to be true of Amiibos.
+Once again, I think their strategy, and this has been their strategy since the Wii came out...
+To starve the market?
+To starve the market to drive up demand.
+It fucking worked, and people are buying into it, so why wouldn't they do it?
+The fact that they're saying that, once we sell through this, we may not bring it back.
+Yeah, I could see that as possible.
+It's a possible scenario if you have an Amiibo figure that just is not popular.
+Say that they came out with, I don't know, a Birdo figure or something, and no one fucking...
+I will be fucking buying that thing once, bitch.
+I understand that you would buy it, but let's just hypothetically throw out there.
+How dare you? How dare you say that Birdo has no fans out there?
+I'm not saying that Birdo doesn't have any fans.
+I'm just trying to throw out a random new character.
+I'm not going to go down the list of every single character in Mario games until we get to the...
+Okay, I got one for you, Ice Climbers.
+Aww, too soon, too soon.
+I'm just saying, let's just say, hypothetically, that they have a character that's just not popular.
+The dude in Hogan's Alley.
+Because when has Nintendo ever revisited that game?
+Alright, that's fine.
+Dude from Hogan's Alley, or how about CDI Mario?
+CDI Mario or Zelda.
+Those are figures that they're either derpy, no one wants them.
+Hypothetically speaking, yes, I can see if they're not selling, they're not going to make more.
+Once they sell out of their initial shipment, that's it.
+That's going to be gone.
+But I think for any of these figures at launch, they're going to totally be restocking that stuff.
+They're not just going to be...
+Why would you do that?
+Why would you stop selling a figure for the hell of it?
+If it's selling through, you would keep doing it until it stops selling through.
+I think if you're the person that's getting really frustrated at not being able to find these figures,
+let Nintendo know.
+Tweet them, email them.
+I wouldn't necessarily say call them, because I don't think the people answering the phone can really...
+Apparently they're in the same boat you guys are.
+But make sure Nintendo knows.
+You want these figures and they're not making enough of them.
+And that's probably going to be the best thing to get another shipment.
+That's how we ended up getting Earthbound on Virtual Console,
+a western release of The Last Guardian and all these rainfall games.
+Now, SSJ100Matt was saying, listen, Nintendo isn't losing money on them.
+He was jerking people around like this and manipulating the market.
+I don't think that they're...
+They're not sitting on shelves.
+They're selling out immediately, so they're going to keep making them.
+I just think that they're...
+But it always sucks when it's selling out immediately because it's eBay scalpers and buying it up.
+And you know that's what's happening.
+And also, and I've got to double check here because I know I didn't put these stories on our show roll,
+but they had some news about upcoming figures and the bullshit that they're doing.
+That crap where it's like, oh, hey, hey, you really want Rosalina?
+Well, it's going to have to go to Target for that.
+Or, hey, you want this figure?
+Well, you got to go to Toys R Us.
+Or there's the rumor about that Shulk GameStop is purposely...
+This is a huge grain of salt because it's one of those, I work for GameStop,
+but I'm not going to tell you who I am.
+Where apparently GameStop is going to hold half the Shulks to sell as used.
+I mean, it sounds really...
+I'm almost like, even GameStop's not that low.
+Sell them as used?
+They did that with another title.
+They did that with the...
+Yeah, Metroid Prime Trilogy.
+No, no.
+They did that with...
+No, they did that with the reprint of...
+Was it The Last Story or something like that?
+Xenoblade.
+Xenoblade, yeah.
+And they sold it for more than retail because of high demand.
+Jamie, quick comments.
+We got to get to our interview with Jamie.
+Just that my coworker picked up four amiibos,
+and all they do is sit on the wall between our cubicles
+so that we have the eternal battle between Link and Red Ring Rico
+from Phantasy Star Online.
+Nice.
+Just saying.
+Well, those amiibos seem to be doing very, very well for Nintendo,
+so whether it is artificial or natural, who knows?
+That's anyone's guess.
+All right, but we are going to shift gears here quite a bit
+because we want to bring onto the show here tonight
+our friends from the YouTube series Cooking with Unity.
+We're going to get Max, Phil, and Jeffrey, all of them.
+They're all actually in the same room,
+and we're going to talk to them all here tonight,
+the guys from Cooking with Unity.
+And if you have questions for them,
+you can submit it in our chat room over at live.vognetwork.com,
+but I believe we have them on the line.
+You guys there?
+We are.
+We are here.
+Yep, I'm here as well.
+Hello, hello, guys.
+Welcome to Orange Launch Radio.
+Hello.
+Thank you so much for taking time to be with us tonight,
+and you guys are all in the same room just like we are.
+Yeah, yeah, we're all in the same room,
+and thank you for inviting us.
+It's exciting to be on your show.
+No worries.
+Actually, I got to give credit to Loki here.
+Loki's kind of our game maker here on staff,
+and he really likes you guys an awful lot.
+He's the one that showed me about the show.
+I love the show and the banter.
+The banter's the best part.
+All right, well, I'm glad you do
+because a lot of times when we do the banter,
+we're like, oh, no one is watching this for this.
+So it's good to hear that the banter's coming across, too.
+Usually when we're bantering,
+we're talking about stuff
+because we've run out of intelligent things
+to say on the show.
+And we don't want YouTube to clip the video.
+Yeah, exactly.
+So for those who don't know, Max is the first guy that talked.
+I'm Phil from Cooking with the Unity.
+I'm Max.
+And I'm Jeffrey.
+And, yeah, we enjoy doing the show,
+and I'm really happy that you guys,
+I'm really happy that Loki is enjoying the show,
+and it's really great that we got an invite
+to do the show with you guys.
+And hopefully we can answer some questions
+and give people a place to actually start
+for making games and starting their career making games.
+Excellent, because that's where my head's at.
+It's like, well, you can't say I'm not a fan.
+I'm still not understanding the subject matter fully,
+but I want to get there.
+I want to get to that point someday.
+So that's really exciting.
+And I don't know if you guys heard earlier in the show,
+I was kind of talking about
+a lot of what you guys seem to do for game creation.
+There's a lot of what I've said about podcasting.
+I don't know if you know,
+we've been doing Orange on its Radio for 12 years.
+That's wild.
+Especially considering how early podcasting was
+at the time that you started it.
+Yes, absolutely.
+Well, there was no podcast when we first started.
+Yeah, exactly.
+You were a radio station, right?
+Yeah, we were live through 65,
+and then that kind of evolved into that.
+But we love it when people create their own shows,
+just like you guys really empower people
+to make their own games, which I think is so important.
+Well, let me take a step back and ask you guys,
+for those that don't know what Cooking with Unity is,
+tell us about it.
+What is Cooking with Unity?
+So, what the show is,
+it's my attempt to educate people on how to make video games.
+I realized, so I started in the industry at Sony,
+and I went to DigiPen for school and stuff,
+and so I kind of got immersed in how to make games and stuff.
+And when I was growing up,
+there wasn't as much internet resources for things,
+and there wasn't even as much internet.
+And it just seemed like, with Unity,
+this is the time to actually start showing people,
+in general, how games are made
+and what people do when they make games,
+and what does it mean to make a game.
+Like, my biggest problem was,
+if you were to ask a random person on the street,
+how do you make a movie,
+they wouldn't be able to give you a very specific answer,
+but they'd be able to say,
+okay, you get a camera,
+you get a bunch of people in costumes
+on the other side of the camera,
+you shoot the scene,
+you do some editing,
+maybe you have a green screen
+and use the magic of a computer or something,
+but they'll have a general idea.
+But if you ask a random person how to make a video game,
+they're going to just give you this blank stare.
+They're going to be like,
+I think you use a computer at some point in the process,
+and that's like all people know.
+And making games has gotten a lot easier
+in the last few years
+because of all the middleware and engines
+and tool chains that are available for free or for cheap.
+We've got Unity, we've got Unreal,
+we've got Crytek, CryEngine,
+we've got smaller, lesser known ones
+like Cocos2D and Erlicht and a few other things.
+But if you want to actually get started making a game,
+you no longer have to start by making the game engine.
+You can actually just start making your game,
+which is exciting.
+Why Unity in particular?
+Well, in my case,
+it's because it just fit my organization style.
+I started using Unity during a game jam,
+and I had never used it before,
+and I was able to make a very simple game in two days
+without having ever touched Unity before.
+It's just very well organized.
+I like the way that it's a component-based organization
+for building things.
+And the thing is, if your question is
+why Unity over anything else,
+I'm not going to say that you should use Unity
+over anything else.
+I think you should use whatever works best for you.
+If you download Unreal and it just clicks
+and you just love the Blueprint system
+and you can understand you start making a game,
+I want you to make a game.
+I don't care if you use Unity or not.
+But I use Unity because it fits my workflow.
+I'm very familiar with it.
+I use it for my own projects,
+and therefore I can teach it to people
+and teach how to use it on their projects.
+You know why you guys are awesome?
+Because in that sentence there,
+you said, I want you to make a game.
+And I think that is such a great message.
+Absolutely.
+That's something that I hear in your videos as well.
+So let me ask this question.
+Why is that important?
+Why should you go make a game?
+Why shouldn't you make a game?
+I mean, honestly, if you're passionate about something,
+then you should absolutely go out and do it.
+You should get that passion out there into the world
+and develop something.
+I mean, it's an art form just like anything else.
+Oh, God, I went into the art form thing.
+Oh, sorry.
+Video games as art is a whole other discussion,
+but I'm sure you guys have had that one before.
+So the thing is, yeah, why shouldn't you make a game?
+The thing is, I talk to a lot of people who play video games,
+and I always hear game designs from people.
+I'm like, you know what would be a really cool game?
+And sometimes it'll just be a really high-level thing.
+It'll just be like, if it was Call of Duty,
+but it had motorcycles.
+It might be something as simple as that,
+or it might be someone who has a really cool idea
+for a puzzle game or something, and everyone has these ideas,
+and very few people get the opportunity
+to actually build something
+that works towards making these games a reality.
+And the other thing I'm worried about is,
+the games industry, because of how hard it is,
+or how hard it was, I think it's getting a lot easier,
+but how hard it is to learn how to make games,
+it was attracting these people
+that might not even be interested
+in the games themselves, but are interested
+in solving the challenges, and that's great.
+I have no problem with that.
+I have no problem with non-gamers making games.
+But I want to see more gamers making games,
+because gamers know what they want,
+and they can actually iterate on the previous art
+and create something new and interesting,
+and they already know the limitations
+that they're working within,
+and they're going to be able to figure out
+how to work around those limitations
+and change the expectations for games
+from a perspective of someone who is themselves
+a consumer of game products.
+And so that's really important.
+You raise a really good point there,
+that there's a lot of non-gamers in the game industry,
+and we've kind of hit on this before
+when we talk about management decisions
+that screw games up,
+that cause buggy things to be released
+because it's more important to get a game out
+at a certain day and date to satisfy an XYZ person.
+We get that all the time,
+and I think that's great,
+to get more gamers involved in making games.
+Y-Y-R in our chatroom over at live.vognetwork.com says,
+The feeling of playing something
+that I created with my own two hands
+is one of my favorite feelings in the world.
+If you have questions for our guests tonight
+from Cooking with Unity,
+you can ask that in our chatroom over at live.vognetwork.com.
+Have you guys heard of any games
+that you may have helped through your YouTube series
+or inspired to create?
+We're still early in our history for that kind of thing.
+I have seen some really cool projects
+from people who might not have started with our show
+but are definitely using our show now,
+and I'm really excited to show more of that
+on the show as things progress.
+The thing is right now,
+I want to show what people have made on my show.
+We want to have more segments
+that show what other people have made using Unity
+and what other people have made using whatever they want to make it with.
+It doesn't have to be Unity specific.
+We've seen some really good projects,
+but they're all in progress.
+They will need an audience later.
+I don't want to just jump the gun,
+show something that I think is kind of cool now.
+Other people might not get why it's cool yet,
+and then when they need the exposure,
+it might be harder for them to get it.
+I don't have any direct examples for you right now,
+but there will be some soon
+as these projects come to fruition.
+Well, I know of one. I know of at least one.
+Right, Loki?
+Yeah, absolutely.
+I just wish I had something to show right now.
+It's just redoing the engine three or four times already.
+But the great part, though,
+is when I was learning,
+and I'm still learning
+because I'm just teaching myself everything,
+I just started in March
+to actually start working on a game idea.
+But just trying to skip doing it the hard way,
+and then having to learn to do it the hard way,
+which is a good way to learn things, I guess.
+Oh, it's always good.
+It's a constant learning experience.
+I mean, you never know all the answers,
+and there's always new ways to do things.
+It's really exciting to try to solve problems dynamically.
+Sometimes you even find old ways to do things.
+I found that, especially in the days of mobile,
+some of my knowledge about how PlayStation 1 games cut corners
+is actually useful
+because those same corners can be cut on mobile
+and give you great-looking visuals with less performance.
+And so there's a lot to learn.
+You started in March, and as Phil said,
+you never run out. We haven't run out yet.
+I learn a new thing every day making games.
+At least one thing every day.
+And that's not an exaggeration by any stretch of the imagination.
+And sometimes it's really simple stuff too.
+Occasionally someone will be watching my show
+and point out a feature in Unity that I didn't even know was there.
+And I'm just like, wow, that saves me 20 minutes every time
+that I would normally have to do it this other way
+that I had already figured out
+because I just didn't know that this was built in.
+I'm sorry that I'm not giving concrete examples here,
+but I'm sure that you've run into this yourself
+in the short time that you've been working
+where you find a way to do something,
+and it totally works, and it's fine.
+And it doesn't have really many disadvantages or anything,
+but you find out later you could have done the same thing
+in one line of code and even less worry,
+and it's a little bit more efficient and stuff.
+That being said, the super important thing to remember,
+and this is something where I differ from a lot of teachers and stuff
+where they're like, you need to learn the right way to do things.
+There's a million right ways to do anything in game development.
+There's a million. This is not an exaggeration.
+And there's a few that are terrible,
+and there's a few that are awesome,
+and there's everything else that's in between.
+And the thing is, most of the in-between stuff
+will do what you need it to do.
+So my rule is, if it works, use it,
+especially when you're learning.
+If you have a solution to the problem,
+don't worry that it's the best solution.
+I have a lot of people who are like,
+did I do this right? And they've done it totally right.
+And they're like, but is there a more efficient way to use it?
+And my answer is always, yes,
+there's always a more efficient way to do it.
+It is efficient enough, and it works,
+and that's the most important part.
+What needs to be important is you can always optimize later on.
+If you've encountered a situation where,
+yeah, the game's running terribly
+because of the way that I've implemented this thing,
+well, you can always go back and refactor it
+into a way that's using a different solution to the problem.
+You can always optimize later on.
+This is great to listen to,
+but for me, I've got to admit,
+my knowledge of game making is so-so.
+I used to be able to make stuff in ZZT.
+That game was awesome. I used to use that.
+And maybe Commodore 64 Basic back in the day.
+All right.
+I love Commodore 64. We can talk Basic all day.
+God, that system was so flippin' amazing
+and kind of ahead of its time in many ways.
+But anyway, let's say I want to make a game.
+I'm going to do this. I'm going to download Unity.
+I don't have a whole lot of programming experience
+except maybe like 10 print,
+Rob is awesome, 20 go to 10.
+So I have very little programming experience.
+So now what? Where is Word 1 in chapter 1?
+Where do I start?
+So we made a series actually specifically for this.
+It's called From Scratch to Published.
+And we cover...
+So it starts in episode negative 1,
+which is a strange episode number to start at.
+But the reason I did that is the first episode teaches you
+how to download and install Unity and start using Unity.
+Episodes negative 1 and 0
+are for how to set up your computer
+and how to get an email address.
+So we cover the most basic stuff you can possibly have.
+We talk about every single thing.
+And we go all the way up to the point
+where we actually publish on several stores,
+namely the Windows Store for both phone and PC,
+the iOS and Mac app stores,
+and the Android Play Store.
+And the thing is,
+so when you're watching this one,
+there's going to be points,
+especially if you're a fresh beginner,
+you haven't done much programming in a while,
+or maybe no programming whatsoever,
+there's going to be some stuff
+where you're going to just have to take it on faith
+what I'm saying.
+I try to explain things very thoroughly,
+but sometimes in the effort to just get the next section done,
+I have to just say,
+here's the code, here's what we're doing,
+I try to explain it,
+but it's not going to click at first.
+And so you've got to just work with it.
+Don't stop there.
+It's not going to teach you everything you need to know.
+It's going to teach you enough that you can get started.
+And from there,
+you'll start forming questions
+and start answering your questions yourself,
+and you'll be able to figure out how these things actually work.
+The important thing is,
+on the series, because we start from scratch,
+we start literally on a PC
+that doesn't have Unity installed,
+or any program installed,
+we show installing Unity,
+we show installing Source Control,
+we show how to use Source Control stuff.
+Most people don't even know what Source Control is,
+and most people don't use it,
+and this is terrible.
+People should be using it.
+What Source Control is is basically a backup system
+slash collaboration system
+so that when you make changes to the project,
+everyone else working on the project gets those changes,
+and more importantly,
+if you make a change and something's wrong,
+you can go back later and be like,
+hey, that change was wrong,
+and it keeps that history
+of everything that you've done.
+That way, mistakes are less costly.
+What's fun about games
+versus pretty much any other industry
+is there's the only cost
+involved in making them
+effectively, once you have the tools,
+which the tools are free now,
+is the cost of time.
+The worst mistakes in the world
+that you can make will only cost you time.
+They will never cost you manufacturing resources.
+You will never have to replace things
+because you did something wrong in code.
+Well, okay.
+Yeah, I mean, if you drop your iPhone on the floor,
+it'll be your test device.
+There's little problems like that,
+but it's from the physical world.
+It's not from the digital world
+that these problems are occurring.
+So mistakes should be embraced.
+You really do learn from mistakes.
+So don't feel bad
+when something doesn't work right.
+Feel good when you make it work right afterwards.
+And so, yeah,
+From Scratch to Publish will give you
+probably the best kind of overview
+front to back of game development
+using Unity.
+And then you can start to get more specific on videos
+and by downloading
+text content or using assets
+from the Asda store to try and figure out
+the rest of the way, how things work.
+Remember, there's always
+more to learn. There's always tricks that
+like, I don't know all the tricks.
+I try to teach as many tricks as I know.
+When I find a new trick, I try to tell people about it.
+But I will never know everything.
+And no one will.
+But try to know as much as you can.
+And get into it. And I know you will enjoy it.
+Alright, I'm going to check that out.
+In fact, I even see why YR just linked that
+to episode negative one in our chat room
+over there at live.vognetwork.com
+And if you are just joining us live, we are talking
+with Max, Phil, and Jeffrey all from
+Cooking with Unity.
+If you go to cookingwithunity.com
+it will just take you right to their YouTube channel
+that has everything there.
+Do you guys have any other, like, I don't know
+if you guys do Twitter feeds or Facebook
+or anything else we should be following you guys on?
+Oh, I'm on Facebook, or on Twitter.
+Twitter is MagmaLemur
+Awesome. And I'm on
+Twitter as Drakfire, that's
+D-R-A-K-F-Y-R-E
+Alright. I'm also in the channel as Drakfire
+so if you just spell my name in there.
+Sounds good.
+And if you guys have questions, wait, there's three of you
+Wait, am I in the channel out there?
+There's three of us, but I don't think Jeffrey has a Twitter.
+No, I don't have a Twitter.
+Alright, that's alright. That's alright.
+Darsakra has a Twitter, but she doesn't ever use it.
+So I tag her in things. I use it sometimes.
+Yeah, she'll reply to it like a month later.
+And I'll complain about Pinkberry being closed ten minutes early.
+Yeah, why did you tag me in this?
+Alright, anyway.
+So, awesome, awesome.
+Loki, I want to go to you, because
+surely you've got some things you want to ask these guys.
+Yeah, I mean, the
+one general question. First off,
+I was going to mention, they do have a Patreon as well.
+So there's some cool stuff
+that you get access to, like they have a
+repo with some cool
+code and stuff in there that you can
+check out. So definitely
+go check that out and support them
+if you can. The other thing I was
+going to say is, now I know you
+guys have done quite a few different types of
+games in the past,
+different projects and stuff.
+Looking forward, what are some
+different types of games that you're looking to tackle
+in future projects?
+Well, I know
+for one, I'm working
+very close with Justin Morovitz
+on Vanguard
+V, and I really hope that we get funding
+for that project, because that's going to be awesome.
+Justin is
+trying to start a studio
+that's VR centric.
+And I think that's
+important.
+I do think that's actually ultimately
+where the games industry is going to move towards
+is virtual reality.
+I'm not saying that we're going to get rid of TVs.
+I think that's silly to think that.
+I don't think we're going to be getting rid of tablets or anything.
+But we're going to be adding VR to the mix.
+And I think that the people who have been
+playing games the longest
+are going to be very interested in seeing
+what actually comes to pass with virtual
+reality. So I would say that
+in my future at least, what I'm hoping
+for is to get to work on more virtual reality
+related games
+and projects. It's an interesting
+challenge because you have the physical aspect.
+You don't want to give people
+whiplash when they're playing your game. You don't want
+people to get motion sickness.
+Although I do think motion sickness
+is going to be less of an issue as people get
+their sea legs, so to speak.
+Just like how
+people forget, but when the games first started
+just games scrolling left to right would make some
+people sick. And now
+you would never even worry about that. You would
+scroll the game however fast you want it left
+and right. You can jiggle it
+back and forth and no one's going to get sick.
+And it'll be that way for VR at
+some point.
+Cool.
+Speaking of VR, I see in our chat room
+Bobby Blackwell says, I demoed Vanguard V
+at a recent VR meetup with the
+KOR FX vest. Bobby
+by the way is our guy on the network that is really into
+this VR stuff.
+He wants to know when the Proton Pulse talk is starting.
+Well,
+Proton Pulse is available on Google Cardboard
+right now. Go get it. Go get a cardboard
+and go download it.
+Full games available, so
+yeah.
+They just released the Cardboard SDK for
+Unity, I just saw.
+Yeah, we've had a beta
+version for a while and actually I think it's been
+publicly available too, but we've had
+some close interaction with Google which has been great.
+Speaking of
+Bobby, there's always a really funny debate
+that you and him
+have, Loki, going back and forth
+when you first got into programming.
+I don't think there really is a right or wrong
+answer, but I thought I would consult the experts
+here for the Cookie with Unity and
+ask this, when we talk about your very first
+project, I'm going to start my first project
+and my first game.
+In your opinion, do you think it's better to
+build clones of existing
+games or to just,
+you know what, I'm going to do my own thing. Do your own thing.
+This is a really, really good question.
+Oh,
+yeah, I mean, my first project
+ended up being that little game robot alone
+that I made.
+And that's only on iOS
+unfortunately, I still haven't gotten around to
+porting it to anything else, even though it takes
+no time and effort, I just need to boot up the project.
+Apparently I'm too lazy to do that.
+It was my first game
+and it's basically a clone of Puro 2
+from WarioWare,
+the first WarioWare game
+for the Game Boy Advance. It's a very small
+mini-game there, but it was something
+that's small in scope that I knew how it
+functioned and I think it's very important
+to take something that you kind of understand
+how it works and just make something simple
+and once you make that simple thing work,
+just step up the complexity a little bit more.
+Like starting with Pong is not necessarily
+bad or Space Invaders,
+something like that, something small and
+simple that you know kind of mechanically how it
+works so you can kind of just
+get a feel for what you need to
+implement. Yeah, and on the show we model
+our episodes based on
+genres and we try to basically
+make it based on another
+game that's similar in that genre.
+Our very first episodes were
+well actually my very first episodes, it was
+before we had multiple people on the show,
+were Space Invaders
+and I believe Space Invaders
+is probably the best place to start
+and not necessarily on my show
+because it's terrible, I had
+no showmanship or anything back then.
+But some people still say they like the
+episodes, but I'd say starting with
+Space Invaders is good because it teaches you
+a lot of the basics about game development.
+It teaches you how to
+make bullets happen.
+That's a very common thing, how to spawn something
+and make it move on the screen.
+It teaches you movement
+and it teaches you how to create and destroy
+things on the screen that you're destroying.
+And all those things are really important in games.
+Pong is a really good example
+as well except for it doesn't really teach
+it teaches very basic instantiation and
+destruction, there's only one object. I like
+Space Invaders because there's a few more objects to work with
+so it feels like there's something to sink your teeth into.
+As far as to whether everyone
+should do this, what I
+mainly want to say is
+it probably doesn't matter that much as long as
+you have a really clear idea in your head what you're making
+whether you duplicate something that's
+existing or if you go with your own design.
+But the scope
+is important. So if your
+dream project is, and I know a lot of people
+have this and I'm not dissing the
+dreams here, if your dream project is
+an MMO where you
+can do real time combat
+and wherever you strike the shield
+on the opponent is exactly where the
+damage happens and there's a
+damage model for it. You have this
+pages and pages and pages. Don't start
+with that game. Please don't
+start with that game. Even if
+your high concept starts with
+is a multiplayer game, don't start with
+that game. Start with a single player game.
+If you do want
+to work towards your dream project though
+start with a small project
+that represents
+a portion of your larger
+project and then just keep doing that
+and then build them together.
+And what I mean by that is
+honestly a really good example
+I think is the Metal Gear series.
+In that
+if you've ever played Metal Gear Solid
+which
+Metal Gear Solid, sorry
+Metal Gear 2 Solid Snake, the MSX version
+it's on the anniversary
+collection. It's the
+last 2D game before they went to 3D.
+If you play through that game you'll see
+that pretty much everything that happens
+in that game happened
+in Metal Gear Solid later
+in 3D. Even
+smoking to display
+lasers and go through them
+that's in that game first.
+Crawling under tanks is in that
+game first. Pretty much
+every single interaction, all the elevator interactions
+all of the communication
+between characters, all the codex stuff
+was in that game first. And that game
+is a 2D game.
+So he had tried
+this formula already
+before they moved to 3D. Before they did
+something that was ground breaking.
+And Metal Gear Solid was truly ground
+breaking for the time. And
+I think that company still just does amazing
+work. I love Kojima's work.
+So think about it from
+a perspective of make the
+simple version of your game.
+Do stepping stones and then once you have the simple version
+you can kind of already work some of the problems
+out and then you can make a slightly more complex version.
+And then before you know it you'll have
+you'll be working on the networked multiplayer
+massively multiplayer online version of your game.
+I mean it's all about iterations upon
+your development basically like
+yeah just start with something simple. You know like Metal Gear
+maybe didn't eventually originally have
+like pressing up against a wall in the first
+version so they added it in the second one
+so you could start hiding around corners.
+And so on and so forth and they just kept going
+with these ideas and that's how you get
+these really complicated games is you start
+off simple and just kind of keep iterating
+ideas and adding functionality
+to things.
+Alright well to be fair to Bobby he is saying
+in chat room I stressed more something that
+was small in scope not necessarily
+a full clone but that seems to definitely be in line
+with the message you guys are saying is that if you want
+to make this gigantic dream game
+MMO focus on that one little
+part first that maybe you can build into
+the larger game later. And yes Black Wolf
+I did say simple was boring. It's just not for
+me. That's not what I want to do and that's fine
+you know the fact that I didn't start with a simple project
+means I've learned
+so much more so and not to say that I
+would you say that even though you maybe didn't take
+on a simple project at first Loki you still
+you're building one piece at a time. Yes
+and I'm also not crazy enough to do an MMO
+no one I don't want to ever
+do an MMO ever ever
+ever ever ever just
+it sounds too too crazy
+so never no idea how many
+times that I've heard someone say oh I've got
+this really good game idea I want to make it
+I'm working on an MMO like that's
+that is usually surprisingly
+it happens all the time.
+Oh gosh well gosh a dungeon
+buster in our chat says this is a great interview lots
+of great advice you know what I agree this is
+this has been so informative and there's
+so much more information that I
+hope folks will go check out over on your YouTube
+channel over at cookingwithunity.com
+I do have to wrap things up here
+pretty soon because we've almost been on the line
+for a good half hour talking about making games
+but before I let you go
+I do always ask the people on our
+show what games are you
+playing you know besides the ones you're making
+what games are you playing these days
+so can we go around the room there real quick with you three
+alright one two
+three GTA 5
+yeah I've been playing GTA 5 on the PS4
+that game is astounding
+no wonder you like these guys
+listen I don't need the love you guys anymore
+I mean seriously
+the scope of that game
+and like the amount of detail they put into
+it is just unreal
+they must have
+actually put human souls into that
+game to make it run the way it does
+like the
+amount of things they network we've been playing
+it online together and
+it's just outstanding
+I do not know how
+they network all this information
+Loki was like a top 100 player on GTA 4
+yeah I used to play multiplayer
+a lot on GTA 4
+a lot a lot but
+I've been playing a lot
+was it Playstation 4? I know I saw a video
+I don't remember if it's from Playstation 4 or not
+but yeah we need
+the hookup online
+because I haven't played any online yet
+Jeffery what games have you been playing
+because you probably have a more diverse
+library than we do
+well I usually play a lot of
+Steam games lately
+Gauntlet came out not too long ago
+I've been playing the 2014 Gauntlet
+I still play Monaco
+from time to time
+that's a really great stealth game
+Monaco was fun
+I actually really was impressed with that game
+when you started showing that at work
+Jeffery and I used to work together at a place
+called Play Habit that unfortunately is not around anymore
+it was really cool
+the person who ran the place actually
+came up with the marketing
+well effectively came up with the marketing slogan
+that Sega used
+for so long of
+blast processing, he was actually the originator
+of that phrase
+so that was pretty wild
+of blast processing?
+I've got an interview with him
+I need to post it online sometime
+he's giving me permission but I want to make sure
+it has impact when it happens
+well you guys are awesome
+and I love the message you guys carry
+that I want you to make a game
+so I want to say something here real quick
+this is kind of a little bit of an announcement
+but I want you guys to be able to hear this too
+because I think you guys will really like this
+this is kind of like an ongoing theme that's been going on
+with our show
+and with Bobby's show and some of the other shows on the network
+from talking about
+Loki's game and how he's been making a game
+to when Bobby did the
+Flappy Vog project, it's kind of like a joke
+thing to when YYR
+did the O.L.R. Dream
+maybe you guys probably don't know about this
+but we have a list of dream games
+or things we mentioned
+in Jess, that would be a great game
+and one of our listeners, YYR, actually turned
+one of those into a game, it was called Pixel Shits
+and
+it's something
+he actually
+you got to get the link in chat, it's great
+it's 2600 inspired, YYR please
+please post the link
+it's a 2600 inspired game
+where you go around and you try to stop
+joggers from running through a park
+by taking a giant shit
+oh that's amazing
+the genius mechanic
+is that when you run out
+because you know a person can only do so much
+there's a little taco cabana in the corner
+that you go to and refill
+your mirror
+oh that's amazing
+that's where the game went from
+like LOL to just
+freaking genius
+yeah it was great
+oh no, that's what I love to see
+people making things like this
+I love silly creative games and stuff
+the sillier the better
+I want to just put a shout out there
+Jake Kaufman Vert, he's a really great game composer
+you probably know about him
+but he made a game called Dick Hand
+that you probably don't know about
+definitely check that out
+that sounds inspired by Cards Against Humanity
+well
+the reason why I bring all this up is because
+we've been doing some talk behind the scenes
+and I was talking with YYR and I was talking with Bobby
+and we've decided that we want
+people to create things
+just like you guys do
+we think there needs to be more voices out there making games
+so we are going to host
+a vog jam
+and that's video game jam
+that's v-i-d-o
+game jam
+so it's the vog jam
+and we just want people to create something dammit
+so whether you have unity
+and you're comfortable using unity
+you want to learn unity
+you can use that
+but we're also going to encourage people
+and if you only feel comfortable making
+a level in LittleBigPlanet
+or using RPG Maker
+then do that
+we are going to be doing our own game jam here at VOG Network
+and I'm going to give you all some more details
+in just a little bit
+we're going to do Iron Chef style
+where there's going to be a mystery ingredient
+and we will talk about how we're going to come up with that ingredient
+as a community next week
+that is fantastic
+it's not pixel shit
+pixel shits will not be the game
+I just want to say that's super awesome
+game jams are actually what got me started
+it's not what got me started as a programmer
+it's what got me started as making games on my own
+it's what got you started in unity too
+yeah it is what got me started in unity
+actually we were going to use
+a different engine and it didn't work
+for collaboration so I ended up using unity
+because a friend of mine said it was really cool
+and the rest is history
+so yeah
+game jams are awesome
+drop us an email
+we'll promote and we'll be on it
+we love game jams
+that's awesome and this is very important too
+and I want to stress this because there might be some people that feel
+very overwhelmed any prizes that we do
+with this game jam we will not be giving away
+prizes on quality
+we will only be giving away prizes on
+participation and I think that's very important
+because we want to make sure this is a very accessible
+thing for people to participate with
+but anyway I just thought
+you know you guys helped inspire
+a lot of that conversation that happened behind the scenes
+this week so you know
+if you guys want people to make games
+we want people to make games too and
+we hope this all comes together and helps that happen
+alright that's amazing
+I mean that's a great thing just get people to be
+creative put things out there
+it's really important excellent alright
+one more time for everybody the place to find the show
+cookingwithunity.com correct?
+that's correct
+and check it out maybe you want to get
+a jump on next week and start
+learning a little bit on unity go to that
+episode negative one of starting from scratch
+also check out breakfast with unity
+because that's also fun
+I'm sad I can't make it anymore because
+now I have a job again but when I didn't
+have a job I catch it every morning
+even when I had a job you know and
+it's just like people that can't
+be here Sunday night that's why we have a podcast
+alright you guys
+thank you so much for being on the show tonight Maxville
+and Jeffrey and best of luck to you you guys
+are doing great work in spreading
+knowledge out there and helping people
+create games please continue to do that
+for us thank you it was a pleasure to
+be on the show yes it was a pleasure thank you
+so much for having us on here
+you're welcome anytime my friends take care
+alright you as well
+thanks again bye bye
+alright once again that was Maxville
+and Jeffrey with cookingwithunity.com
+that was great
+that was inspiring that was like
+that was like church that was church
+right there and you were inspired by Grand Theft Auto 5
+talk right? well I knew they played Grand Theft Auto 5
+cause I saw the video they had a really
+funny video it was
+messing with the train in the tunnel
+and like parking cars and stuff there
+I'm like well dammit they played Grand Theft Auto 5
+on Playstation 4 I need
+cause you know what cause I bought
+Grand Theft Auto 5 on Playstation 4
+cause my old boss
+he's like yeah I got Playstation 4 we gotta
+get it when it comes out I'm totally gonna play
+he said the same thing on Playstation
+when he made me buy the Playstation 3
+version on top of the 360 one
+that never fucking happens so
+yes I'm always looking for people to play
+Grand Theft Auto 5 with cause I am
+kinda getting sick of Lego Marvel superheroes to be honest
+alright I wanna give you guys
+a little more details on the game jam I talked about
+with the guys from Cooking With Unity we will have
+all the details next week but
+the contest is going to be called the
+VoG Jam and in this
+case VoG will mean video game
+not necessarily what you're used to but VoG
+Jam and our little
+tagline with this is
+create something dammit
+create something dammit I mean
+you know maybe I'm not gonna be comfortable with using
+Unity but I know how to use Commodore 64
+basic I know how to make programs
+in the little big planet there's some other things I know
+how to use so I am gonna participate
+in this game jam YYR
+has committed to participating in this game jam
+Bobby Blackwolf will be participating
+in the game jam I'll participate Loki's participating
+in the game jam I'll just put my game on hold for now
+in this like video
+so this is what's gonna happen
+we're gonna use the time honored
+scientific method that's proved
+true in the past 12 years of Orange Lounge
+Radio and that is
+listless so next
+week on Orange Lounge Radio we are going to do
+a listless segment to
+determine what the mystery
+ingredient for the game is going to be
+and that is going to be
+basically a
+I would say a title but I don't wanna say that
+that title has to be the name of your game
+for example
+cause I don't know like a theme
+it should be the theme there we go
+so for example let's
+say we were to go over to
+the Orange Lounge Radio list of dream games
+which we're not gonna do we're gonna come up with something new
+but just as an example let's say I go to the
+OLR dream games page and I decide that
+puzzle sluts is gonna be the theme
+and we're not gonna throw something
+that adult at you but puzzle sluts
+ends up being the theme then you would have to
+make your game or your level or whatever
+it is somehow incorporating
+puzzle sluts into it
+and whether that's just something that kinda
+happens on the side or whether that's the focus
+so it's just like cooking right
+just like those guys cook with unity
+this is the mystery ingredient so
+what is that theme
+going to be we wanna take
+suggestions from you guys even though usually
+with listless it is what
+DarkSakura, myself and Loki ultimately
+decide that goes into the pot we
+wanna take your suggestions
+so if you have a suggestion
+you can do one of two things you can e-mail us
+participate at orangelandstrator.com
+make sure that subject line says
+game jam and then tell us
+what is the mystery ingredient you believe
+should be included in the game jam
+or you can comment on the posting of this
+show over at vognetwork.com
+just comment and that
+way the little thumbs up and thumbs down will tell
+us what we ought to think of using
+for the theme in listless next
+week so we will be choosing that mystery ingredient
+you will have over the holidays until
+the end of january
+to submit your project
+and if you need help hosting
+even let's say you create a
+project in unity but you have no where to put it
+bobby blackwolf has offered help
+so at vognetwork we can actually
+post some of those creations for you
+guys over at vognetwork if you need a
+place that's not required though if you
+post something on your own site we
+just wanna give you the tools we don't want anybody
+to say well I would have participated but I didn't
+have a place to host it no no we're gonna
+solve some of those problems mega.com or
+whatever it is nowadays mega
+something though so there you go
+I do wanna say one quick very
+important thing with the themes
+cause we gotta get back to the news cause we're running really
+long tonight with the themes
+please nothing that is already
+copyrighted keep that in mind
+yeah nothing infringing please don't make a Mario
+game exactly so you can't we
+can't do like garris does calibrations
+cannot be the game theme because
+garris is a character
+but you can make that game for me personally
+so keep that in mind we are not
+out to make sequels it has to be
+an original idea calibrating with garris
+I'm sure there's already the shakarian calibrator
+out there somewhere I'm sure there is
+Brad from Paw Culture says what about
+collaborations I'm
+always going to refer to the golden rule of the
+game jam which is create something
+dammit so if the only way you're gonna
+be able to create something is to work with somebody else
+then I'm gonna say yes
+create something dammit that's the golden
+rule I'm gonna refer to throughout the game jam
+so partner up yes
+just create something dammit
+to register participation for this weeks
+episode of Orange On Radio at vognetwork.com
+use the pass phrase fork
+alright so
+we'll have more information we're gonna have a big
+prize pool there will be
+no grading done on quality
+that is ultimately up to the community
+if one of these games goes viral
+that is the community that makes
+that happen but we
+will be giving out prizes based on participation
+we have accumulated a
+crap ton of prizes throughout the year
+so I don't
+want to say cause I don't know how many
+participations we'll get I
+want to say if I almost want to say
+everybody who participates will get something
+but then I go well that's
+only allowing for like 20 people
+if we get like 200 submissions which would be
+amazing boxes I know
+right so I will say this
+we are going to try well I will
+we do know this we have the
+loot system on vognetwork.com for sure
+100% everybody will get exclusive
+loot on vognetwork.com even
+though it's virtual you'll at least get that little badge
+of honor that you participated in the game
+jam the first one which we hope
+of many now I have a question
+since I totally
+don't even realize this is there a way to see what
+loot other people have on their profile
+click on their little profile
+you're already 100% better than playstation 3
+and playstation home problems with the trophy
+so there you go
+100% better
+we got to get back to some news more info on the game jam next week
+but submit your ideas but we got to
+run through the news and I'm going to say
+I'm going to take this a little bit of an accelerated
+pace just because this first
+part of the show is running really long so let's talk
+quickly about street fighter 5
+street fighter 5 more news is
+coming out about street fighter 5 and Charlie
+has been revealed as a character
+that will be in street fighter 5 Charlie was not
+in street fighter 4 if I recall
+you have the pointy hair but Charlie
+was in what was it alpha?
+alpha 3?
+he was in alpha
+and alpha 2 and alpha 3
+so they've modernized him a little
+bit it looks like for this game because we don't see
+an awful lot of them we only see just kind of
+Charlie wasn't in like
+cross Tekken was he?
+I don't think so
+but yeah so Charlie was announced
+for street fighter 5 which by the way showed
+off the first footage
+of the gameplay and literally
+you know it was like a splash screen that was pressed
+start and then it went right into a Ryu vs
+Chun-Li battle I
+thought that was pretty funny what oh just
+did you watch did you watch all the
+reactions of the guys going oh my god
+it's got the oh my god no not that there's
+there's a part in it like where
+um Ryu knocks Chun-Li into
+like at the end of one of the rounds he knocks her
+into a wall in the kitchen
+and a bowl of noodles falls on her head
+and it stays there for the whole next round
+there's a bowl of noodles on her head
+it's hilarious
+yeah people details I love
+details it's great
+so people getting excited at that first
+footage of Street Fighter 5 and
+yeah there's like a revenge bar at an EX bar
+and there's I noticed
+that speaking of getting knocked through the wall
+then that next stage started
+in the middle of the room they were in so
+it's kind of neat how those environments are coming into play
+as well so I think we'll be having
+Street Fighter 5 news a lot I mean they could
+announce like a character a week probably leading up to
+the release we'll see
+DarkSakura what do you have for us?
+I have some stuff
+specifically something about Borderlands
+there's going to be a Borderlands
+remastered apparently this
+was information released
+from the Australian age rating
+board they didn't
+actually say exactly what Borderlands it is
+but there's going to be a Borderlands remastered
+edition with
+an MA 15 plus rating
+supposed to be on Xbox One
+Playstation 4 and likely
+PC the
+thought is that it's
+well at least it's a speculation that it's going to
+be the original one but honestly
+I think it's all three
+for the guess see that would
+be really I mean
+I don't think it would be that hard
+really to update graphics wise
+and
+well yeah they don't have to do anything graphics wise because it's on
+PC so they already have the high res graphics
+they just redo the engine for console
+and
+port it over probably want to
+have maybe more smoothing
+for the PC iteration
+we talked a lot last week about that whole Final Fantasy
+7 reveal which is a PC
+port on the PS4 so we know this
+is an outlet that a lot of people are using
+so
+I'd say if you
+don't have the games yet just keep your eyes open
+there's of course not exactly
+a release date on this this is
+just coming from
+the Australian ratings
+board but it's something
+to think about
+it's not the only game that's looking like this
+later in the show we have news of another
+game so this seems to be
+could be a theme where
+a lot of the PS3 classics
+so to speak end up getting remade for PS4
+this year alone
+we've had Tomb Raider, Sleeping Dogs
+they had
+well it's a PC port but
+Shadow Warrior came over
+Saints Row
+4 and
+God of Hell is going to be in January
+which I'm totally picking that up again
+I own it on 4 systems
+already but I'll buy it again
+even though I really didn't care for
+4 too much but
+whatever
+Grand Theft Auto 5
+but hell I'll buy that 4 times if I need to
+I'll buy it on PC when it comes out again
+when you love something enough Loki
+exactly you'll buy multiple
+now you understand okay next time
+you ask me why do you own the
+Mass Effect trilogy 5 different times
+okay well that's a little
+different okay let's talk
+about how that's different one Grand Theft Auto 5
+on PlayStation 4 is a significant
+upgrade of Grand Theft Auto the only reason
+I bought it on the other 2 systems
+in the past was because
+I was going to play it on
+Xbox but then my
+my boss wanted to play it on
+PS3 and he promised that we would so
+play this game multiple times on PS3
+and we'd just be playing all the time because we'd play
+tons of Grand Theft Auto 4 and
+that never happened that's why I bought it on
+3 systems
+otherwise it would have been 2 systems and to be fair
+I've sold back my copies on the other systems
+but if Mass Effect trilogy ends up
+being one of those games that ends up on PS4 as well
+I know you'll be buying it
+I'm doing it
+and I guarantee you it will
+at some point right before
+Mass Effect 4 comes out or whatever they're going to call it
+Loki promised you guys, Loki promised
+alright let's travel around the world
+and check out some games we do know are coming
+out to a store near you although I imagine
+for most of the world not much right
+Loki? I wasn't going to say
+I haven't even looked at it yet but I'm going to
+go out on a limb here and say I don't think
+anything's coming out this week in fact I'm
+going to say nothing's coming out this week I think
+digitally I think you get Tetris
+well digitally there's going to be stuff coming
+out but I'm not talking digital I'm talking
+you know physical releases and
+there is not a
+thing coming out in fact I would be willing
+to bet that you won't see anything until January
+well it is that slow
+time of the year but going to Japan it's
+a little bit different they still are trickling out
+a few games on some of the systems including
+on the Playstation 4 a treasure box
+edition of Nobunaga no Yabu online
+Kasuke no Shu
+also that's out on the 17th
+and then on the 18th we have
+Anoko wa Ore Kara
+Hanarayani comes out
+there on the Playstation 4
+on the Xbox One
+Chaos Child in regular
+and limited edition on December 18th
+you know what there was one thing I'm sorry
+well god damn it Loki sorry real quick
+how dare you Guilty Gear XRD sign
+that is coming out in Playstation 4
+Playstation 3 that is the only thing though
+nothing else there are some Guilty Gear fans out there
+there are alright going over to the Playstation
+3 Godzilla comes out
+on December the 18th
+as well as Gundam Breaker 2
+comes out and that's you can get that
+as regular or an Omochidashi
+pack and that's also
+available with Chinese subs
+if you want that particular edition
+is available that's on the Playstation 3
+this week on the Wii U this week
+Sonic Toon Taiko no
+Hiho and I believe
+that is the same thing as the Sonic
+what was it called here we just got it
+Sonic uh
+Sonic Boom?
+Sonic Boom yeah
+Sonic Boom
+yeah there's a lot of people saying Sonic Boo
+to that there's also a Pikachu
+classic controller coming out on the 20th
+that's a third party but it's Pikachu
+and it's a controller it's adorable
+on the Vita this week Gundam Breaker 2
+makes it's release there on the 18th
+as well as Root Rex
+and Shen Jigen
+Game Neptune Rebirth
+3 V Century
+in regular and limited edition
+that is from the Reformed Compile
+isn't that
+is that uh
+Hyperdimension Neptunia?
+I think it is
+but on the Nintendo 3DS this week
+actually believe it or not huge week on the 3DS
+because not only do you have Sonic Toon
+Island Adventure there
+Sega 3D Fukuku Archives
+which is the Sega 3D Classics redone
+but this week on the Nintendo 3DS
+Final Fantasy
+Explorers that's right
+Final Fantasy meets Monster Hunter
+is releasing this week on the 18th
+that'd be so awesome if the 3DS was region
+free but it's not
+but I know people with Japanese 3DS's that'll be
+getting it anyway cause they crazy
+and I mean that in the best possible way
+alright Dark Soccer how about the UK
+there is an entirety
+of one thing
+and one thing only
+Baldur's Gate 2 Enhanced Edition
+nice
+there it is
+alright just a couple more stories for you guys
+and then the classic game of the week
+Loki
+so um
+Sega is trying to figure out
+how to adapt their properties
+into other forms
+of media and entertainment
+including TV
+I'm hoping that the fact that they're hiring
+this media exec
+means we're gonna get some better
+stuff other than Sonic Boom cause I don't
+know, I don't know if that
+new cartoon's any good
+from what I hear but apparently
+even Choflin
+is going to, is set to
+adapt some of
+their old franchises into
+you know, television
+web series, you know
+you name it, movies
+they're seeing adaptions of
+Altered Beast, Crazy Taxi
+Shinobi, Streets of Rage
+and other titles
+I can only think, you know
+we've seen Sonic so far
+and I'm just hoping that they reboot
+that at some point
+that actually works for them
+but man, I would like to see some of those old
+Shenmue, Shenmue
+Shenmue
+come on, lucky hit
+hits the big screen
+you know, as weird as it would be
+I would love to see like
+a Moonwalker series
+or something like that, even though I understand
+that's, you know, based off of the Moonwalker film
+I'd still
+love to see that as a spin-off series
+or Space Channel 5
+hello, yeah, that's what Fifth Dream in our chat says
+Space Channel 5 the series
+YYR in chat says, go home
+Sega, you're drunk
+or can we do like some
+you know, not the
+I fear that Crazy Taxi
+will be it, it's gonna be like really
+like, just like second-handed
+can we do like something with like all the Dreamcast
+you know, characters and stuff
+and like a sort of Captain N type of environment
+but not stupid
+you know, can we do something like that, you know, have Ooh La La
+and maybe, you know, get
+the nameless characters
+from Crazy Taxi or whatever
+and hell, let's throw in some
+what was it
+I don't know
+other series that they had
+on Dreamcast
+Fifth Dream in chat over at live.vognetwork.com
+suggests Hatsune Miku the animated series
+now that one I could actually see happening
+because Hatsune Miku is a pretty big deal
+for Sega, so especially overseas
+so, yeah
+I don't know, maybe
+Daytona
+do do do do do do
+don't even
+alright, well
+a lot of people cry
+a lot of people on the internet
+saying don't even to this
+character that was announced for Tekken 7
+and this was
+a character kind of like
+a, I guess you could say like a
+cosplay
+fan girl, kitty girl
+the name was Lucky Chloe
+was the character unveiled during a
+livestream celebrating the 20th anniversary
+of the Tekken franchise
+she's wearing pink cat ears
+and like a pink
+like cat paws thing
+and she's got on like a little black tutu
+with a tail that actually kind of looks like a cat
+so I mean she looks just like
+a cute, you know, anime
+girl that
+could show up in the Tekken series, right?
+maybe she works at a cat girl
+cafe, perhaps
+but they announce Lucky Chloe for Tekken
+and all of a sudden
+a lot of negativity on the
+internet get out, but negativity
+hit the internet
+and the series producer Katsuhiro
+Harada was alerted
+to a thread on NeoGaf
+where a bunch of people were saying
+things like, God, I hate her already
+but first off
+why did you go to NeoGaf?
+but NeoGaf, they hate everything
+sorry, not sorry
+I'm just keeping it real, you guys
+but anyway, I'm sure Twitter
+was no better, speaking of Twitter
+Harada ended up tweeting out
+quote, are you Western, only one
+bulletin board? Hello, small world
+I'll make muscular and skinhead
+character for you
+probably in reference to
+stereotypes of American characters
+I can see the meme already
+they have
+the Heath Ledger Joker
+sitting there
+Felicia!
+Catgirl, Felicia, and Dark Sockers
+no one blinks an eye
+bye Felicia
+alright, anyway
+he went on to say that
+American fans shouldn't
+be upset because Chloe is just one of the
+game's many characters
+which, if I recall
+involved a fighting
+panda bear
+and a wooden dummy
+a wooden dummy
+a kangaroo
+a dinosaur
+give me a fucking break, this is
+Tekken, people
+and Yoshimitsu, I mean, come on
+if a catgirl wants to catgirl, then let her
+catgirl
+here's the thing that I have to say, it's his
+fucking game, he can put whoever
+whoever the hell he wants in it
+if you don't like that character, don't play as that
+character, I don't really care for Dalzim
+I don't play as Dalzim
+not that I hate the character itself, it's just I don't like the way he controls
+nobody bonks when Dead or Alive
+had a Teletubby
+Dead or Alive had a Teletubby?
+What's his face
+with the Teletubby outfit?
+since we are talking about
+game creation and game creators a lot
+tonight with that special theme, and I should have asked the guys
+from Kooky with Unity about this
+here's a tip
+from me to the guy here, producer
+of the Tekken series, don't read the
+comments, do not ever
+ever ever read the comments
+don't read them, don't let NeoGaf
+influence your game, don't let any
+website influence your game like that
+just make a good game
+that you love, and that is what's most important
+I'm not even going to get into any of this
+so, but yes, I whole
+hardly agree, you know, if you're making
+a diverse set of characters, that's fine
+this is the character you want to make, that's cool
+they have other characters, there's
+I don't think Tekken suffers
+from non-diverse characters, they have
+plenty of diversity in characters
+and species
+and sex
+orientation, whatever
+it's
+that's not even a complaint of that
+series, it could be Dead or
+Alive, I mean that's, you know
+a little bit worse
+Rama in our chatroom over at live.fognetwork.com says
+I'm amused at the cosplay
+fandom who got mad because they assumed
+Lucky Chloe was based off of Jessica
+Negri
+I hope I said the name right, I don't even know who she is
+she's the one that did the
+Lollipop Chainsaw
+cosplay, and she's down on her stuff too
+sorry, I believe that she's also
+the one though who did
+I may be getting her confused
+but she also did cosplay in Blackface
+at the end of the, oh, well
+at the end of the day, at the end of the day
+if this was inspired by a real
+life person or whatever, so what
+so what
+I mean, god, they put that one girl
+in Mass Effect... Law? Hello?
+Yeah, right? Law?
+I mean
+No, he's totally original, not inspired
+by anybody named Bruce Lee
+They put that one IGN girl in Mass Effect 3
+and it didn't ruin the game
+Who's did, uh...
+It might not have been her, by the way
+I might be confusing her with somebody else
+Yeah, alright, yeah, don't start
+rumors here, I'm just kidding
+No, Rama told me who it was
+but anyway
+No, who I'd want to see a fighting game done by
+Rama clarifies that wasn't her
+I know, it was somebody else though that looks
+very similar to her
+I would love to see a fighting game done by Platinum Games
+That would be fucking amazing with all their character designs
+You never know
+Alright, let's
+travel back to a time when things were
+simple, because, like, we're gonna go back to
+a time when, you know what, who
+knows what it looks like, because it's a big square box
+moving around your television
+Alright, maybe we're not talking about a game
+that old this week, but we are gonna take
+a trip to the vault, where Dark Soccer's gonna
+open up the vault and find a game that she thinks, hey
+you should show a little respect
+to the games that came before you
+This is the classic game of the week for this week
+Dark Soccer, what'd you pick?
+Well, my whole logic
+behind this was trying to find a game
+that was ten years old
+that people would go, holy shit, that's ten years old
+So, I picked
+Silent Hill 4 The Room
+Holy shit, that's ten years old?
+Yes, it is
+At any rate
+this one
+was published by Konami
+of course, developed by Team Silent
+It came out in
+Japan in June 2004, and in
+North America and Europe in September
+This was at my
+second or third E3
+and they had the whole
+big kitchen set up and everything, it was really awesome
+I have pictures of it somewhere
+But this one, instead of being set
+specifically in Silent Hill
+is set in a town called South Ashfield
+and it follows this dude named
+Harry Townsend around
+He's locked in his apartment
+and he finds different ways to
+escape through his bathroom
+through other ways, and
+goes through all these different craziness
+where he's chasing an undead serial killer
+named Walter
+because Walter is totally
+a serial killer's name, don't you think?
+A little bit, yeah
+So basically
+you've got the one save point
+which is his room
+The room will restore his health
+but there are
+hauntings that happen
+in the room during the second part of the game
+Whatever you do, don't
+get the Robbie the Rabbit
+to take him back to your house
+Seriously, it will fuck you up
+He also is
+spending the second half of the game
+helping his neighbor Eileen
+who
+she has to go around with him
+She takes damage as she gets
+possessed over and over again
+and so basically
+however much damage that she takes
+directly affects the ending
+that you get
+So
+basically though
+you beat shit up
+You can shoot things
+You've got different
+talismans as well that can protect you from damage
+can protect your
+room from being haunted
+and you can
+charge your melee attacks
+You can actually do more damage
+You also have unkillable ghosts
+that are
+Walter Sullivan's victims
+and the ghosts can hurt you
+and can only be nullified by two items
+and you can also
+exercise hauntings from your apartment
+with those same items
+and you can knock down
+ghosts
+It's basically two bullets that will knock them down
+or you pin them permanently with a sword
+So there are certain
+ways you can kill things
+So there's also
+another
+character that actually you see
+I don't remember how many
+Well I'm sure everyone remembers the
+remakes of
+the songs they did for DDR from this game
+but
+one of the characters who
+dies early on in the game is in the
+beginning
+is in the video
+with Cynthia
+but I mean
+the game is
+it's weird
+It's one of the last of the good Silent Hill games
+And then of course
+don't worry
+you also get the special endings
+Well actually
+in this one
+actually I'm wrong
+this one does not have the UFO ending
+I was going to say I thought it
+Yeah this one didn't have the UFO
+It's the first one that didn't have the UFO ending
+Oh bummer
+You have
+four endings
+Mother, Eileen's death
+The
+Twenty One Sacrament
+and
+hold on because I know I've never gotten the dog
+not the dog but the UFO ending
+Yeah there's no UFO ending
+There's not a disco party ending?
+No there should be a UFO ending
+PT better have a dog ending
+I know right
+There's actually a picture
+of
+how they set up the whole kitchen
+thing
+which is not a very good picture
+I'll have to find a better one for the chat room
+but the soundtrack
+is just really amazing
+of course like all the Silent Hill soundtracks
+that were done by Yamaoka
+The
+Japanese soundtrack had a second
+disc that had
+music
+done by Yamaoka
+that was done to reading of
+traditional Japanese stories and then the
+American version had 13
+exclusive tracks and
+remixes and then there was
+Your Rain that was redone for DVR
+and
+there was also a
+UMD out called The Silent Hill Experience
+Track 22
+was also called
+No Way to Escape
+and it was a special recording for the soundtrack
+so
+there you go I have picked
+Silent Hill
+4th Room
+probably like I said one of the last
+good Silent Hill games
+I haven't played it since the game first came out
+I think I still have your copy
+On what? Xbox right?
+No I thought it was
+Yeah it was
+No I had it on Xbox
+I remember playing the game when I was living with
+Loki I must have been 10 years ago I was living with Loki
+and I got so scared at one part and Loki
+looks over and goes what the hell is going on over there shut up
+I didn't say that
+Yes you did!
+I would never tell you to shut up
+I may have inquired what's going on
+Alright walking into
+studio a connoisseur
+of the Silent Hill series
+a friend of the show
+Shana Lee goes here in studio with us
+So I have to talk about this for a second
+Is there a dog ending yes or no?
+No it only has 4 endings
+That was the start
+of the downfall
+That's what I should have done
+as the fortune cookie
+You go bark bark bark bark bark bark bark
+I heard there talk of
+your reign being in
+Silent Hill in DDR
+it did not get mentioned at least by the time
+I got up that there was another Silent Hill 4 song
+in DDR
+Did you guys talk about that?
+I don't think so
+No Shana
+Is that the one from 3?
+No no not in PS2 DDR
+UltraMix
+2
+has
+from the US CD sampler
+the remix of Waver
+from
+cause that was all my doing
+and then they did a really bad cut of it
+so I feel bad in a way
+but I do not feel that bad cause I like that song
+So you pushed to get that song in the game and then
+I'm the only one that said anything about that song
+and they brought it into the game
+Yay Shane
+Well there you go
+So who knew you had a little piece of the classic game of the week
+How does it make you feel to hear that Silent Hill 4 is 10 years old
+Really old
+Cause I remember that E3
+That was my first E3
+Also remember we had
+the
+scoop on that song
+We had the world premiere of your reign
+from DDR and that was Shane who
+made that all happen
+We had to talk over half of it for people recording it
+Yes cause that was back in the day
+when people would do that
+People were obsessed with DDR
+And then
+I got a bajillion copies of the sampler
+because of Dan
+And that's actually what happened
+is that Shane had an early
+print of that sampler
+so that's how we were able to use it
+And I want to say
+cause that's one of my favorite Silent Hills
+I love 4
+The scariest ones cause I don't like Walter chasing me around
+It's not fun
+When that game came out in Japan
+I used an import site
+to import that game
+overnight
+weekend just so I could have the CD
+that came with it for a car trip
+I was taking on that Saturday
+How much did that
+set you back?
+Well the game I think itself at the time was maybe like 60 or 70
+and it was the collector's edition
+which made it a little more expensive
+Pretty sure it was like 180
+at that point to hear the CD
+You know what? I've done that
+Because when Rival Schools
+the evolution for Rival Schools came out
+I had that shit
+I paid 120 bucks for that
+Alright
+Well we gotta go to break you guys
+because we still have plenty of show coming up
+and we're like 2 hours into the show
+so we're gonna skedaddle through part B
+so we can get to your calls, your emails and much more
+when we come back with more of Orange Lounge Radio
+right after this
+Welcome back everybody to Orange Lounge Radio
+live on this Sunday evening
+December the 14th of 2014
+the 579th episode of our show
+We're running a little long tonight
+because we had an awesome interview
+with the guys from Cooking with Unity
+and you know what? Can't complain
+if that's gonna hold us and make us run a little long
+it's for damn good reason
+as you know, encouraging people to get out there
+and create and make games
+it was a great interview, a great time
+We are gonna try to make up a little of the time
+here by running through some more news
+here with our rapid fire news
+Loki! Yes, so let's talk a little bit
+about free stuff
+and this is awesome
+You know, Origin does
+these kind of free games
+for a while, on the house
+they call it, and they've been swapping
+out different games and pretty much
+this is my entire Origin collection anyways
+but SimCity 2000 is now up for grabs
+so you can
+get that for free if you have
+the Origin client installed on your system
+and check it out
+and then I guess they said
+normally they're also offering
+I guess the $5 special edition
+oh, it was the $5 special edition
+that they were offering on the house
+pretty cool
+so go check it out, rather old SimCity game
+and it's not a bad SimCity game
+and then of course
+with the popularity of
+Theatrythm Final Fantasy
+we are now gonna be seeing
+Theatrythm Dragon Quest
+as a next game coming out
+from Square Enix
+kind of along the same lines
+except now instead of music from the Final Fantasy series
+you'll have music from the Dragon Quest series
+and it's expected now
+to be coming out in Japan
+on the 3DS
+March 26, 2015
+there's yet ones coming over the west
+but you better believe it probably will at some point
+well, I assume some of the music
+will come from Dragon Quest X
+which is a game we don't even have here yet
+but I guess Theatrythm Curtain Call
+had some Final Fantasy games that weren't out here
+either yet anyway
+with the Type-0
+I don't know, I don't think it's as sure of a thing
+as you seem to think
+I think that they would bring it over here
+I hope so, if nothing else
+just freaking make it a digital only game
+and buy it, exactly
+and then Final Fantasy
+X and X-2
+are getting another
+well, a port
+of the HD remaster
+so I don't even know how much better it's going to look
+but it's going to be coming now to
+PlayStation 4
+and they said that it's going to be priced
+at $50
+so next spring
+PlayStation 4, Final Fantasy X and X-2
+almost pretty much a year since the last one
+was released on PlayStation 3
+so
+I don't know, I'll check it out I guess
+they haven't really said what's going to be unique about it
+other than that there's going to be some system exclusive features
+thanks
+that's very vague
+I worry when they say
+system exclusive features
+that means share play
+and broadcasting on Twitch
+because those are features that are built into the system
+I really would take that
+to mean nothing more than
+just things that are on the PS4 that aren't on the PS3
+I think that they're just porting it, I don't think it's going to look any better
+I would not
+get your hopes up about this at all
+and then
+unless you have a PS4 and not a PS3
+then get your hopes up
+and then finally they've confirmed that the
+Final Fantasy XV demo will be
+exclusive to day one copies of Type 0
+HD
+it will not be coming out separately
+they're saying it's intended to be
+a special gift for those who purchase
+early
+so pre-order that game if you want it
+the demo
+and they're saying that
+is that going to be coming to North America as well
+or is that just the Japanese copies
+because I'm not really sure yet on that
+Final Fantasy XV
+or I should say Final Fantasy
+Type 0 HD
+March 17
+2015
+lots of stuff to look forward to
+and we have to buy an early
+copy so I can play the demo
+it looks good
+I would have bought the game anyway
+but for the demo
+certainly that just cements it
+alright well moving on to some other quick news here
+as far as expos and conventions
+go GX3
+which was once known as
+GamerX3
+GX3 has been dated for next
+year this is now moving from a
+summer convention to a winter convention
+we knew that was going to happen but it is now
+dated December 11th through 13th
+and they have a new venue
+they have moved it out of San Francisco
+it will now be in San Jose
+at the San Jose area
+is that less of a drive or
+more of a drive?
+it's more of a drive but quicker because of traffic
+and less of a cost ideally
+yeah and actually they're saying
+they haven't said officially but they're saying that the rooms
+will be like $100 cheaper a night
+this year so that's already
+which is funny you know what's funny if you go back and listen
+to some of the talk I said
+on an earlier show when I was kind of summarizing GamerX
+I said they really should think about moving it to
+San Jose and they can have it
+there's the convention center and all the hotels right there
+well guess where the Marriott is?
+it's one of the hotels connected to the convention center
+so I like to think
+I called it and maybe I helped
+see I used to say like Santa Clara
+would have been a good place but now that they built the Niner
+stadium right next to it that's probably not good anymore
+and you know there are some people are very
+happy to hear it's moving to San Jose because it's closer
+to him some people where San Francisco is closer
+not as happy to hear about it
+I think at the end of the day
+you know you don't hear a lot of bad stuff about
+this con by the way disclosure
+or whatever or encouragement VOG
+network is a sponsor of GX3
+we will have a table at the show
+myself and Dark Soccer are for sure going
+I'm hoping Loki can go depending on
+the situation we'll see I have a year notice
+just for one day if nothing else
+I would like to go I haven't been to a con
+in I don't know
+a very long time
+well you'd have a good time here so
+again it's December 11-13 at the San Jose
+Marriott and tickets are available right
+now and they have all different
+levels and platforms right now the cheapest
+is $70
+to $5.95 but if you really do want to
+go Loki let's talk off air because
+I have an opportunity for you
+alright
+that is that so GX3
+will see you there in December
+moving on to some more stories about
+The Witcher 3 is up next
+Witcher 3 got delayed and
+this is what I think the second time
+this game has been delayed it's been pushed back
+now from February to
+May 19th is the new date
+and a big apology letter going
+up on the Witcher.com the official site
+we owe you an apology we set the release
+day too hastily it's a hard lesson
+wanted to take heart for the future you know what
+you know what exactly I rather
+you push it back like EA
+do with Dragon Age Inquisition and Battlefield
+and have it be a good game when it comes out
+then to put it out like Assassin's Creed
+you know I don't
+we'll wait the extra three months
+I realize you're going to get shit from Twitter now
+like oh you pushed it back again
+can't make your deadline
+but when the game comes out if the game kicks
+a lot of ass then people
+are going to shut the hell up about the delays
+and enjoy the game or Grand Theft Auto
+right Loki that series never gets delayed
+well yeah exactly and
+it's not and people aren't complaining
+because well they're just complaining because
+they don't get to play as early as they'd like
+to and that's really you know
+that's not a bad thing
+alright and lastly
+it's your last chance to check out
+After Burner Climax
+now this game came out a little while ago
+but it is going to be delisted from
+Xbox Live Arcade and Playstation Network
+on Christmas Eve December 24th
+so if you were at all interested
+in the game you might want to grab it because again
+it will be pulled on December 24th
+and you will not be able to buy it
+if you should accidentally delete the game
+or something you can download it again
+that won't be a problem but this has to do
+with some of the license
+agreements between Sega and the
+aircraft makers of some of the
+planes that are in the game those license agreements are
+expiring so much like
+Outrun got delisted
+and you know some other things that have licensed
+content and they get delisted
+that's why it is fictional aircraft
+that are like those aircraft
+fictional aircraft
+that's why Ridge Racer was so cool because they have fictional
+cars or Punch Out when they just replaced
+Mike Tyson with Mr. Dream it was easy
+but anyway alright well whatever
+they got to do what they got to do so After Burner
+if you want to get that last chance Dark Sakura
+we do have
+other news
+there is something going to be
+on the Virtual Console only in Japan
+and that is Vampire Hunter
+I'm sorry, yeah Vampire
+Killer my apologies which is the
+predecessor to the Castlevania
+series so
+it was
+originally
+Akuma Jill Dracula which
+we got as Vampire Killer over
+in the English speaking countries
+but it was a little bit
+more open ended so you should be seeing
+that coming out on
+the Wii U Virtual Console if you live in Japan
+on December 17th which boo
+that it's not coming out here
+get an MSX yo
+just order one off
+Japanese eBay
+Yahoo Auctions or whatever they use over there
+just go to US eBay
+also Bravely
+2nd will be released on April 23rd
+and it comes with some neat stuff in the
+collector's edition
+I actually super love the packaging
+it's just black and white and gorgeous
+it also
+comes with a Pope Agnes
+figure Bravely
+default 200 years later Shrine Maiden
+of the Wind idea
+you get a
+an art book and a novel
+a soundtrack on a data
+CD a notebook
+a Magnolia rubber stamp
+and code for in game content
+so neat oh
+and then
+remember how I said the only thing coming
+out in Europe was Baldur's Gate 2
+for Android
+I do recall you saying that well this is actually
+Baldur's Gate 2 Enhanced Edition
+going to be out on Linux
+Android and iOS on December 16th
+and it's also going to
+have
+the update
+1.3 that has bug fixes
+better pathfinding, improved multiplayer
+German and Spanish
+language support
+with some other languages thrown in
+increased font size and MOA
+and it will be $10
+and that's it
+alright let's go to
+the FUGL question of the week
+it's my vehicle
+ha ha
+each week we visit
+Facebook and Google Plus
+you slam that together you get FUGL and we ask
+a question of our communities
+and tonight we wanted to know you know we were talking about creation
+tonight we knew that was going to be a theme
+of the show tonight so we asked our audience
+what's something you've created
+in the video game world did you program a small
+game or work on a large one maybe you made
+levels for a game of yours what did you
+create we also kind of put in there if you really
+really really haven't made anything
+a. we hope you start
+b. what do you hope to create someday
+so a couple
+different questions there depending on your situation
+act deaf starts us off on Google Plus
+saying the closest I've been to video game
+programming has been translation
+I haven't been directly involved in it but I
+helped some friends with translations and editing
+hey you know what important
+very important I wouldn't have got to play
+Final Fantasy 5 when I did if it hadn't been
+for some people translating the original
+Super Nintendo ROM
+translation didn't end up perfect but at least it got me
+through the game so translation important
+role makes the game more accessible to people
+Redertainment in chat
+saying there's a book I put out a couple years
+ago that no one read called volume 11
+when I originally dreamed it up it was supposed to be
+a stealth action game complete with long sections
+spent sneaking around and trying to avoid groups
+of people looking to kill you and all of
+your people since I have no visual
+artistic skill and coding is hard
+volume 11 became a
+book so interesting you had like a game
+idea that ultimately you poured into a book
+very interesting
+let's check out some of the answers over on
+Facebook Raginator says back in my elementary
+school days I modded
+an edutainment typing game
+originally called turtle trot
+during the down time at the end of
+computer class I made it a very
+obscene pervy renaming it turtle
+twat and the game talked dirty to
+you and made poop and fart
+jokes you alright over there dark sara
+unexpected turtle
+unexpected twat oh what
+Raginator making a game out of poop and
+fart jokes is unexpected I beg
+to differ
+no I mean just I was
+the word twat to me
+is intensely hilarious
+and whenever I hear it
+I just
+twat are you talking about I can't hear you
+I thought you live on twat avenue
+that was the old one sorry
+anyway one thing I
+wish to make is a new OLR dream
+game a moral combat clone or parody
+featuring wilford brimley the golden
+girls matt lock angela
+landsbury etcetera
+which I entitled in the chat room earlier
+as smash tv land
+love it or golden gladiators
+golden gladiators love it
+monty boggs says in banjo
+kazooie nuts and bolts there was a mission
+to defend a statue from enemy planes for a
+set time instead of building
+a combative plane as most would I
+created a giant cone cover with
+propellers to simply cover the statue
+and absorb all the damage that
+game was fantastic at rewarding
+creativity so kind of
+talking about a game there that has
+you create as part of the game
+mechanics
+febreeze mentions on facebook
+I programmed a version of the tron light
+cycle game for a school project
+I really want to pick up programming again but don't know
+what to choose there's so many programming
+languages I have no idea where to start or
+which is the most useful well I hope you got something
+out of tonight's show I do have
+a dream game I want to make a pure
+sega arcade racer like daytona
+sega rally and
+those awesome games well surely
+he knows about that kickstarter from a few
+months ago right yes exactly
+that looks pretty awesome and
+er says I did some flash games in high school as
+part of my web design class pretty much
+all were clones of existing games for
+example one was a mario clone where
+you played as link nintendo ripped me
+off for nes remix now
+I know he said that comment very tongue in cheek
+but it made me think of when people used to hack roms
+like people put
+zelda in mario because they would hack the
+rom and put the little
+picture of link in there although
+I realize it's a questionable
+legality territory the reality
+is people have done it and some people got
+their start doing it and of course
+you know somebody made like super penis
+brothers where they were all naked yep
+they did we played all of those roms
+to see who they were and and they're all
+garbage and
+uh
+dark tetsuya says I've been writing games off
+and on ever since I learned basic on the apple
+2 series back in the day wrote some simple
+dragons lair esque text adventures
+uh twine sounds
+right up your alley dark tetsuya because that's uh
+what that does text adventures uh lately
+I've been tinkering with programs like the games
+factory writing some simple arcade
+style games and other game makers the
+most recent of which is called construct 2
+the first paid edition is pretty
+pricey but the free one does plenty
+if you're just getting your feet wet
+and lastly steven d on
+facebook says I was 8 in
+1984 and my friend's father made
+us a little stand up arcade cabinet with a back
+board to be used for the screen we
+drilled pathways in the back board and would
+take leds on hangers
+and move them around like spaceships
+can't remember what we did for the controller but
+it was awesome
+so there you go a lot of uh cool little
+answers very diverse the way people have been
+making their games uh on
+facebook and google plus
+uh hopefully lots more people gonna
+participate in our game jam
+the vog game jam all the details
+next week and you know I realized
+something by the way I as much
+as I would love to give a tangible prize
+to everybody that participates I have to
+pay shipping on everything out of my own pocket
+so it probably it probably will be limited
+to like 10 something
+and we can take any leftovers
+that we have still we'll take with us to
+gx next year I have lots of steam codes left
+over so there's always digital stuff
+that's true there is a lot of digital stuff
+so we'll try to put it all together this week
+honestly talk of this idea
+started on thursday
+and I loved it so much I was like we
+need to make it happen and bobby put a good
+idea out there he said well people
+should probably have the holidays to work on their
+projects cause a lot of people have downtime
+from work I was like oh crap you're right
+so we better make it happen fast so
+we will anyway let's
+get on to some more news tonight
+we have a few more stories for you guys Loki
+alright so as much as I like
+the call of duty series the last few years it's been
+kind of not doing as well as
+it used to it used to be kind of record
+setting each year where it would sell
+out you know beyond
+what you know the previous years edition
+did and unfortunately that
+kind of gone downhill since
+I want to say black ops
+2 which is sad
+because black ops 2 is actually a really good title
+but they're saying
+basically advance warfare
+is down
+27% year over year
+and that's
+that's not good and that's
+kind of sad cause I thought that was gonna be a
+little bit more of an interesting
+game but I guess people
+just aren't getting the call of duty as much as
+ever and honestly they're just
+milking it too much maybe they need to
+sleep it for a year maybe
+I think it
+they tried some different stuff with it but it
+still did feel a little bit like black ops
+2
+I don't know it's
+it's an interesting game it's just
+and
+maybe it's just not peeling maybe it's
+not different enough year over year where people
+are like yeah I don't really need to
+get this one I
+can understand that and honestly like
+even like the new mechanics in the game it does
+enhance some things but it's not
+you know completely
+different but I don't know
+I mean you know like Madden
+and stuff like that they enhance things and they don't really
+change everything so
+people still buy that
+it did well it still was you know one of the
+best selling games this year it's just
+unfortunately not a lot of people
+are buying it I think also still
+we're kind of in that phase where maybe
+people are picking it up right now because they're
+gonna pick it up on another console later on once
+they decide to you know bump up
+to a current gen console
+maybe that's the situation
+or maybe they're skipping it this year because
+they're saving up for that console or maybe
+because there's too many fucking games that
+come out you know in the month of November and
+October I think it
+could be a lot of those things or
+you know there was this big shooter game that came
+out that was kind of an MMO called Destiny
+that did really well
+so I think
+a lot of those factors play into it but
+I think if next year if it's
+kind of still
+on the down turn then maybe they have
+milked all they can out of it
+I don't think that they have
+but maybe I'm sure
+they'll try to figure it out maybe go back to
+World War II again I don't know
+do something different
+maybe you should fucking buy the rights
+of time splitters and put out a new time splitters
+game because that's really what I would want to see
+now you're fishing now you're fishing I know
+well maybe people aren't playing the new Call of Duty
+because they can't let go of the shooters they've
+been playing for like seven years now
+one of those big popular
+shooter games is Team Fortress 2
+it's also popular because
+it's free and Team Fortress 2
+is going to be getting a new
+I guess update
+I don't want to say expansion because they're calling it an update
+but the update is called End of the Line
+and I went oh does that mean this is
+the last one and Team Fortress 3
+imminent? Not really
+can't count to three
+even though End of the Line will have
+21 cosmetic items
+and it'll have a new taunt for the pyro
+and a new multi-class melee weapon
+and apparently a big
+focus on ducks
+like collectible ducks and duck tokens
+and so forth okay this whole
+thing is actually based on a community film
+that's actually also called
+End of the Line so they were
+oh my god is it
+oh that sounds awesome then because that film
+was fucking rad so
+yeah it's a fan film that runs
+14 minutes on End of the Line
+yes yes please more
+of that that is pretty that is pretty rad
+it is something that they are
+building into the
+official canon then of Team Fortress 2
+so lots of folks looking forward
+to that and bless Valve
+for keeping this game going that
+honestly you know with
+some of those Team Fortress 2 videos
+you're missing that VoG Team Fortress server
+right about now aren't you no no no
+I once again
+too much stuff to play but I
+honestly would love to see a
+Team Fortress movie I think that would be awesome
+because they have some really great characters
+they have a lot of machinima they do but
+I would love to see something that was like a few
+hours long that was actually in theaters you know
+Seattle in our chat room not a fan saying
+End of the Line was such a disappointment
+Tigerclaw in chat says
+they should have partnered with Disney and done
+End of Line as DLC to dress up your characters
+as Tron characters that's what I said
+when I first saw the story I was like
+oh shit is Tron in Team Fortress oh
+it's End of the Line
+got it that's what everybody says
+our guild in Final Fantasy is actually
+called End of Line and it's because of Tron
+but we get like people
+send tells their ass all the time shouldn't it be
+End of the Line
+no in this case
+it is End of Line because it is a quote
+from a movie anyway
+and also it was a legit
+statement command
+I know I know
+anyhow Dark Soccer
+you got some legit news for us
+I do
+actually you know
+Valve had the big holiday
+auction thing going on
+they actually had to shut it down
+and restart the holiday auction
+because
+there were some activity done
+by a few people
+where they were
+basically just
+let me
+start over basically they figured out
+there was a Reddit thread that said
+that there were some weird
+things going on basically that you could
+use a duplication exploit
+and people were exploiting it
+and they were just getting tons
+of freebies
+you know by
+actually even creating a second hand market
+to sell gems for
+money so
+basically Valve just
+rebooted it started it over
+and have been doing
+the cases
+item by item so
+they just started it over they're like
+fuck you guys for doing this we're just starting it over
+screw you guys I'm going home
+well yeah
+no but I mean
+it sucks that people have to
+I don't know anyway
+if you've got a system that someone
+I know that has a manipulation
+in it I know
+I know it just sucks it's the holidays
+people
+people are monsters I know
+it sucks
+alright so twitch kind
+of going the route of esports
+because they know that that's popular
+and hell a lot of people
+stream their esports stuff on
+twitch so it makes sense
+that they've acquired
+Goodgame which I guess
+they're saying it's a company that the world's
+first full service agency dedicated
+to esports and live video game
+broadcasting communities
+so is that like a recruiter
+I don't know but basically
+there is a good game has an amazing
+reputation in the industry for its
+expertise in both sponsors
+sponsorship sales and talent
+support their passion for helping
+the content creators and pro players achieve
+success has elevated the entire
+industry in the minds of
+brands worldwide so it's kind of
+like a promoter you know
+talent scout type thing it sounds like
+I'm sure now
+that you know
+it would be a good angle for them to go I guess
+because esports are pretty big
+and they kind of have the
+grasp of you know
+streaming on their site so
+I don't know
+advertisers
+interesting
+apparently
+I didn't see how much so they purchased them for
+but
+it'll be interesting to see how they take
+that if they're going to try to maybe make
+esports more like
+well mainstream
+it's interesting to see twitch acquiring companies
+when they themselves were just acquired by Amazon
+I mean I realize that you know it's still
+in a lot of ways business as usual
+but it's just interesting that all those chess pieces
+are moving the way they are well now that they have
+an extra almost billion dollars to do
+that with they could probably spend
+some of that you know on this
+kind of thing we're for sale by the way no I'm kidding
+I'm kidding alright moving on
+talking about games
+for windows yeah no really
+I'm going to talk about games for windows or at least
+what the hell is Microsoft's future
+in gaming on the PC
+because we don't really know a whole lot
+about what that has in store
+you know we talk about things like valve and
+all these other store in fronts you know Microsoft
+wants a piece of that and they've tried before
+and surely they're going to come back
+at some point and what's interesting
+is there's been a
+tweet that Phil Spencer
+actually responded to
+the tweet asked Phil Spencer
+Phil can we expect some UI
+footage of windows 10 on
+xbox one in January
+and Phil responded to it saying
+I'll be focusing more on what we are
+doing on windows 10 in January
+it's time for us to talk
+about gaming on windows
+hmm so
+what are they going to do with windows 10
+a new store that's so exciting
+I can't wait to
+see what windows 10 brings
+nope sorry I don't care
+I honestly I'm just like
+you know they've it seems like Microsoft likes
+to try to do things that other people
+do and don't get
+me wrong they do a great job
+on their gaming platform but as far as
+like some of the other platforms
+that they try like PC is a
+art phones and tablets
+and you know
+mp3 players haven't
+exactly been stellar and
+like I'd say their PC storefront
+is not
+excellent but I would
+assume that whatever this is going to be is
+going to tie together xbox one
+as well as
+you know windows phone
+as well as the PC
+I know the idea
+is that they want you know
+those cross platform applications
+to where okay say I get
+you know
+say I buy a game or something
+on my PC
+well it runs on my PC it now runs
+on my xbox one and it runs on my phone
+is the perfect world scenario
+of that but I just
+I don't know I just don't think
+anyone's really really care
+what exclusive apps could you possibly
+have that would
+that anyone really
+really care if they ran across all those platforms
+minecraft
+yeah but minecraft already is on those other
+platforms minecraft 2
+cool I guess
+I'm waiting to see that
+that seems to be
+that's going to be the key piece I'm very curious
+to see if that's that's what they pull out
+and put out on the table that's
+their only card I mean then that's
+I mean cool that well it's an expensive
+card exactly their ace of spades
+and more power
+to them if that helps drive their
+platform but you can't
+just run a platform
+it's just like me okay I have origin
+installed in my system because I wanted to play
+titanfall I played the
+titanfall demo I didn't uninstall it but doesn't
+mean I'm shopping for games on origin
+I mean that's the same thing with minecraft 2
+I will buy it on
+their store if this is the only way I can
+buy the game is through their storefront then sure I'll
+buy it through their storefront doesn't mean I'm going to use their
+storefront to buy more games
+I just I don't know what they're
+trying to do with it whatever let's see
+I really want to see what windows 10
+does to enhance the experience of the
+xbox one that's what I'm curious to see
+that and directx 12
+or whatever it is that they're on now
+I'm curious to see how
+because that's actually supposed to do a little bit more
+but we'll see I mean
+don't fuck it
+up
+good advice good advice
+some comments in our chat room over at live.vognetwork.com
+bonds 006
+says they killed game for windows
+and I won't go back
+rama is saying that windows 10 is pretty fucking sweet
+I haven't
+I guess they do have the whole like preview build
+or whatever but I haven't really checked it out
+I feel like when it comes to OS's
+I don't want to screw around with something that's not
+like finished
+if I had an extra computer
+maybe but I don't really have that luxury
+alright
+let us get to the
+mailbag every week you guys send us
+emails
+participate at orange lounge radio
+.com and usually
+dark soccer will dive in head first and read the
+emails but I believe I'm doing it tonight right
+yes because dark soccer
+is still got a little bit of the voice we don't want her
+to use it too much
+she has to use her
+she needs her voice
+for complaining
+not to read emails tonight
+alright
+I'm going to read some emails here instead
+so let's get to it
+I'm going to go ahead and stop the music now
+because I got to multitask here
+so let's go to AZHP first off tonight
+saying just wanted to submit a small
+correction from last week's podcast
+where Rob stated that instead of Marvel
+or Star Wars being included or considered
+for Kingdom Hearts 3 that it would only
+be frozen that would be added to the game
+I pulled a quote from the source interview
+which will clarify the vague quote Rob
+quoted last week well how dare you try
+to correct me on something how dare you insinuate
+that I thought that was a joke not necessarily
+well let's get
+to the quote that AZHP
+emails us here saying and by the way I'm kidding
+AZHP says when I asked whether
+I could safely infer that Star Wars
+and Marvel are not off limits
+Yase confirmed
+that they are being considered well
+yeah they're all under consideration he
+said nothing's off limits we're considering
+all of the worlds there are so many
+wonderful concepts we're happy about
+that but at the same time it's really tough
+to choose the
+email goes on from AZHP
+while I would honestly prefer if Star Wars and Marvel
+were in Kingdom Hearts 3 myself
+since I would prefer more cartoony characters
+in the game I wanted to let you guys know that it
+actually is what they're considering
+that sounded like
+though honestly thank you for the clarification
+but that did sound like a lot of a non-answer
+answer he just said
+oh yeah you know we're considering everything
+but it's so hard to choose and
+I'm not telling you shit
+I still stand by
+what I said last week though that Frozen's
+got a better chance of either of these things
+on showing up in the game
+real world stuff doesn't always tend to show up
+in Kingdom Hearts I do realize Pirates of the
+Caribbean made an appearance
+that was a pretty rare exception and that's still
+a very very very very
+Disney grown thing at heart
+I just
+you know when we talked about this
+story last week we were coming off all this other
+Frozen mania and I just
+I just see it happening
+for Kingdom Hearts 3
+that doesn't mean the other stuff can't happen
+but I just don't get your
+hopes up people don't get your hopes up Star Wars
+has their own line of video games as does
+Marvel I think in some ways
+it would be really weird if they showed up in
+Kingdom Hearts I wouldn't hate it I'd actually
+kind of like it but it does make
+sense to instead
+showcase these other properties that may
+never show up otherwise I don't know
+regardless it was a huge
+non-answer answer in my opinion and
+we just we don't know we're going to continue
+to speculate and fan wank
+all the way until we see some
+more concrete information I would assume
+at the next E3 maybe
+actually it'll probably be two years from now because next E3
+will be all about Final Fantasy 15
+maybe in 2016 we can finally
+fucking talk about Kingdom Hearts
+yyr emails us
+saying I found the discussion on
+quote games that define last generation
+from last week's show to be really interesting
+partially because I'm not quite certain that one can
+define last generation with a list of games at all
+how do we define define
+anyway I would take it to mean something like
+this games that have the look and feel
+made possible by that generation
+and that influenced many games to
+come both as part of that
+generation and for generations afterwards
+it's easy to put games like Super Mario
+Brothers Sonic the Hedgehog and Final Fantasy
+7 on lists such as this but the
+sheer length of time between last generation and this
+one along with a massive number of and diversity
+of titles released makes this almost
+impossible gaming has transformed since
+the release of the 360, PS3 and Wii
+some things that define the generation
+for me include the Gears of War trilogy
+the introduction of achievements
+the first Dead Rising, the indie games channel
+and the availability of online fighting games
+these are all revolutionary in their own way
+but for many people none of these things will have
+even been on their radar which leads
+me to my point there is just too much
+about this generation to fit on a short list
+for example I personally
+wouldn't define it with such events as the rise
+of motion gaming or the popularity
+of the American music game because outside
+of the genre faithful
+both of these turned out to be fads and are no
+longer popular at all but
+both definitely belong on a bullet list
+of things that defined it for many people
+it's just that this will wind up becoming a very very
+very long list don't forget that
+the very same hardware that ran the brand new
+Grand Theft Auto 5 also ran the brand new
+Ridge Racer 6 with an 8 year
+gap in between I guess what I'm trying to say
+is this I would not want to attempt taking
+on this task because I believe it would be nearly
+impossible let me stop
+there because the rest of the email gets into something else
+it is a huge task
+but so is trying to name the game of the
+year yet people seem to do it
+anyway and I think it's really too hard sometimes
+to name just one game of the year
+and that's going to change from person to person
+just depending on your experiences
+and you know what you like and that's
+why diversity is great because everybody
+brings different things to the table
+I do want to clarify though I don't know if
+the rise of motion gaming was a reference to
+Wii Sports but I just want to clarify
+I put Wii Sports on
+not just because of the motion gaming
+but because the accessibility is a huge thing
+and more people that started playing
+games as a result
+but I would agree with the fact that it is very
+hard
+to define the one game
+that changed the generation that is a very hard thing
+to do but I could try to pick
+the one that I think
+is a huge opinion I think
+did it the most out of all of them
+and that's why I picked Wii Sports and I think Wii Sports
+out of all of them did it the most
+but certainly is not the only game
+that would define a generation which you're right
+is kind of a vague concept to begin with
+but then again so is game of the year
+does that mean the best game the most fun
+game the prettiest game
+who knows
+anyway the rest of the email here from
+YYR also thank you for the information
+on the upcoming Wii U CD-ROM attachment
+but the latest news suggests that while it is capable
+of playing CD-ROM discs it will not
+actually allow users of the Wii U to play
+music CDs oh well
+finally thank you for suggesting a subtitle for
+Pixel Shits 2 projectile explosive
+diarrhea however I heard
+the PED is illegal for most athletes
+some game developers and
+a few podcasters
+anyone else play Acrophobia back in the day?
+Aaron YYR
+uh yes yes
+really I played
+Acrophobia back in the day I sure did
+that was a fun game that's why
+I think that's why I do have
+such a soft spot for like when we had the
+uh guys from Jackbox Games on a couple weeks ago
+cause a lot of the old Berkeley stuff
+like that's where most of them ended up
+so uh that's why I probably have a
+soft spot cause I loved the old
+uh Berkeley games
+alright lastly but not leastly
+actdeft emails us hello
+from your friendly neighborhood Mexican actdeft
+you know how amiibos have been actually
+quite popular running out in places and even
+selling for more than their worth but so
+far the only game that has given them some use is
+Smash Brothers granted they're still new
+and all but I hope that Nintendo does more with
+them in the future and try to give them more than
+an quote use an amiibo
+in game to unlock items thing that they have
+going right now in fact I do have
+an idea I think it's a really great one
+since Animal Crossing Wii U is apparently
+coming either next year or in 2016
+it will probably have amiibo support
+but instead of just giving you items in game to decorate
+your house how about they make the amiibo unlock
+a neighbor of that same character
+like you place the Kirby amiibo on the game pad
+and the game will give you Kirby as a
+neighbor for your town wouldn't it be fantastic
+having your regular neighbors and special
+neighbors maybe have the amiibos
+live in an apartment complex or something like that
+oh see I like that idea it would be like
+um Tomodachi life or something
+where they all live in a building
+I posted this idea on other sites like Reddit
+and got a somewhat mixed reception
+as you will get on Reddit
+but I wanted to know what you guys in the chatters
+and other emails or callers think of this idea
+anyways thanks for reading hope you're having a great Sunday
+and he does end with a PS
+I have a code for Super Street Fighter 4 Arcade
+Edition on Steam and since I got the Lego
+movie code for PS Vita a few weeks back
+I thought I should pay it forward
+or back I don't know either any of you
+can keep it or give it away in chat
+enjoy well thank you for that
+steam code I'm going to put that
+over in the prize pool for the vog jams
+there you go that's the first thing going in the prize pool
+steam code for Super Street Fighter 4
+Arcade Edition on Steam we'll just put that in the prize pool
+for people to participate
+um as far as the part
+about amiibos your idea is cool
+um
+I do realize Nintendo had
+to kind of back the car in so to speak
+with amiibos as far as
+you know what they did with Hyrule Warriors
+what they did with Mario Kart and so forth
+so I don't judge them too
+harshly on
+what they did there
+however I think the really telling
+thing is going to be what do they do in
+next year's games
+the one to really keep an eye on in my
+opinion I want to know how those
+amiibo will work in
+Splatoon I think
+however amiibos function
+is in Splatoon is going to be very
+telling for the future of amiibo
+is that what it's going to be hats
+is it just going to be have amiibo unlock
+crap or would there possibly be
+that you could play some of those characters in Splatoon
+or that you would level
+up maybe you have the hat but you're kind of
+doing like a level up thing that's the one thing I like
+about the amiibo is that you're leveling it up
+but it's like if I level it up in Smash
+then what? I think that they're doing too much
+I mean I don't have a problem with
+them doing like the unlock crap stuff
+because honestly it's unreasonable to
+expect them to incorporate every single amiibo
+that they're ever going to create into
+all of these games like I shouldn't be able to play
+Mario in like
+Hyrule Warriors although
+I would totally love
+to see a kingdom was it
+a mushroom kingdom warriors or something like that
+would be fucking amazing but
+I understand that it's unreasonable
+for me to expect them to have
+all these characters playable in every single
+I mean Wii Fit Trainer it doesn't make any sense
+I have a good idea here's my idea I'm going to pitch out there
+Mario Maker is coming out soon
+right? What if
+in Mario Maker there's certain
+new things not existing things
+new things that you can use
+if you have an amiibo
+that you've leveled up to a certain
+point in some other game
+so for example like
+maybe I get a Kirby picture
+that I can have in a stage somewhere
+or Kirby music oh even better
+I get Kirby music and if I have the amiibo
+I can use one song in a stage
+yes I know I'm talking Kirby music in Mario
+but roll with me here but maybe if I've
+leveled my Kirby fighter to level
+30 in Smash Brothers then I have a
+second song I can use or maybe it just skins
+everything to Kirby yeah
+or maybe changes the colors to Kirby colors
+or like you can have
+like you know for Yoshi it changes everything
+Yoshi Island style or something
+but I love the idea of I would have to
+and this would be really smart for Nintendo to do
+you have to do something in this game over here to make it happen
+over here but maybe not necessarily restricted
+to just one game I kind of think
+the amiibo should level up as a
+whole so that way like
+okay I level it in Smash Brothers
+but then if I want to push it even further
+and even though it might not do anything in Smash Brothers
+my like amiibo level I would
+use it Mario Kart and then I would use it Mario Maker
+it'd be cool if like they'd have different
+stats or something like you could up you know
+if I play them in Smash Brothers become stronger
+and you know they
+gain fighting skills or something like that where if I
+play them in Mario Kart
+they gain driving skills or something
+doesn't necessarily mean if I have a level
+50 amiibo in Smash Brothers that's
+good at driving or something I don't know
+it's an easy thing to balance but
+you know Nintendo has
+gone down this path and I think there's a lot of really
+awesome shit that they could do with this
+but I just worry is Nintendo
+going to be too stubborn to do it as
+they often are I don't know
+and maybe amiibos are too popular for their own
+good I don't know
+Tigerclaw in chat says they're probably
+going to make amiibos specific to Splatoon no
+doubt well with
+as much as those things are selling
+why not make more more more more
+alright that's it for the mailbag if you want to participate
+with the mailbag in a future week participate
+at orangelaungeradio.com
+let's get into the FUs
+of the week
+it might sound a little bit odd
+there's a lot
+of positive posts going on
+about people
+you know how people will do
+romance mods for games
+oh well I want to be able to romance
+this person even though they're straight
+or I want to romance this person even though
+they're gay and there's a bunch of people
+going around saying well you can't
+change a person's sexuality don't
+do it for the game
+don't take but
+then these are the same people who are also
+shipping characters
+in TV shows that are
+canonically of a different
+sexuality if it's
+wrong to do it in one genre it's
+wrong to do it in another genre
+and it doesn't just apply
+to wanting to make
+homosexual characters straight it also
+applies the other way around it applies to
+wanting to make asexual characters
+have attraction to
+bits or something
+respect the
+way the author or the
+creator of the universe has said it
+they're not in control of it no more
+than real people are in control of it
+if you are going to write your
+fiction I have no problem with you exploring
+themes but accept that
+it is not actually the way
+that it was intended
+and that you are creating an alternate universe
+the end okay so I was just gonna say
+devil's advocate like if somebody
+is making fantasy
+and that's fantasy then that's fine as long
+as they acknowledge it as fantasy
+there are people who say this is
+like they'll try to insert
+canon it's not
+canon but don't push your fantasy
+on everybody else exactly
+and there are people out there saying oh well
+it's just another canon no no no
+it's an alternate reality
+canon refer canon means the author
+wrote it the word canon
+relate originated with
+religious canon in
+a religious doctrine in this
+case canon refers to something that is the
+way that the author created you can
+have a head canon which is
+your addition to things that
+happen in the canon that might
+be plausible
+in the canon but when you go
+and you change something that
+is completely outside canon
+and
+your little fantasy world does
+not apply to how the author
+created it and I'm writing a book now so I
+start thinking about these things
+and I was like I don't want people to take
+this asexual character
+that I'm writing and make
+them you know completely interested in
+this guy's dick no
+dick's gross that's
+how I'm writing her so
+hey you know what else is not you know what else is not
+canon the Star Wars
+extended universe aww
+too soon indeed
+I approve of that one Rob
+low key
+um I guess
+just the fact that I haven't had a lot
+of time to work on the programming
+stuff I literally get sometimes
+at work just like 15 minutes
+and it's just not enough time to even
+sit down and open my laptop and
+work on anything just
+can't switch my
+train of thought to something
+different so it's kind of disappointing
+you know that's all
+uh my FU
+goes to I have a
+crazy week at work ahead I like
+my job and all but oh my god FU
+to the fact that I probably have to get up at 6 am tomorrow
+not looking forward to that thanks
+means I have to be in bed in less than an hour
+that's not going to happen if I want 8 hours of sleep
+that won't happen we all know that
+alright uh
+there it is the FUs of the week just a couple more stories
+for you guys then we're going to quickly take some calls
+but I warn you guys I'm not keeping the skype line
+open very often if we don't get calls
+we're wrapping up cause like I just said
+I have to be at work I have to be up
+really early tomorrow so uh
+we will allow though it is the show
+where every gamer has a voice so if you do want to call in
+we will take a couple quick calls
+uh a couple
+quick stories here at the end though
+so it's hard to believe that OC Remix has been around
+for 15 years but that's
+what they're celebrating is 15 years of
+independent remixes
+of video game music and that's pretty cool
+in fact including with that
+they have um
+some new tracks
+that they've been putting together 15 new
+remixes uh that
+from 15 different game consoles
+and this is all in celebration
+of you know
+15 years and
+man they've even had all these different
+uh
+albums that they put out I mean it's just
+crazy I can't believe that they've
+been around that long
+yeah my gosh and sg100matt sums it up
+perfectly in chat shit 15 years
+god I feel old yep pretty much
+pretty much that's how I feel too but
+congrats to them I mean
+I look back on this show and I go god 12 years
+it must be like the oldest fucking thing on the internet but nope
+OC Remix has us beat
+OC Remix has us beat good job guys
+uh lastly
+but not leastly
+prepare your wallet because uh
+the steam holiday sale
+oh it's coming
+December 18th is the day
+now this is now keep in mind Valve
+hasn't announced this but this is
+coming through some Japanese paypal
+users apparently uh
+some correspondence went out to them revealing
+the launch of December 18th
+uh a reddit user actually shared
+the email that they received which
+does mention that the sale will start on December
+18th and run through January
+2nd of course we do not
+know what the uh thing will
+entail but if it's if it's like
+any previous steam sale you know it's gonna
+be on sale everything
+except maybe the new new
+releases and the stuff that's still commanding
+$60 call of duty will not be on sale
+call of duty well you never know even call of duty
+if it's not selling so well
+maybe they'll even knock it down take a page from
+Shadow of Mordor and I'm not even sure why Shadow
+of Mordor is marked down so much but
+shit that game was like
+half off for like a long time
+it just came out
+I don't think it was selling that bad of course
+uh Valve not commenting on these
+rumors but uh of course but this is
+how it's leaked out in the past so
+it doesn't it makes perfect sense that's right
+alright uh we're gonna open up the Skype line
+right now here's your chance 1877
+game OLR or our username on
+Skype is orange launch radio if you want to talk
+about anything we've talked about so far on
+the show or something else uh
+meanwhile let me just check in real quick if we have any
+last minute stories from Loki while we wait for a call
+uh
+they have a
+cool hack that's going on for
+uh remote play that you can get it to work on
+an android phone
+that's kind of neat I don't think that's
+actually um yeah
+it's uh an app that they have that
+you can actually use a tablet device or
+something to do remote play
+on in case you don't have a Vita
+alright we are gonna go to the phones
+cause it's lighting up hi you're on orange launch radio
+who's this uh hello this
+this is Hitstun hey Hitstun how are you
+we haven't heard from you in a long time what's up
+yeah I'm doing alright I'm the man that used to do tech support
+for the fastest internet in the chat
+hahaha nice
+alright um I'm really excited
+you guys are doing like the vog jam
+a game jam here that sounds great
+me too so
+officially count me in on that
+yes that's awesome
+I'm pretty hyped for that I'm hyped for it too
+you know and it's scary uncharted
+territory cause who knows people may
+hate the theme but uh I think
+you'll find a way to work with it even if you end up
+hating the theme I think people will find a way to work
+with it cause it doesn't mean that has to be
+the central theme of your game you know or whatever
+uh and it's scary I don't know if you can do worse
+than the most recent Ludum Dare though
+oh entire game on one screen
+that's what they picked oh wow
+uh like that you could do anything
+with that but it's a little too wide you
+know um when you guys are picking a theme
+like I mean try to
+try to give something that at least gives
+us a little bit of direction about what the game
+should be about or like a topic maybe
+well I would think you know even if we did
+something like Puzzle Sluts
+like Puzzle Sluts maybe doesn't necessarily have
+to be a puzzle game Puzzle Sluts
+could be you know you're looking
+for missing pieces of the puzzle
+in a point and click adventure mystery game
+you know what I mean like yeah and obviously I'm
+making that up completely that's not
+gonna be the theme but well that might be too
+narrow but if you just do Sluts we might be
+able to use more
+we could do all kinds of games well
+Puzzle Sluts, Fighting Sluts,
+Action Sluts the ingredient is
+Sluts!
+Awesome!
+So tune in next week to find out
+that I'm really excited
+about it and what's really exciting
+is that we have a lot of people who have
+experience jumping into
+this like you know Bobby says
+he'll do it you're gonna say you're gonna do it
+YYR is gonna do it now even the
+Cookie with Unity guys are saying
+they're gonna they're gonna keep an eye on it and they might do it
+too I know
+right but remember this isn't about
+quality and that's why I wanted to stress that because like
+if somebody's like I don't
+know how to like this
+Unity stuff I don't have time it's too
+scary like I appreciate it but you know what
+I just want to make a slutty little big planet level
+then cool
+you know we want to do it
+just don't get banned
+So it'll be awesome to see what you guys come up with
+Let's see
+I don't really have to do Plug for the Instagib stream
+because Raven's Dolphin did it for me last week
+thanks dude
+so instead I'm gonna Plug something else
+there's a convention
+coming up at the end of July
+called Replay FX
+I'll go ahead and
+throw it in chat here but it's in Pittsburgh
+and it's a gaming convention
+and it's also attended by
+PAPA, the Professional
+and Amateur Pinball Association
+also run out of Pittsburgh
+and it's gonna have like 700 arcade machines
+and I think, sorry
+700 pinball
+tables, 2000 arcade machines
+and I'm kinda interested to see if there's
+anyone else involved that's going to that
+so we'll probably see without shakedown
+maybe it'll be a forum topic or something
+and we'll see
+I don't know of a lot of listeners in the Pittsburgh area
+at least I can't think of any off the top of my head
+but if it's on the east coast
+it's certainly possible Rama will go
+yeah, that'll be cool
+hopefully we can get Rama out of that one
+I'm also going to PAX East
+so I will see you there
+yes, I will
+pretty excited for that
+and that's about it I think
+alright, well hitstun I'm gonna let you go so we can try to
+get a couple more calls in but excited to see
+what comes out for the game jam
+yep, doing my token
+call in saying yeah I've been listening for 9
+years and
+keep going for a good 12 more
+oh my gosh, we will try
+that means so much, just don't tell me how old
+you were when you first started listening because that always throws me
+alright, have a good one
+it's all good, have a good one
+alright, take care
+on orange lounge radio
+we haven't heard from him in a long time
+it's always good to hear from him
+I love the people that call in all the time
+but I love hearing from new people and
+blast from the past as well
+I was literally thinking of Jim Sally the other day
+and I don't even remember what made me think of him
+but I was like, we haven't gotten a call from Jim Sally
+in so long
+I must have, I heard a train
+or somebody imitating a train
+and I was like, oh my god, is Jim Sally here
+I don't know, we got a call on the line, let's get to it
+hi on orange lounge radio, who's this?
+uh, yeah, this is Zormac
+I'm sorry, Zormac?
+I'm Zormac
+oh yes, yes, yes, how are you my friend?
+good, how are you?
+am I coming okay? I don't know how well
+we can hear you, it's a little bit
+like a walkie talkie sound, but that's alright
+it's good enough, we can hear you, what's up buddy
+ok, great, so first of all
+this talks to the
+final hill 4
+little music during the break
+it was running late, I didn't get to hear the first part
+but to just like, log in
+and hear that was pretty awesome
+um, well, Silent Hill 4
+was actually our classic game of the week
+this week, because believe it or not
+that game is 10 years old
+yeah, I uh, I actually remember
+uh, running around
+I'm not saying anything else, but
+to play it at home, but uh, yeah
+Silent Hill 4 The Room, correct?
+correct
+yeah, yeah, so I remember
+playing that back in the day, it's been almost
+forever, since I've actually heard it, so
+uh, the other thing I wanted to talk about was
+the
+whole gaming, uh
+people playing, making their own games and stuff
+is that, could be a thing
+that you guys are gonna start doing now, it looks
+pretty interesting that you guys are
+going into that, well, I wouldn't say
+we're changing the whole show
+but, you know, we're about
+being the show where every gamer has a
+voice, and I think one thing
+you know, any show you watch on TV
+is gonna have a story arc that
+goes on for weeks and weeks sometimes
+and I think right now, kind of the arc that
+we're embracing is, why don't you use your
+voice to actually make some games
+um, because, there's
+I think especially this year, it's kind of a
+there's been a lot of
+talk this year about
+diversity in games, let's just put it that
+way, right? And what better
+way to diversify
+games than get everybody
+making games
+to diversify the voices that are making them
+it's kind of like they said in that interview
+the guys from Cooking with Unity, we need to get more
+gamers making games
+is what we need, so I don't think there's
+I kind of see that
+I like embracing that idea
+right now, now are we gonna turn into a
+tech oriented how to
+make your own games podcast?
+Not necessarily, that's what
+Cooking with Unity does, and there's plenty of other
+resources out there to help you out with that type of stuff
+but are we gonna do what we can to really
+kind of nudge people and go
+you ever thought about trying this, yo?
+Nudge people and encourage people
+to try in a place
+where people, we will
+say, you are not allowed to hate
+here, this is not,
+OLR is not about hate, it's don't be a
+dick, I don't care who you are, where you're
+from, what you do, but here
+we respect each other, so
+you're gonna create a game and
+dammit, we're gonna embrace everything that is
+made, and believe me, there are gonna be some shitty
+entries in this game jam, because I'm participating
+there will be some shitty entries in this game jam
+but dammit, we're gonna love everything
+as long as somebody tries, that's the important part
+Alright, cool, so are you
+going to maybe point out
+your favorite
+website to kind of look at
+certain games being made in
+a different environment, I know
+Unity is gonna be pretty much the
+primary language
+to create the game, but I'm pretty sure there's gonna
+be other websites that
+utilize other tools
+I would love to highlight
+different things every week
+to help people with ideas
+and I just wanna say, even though we had the Cooking
+with Unity guys on the show tonight, and
+Unity is a great choice
+I don't wanna say Unity is the official
+platform of the competition, it's not
+the theme of the competition is create something
+dammit, so if you create it in Unity, awesome
+if this is what gets you to learn Unity, awesome
+but if this is what gets you to learn Unreal
+or something else, and that's what you've
+been wanting to do, then
+then we embrace that just as much
+I think a great source, like I always
+tend to go, well for me, just
+doing Unity and stuff, I tend to go
+to Reddit a lot, so Reddit, you know
+they have the, our Game Dev
+and our Unity 3D
+are pretty good sources, if you're looking to do
+a different language, they have those as well
+our Unity, our Unreal
+Engine, they have, I'm pretty sure
+they have one for the Coast Coast
+2D or whatever it is
+lots of different programming language out there
+Game Maker, I think is free at some
+points, so you can do that
+RPG Maker
+lots of resources
+5th Dream in Chat with an excellent question here saying
+fuck, does it even have to be electronic, can I make
+a pen and paper RPG
+well I'm gonna consult the golden rule
+of the competition, which is
+create something dammit, so
+I actually think a
+board game, a pen and paper game
+if that's what you really wanna do
+it's starting to push it a little bit
+but I think I'm okay with that, because at the end
+of the day, create something dammit
+yeah, and that's pretty good too, because if anything
+if it's a really good game, pen and paper
+I'm pretty sure that they'll make some version of it
+you know, so people can play on the
+some sort of console
+I think the rule for that is that it has
+to be accessible online
+that means
+you have to publish the rules
+publish the rules online, basically
+indeed
+if you've got
+a board game, put the template up
+online, Cards Against Humanity
+great example, it's a game you play
+in person, but it's something you can download
+and print and make your own deck, right
+it's a great example, it takes like
+you can go in and make a 300 DPI
+game board
+I like that as a rule, so
+yes, it's fine if you do
+a board game or a pen and paper, but it has to be
+something I get online and I
+can, so that it is accessible
+all who are participating in the game jam
+ok, I like that, I like that, great
+clarification there, Brad from Pod Culture
+says, do drinking games count?
+ok, now you're pushing it, now you're pushing it
+ok
+only the ones where I'm drinking
+it's part of the development process
+alright, well my friend, I gotta let you
+go so we can try to squeeze in one more call
+but do you think you might participate in the game jam?
+um, yeah, I mean
+I'm gonna be looking at some of the
+websites for information
+and we'll see, I love it
+YouTube is a great help and
+I even went through some
+of these free courses for
+I don't know, just like
+even programming and stuff
+I had to try to teach myself
+and a lot of it was just kind of looking up
+examples online and just seeing
+how they do stuff and I'm still looking up
+like, oh, how do I use this command
+and how do I do this
+I'm still waiting for your vlog
+yeah, call him out
+call him out
+any information is good information
+yeah, that blog, hopefully
+I have a URL already
+and I just have to make the webpage
+someday, but that's time
+it's time away from programming, so I don't know
+we'll see
+you take care my friend, thanks for calling
+alright, bye
+alright, we're gonna try to squeeze in one more call here
+and this will be it for the night, hi, you're on Orange Launch Radio, who's this?
+just the one and only
+Rama, how is everybody tonight?
+Rama, how are you?
+I am good, I just want you to know
+because of what Hitstun has said
+I am starting a Kickstarter call
+get Rama and the crew to conventions
+hahahaha
+you need a van
+like they have in Scooby-Doo
+well, I don't think
+it'd be hard for us to get a van
+because Mako-chan is pretty beastly
+when she drives, so you know
+we got nothing to worry about
+I'm just saying, clouds of smoke come out of both those vans
+well
+there is a reason why she does drive
+and does all the cooking, so
+haha, what's on your mind my friend?
+well this whole
+fog jam thing
+I might have to break out my visual
+basic skills and do something or
+learn Unity, since I now have free time
+fuck yes, and by the way
+AkumaJP in chat says, I don't want to be that guy
+but Unity is not a language, don't worry
+you're not being that guy, you're right, Unity is not a language
+Unity is an engine, there is a big
+difference, but at the end of the day, the golden rule
+again, is create something, dammit
+so if you are going to use an engine, if you're going to use
+a language, if you're going to use, you know, whatever
+whatever it takes to
+get the job done, we encourage it
+so, love it
+yes indeed, yes
+a couple more things, I'm going to get out of here
+now this whole Lucky Chloe thing, now
+you already said what I said
+in the chat earlier
+but also, I have a feeling
+Lucky Chloe is going to be on the US release
+because I don't see Namco
+doing two separate presses
+of the game for separate coding for this
+I have a feeling
+it's going to be there, but
+it's just going to be locked
+so you can't access it, and then
+when all the drama dies down
+for $3.99
+you can have the character
+yeah, DLC, that would be the best way to
+stick it, is to give it to Japan for free
+and make us pay for it, it would be hilarious
+exactly, I just think dude's
+pissed off at what he read on the internet
+and I really don't think it's going to impact the final game
+I think in a slow news week
+people are really reaching for a headline here
+I think he said something when he was really pissed off
+and he was kind of like, well maybe I should make
+this instead then, and people are reading
+that to say, oh he's not going to do it
+I think you're right, Namco's not going to
+make two completely different copies
+that's just not really what they're going to do
+she'll be in the game
+everybody just needs to pull their stick out of their
+ass and get over it, because again
+this is the same series that has
+Panda Bears and Yoshimitsu
+come on, let it go
+let it go people
+exactly
+Loki thought I was going to break into
+a song, that was last week
+I'm moving on
+the cold never bothered me anyway
+alright
+anything else Rama?
+Final Fantasy, real quick
+now I came across this on my
+Facebook and it does remind me
+of you and Al in a way of how
+you two met, I have a long
+time friend and she
+just got married, what I didn't know
+is that she met her now
+husband while playing Final Fantasy
+11, was this the
+story that was on Reddit? Yes
+and I tagged you in it because it was for a possible
+article, the girl
+Jen, that's one of my closest
+friends, I've known her for like 10
+11 years, how funny
+we were a couple of conhors back in the day
+how funny, you're right, I'm sorry I didn't throw that in there
+tonight, just all the other stuff
+sidetracked me a little bit, but
+that's awesome that they met
+in Final Fantasy 11 and what, they play
+14 now right?
+Probably, but right now
+real life
+has been taking over for them
+because they just came
+back from the honeymoon and this and this
+and that, you know
+Well to be fair, Alan and I didn't really meet in a video
+game, although we did meet online
+and we met on LiveJournal, which
+I realize there's a lot of people now listening to
+the show that don't even know what LiveJournal
+really is, because it's kind of what
+predated Facebook, there's actually
+an Orange Lounge LiveJournal community, I don't think
+it's been posted in since 2007, but it's
+there, and I am a part of that
+and the only reason I said Final Fantasy is because I remember
+y'all two crossed paths that I think was
+a Distant Worlds concert or something
+like that, it was actually Video
+Games Live, I was close
+you were close, you were right
+the first time we actually met in person
+was at Video Games
+Live, and we knew each other
+virtually through LiveJournal, and it
+was actually, believe it or not, it was
+CaptainSpike from GameBooey.org who said
+oh, you guys haven't met? And actually
+introduced us, so
+then we met in person at that concert
+So, yeah
+I know, right? Just looking at the chat room
+it's hilarious, Fifth Dream
+says, I just said LJ, and
+onstov06 says, what's Hi5 or
+my yearbook? No, we didn't
+meet on Zynga, people, we didn't meet on Zynga
+or was it, sorry, not Zynga, Zongo
+what was that site called? Zynga
+It's still around
+Is it really? I believe so
+I knew
+people who used to post there, and don't forget
+with LiveJournal, there was a
+spin-off, there was Dead
+Journal for the gods, Dream
+Journal for the people who
+were psychics, and you had Open
+Journal, and this journal, and that
+journal. Every time LiveJournal
+did something to piss people off, it was like
+I'm getting a dead journal, that's the day
+And then there's the ultimate alternative
+Dream Width
+Still going strong
+Crazy, crazy. Alright, my friend, I gotta let you go
+so we can wrap up the show, but have a good one, thank you for calling
+You too, thank you
+I love that he's thinking
+about starting a Kickstarter to get his
+van, his
+posse, the anime jam session posse
+He needs to come back out here
+and do a con
+Or send me a plane ticket so I can
+go out there
+And you're
+not even going to PAX East, I'm going to the East Coast
+Finally
+You know what?
+See, this upcoming year
+is going to be the year of lots
+of money saving, not just by the house that we're in
+Dan and I hit our 10 year
+anniversary
+And we're either thinking Disney World
+Because I'm not going to
+a con on my anniversary
+Or Disneyland at the Grand Californian
+Nice
+So I'm going to be on the shoestring for
+GX3, but yeah
+My car has paid off this year, so I'm hoping
+I do the smart thing and save a little more money
+instead of spending it on frivolous things, but
+there will probably be a few frivolous things here and there, let's be real
+Anyway, if you didn't
+get through tonight, I'm so sorry, but please consider
+sending us an email, participate at
+orangelaunchradio.com, but we are
+waiting way long you guys, we have got to wrap
+things up for the night, but what an
+awesome show tonight, and
+yeah, even though
+to follow up on that one call,
+Orangeland Radio is not changing, we're still the show where every
+gamer has a voice, and we're going to talk about news every week
+and comment
+on it and give our opinions just like
+we always have, but if we can
+encourage more people to
+make games, you know what?
+Because one of you guys out there
+might have the idea for the next great game
+that we talk about on a future show
+and so
+why wouldn't we not
+want to start that and foster that?
+So yes, it will be the theme
+over the coming weeks here at Orangeland Radio
+Thanks again
+so much for staying up late and listening to
+our show, be it on the podcast feed
+or being here
+live at the Voice Gees Network, vognetwork.com
+As we say every week, if you like the
+show, please tell a friend or five
+about the show, help spread the word
+we are an independent production
+and indie voices are so
+important out there, help spread the word
+not just about us, but your favorite
+indie podcast, that's why I say that
+and if for whatever reason
+you can't think of a lot of people, you really rack your
+brain, you're like, I just don't know anybody
+please consider leaving us a five star review
+wherever you found this show
+iTunes, Stitcher
+even if you do tell friends
+consider leaving a five star review there as well
+those go a long way
+in helping promotion on those various
+websites, because the makers of those sites look at that
+information when they consider who to feature
+so really appreciate your consideration for five star
+reviews on sites like iTunes
+Stitcher or wherever you found this show
+It's time to go around and get
+everybody's final thought for the night
+we will be back here in seven days to do it
+all again on the 21st
+we're getting towards the end of the year
+we might have to do, Latke Fest
+because it'll be right at the end of
+Hanukkah
+starts Tuesday right?
+which while I was high on coding
+I did the dance of Hanukkah around my house and
+decorated
+well happy Hanukkah to all of our listeners who celebrate
+this coming week and we'll check in with y'all on
+Sunday and see how the festival's going
+and we will have the
+VoG jam ingredient
+will come out of the show
+next week in an epic edition
+of Listless
+I'll be a dreidel, just kidding
+now were we gonna have people submit
+ideas as well?
+we want your, yeah
+if nobody submits an idea
+fine, we'll make our own damn list
+but what we want to do, and this is different than our usual
+Listless, Latke, we want people to submit
+their ideas for
+us to consider for
+putting on the list, we don't usually do that in advance
+well that's good because I have no idea
+so submit away
+Participate at OrangeLoungeRadio.com
+is the place to send those
+and you can also send those to
+our VoGnetwork.com
+posting of the show, for those of you listening on the podcast
+you can leave your ideas there as well
+again, it should be, what should
+the theme of the game be?
+Should it be about cats?
+Cats who are
+Now Rob, we have to specify
+that it's felines
+and not pussy
+Should it be
+Then we would have twat masters
+Should it be cats with labels?
+Should that be the theme of the game? Who knows
+Send us your ideas, remember nothing
+that's copyrighted, please, we have to
+throw those out immediately
+But anyway, let's go around and get everybody's final thoughts
+for the night. Dar Sacher, I'll start with you
+our sick one, please feel better
+and we'll see you next week
+Is that your final thought?
+Really? I hate that
+Where's my mute button?
+Alright, feel better
+My final thought for the night, my final thought is
+I don't think I've shaved in like ten days
+I really should probably do that, it's a good idea
+And I'm really excited that I finally
+have a BurgerTime cabinet in my house
+sort of
+It's multiple things and there's more games
+emulators on there
+Super BurgerTimes on it too
+There's more emulators on there, I will be
+making a point this week though, Rob
+to copy my ROM set off
+of my other cabinet because it's a lot better
+and it has Miss World nude
+That was the one thing I needed on the cabinet
+I had to make it work appropriate
+it was on there and it
+still actually may be on there, that's what I was looking at
+earlier, but I couldn't find it
+so I will copy my old ROM set
+and I'll dump it on there and then you'll have
+You'll have all the weird
+games on there including
+all the, was it
+Are we allowed to do Twitch streams of Miss Nude
+World 96 or is that against their terms of service?
+It's probably against their terms of service
+You can't do emulated stuff on Twitch
+anyway, I feel like
+I need to do a U stream or something
+I don't know if that computer is
+You could probably do it, it's not
+that fast, I don't have to run it from the cabinet
+I can run it from there, just thinking
+Anyway, Loki last
+but not least, your final thought tonight
+I'm going to work on lots of programming this week
+trying to make it a point that my son is going to want me to play
+Lego Marvel with him, that's fine, I can play Lego Marvel with him
+while he's awake, program him when he's not awake
+so, sounds good, sounds like some motivation
+this week, I am very motivated
+I can't wait to work on some new
+stuff, it'll be interesting
+to start from scratch again, by the way
+check your email, because our buddies
+from Cooking with Unity told you how to play
+Grand Theft Auto 5 with them
+Yes! Damn it, that's going to take me away
+from programming, but that's okay
+that's okay
+It's a good purpose, a good purpose
+I need to get back into Grand Theft Auto
+because I miss it
+Thank you so much to our friends from Cooking with Unity
+for coming on the show tonight, thank you for all of you
+for showing up and making it an awesome show
+a long show, but an awesome show
+we couldn't do it without
+all of your support, thank you so much
+we'll see you in 7 days to do it all again
+have a wonderful week
+but you know they were all still true
+Thanks for watching!

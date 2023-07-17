@@ -1,0 +1,4526 @@
+WEBVTT
+
+00:00.000 --> 00:07.000
+Orange Lounge Radio
+
+00:07.000 --> 00:14.000
+With your hosts, DarkSakura, Skie, and Loki
+
+00:14.000 --> 00:21.000
+This week, Microsoft's cloud grows larger as they announce a streaming service that lets you play Xbox games, joining in the list of an ever increasing number of services past and present.
+
+00:21.000 --> 00:27.000
+That's just one story in another week of gaming news. Stay tuned for so much more, starting right now on the show, where every gamer has a voice.
+
+00:27.000 --> 00:31.000
+Orange Lounge Radio
+
+00:31.000 --> 00:36.000
+Hello, my friends out there on the internet, and welcome back. It's another week of the show where every gamer has a voice.
+
+00:36.000 --> 00:43.000
+Orange Lounge Radio, episode number 748 for this October the 14th of 2018.
+
+00:43.000 --> 00:48.000
+My name is Rob Roberts, here in studio with you, and joining me as always, say hello to Techmaster Loki.
+
+00:48.000 --> 00:49.000
+Hello.
+
+00:49.000 --> 00:50.000
+Hi, Loki.
+
+00:50.000 --> 00:51.000
+Hi.
+
+00:51.000 --> 00:59.000
+But DarkSakura, or Jamie Summers, she is still off due to work conflicts. She'll be joining us a little later in the show for the Classic Game of the Week.
+
+00:59.000 --> 01:05.000
+Before we went on air tonight, Loki, we were talking a little bit, reminiscing a bit about laser tag, which I know is one of your favorite things to discuss.
+
+01:05.000 --> 01:06.000
+It is.
+
+01:06.000 --> 01:20.000
+So, and the reason why this topic came up is that one of my buddies in Ingress mentioned that there's a new laser tag place that just opened up by, like a lot of the crew here in Ingress will meet up at that restaurant.
+
+01:20.000 --> 01:23.000
+And I can't remember the name, I shouldn't say on air either, because I don't want to give away anywhere I live.
+
+01:23.000 --> 01:29.000
+But there's a restaurant thing, and there's a lot of portals there, slash pokestops, so if you play that, that works too.
+
+01:29.000 --> 01:34.000
+So a lot of times we kind of meet up there to, you know, build a bot for gear and eat, you know, and that whole stuff.
+
+01:34.000 --> 01:44.000
+So right, I guess right around the corner or whatever from there is some new laser tag place. It's like two stories, the biggest one in Sacramento, I guess.
+
+01:44.000 --> 01:48.000
+And I was like, oh, this sounds up Loki's alley, actually.
+
+01:48.000 --> 01:50.000
+But you didn't know, you didn't know about this thing.
+
+01:50.000 --> 02:01.000
+They're not Cuzar, though, in that stealing bad thing. Like, I keep playing, was it, I've been, my kids like going to play laser tag at Golf Land in Roseville, so.
+
+02:01.000 --> 02:02.000
+That's too bad.
+
+02:02.000 --> 02:05.000
+And it's laser runners, the system that they have there.
+
+02:05.000 --> 02:08.000
+Have they changed that laser tag since like 97 when that place opened?
+
+02:08.000 --> 02:14.000
+The guns have been updated, because the old guns look like they used to be just like some piece of foam with like electrical tape wrapped around them.
+
+02:14.000 --> 02:20.000
+I like swear to God, they were just electrical tape and just like a tiny little laser pointers surrounded with duct tape.
+
+02:20.000 --> 02:28.000
+And it was, I think they've added sensors to the guns, too, because like they used to be able to just like duck behind a wall and just keep your gun out and just shoot everybody because there's no sensors on the gun.
+
+02:28.000 --> 02:30.000
+So you can just get away with that.
+
+02:30.000 --> 02:42.000
+Now, for the listeners that don't know, like you were like, I don't want to say you were pro with laser tag, but you were like, like, if that was a thing that people streamed on Twitch, you would be like a well-known player.
+
+02:42.000 --> 02:44.000
+I would bet anything at this point.
+
+02:44.000 --> 02:47.000
+I played over 2000 games of Qsar.
+
+02:47.000 --> 02:48.000
+That's amazing.
+
+02:48.000 --> 02:51.000
+I got a job there just to play more Qsar.
+
+02:51.000 --> 02:52.000
+Briefly.
+
+02:52.000 --> 02:53.000
+That's the life, though.
+
+02:53.000 --> 02:56.000
+It sucked, but there's lots of free games.
+
+02:56.000 --> 02:59.000
+It's minimum wage, but you have free games and that more than paid for.
+
+02:59.000 --> 03:04.000
+Well, it's minimum wage plus you aren't spending the money on the games.
+
+03:04.000 --> 03:07.000
+So did you have to be like the marshal that was protecting?
+
+03:07.000 --> 03:08.000
+Yeah.
+
+03:08.000 --> 03:17.000
+So what was like the craziest stupid thing that you ever saw go down in a game that you like had like step in and go, sir, don't do that.
+
+03:17.000 --> 03:21.000
+I don't remember anything really out like that is crazy.
+
+03:21.000 --> 03:27.000
+We did have to come in one time because they had rented the place out for a rave like the night before.
+
+03:27.000 --> 03:30.000
+And so, like, it was a mess.
+
+03:30.000 --> 03:35.000
+Like, so, like, we did they keep the walls up for the maze and everything they had to raise?
+
+03:35.000 --> 03:43.000
+Yeah, they basically like everybody would pay to go in to play laser tag, but they wouldn't play laser tag because they're tripping on stuff and just like staring at the lights in the smoke.
+
+03:43.000 --> 03:51.000
+And so apparently I didn't get to actually see it because I know, you know, there was a cuddle puddle in the enemy base.
+
+03:51.000 --> 03:57.000
+No, the cuddle puddle was actually in the what the hell game was that?
+
+03:57.000 --> 04:05.000
+It was because if y'all what's the Atari game that like the big one, they get to sit like the cockpit and like it's vector tanks and stuff.
+
+04:05.000 --> 04:06.000
+What was that zone?
+
+04:06.000 --> 04:08.000
+Yes, it was in battle zone.
+
+04:08.000 --> 04:11.000
+The cuddle was in your cockpit.
+
+04:11.000 --> 04:14.000
+Was in battle zone.
+
+04:14.000 --> 04:15.000
+No, no, no, it wasn't about them.
+
+04:15.000 --> 04:17.000
+I'm sorry, we didn't have battles that we had T-MEC.
+
+04:17.000 --> 04:21.000
+It was T-MEC that they were OK.
+
+04:21.000 --> 04:25.000
+I'm just for those of you that like never been to a rave like I went to a couple in college.
+
+04:25.000 --> 04:27.000
+OK, those were the years like I was in college.
+
+04:27.000 --> 04:30.000
+And hard driving, I believe hard driving had some action too.
+
+04:30.000 --> 04:37.000
+There was a lot of people at raves that would be on, you know, substances like ecstasy that heightened a lot of senses.
+
+04:37.000 --> 04:44.000
+So it'd be very common to see people just kind of like cuddling because that was, you know, that's what those things do to you.
+
+04:44.000 --> 04:46.000
+So that's what a cuddle puddle was basically.
+
+04:46.000 --> 04:47.000
+So anyway.
+
+04:47.000 --> 04:51.000
+Yeah, so T-MEC and hard driving.
+
+04:52.000 --> 04:56.000
+So anyway, so so this mess had gone on at the rave and you were just you guys were just like, yeah, we got that.
+
+04:56.000 --> 04:58.000
+We were a cleanup crew the next morning. So that kind of thing.
+
+04:58.000 --> 05:01.000
+Thankfully, when we got there, most of the stuff has been done is just, you know.
+
+05:01.000 --> 05:05.000
+Yeah, it's a mess. Like you have to sweep up all the cocaine. It's unfortunate, probably.
+
+05:05.000 --> 05:08.000
+Yeah. So it was just yeah.
+
+05:08.000 --> 05:11.000
+There wasn't anything really too crazy. I don't. Nothing that really stands out.
+
+05:11.000 --> 05:20.000
+So, OK, but yeah, I mean, we had a lot of a lot of times where the smoke set off the fire alarms.
+
+05:20.000 --> 05:23.000
+Oh, that was, you know, usually like the fake dry ice of the dry.
+
+05:23.000 --> 05:28.000
+Yeah, I don't like that stuff. They're fake smoke. Like, I'm not like allergic to the fog machines or whatever, but I just like that.
+
+05:28.000 --> 05:32.000
+That's when I inhale, like I'm sitting in a theater that uses it for a performance.
+
+05:32.000 --> 05:39.000
+I was like, oh, I think it's just like I seriously miss it because that was like one of the best laser tag systems I've ever played with.
+
+05:39.000 --> 05:42.000
+They have some nearby, but they're not.
+
+05:42.000 --> 05:45.000
+I say there's one in Concord because we were driving.
+
+05:46.000 --> 05:49.000
+It's called the entertainment zone there, but they have Cuzar there.
+
+05:49.000 --> 05:54.000
+And then there's one that's in Stars, which is a bowling alley in Vacaville.
+
+05:54.000 --> 05:58.000
+But both I think the Concord ones kept up a little bit better and they have a lot of music games and stuff there.
+
+05:58.000 --> 06:03.000
+So that's pretty cool. But it's like it's that's a good hour and a half hour drive.
+
+06:03.000 --> 06:07.000
+You know, it's it's pretty long, long time to get there.
+
+06:07.000 --> 06:10.000
+They have theirs, but there's a ton of laser tag places nearby.
+
+06:10.000 --> 06:12.000
+I haven't found one that's been good.
+
+06:12.000 --> 06:13.000
+Yeah, I hear you.
+
+06:13.000 --> 06:16.000
+Nothing to that level of Cuzar.
+
+06:17.000 --> 06:24.000
+Let me let me say hi to our chatters, because, of course, we do tape live every Sunday night at six o'clock Pacific, nine o'clock Eastern at the Voice of Geeks Network.
+
+06:24.000 --> 06:27.000
+VOG Network dot com. That's VOG Network dot com.
+
+06:27.000 --> 06:30.000
+And you can join us if you do happen to be listening live.
+
+06:30.000 --> 06:33.000
+Come on in our chat room over at live dot vog network dot com.
+
+06:33.000 --> 06:38.000
+Our pal Bobby Black Wolf, who's on before us, says, I knew the Marshall speech at Cuzar.
+
+06:38.000 --> 06:42.000
+I was an addict there. I actually gave the briefing a couple times.
+
+06:43.000 --> 06:48.000
+Awesome. We should totally play. I hope I don't know if they have any arenas left.
+
+06:48.000 --> 06:51.000
+There's not many left because Cuzar went under.
+
+06:51.000 --> 06:56.000
+I think they got bought back up there like in the UK now, but it's not like the original owners or anything.
+
+06:56.000 --> 07:00.000
+And there's not many around there. They're not really producing new equipment, I don't think.
+
+07:00.000 --> 07:07.000
+Well, you know, a lot of these type of places are coming back and entertainment places are becoming more and more popular is because
+
+07:07.000 --> 07:13.000
+things like Sears, Macy's, Kmart, these types of things are going under.
+
+07:13.000 --> 07:17.000
+And so it's like there's only so many types of things that can fill in that space.
+
+07:17.000 --> 07:20.000
+You see a lot of gyms. I know in my neck of the woods, gyms are very popular.
+
+07:20.000 --> 07:26.000
+In Southern California, like medical groups, large medical offices are going in a lot of places where grocery stores are.
+
+07:26.000 --> 07:31.000
+But like entertainment, like that's how we're getting around one in Roseville.
+
+07:31.000 --> 07:34.000
+The very first Cuzar that I played in was probably one of the coolest ones.
+
+07:34.000 --> 07:40.000
+And speaking about taking up places that used to have something else, my favorite one was in San Jose.
+
+07:40.000 --> 07:47.000
+It was near the East Ridge Mall and it was underground because it was in an old like Jiffy Lube or something like that.
+
+07:47.000 --> 07:51.000
+So with our stockroom that was underground was where the arena was.
+
+07:51.000 --> 07:55.000
+Because I remember we walked in there like, well, this building's not big enough to have an arena.
+
+07:55.000 --> 07:57.000
+Where the hell's the arena for this thing?
+
+07:57.000 --> 08:02.000
+And my friend's like, it's downstairs. I'm like, oh, there's a downstairs.
+
+08:02.000 --> 08:05.000
+And they actually had two arenas that were next to each other.
+
+08:05.000 --> 08:09.000
+And then when it was slow, they'd open the thing in the middle and it would just be this super huge arena.
+
+08:09.000 --> 08:10.000
+Oh shit, that sounds fun.
+
+08:10.000 --> 08:12.000
+They had this like giant bunker in the middle.
+
+08:12.000 --> 08:13.000
+Ah, good times.
+
+08:13.000 --> 08:14.000
+Good times.
+
+08:14.000 --> 08:18.000
+That reminds me of the, I mean, it's the throwback episode of OLR.
+
+08:18.000 --> 08:22.000
+That reminds me of this miniature golf place we had in town called the Mineshaft.
+
+08:22.000 --> 08:24.000
+You've got to remember that back from the heyday, right?
+
+08:24.000 --> 08:29.000
+Where it's kind of like you look at the golf course outside and you're like, it looks big, but not that big.
+
+08:29.000 --> 08:31.000
+But it's because it started underground.
+
+08:31.000 --> 08:33.000
+And that's why they called it the Mineshaft.
+
+08:33.000 --> 08:35.000
+You would go underground in the basement for like the first five holes.
+
+08:35.000 --> 08:37.000
+And it had that whole little like cave theme.
+
+08:37.000 --> 08:39.000
+And then you go upstairs and that's it.
+
+08:39.000 --> 08:42.000
+I think that place is like an RV shop now or something.
+
+08:42.000 --> 08:43.000
+It was a huge building.
+
+08:43.000 --> 08:44.000
+Oh no, it's a haunted house right now.
+
+08:44.000 --> 08:46.000
+Because there's advertisements everywhere.
+
+08:46.000 --> 08:47.000
+Oh, yeah, yeah, yeah.
+
+08:47.000 --> 08:48.000
+It is.
+
+08:48.000 --> 08:49.000
+Heartstoppers!
+
+08:49.000 --> 08:50.000
+Yeah, yeah, that's, that's, I forgot.
+
+08:50.000 --> 08:51.000
+It's the time of year for that.
+
+08:51.000 --> 08:55.000
+That's the other thing all those grocery stores turn into are the limited time Halloween shops.
+
+08:55.000 --> 08:58.000
+Lots of miniature golf courses turning into haunted houses.
+
+08:58.000 --> 09:09.000
+There's also the one that was behind the old mall that we have over here where now it's like police storage slash perpetual haunted house run down piece of crap, you know.
+
+09:09.000 --> 09:16.000
+But it's interesting how, you know, and this is something that's going to be, I know this isn't directly about video games, but in a way it's still like the entertainment and everything.
+
+09:17.000 --> 09:26.000
+And because of the fact you're probably buying more of your video games online and you're going, not necessarily just amazon.com, but even using like walmart.com or bestbuy.com.
+
+09:26.000 --> 09:30.000
+I think a lot of you are probably, or just buying your games digitally as a lot of people are doing.
+
+09:30.000 --> 09:35.000
+And I think because less people are going to, you know, places like Sears.
+
+09:35.000 --> 09:37.000
+I remember my Nintendo came from Sears.
+
+09:37.000 --> 09:40.000
+But like you don't think of Sears as a video game shop anymore, right?
+
+09:40.000 --> 09:42.000
+My, when I say my Nintendo, my NES back then.
+
+09:42.000 --> 09:45.000
+Your GameCube came from Circuit City.
+
+09:45.000 --> 09:48.000
+Right? And these, these places don't really exist anymore.
+
+09:48.000 --> 09:52.000
+But you know, these other types of shop and it's only going to be even different in like 10 years.
+
+09:52.000 --> 09:53.000
+Like what? It's in the headlines right now.
+
+09:53.000 --> 09:58.000
+Speaking of Sears, they're looking at bankruptcy protection and they're going to probably close half their stores.
+
+09:58.000 --> 10:00.000
+The one nearby me already closed down.
+
+10:00.000 --> 10:01.000
+It already went under.
+
+10:01.000 --> 10:05.000
+Which is the one that I got my NES at when I was like nine years old. Crazy.
+
+10:05.000 --> 10:08.000
+It's a big empty, that whole mall is just on borrowed time.
+
+10:08.000 --> 10:09.000
+Yeah.
+
+10:09.000 --> 10:12.000
+Yeah. Anyway, it's interesting. It's interesting to see how that all go.
+
+10:12.000 --> 10:14.000
+Anyway, go into chat at live.vognetwork.com.
+
+10:14.000 --> 10:17.000
+SJ100Matt points out there is a QZR in Long Island.
+
+10:17.000 --> 10:20.000
+Glow in the dark mini golf places are also on the rise.
+
+10:20.000 --> 10:24.000
+Yeah, that's like the Monster Golf out by the mine shaft.
+
+10:24.000 --> 10:26.000
+Yeah, lots of entertainment places there opening up.
+
+10:26.000 --> 10:31.000
+I mean, it's kind of like a boom again, but I don't know.
+
+10:31.000 --> 10:35.000
+Yeah. I would think a lot of those types of places are so hit and miss too, but.
+
+10:35.000 --> 10:39.000
+They are sometimes, but like it's birthday parties. I mean, it gets to drive it.
+
+10:39.000 --> 10:42.000
+Or did you hear about, uh, in San Jose, I mean a little bit of a drive,
+
+10:42.000 --> 10:45.000
+but surely at some point in your life, you went to the Valco mall in San, right?
+
+10:45.000 --> 10:48.000
+Right. Coopty. It's like, it's like I used to live in San Jose.
+
+10:48.000 --> 10:50.000
+Okay. It's like across the street from Apple's new building, right?
+
+10:50.000 --> 10:54.000
+The Valco mall. Bye bye. They're bulldozing it. Bye bye.
+
+10:54.000 --> 10:56.000
+It went under and it's going to be condos.
+
+10:56.000 --> 10:58.000
+I was going to say more Apple more, no more housing,
+
+10:58.000 --> 11:01.000
+more housing for the employees at that Apple building.
+
+11:01.000 --> 11:05.000
+So which is that big, that fancy one that looks like a glass spaceship or whatever.
+
+11:05.000 --> 11:07.000
+Anyway, it is a spaceship.
+
+11:07.000 --> 11:09.000
+That's, they're just not telling me that.
+
+11:09.000 --> 11:12.000
+All right. Uh, we should get into some other gaming.
+
+11:12.000 --> 11:15.000
+So I mean, it's kind of interesting to talk about these retail shops
+
+11:15.000 --> 11:18.000
+and things we do in our spare time. Some of y'all I'm sure have memories too,
+
+11:18.000 --> 11:22.000
+but let's get into, we are looking at the future a little bit.
+
+11:22.000 --> 11:24.000
+And I think for our kickoff topic tonight,
+
+11:24.000 --> 11:28.000
+this might be a little look at the future of what gaming might be.
+
+11:28.000 --> 11:30.000
+I mean, we, this is kind of a follow up, right?
+
+11:30.000 --> 11:32.000
+Loki, we've talked about this before.
+
+11:32.000 --> 11:36.000
+So, you know, Microsoft, um, there'd been rumors that they've been launching
+
+11:36.000 --> 11:40.000
+a, some sort of streaming service that's going to go along with the Xbox one,
+
+11:40.000 --> 11:44.000
+perhaps like even just a streaming only console or a digital, you know,
+
+11:44.000 --> 11:46.000
+console without a drive.
+
+11:46.000 --> 11:51.000
+Well, apparently now they've started talking about Project X cloud.
+
+11:51.000 --> 11:55.000
+It's going to be a streaming service that allow you to stream Xbox one games
+
+11:55.000 --> 12:01.000
+to computers, phones, and tablets.
+
+12:01.000 --> 12:04.000
+And basically they said with Project X cloud,
+
+12:04.000 --> 12:10.000
+our goal is to deliver quality experience for all gamers on all devices
+
+12:10.000 --> 12:14.000
+that is consistent with speed and high fidelity gamers experience
+
+12:14.000 --> 12:18.000
+and expect on their PC and consoles.
+
+12:18.000 --> 12:22.000
+So yeah, I mean, cool.
+
+12:22.000 --> 12:27.000
+I wonder if this is the future of gaming is going to be more of this streaming stuff,
+
+12:27.000 --> 12:32.000
+you know, processing in the cloud, whatever you want to call it on like a supercomputer.
+
+12:32.000 --> 12:35.000
+So that way you're just looking, you know, as well.
+
+12:35.000 --> 12:38.000
+I know we talked about this a little bit last week because, you know,
+
+12:38.000 --> 12:41.000
+we have, uh, somebody brought up like the issue of latency and all that,
+
+12:41.000 --> 12:43.000
+but that's just going to improve as technology.
+
+12:43.000 --> 12:49.000
+Yeah. And apparently, well, my thought was like needed like a really huge, um,
+
+12:49.000 --> 12:53.000
+bit of bandwidth to do this, but apparently it's not, not as large as I thought.
+
+12:53.000 --> 12:56.000
+And they're even seen to help with mitigate some of this stuff.
+
+12:56.000 --> 12:59.000
+They're actually installing these special servers in data centers,
+
+12:59.000 --> 13:04.000
+which are basically Xbox ones, um, just multiple Xbox ones in there.
+
+13:04.000 --> 13:08.000
+So they're going to be, um, doing that as well to kind of help with this,
+
+13:08.000 --> 13:11.000
+but it's pretty funny. And then along with that, you know, we have,
+
+13:11.000 --> 13:14.000
+was it Project Stream, which is the Android or the, um,
+
+13:14.000 --> 13:19.000
+Google service that you've been able if you like signed into it, the beta,
+
+13:19.000 --> 13:25.000
+they have the Assassin's Creed Odyssey, um, trial that you can do.
+
+13:25.000 --> 13:29.000
+So you can actually play Assassin's Creed Odyssey in your Google Chrome
+
+13:29.000 --> 13:34.000
+browser. Um, which is kind of cool. I did not sign into that,
+
+13:34.000 --> 13:37.000
+but thought about it.
+
+13:37.000 --> 13:39.000
+Now, uh, looking at chat at live.vognetwork.com,
+
+13:39.000 --> 13:43.000
+Rage Nator says one word on live. And then of course,
+
+13:43.000 --> 13:45.000
+I think about the Phantom. Remember the Phantom console?
+
+13:45.000 --> 13:48.000
+Because I thought that was a big way that that was supposed to work too,
+
+13:48.000 --> 13:51.000
+was going to be a lot of like in the cloud processing or what have you.
+
+13:51.000 --> 13:54.000
+So it's, it's kind of weird to think that maybe some of these companies
+
+13:54.000 --> 13:57.000
+were just like way ahead of their time in a way that, you know,
+
+13:57.000 --> 14:00.000
+and we've talked about this in more rural parts of the country,
+
+14:00.000 --> 14:02.000
+like, you know, Alaska or heck,
+
+14:02.000 --> 14:05.000
+even just like rural parts of here in California that aren't the big cities,
+
+14:05.000 --> 14:08.000
+you know, maybe they don't have the internet to support this.
+
+14:08.000 --> 14:10.000
+And back in like 2003, 2004,
+
+14:10.000 --> 14:13.000
+we were talking about the Phantom more commonly.
+
+14:13.000 --> 14:17.000
+They certainly weren't that, but now again, internet's getting faster.
+
+14:17.000 --> 14:18.000
+Internet's getting better.
+
+14:18.000 --> 14:22.000
+Like just here in this past couple of weeks here in SAC where we live,
+
+14:22.000 --> 14:25.000
+they just started rolling out that 5g service. You know what that means?
+
+14:25.000 --> 14:29.000
+You get cable fast internet through the air,
+
+14:29.000 --> 14:32.000
+no more cable internet without the cable. That's 5g. Yeah.
+
+14:32.000 --> 14:37.000
+So that's starting here. Now we sadly at OLR studios,
+
+14:37.000 --> 14:41.000
+we don't have that because technically I don't live in the downtown area,
+
+14:41.000 --> 14:45.000
+which is where all of this is being kind of piloted, but it's coming.
+
+14:45.000 --> 14:49.000
+It's downtown now. What's it going to look like in five years? You know,
+
+14:49.000 --> 14:52.000
+at least it's Sacramento and not San Francisco because that's a little bit
+
+14:52.000 --> 14:55.000
+further to go. Well, I'm sure they're getting some form of it too,
+
+14:55.000 --> 14:58.000
+but the reason why they pay, and I know Sacramento isn't the only city,
+
+14:58.000 --> 14:59.000
+they're doing a handful of cities,
+
+14:59.000 --> 15:02.000
+but one of the reasons why they picked Sacramento is that the city kind of
+
+15:02.000 --> 15:04.000
+welcomed it. The city was like, Oh,
+
+15:04.000 --> 15:07.000
+you want to put devices on all these telephone poles? Sure. Go for it.
+
+15:07.000 --> 15:11.000
+Like the city really welcomed it. Whereas I'm sure in San Francisco,
+
+15:11.000 --> 15:13.000
+there's a lot of red tape.
+
+15:13.000 --> 15:15.000
+I think that comes a lot of stuff that you want to do there.
+
+15:15.000 --> 15:19.000
+So it was just like easier to try it here, you know? So.
+
+15:19.000 --> 15:23.000
+Is it an olive branch because of the throttling of services for our
+
+15:23.000 --> 15:28.000
+firefighters? That's a much more complicated issue. I don't feel.
+
+15:28.000 --> 15:31.000
+I'll tell you what, you know, you just forget about the whole throttling thing.
+
+15:31.000 --> 15:36.000
+We'll just give you a 5g in Sacramento. Uh, nifty in chat says,
+
+15:36.000 --> 15:39.000
+but what about Comcast data caps? Special plans for gamers.
+
+15:39.000 --> 15:44.000
+I think those data caps are going to have to give to larger data caps.
+
+15:45.000 --> 15:48.000
+As the average consumer consumes more data.
+
+15:48.000 --> 15:52.000
+Like why do the data caps exist in the first place right now? I mean,
+
+15:52.000 --> 15:54.000
+easy moneymaker, I guess, but I,
+
+15:54.000 --> 15:59.000
+I get the sense that one of the reasons why those were put into place in the
+
+15:59.000 --> 16:02.000
+beginning was to try to kind of curb piracy a little bit.
+
+16:02.000 --> 16:06.000
+It was kind of an answer to BitTorrent in some ways is that if you leave your
+
+16:06.000 --> 16:09.000
+BitTorrent running all the time and you're uploading these, you know,
+
+16:09.000 --> 16:13.000
+one or two gigabyte episodes of game of thrones pretty quickly,
+
+16:13.000 --> 16:18.000
+that's going to really eat away at your bandwidth. And so this was one way I,
+
+16:18.000 --> 16:21.000
+that was always kind of part of the, I mean, don't get me wrong.
+
+16:21.000 --> 16:23.000
+Yeah. I mean, don't get me wrong.
+
+16:23.000 --> 16:27.000
+There's some of this whole more and more people are cutting the cord and
+
+16:27.000 --> 16:32.000
+getting rid of their television altogether. We have to make money somehow.
+
+16:32.000 --> 16:33.000
+But like,
+
+16:33.000 --> 16:38.000
+I know a lot of people downtown that are thinking of dropping Comcast and
+
+16:38.000 --> 16:41.000
+switching to Verizon to get the 5g like that is,
+
+16:41.000 --> 16:43.000
+that's where the competition is going to go is like,
+
+16:43.000 --> 16:48.000
+how fast can you get me my internet? How good and clean and, and you know,
+
+16:48.000 --> 16:50.000
+uh, without noise,
+
+16:50.000 --> 16:53.000
+can you get my internet so I can stream video games or do whatever I want to do?
+
+16:53.000 --> 16:56.000
+I would love to have competition in my neighborhood, you know,
+
+16:56.000 --> 17:00.000
+and I have Verizon for my phone, which is, yeah, it's all right.
+
+17:00.000 --> 17:02.000
+I get discount through work.
+
+17:02.000 --> 17:04.000
+Hopefully it's still get discount through the 5g,
+
+17:04.000 --> 17:09.000
+which I think it would because they actually were at our work for a vendor
+
+17:09.000 --> 17:11.000
+fair type thing. And I talked to him, I'm like, yeah,
+
+17:11.000 --> 17:14.000
+I'm looking for that 5g coming in. He's like, hi, yo, me too.
+
+17:14.000 --> 17:19.000
+Cause the guy is like, didn't quite live in Sacramento. Yeah. But, um,
+
+17:19.000 --> 17:23.000
+hopefully soon. But I would, yeah, drop them in the heartbeat.
+
+17:23.000 --> 17:26.000
+So back to the topic at hand where I really wanted to go with this discussion
+
+17:26.000 --> 17:28.000
+because I think we need to kind of have a serious look at this,
+
+17:28.000 --> 17:33.000
+especially when we're talking about things like PlayStation five next box,
+
+17:33.000 --> 17:37.000
+whatever they end up doing there. Uh, and heck even Nintendo.
+
+17:37.000 --> 17:41.000
+I mean, we've kind of blinked and missed it sort of thing, but,
+
+17:41.000 --> 17:43.000
+and probably because this is more prevalent in Japan,
+
+17:43.000 --> 17:46.000
+I think they released one of them here, but not the other,
+
+17:46.000 --> 17:50.000
+but Japan has that resident evil seven and Assassin's Creed Odyssey because
+
+17:50.000 --> 17:51.000
+they're running, they're streaming.
+
+17:51.000 --> 17:54.000
+That's how they're getting the powerful games to run on the switch.
+
+17:54.000 --> 17:58.000
+They're streaming them. So kind of those LOL.
+
+17:58.000 --> 18:02.000
+Nintendo is under power to run stuff may not last much longer.
+
+18:02.000 --> 18:06.000
+I think there's a very big potential Nintendo's next system.
+
+18:06.000 --> 18:09.000
+I mean, I think, well, they're going to stay invested in the switch for a good
+
+18:09.000 --> 18:13.000
+long time, but Nintendo may be the first, if anybody to be like,
+
+18:13.000 --> 18:19.000
+not everything is going to be this streaming thing because it's the way that
+
+18:19.000 --> 18:23.000
+we can deliver like huge technology, but not pass on that cost to you.
+
+18:23.000 --> 18:27.000
+I think the streaming thing is good to a point, but like right now,
+
+18:27.000 --> 18:31.000
+like I can't, I don't think we're going to be able to stream 4k gameplay.
+
+18:31.000 --> 18:36.000
+You're like, you're not going to get Xbox one X quality gameplay streaming.
+
+18:36.000 --> 18:37.000
+You're not going to get that.
+
+18:37.000 --> 18:42.000
+But you know, if you just want Xbox one type gameplay,
+
+18:42.000 --> 18:45.000
+then those visuals, you probably could do that.
+
+18:45.000 --> 18:50.000
+It's just, I don't think, I don't think it's going to be as good as the console,
+
+18:50.000 --> 18:55.000
+but it'll definitely fill gaps for like some consoles that are under powered
+
+18:55.000 --> 18:58.000
+that could run some of these games in that way.
+
+18:58.000 --> 19:00.000
+It's another way to deliver that to a few more platforms.
+
+19:00.000 --> 19:05.000
+Going to chat at live.vognetwork.com, Bobby Lackwolf says,
+
+19:05.000 --> 19:08.000
+I think now that net neutrality is gone for everywhere but California,
+
+19:08.000 --> 19:09.000
+they could just sell it.
+
+19:09.000 --> 19:11.000
+Didn't Washington do something similar anyway,
+
+19:11.000 --> 19:14.000
+but they could just sell you tiers that exempt certain sites in the data cap.
+
+19:14.000 --> 19:17.000
+So you'll still have a data cap and under your traffic to Fortnite
+
+19:17.000 --> 19:19.000
+and other registered gaming services will count against it for your
+
+19:19.000 --> 19:21.000
+$9.99 extra a month on your bill.
+
+19:21.000 --> 19:23.000
+Key term, registered gaming services,
+
+19:23.000 --> 19:26.000
+which means AAA games and not indie games,
+
+19:26.000 --> 19:29.000
+AAA studios will have to pay to be a part of their tier.
+
+19:29.000 --> 19:31.000
+I think with the whole net neutrality thing, though,
+
+19:31.000 --> 19:33.000
+you know, without getting too political,
+
+19:33.000 --> 19:36.000
+I think one thing we have to remember is that the government works for us.
+
+19:36.000 --> 19:41.000
+And when the government swings way too far into special interests,
+
+19:41.000 --> 19:46.000
+which is, you know, they're misinformed by these special interest campaigns
+
+19:46.000 --> 19:47.000
+that are trying to...
+
+19:47.000 --> 19:49.000
+They're not misinformed, they're paid off.
+
+19:49.000 --> 19:51.000
+You know what I mean.
+
+19:51.000 --> 19:54.000
+Where it's basically guiding their hand to sign off on a lot of these things.
+
+19:54.000 --> 19:56.000
+I think you're seeing a lot of people rise up and saying,
+
+19:56.000 --> 19:58.000
+I think the fuck not.
+
+19:58.000 --> 20:00.000
+And that's why you're seeing this happen at the state level.
+
+20:00.000 --> 20:02.000
+Ironically by Verizon, too.
+
+20:02.000 --> 20:04.000
+Oh?
+
+20:04.000 --> 20:09.000
+Yeah, G-Pi, I think he was with Verizon prior to his current role.
+
+20:09.000 --> 20:12.000
+Oh, well, shock, shock, shock upon shocks.
+
+20:12.000 --> 20:14.000
+But I think, again, I think even though, yes,
+
+20:14.000 --> 20:16.000
+that's something that happened at the federal level,
+
+20:16.000 --> 20:18.000
+I think you're going to see more and more states,
+
+20:18.000 --> 20:20.000
+especially after what California did,
+
+20:20.000 --> 20:22.000
+I think you're just going to see more states pass a similar type of policy
+
+20:22.000 --> 20:24.000
+and it'll be the people.
+
+20:24.000 --> 20:30.000
+Honestly, like, I see a lot of very tense shit on Twitter, you know,
+
+20:30.000 --> 20:33.000
+when it comes to blue team versus red team.
+
+20:33.000 --> 20:35.000
+And I don't really want to get into that right now.
+
+20:35.000 --> 20:39.000
+But I think one place where we all kind of come together,
+
+20:39.000 --> 20:42.000
+for the most part, certainly it would have not passed
+
+20:42.000 --> 20:45.000
+if there weren't some people that felt net neutrality was a bad thing.
+
+20:45.000 --> 20:47.000
+But I think for the most part, there's a lot of people from the red team
+
+20:47.000 --> 20:50.000
+that would, you know, cross over and say,
+
+20:50.000 --> 20:53.000
+yeah, Ajit did not do a good thing here
+
+20:53.000 --> 20:56.000
+and net neutrality is overall a good thing.
+
+20:56.000 --> 20:58.000
+So at least that's the vibe I get on Twitter
+
+20:58.000 --> 21:00.000
+is that most people are on the same page there.
+
+21:00.000 --> 21:03.000
+So at least that's one thing I feel like we can kind of get going
+
+21:03.000 --> 21:05.000
+is, you know, striking these things that were signed.
+
+21:05.000 --> 21:08.000
+The problem is you have really old people in Congress in the House
+
+21:08.000 --> 21:10.000
+that don't get it.
+
+21:10.000 --> 21:12.000
+They don't understand what the Internet is.
+
+21:12.000 --> 21:14.000
+And they don't understand.
+
+21:14.000 --> 21:16.000
+Remember when we were in awe.
+
+21:16.000 --> 21:20.000
+Like, we were really surprised when, gosh darn it,
+
+21:20.000 --> 21:25.000
+I don't, oh, it was the Schwarzenegger versus person law.
+
+21:25.000 --> 21:27.000
+I'm sorry, it was person versus Schwarzenegger.
+
+21:27.000 --> 21:29.000
+Somebody on the channel will know the name.
+
+21:29.000 --> 21:31.000
+But it was they struck down that law where they were going to have,
+
+21:31.000 --> 21:33.000
+you had to be 18 or up to buy a game at GameStop.
+
+21:33.000 --> 21:35.000
+Remember that whole thing?
+
+21:35.000 --> 21:38.000
+But the term, what a mature game was, was too gray.
+
+21:38.000 --> 21:42.000
+So that was the problem is that somebody else was basically going to have to tell us
+
+21:42.000 --> 21:44.000
+what was good for us and what was not.
+
+21:44.000 --> 21:46.000
+And it ended up getting struck down by the Supreme Court.
+
+21:46.000 --> 21:48.000
+And we were all kind of like, whoa,
+
+21:48.000 --> 21:55.000
+because in one of the justices things supporting the decision to strike down the law
+
+21:55.000 --> 21:58.000
+talked about how people on their staff played Mortal Kombat
+
+21:58.000 --> 22:00.000
+and all this stuff growing up.
+
+22:00.000 --> 22:04.000
+They had to learn from their legal clerks about what Mortal Kombat was.
+
+22:04.000 --> 22:07.000
+I don't want to misplace it, but I want to say it was Justice Kennedy.
+
+22:07.000 --> 22:11.000
+Maybe somebody in chat remembers that whole thing and can correct me.
+
+22:11.000 --> 22:15.000
+But that like people on his legal staff had to kind of advise,
+
+22:15.000 --> 22:18.000
+like, you know, guide him a little bit because he didn't know.
+
+22:18.000 --> 22:21.000
+And you're right, a lot of people making the laws in this country
+
+22:21.000 --> 22:26.000
+may not necessarily know how a lot of technologies and that stuff works.
+
+22:26.000 --> 22:30.000
+Okay, Bobby's correcting me. Thank you.
+
+22:30.000 --> 22:34.000
+It was Schwarzenegger versus EMA, then Brown versus EMA by default
+
+22:34.000 --> 22:36.000
+when Jerry Brown became governor, took over for Schwarzenegger.
+
+22:36.000 --> 22:41.000
+And they don't seem to, Black Wolf thinks it was Lena Kagan.
+
+22:41.000 --> 22:44.000
+And that would make a lot of sense because she would have been the newest justice
+
+22:44.000 --> 22:48.000
+at the time that that was heard because this was heard before
+
+22:48.000 --> 22:52.000
+President 45's latest appointees.
+
+22:52.000 --> 22:57.000
+So it was Justice Kagan, I believe, at that time was the youngest on the court.
+
+22:57.000 --> 23:03.000
+It may still be if I'm not mistaken, although I'm not sure if the new guy is younger.
+
+23:03.000 --> 23:09.000
+But anyway, all that aside, by the time, you know, we're not getting any younger, Loki.
+
+23:09.000 --> 23:13.000
+Our generation, this whole like borderline of Gen X and Millennials,
+
+23:13.000 --> 23:18.000
+the Zillennials, I know some of you hate that term, but deal with it for the moment.
+
+23:18.000 --> 23:21.000
+You know, we're going to be approaching that age more and more
+
+23:21.000 --> 23:24.000
+where I think we're going to see ourselves represented more in politics.
+
+23:24.000 --> 23:27.000
+You know, and it'll be our generation making some of these rules and stuff.
+
+23:27.000 --> 23:29.000
+This is interesting.
+
+23:29.000 --> 23:33.000
+I think that's why they say more and more youth needs to get involved in politics
+
+23:33.000 --> 23:36.000
+because that's the only way these things kind of change.
+
+23:36.000 --> 23:40.000
+So I hope you all registered to vote because the deadline passed in some places already.
+
+23:40.000 --> 23:44.000
+But hopefully, you know, where you're at, if you're not registered to vote, you can take care of that because
+
+23:44.000 --> 23:46.000
+I got my vote, my available forms.
+
+23:46.000 --> 23:48.000
+Yeah, me too. Me too.
+
+23:48.000 --> 23:52.000
+So anyway, wow, we got on a whole tangent there.
+
+23:52.000 --> 23:56.000
+So we got streaming games and then it got it got all political.
+
+23:56.000 --> 23:58.000
+Kind of easy to do that this time of year.
+
+23:58.000 --> 24:02.000
+It is. Well, because because you're right.
+
+24:02.000 --> 24:06.000
+I mean, the concerns are right about things like net neutrality
+
+24:06.000 --> 24:11.000
+and the fact that the Comcast and the Verizon of the world can set these rules
+
+24:11.000 --> 24:14.000
+when it comes to data caps and all that stuff.
+
+24:14.000 --> 24:19.000
+That's the big concern a lot of people have when it comes to streaming their games full time
+
+24:19.000 --> 24:21.000
+is, well, what about my data caps and all this stuff?
+
+24:21.000 --> 24:25.000
+Because, you know, if you're streaming Netflix in 4K all day long,
+
+24:25.000 --> 24:29.000
+which some people do, you're going to hit those data caps pretty quickly.
+
+24:29.000 --> 24:34.000
+Which is funny because like Comcast is literally they have their new box that has Netflix built into it.
+
+24:34.000 --> 24:37.000
+They're advertising, hey, we got Netflix on our box.
+
+24:37.000 --> 24:39.000
+What doesn't have Netflix?
+
+24:39.000 --> 24:44.000
+But like I just thought it was funny. It's like, but you're so against that.
+
+24:44.000 --> 24:46.000
+I'm confused. Who are you?
+
+24:46.000 --> 24:50.000
+I think in that case, because, you know, Comcast had their own thing.
+
+24:50.000 --> 24:52.000
+They had the stream flicks or whatever that was called stream pics.
+
+24:52.000 --> 24:55.000
+I don't know what it's called. I don't even know if it's still stream pics.
+
+24:55.000 --> 24:59.000
+But I really think that was a case of if you can't beat them, join them.
+
+25:00.000 --> 25:06.000
+And even Netflix can see from where they're sitting, they see Hulu coming in the picture.
+
+25:06.000 --> 25:11.000
+They see CBS. They see Disney. Here comes Disney.
+
+25:11.000 --> 25:16.000
+Here comes what WB Warner Brothers just said in the past week.
+
+25:16.000 --> 25:19.000
+They're looking at doing something too. Warner Brothers owns all the Harry Potter movies.
+
+25:19.000 --> 25:24.000
+What? I'm not going to be able to get my CW content anymore? Oh, no.
+
+25:24.000 --> 25:26.000
+No Buffy the Vampire Slayer for you.
+
+25:26.000 --> 25:29.000
+Ah, I am disappointed.
+
+25:29.000 --> 25:34.000
+Yeah. So I do think it's kind of one of those if you can't beat them, join them type of things.
+
+25:34.000 --> 25:42.000
+So, but, uh, Bobby Black Wolf again, very chatty tonight saying that Comcast does state in the fine print that Netflix does count against your data cap.
+
+25:42.000 --> 25:49.000
+That is probably honestly though, that is actually a good thing because that is net neutrality in action.
+
+25:49.000 --> 25:54.000
+If they didn't count Netflix towards your cap, that would not be net neutrality.
+
+25:54.000 --> 26:02.000
+Right? So even though it's weird to say, and it might kind of suck, that's actually probably a good thing that Netflix counts against your cap.
+
+26:02.000 --> 26:06.000
+Just like any other traffic would count against you or just, you know, get rid of those data caps.
+
+26:06.000 --> 26:12.000
+Just like, just like listening to the show. But it's, that's the nice thing of us about us being audio only.
+
+26:12.000 --> 26:17.000
+It's so, and even when we go to video, like honestly streaming 720 video is not as bad as you'd think.
+
+26:17.000 --> 26:23.000
+Like I would say, like right now we've been streaming for 28 minutes and we've sent out, I'm looking at the counters.
+
+26:23.000 --> 26:30.000
+It's ticking up. We don't want, I can't even count all the digits. I think we've sent out 20 megabytes of data and that's it.
+
+26:30.000 --> 26:37.000
+So it's not that much, all things considered. So it's about a megabyte a minute. Anyway.
+
+26:37.000 --> 26:44.000
+All right. Anyhow, let's, uh, let's move on. Let's get into our gaming weeks and talk about the types of video games that we have been playing this week.
+
+26:44.000 --> 26:46.000
+Loki, how was your gaming week? What have you been up to?
+
+26:46.000 --> 26:58.000
+I didn't play much. I played, um, Pokemon Go. I played a lot of that. Um, I played Dance Dance Revolution still because I'm doing that.
+
+26:58.000 --> 27:08.000
+And someone might, or some people might've been lucky enough to catch my, um, stream on Twitch that I just fucked around with the Twitch mobile app.
+
+27:08.000 --> 27:12.000
+I missed it. Am I subscribed? I must not be subscribed on Twitch. I didn't see it.
+
+27:12.000 --> 27:19.000
+It's all right. It wasn't worth watching, honestly. It was a test. It was a test. I was just, hey, there's a mobile app on this thing.
+
+27:19.000 --> 27:26.000
+What if I prop my phone up? Let's see how well that works. And just, you know, I didn't even have it plugged in and it died after 30 minutes.
+
+27:26.000 --> 27:34.000
+And I, which is fine, but it was just an experiment. However, with that being said, I am going to be streaming on Twitch.
+
+27:34.000 --> 27:39.000
+I have gear coming. I have a whole setup that's going to be multi-camera setup plus screen feed.
+
+27:39.000 --> 27:43.000
+You can't do anything half-assed and that's why you never finish a project.
+
+27:43.000 --> 27:47.000
+But I've got, I've got it ready to go.
+
+27:47.000 --> 27:49.000
+Now I'm excited. What's your Twitch name? Loki OLR?
+
+27:49.000 --> 27:50.000
+Yeah, I believe so.
+
+27:50.000 --> 27:51.000
+Okay. That's awesome.
+
+27:51.000 --> 28:03.000
+So, um, yeah, I'll be doing that. The only thing I don't like so far is, um, and I had this happen with the really crappy stream that I did, um, is the muting of audio because
+
+28:04.000 --> 28:15.000
+synchronized love. Damn you, Joe, whatever your name is. I don't remember his, the musician's name, but damn you for muting my audio during that portion.
+
+28:15.000 --> 28:21.000
+So you are saving your archives because Twitch doesn't do that by default. You have to tell it to.
+
+28:21.000 --> 28:22.000
+Yeah, I didn't.
+
+28:22.000 --> 28:23.000
+Whoops.
+
+28:23.000 --> 28:24.000
+Well, no, it's fine.
+
+28:24.000 --> 28:27.000
+How'd you know it got muted then if you don't save your archives?
+
+28:27.000 --> 28:28.000
+I was able to play it back.
+
+28:28.000 --> 28:30.000
+Then you're saving your archives. Good job.
+
+28:30.000 --> 28:31.000
+Oh, I don't remember doing that.
+
+28:31.000 --> 28:32.000
+Yeah.
+
+28:32.000 --> 28:33.000
+Cool.
+
+28:33.000 --> 28:48.000
+I would always turn that on by default anyway. Um, but yeah, well, I mean, I can imagine with DDR there's going to be copyrighted songs if you talk over it because like, like I've played Forza and somehow gotten away with it, but I talk a lot.
+
+28:48.000 --> 28:52.000
+But it wasn't even like direct audio. It was on a phone across the room.
+
+28:52.000 --> 29:00.000
+It doesn't matter. You know how YouTube can detect that shit. It's, it's, they use something similar to what like Shazam and those types of apps. Is that the big one Shazam?
+
+29:00.000 --> 29:01.000
+Yeah.
+
+29:01.000 --> 29:09.000
+But they, they sound hound, I don't know what they're called, but they, they listen in a similar manner so that you can tell what song is playing. Those similar technology to what operates those apps.
+
+29:09.000 --> 29:16.000
+Yeah. So, um, I did get, for my DDR machine, I did get replacement CD drive.
+
+29:16.000 --> 29:18.000
+Tiger Claw found your video in like three seconds.
+
+29:18.000 --> 29:19.000
+Yeah.
+
+29:19.000 --> 29:20.000
+But only part of it is muted.
+
+29:20.000 --> 29:29.000
+Yeah. Well, it's part of it and only part of it was muted and it sucks too because like apparently my, well, I just did this on a whim, like I didn't actually prep for it.
+
+29:29.000 --> 29:35.000
+So I plugged in my phone, my phone had already, it was down to like 30% anyways. I'm like, eh, it should last long enough for this.
+
+29:35.000 --> 29:47.000
+And then my laptop, you know, eats through battery like any, like nothing. So I didn't have that plugged in either. So I couldn't tell, you know, in fact, I think the last bit that before it cut out, I'm like, oh, my laptop's dead.
+
+29:47.000 --> 29:57.000
+You know, cause the battery had gone dead on that. Um, but you know, I actually did play max 300, uh, only on difficult and I did pass it.
+
+29:57.000 --> 30:03.000
+I was like, oh, cool. And then I was like, oh, it's dead. Oh, no one saw that. Oh, well, but that's fine.
+
+30:03.000 --> 30:14.000
+Um, but yeah, I'm going to hopefully do that. So then like I said, I got replacement optical drive for my DDR machine so I can do the super disk if I want to and put other mixes on there.
+
+30:14.000 --> 30:24.000
+Um, I haven't decided if I'm going to do that yet. I am seriously considering a setup with a step mania machine as well.
+
+30:24.000 --> 30:29.000
+But what I'm actually gonna do a little bit differently with that is I'm going to have it toggleable.
+
+30:29.000 --> 30:35.000
+So it's going to be, I can flip between step mania machine and arcade hardware when I want to.
+
+30:35.000 --> 30:36.000
+That sounds like a project.
+
+30:37.000 --> 30:42.000
+It's actually not, it doesn't seem like it's going to be that hard. It's just, you know, some, uh, splicing of stuff.
+
+30:42.000 --> 30:52.000
+But for now, just, you know, DDR, I am trying to figure out what songs are going to be flaggable on Twitch. I guess live wise, it doesn't matter.
+
+30:52.000 --> 31:01.000
+Yeah, it doesn't matter if you're focusing on live. It doesn't matter. I mean, you just, you just have to realize if you're playing a song that really hinges on the music, you're going to probably get muted.
+
+31:01.000 --> 31:07.000
+Like a lot of music games are going to do this too. If well, like, you know, not like a, um, you know, like the dance mania stuff. Yeah.
+
+31:07.000 --> 31:13.000
+Yeah. Yeah. If you, if you play things that are big on licensed music, like guitar hero, rock band. Yeah.
+
+31:13.000 --> 31:18.000
+You know, you're going to get muted because those songs are going to trigger it. So, you know, it's a live only type of thing.
+
+31:18.000 --> 31:20.000
+And DDR is just kind of the same thing.
+
+31:20.000 --> 31:24.000
+Yeah. So I'll be doing that, um, you know, as part of my exercise each day.
+
+31:24.000 --> 31:30.000
+So I'm going to try to push it a little longer and maybe not walk as much during the day so that I actually have energy to do it.
+
+31:30.000 --> 31:34.000
+Um, so yeah, so look forward to that sometime soon.
+
+31:34.000 --> 31:41.000
+I just have to get it all set up and test some things. So you may see some test streams, but yeah, I'm really looking forward to it.
+
+31:41.000 --> 31:45.000
+And I think the cameras are coming tomorrow, so I'm, I can't wait.
+
+31:45.000 --> 31:53.000
+Neat. Um, my gaming week, uh, not, not too thrilling, uh, because I was playing world of Warcraft a bit and working on a new character.
+
+31:54.000 --> 31:58.000
+So I got my Horde Druid up to 120 and now I'm working on an Alliance Monk.
+
+31:58.000 --> 32:07.000
+So I'm just kind of, uh, slogging away at that. And I think I've hit level 48, but you know, that's without spending an awful lot of time on it.
+
+32:07.000 --> 32:14.000
+So that's pretty cool. So I'm happy with the progress there, but otherwise I haven't been playing a lot of otherwise like console stuff and things.
+
+32:14.000 --> 32:22.000
+Um, a little bit of Forza. I do remember dabbling in Forza a little bit, but, um, keep in mind part of my week, Delvin, who was here on the show last week,
+
+32:22.000 --> 32:32.000
+he was still here. So we went up to Reno on Monday and I was trying so hard to find him a killer instinct machine because he hasn't played on an actual killer instinct arcade machine in forever.
+
+32:32.000 --> 32:38.000
+And I thought, Oh, maybe that classic arcade row at Peppermill. Cause you know, Peppermills, I was like, I thought maybe they would have one.
+
+32:38.000 --> 32:46.000
+They didn't, but they did have that new Ninja Turtles game. So yes, I took a picture of that and put it on Twitter. And so golf land.
+
+32:46.000 --> 32:50.000
+Oh, do they really? Yeah. Did you play it? I haven't. I didn't get a chance to play it cause some other kids were,
+
+32:50.000 --> 32:56.000
+and I was just kind of like watching, but it definitely kind of rings true of the old school one. Yeah.
+
+32:56.000 --> 33:05.000
+I haven't gotten to like it. The problem is like my kids don't have the attention span. Like they, they want to do other things. And so like, Oh hey, let's play Ninja Turtles.
+
+33:05.000 --> 33:12.000
+I'll play something that spits out tickets. I want to play the candy claw machine. Yeah. Yeah. Of course. Of course. Candy claw.
+
+33:13.000 --> 33:22.000
+Um, so yeah. So, um, actually if, if casino games count as a video games, which they might, they might as well be, it's, it's what Konami does now.
+
+33:22.000 --> 33:31.000
+Y'all can, I mean, does casino games. Well anyway, so I like to play slot machines a little bit. I'll set myself a limit and, you know, say this is how much I'm going to waste on slot machines today.
+
+33:31.000 --> 33:38.000
+But anyway, long story short, I went to a wheel of fortune machine that was just on some classic, you know, sevens and bars type of thing.
+
+33:38.000 --> 33:47.000
+I put the max credit in, put, uh, pulled the thing and it came up on the wheel and it spun the wheel and I won 500 credits. So it was quarters.
+
+33:47.000 --> 33:55.000
+So ended up being 125 bucks. I love the wheel of fortune machines. Yeah. So that was it. And after that I was like done.
+
+33:55.000 --> 34:05.000
+So I was very proud of myself for kind of like walking away. Um, but I did also, so this is also funny cause it's play, it's like Vegas dreams IRL.
+
+34:05.000 --> 34:13.000
+Did y'all ever play Vegas dreams on the super Nintendo? Cause I love that game. We went, it was dead. Reno was dead on Monday because of course it's a Monday.
+
+34:13.000 --> 34:22.000
+It's a weekday even though it was Columbus day or whatever. I guess nobody really has the day off except maybe banks in the States. So, uh, the casinos were dead.
+
+34:22.000 --> 34:31.000
+So like the thing that kind of crossed Delvin and I's mind was that if we go up to play a table game, they can actually like kinda interact with us.
+
+34:31.000 --> 34:38.000
+Like we wouldn't, you know how like with blackjack, you don't want to go play blackjack when you don't know what you're doing cause you'll fuck it up for everybody else at the table.
+
+34:38.000 --> 34:45.000
+I don't know if you know that, but that's like a thing. If you like hit when you're not supposed to in blackjack, you can, you can like take somebody else's 10 basically and like screw it up.
+
+34:45.000 --> 34:58.000
+So, um, so I didn't play blackjack, but we played roulette for the first time. So this is just a funny side story. Delvin was like learning about like, kind of like, cause I guess you have to do like a $5 minimum bet.
+
+34:58.000 --> 35:09.000
+You can spread it out on the inside or you can do it all on one thing on the outside. So the lady was kind of teaching us how to place. So I watched him go through like $20 and then I was like, you know what, I'll play, I'll play for fun.
+
+35:09.000 --> 35:19.000
+So I put my things down and I put $2 on my mom's birthday, the month in the year, or I'm sorry, the month of the day. And then I put $1 on my birthday, the 26th.
+
+35:19.000 --> 35:30.000
+Well, guess what? Roulette number came up 26. So I won like 35 bucks or whatever. And I was like, done. That was my one and only game of roulette. Like, cause it's not going to happen to me twice in a row.
+
+35:30.000 --> 35:43.000
+That was my one and only game of roulette I ever played. So that was kind of fun. Anyway, uh, SSU100Matt in our chat over at live.avag.net.com says, uh, yeah, $125 more money than you've had before.
+
+35:43.000 --> 35:56.000
+Well, in a way, Matt, that was kind of Reno paying me back for all the money it's taken from me in the past. So, you know, and while it's a nice sum of money, don't get me wrong.
+
+35:56.000 --> 36:10.000
+It's not that much money. Like it pretty much, it paid for dinner and gas by then it's like, oh, money's gone. But it was nice. It's nice to have the trip to Reno, I guess, on the house, uh, that way. So we had a good time.
+
+36:10.000 --> 36:19.000
+Um, trying to think of like other, we walked around to some of the arcades, but it's just, it's so sad how the vast majority of arcades are all like, just take any DDR machines to be found.
+
+36:19.000 --> 36:29.000
+No, believe it or not. No, like a wheat check. Cause we were looking for the killer instinct machine circus circus has a whole new area. What used to be the ice cream shop is all like a subsidiary arcade.
+
+36:29.000 --> 36:41.000
+Now, no DDR machine in there or anything like it. No, like, like in the groove or anything like that. Uh, nothing at Harris, none of it. Peppermill didn't have it. Huh? Maybe, you know, maybe I just went to the wrong casino.
+
+36:41.000 --> 36:49.000
+Somebody's probably listening to the show going, I live in Reno. It's over here. Well, we just missed it. I guess it happens. So I used to love the silver legacies buffet.
+
+36:50.000 --> 37:00.000
+I love casino buffets. That's like my guilty pleasure. Yeah. It's so, uh, so much crap, but it's, it's so much garbage, but it's good. It's a buffet. What do you expect?
+
+37:00.000 --> 37:12.000
+Well, I'm going to Vegas in November, so there won't be an OLR, uh, November or may actually I might be back in time for it. I don't know. We'd be pushing it a little bit. It was like November 19th or something around that day.
+
+37:12.000 --> 37:20.000
+There's not going to be an OLR because I'm going to final fantasy fan fest for final fantasy 14, where they'll undoubtedly announce the next expansion that's in Vegas.
+
+37:20.000 --> 37:29.000
+And, um, so, uh, yeah, probably we'll go to some of the Vegas buffets and all that stuff when I go, go down there for ironically a video game related convention.
+
+37:29.000 --> 37:41.000
+So anyway, that's my gaming week, pretty much like world of Warcraft and just a few other things here and there. And that's, that's really it forza. That's it watching some Twitch, but not a lot of, uh, otherwise game, but just focusing on that.
+
+37:41.000 --> 37:52.000
+Um, I started another one of my reality games on Facebook, at least this time I can talk about it. Uh, it's not the whole thing in secret. So there actually might be because some of them heard about my show.
+
+37:52.000 --> 38:02.000
+So, Hey, if y'all are listening, uh, but, um, yeah, so I know that's going to be another time sink as well, but those are more like social types of games. I really kind of parallel it to D and D.
+
+38:03.000 --> 38:15.000
+Not everybody agrees with me, but D and D is like a very social thing. That's what these are. They're social games. So anyway, let's get into some gaming news. We'll start it off with the first news story. Loki.
+
+38:15.000 --> 38:25.000
+Yep. So this is another game that probably got the pickup, even though I've been bad about playing the VR games that I have purchased on the PlayStation four, but this is pretty cool.
+
+38:25.000 --> 38:48.000
+Borderlands two VR is going to be coming to the PlayStation VR in December 14th. It's a retooled version of Borderlands two. And apparently they have a new mechanic called Banff time or badass mega fun time, which I guess slows down everything, allows people to dodge bullets and do other cool stuff.
+
+38:48.000 --> 39:07.000
+Um, of course driving is first person now and the weapons, uh, weapons are controlled, I guess, by head movement. And they're saying that, um, you can also choose between the standard controller movement or the point to point teleportation.
+
+39:08.000 --> 39:19.000
+So neat. I'm curious to see what other cool stuff you could do in this, but I don't know. So I'll probably pick it up because I'm a sucker for that crap.
+
+39:19.000 --> 39:31.000
+So let me play through Skyrim. Um, I really, I needed like what I needed is I need to move my whole setup away from where I'm at. Hey, that's actually speaking of this whole streaming thing.
+
+39:31.000 --> 39:48.000
+So one of the thoughts I had was, you know, for the channel is basically calling the thing Loki's garage because it is literally in my garage, but I may end up moving some of my gaming stuff out into the garage because then I can actually play it and talk without interrupting everybody or being annoying.
+
+39:48.000 --> 39:53.000
+So I may end up sticking with that for other games other than DDR as well.
+
+39:53.000 --> 40:02.000
+You should look at trying to like insulate the garage a little bit so that it's like tolerable. Well, in the winter it'll be more tolerable. And then like trying to, um, I don't know how you would soundproof.
+
+40:02.000 --> 40:08.000
+No, not necessarily soundproof, but try to like, uh, for the, for the summer to not get it so fricking hot in there.
+
+40:09.000 --> 40:21.000
+Uh, yeah, insulation, but the walls do not have insulation in them. I know that for a fact and the roof. Yeah, it would just be, I would like to have it insulate so it's not 115 degrees in the summer.
+
+40:21.000 --> 40:33.000
+Because Loki's garage will be fun in the winter, but in the summer it's not going to be fun. Summer is not fun. I play DDR in the summer. I will still play DDR in the summer, but it is not. It is opening the garage door and it's sweating your balls off.
+
+40:34.000 --> 40:44.000
+Uh, let's see. So, uh, Cajudo in chat says, I'm down for Borderlands VR. Yeah. You know what I thought was interesting about this is that this kind of reminded me, weren't we expecting like Borderlands 3 by now?
+
+40:44.000 --> 40:52.000
+Like shouldn't that have been a thing at this year's E3, but I guess it's just maybe it's just not fully done yet. So this is, this is, you got rage too. That's pretty close.
+
+40:52.000 --> 40:59.000
+I guess this is kind of the crumbs we're getting to hold us over VR port. Although I want a new Borderlands game. I feel like border.
+
+40:59.000 --> 41:03.000
+I love and played through the pre-sequel though. So technically I do have a new Borderlands game I haven't played yet.
+
+41:03.000 --> 41:10.000
+I feel like, uh, uh, Borderlands 2 is like all of a sudden back again cause like I've seen more and more people streaming it.
+
+41:10.000 --> 41:15.000
+Like our buddy Travis Donovan is trying to get more and more involved in Twitch. So shout out for his channel.
+
+41:15.000 --> 41:20.000
+But he's been playing some Borderlands 2 and I'm kind of like, well this is a throwback. I haven't seen this game in a while.
+
+41:20.000 --> 41:23.000
+Cause that game came out a while ago at this point, Borderlands 2.
+
+41:23.000 --> 41:26.000
+Yes, it's been out for a long time, but it's a great game.
+
+41:26.000 --> 41:30.000
+Yeah, no, it is. It'll be interesting to try it again in VR, I think. Play it all over again.
+
+41:30.000 --> 41:37.000
+So, uh, let's see. Dungeon buster and chat says they're working on it, but I'm guessing they don't have anything to show for Borderlands 3.
+
+41:37.000 --> 41:43.000
+So it just wasn't ready to go yet. Maybe next year or maybe they're going to sit on it for the next consoles. Who knows?
+
+41:43.000 --> 41:53.000
+Cause now that's a question we have to start asking. Or no, no, Borderlands 3 will come out on this round of consoles and then they'll have the definitive edition on the new consoles.
+
+41:54.000 --> 42:03.000
+Wait, oh god. Borderlands Battle Royale? How dare you. Don't even plant that idea in their heads. Alright.
+
+42:05.000 --> 42:11.000
+To register participation for this week's episode of Orange Lounge Radio at vognetwork.com, use the passphrase, butter.
+
+42:11.000 --> 42:17.000
+Well, um, you know, hey, for Battle Royale games, cross platform is all the rage, right?
+
+42:17.000 --> 42:24.000
+So, uh, you know, one question we asked when we heard that Fortnite was going to go cross platform was how long until the other games go cross platform?
+
+42:24.000 --> 42:31.000
+And Blizzard, uh, was one company that we were all looking at for Diablo, you know, and Diablo is going to be coming out on the Switch.
+
+42:31.000 --> 42:36.000
+Well, interesting, there's been a little bit of back and forth on this this week.
+
+42:36.000 --> 42:51.000
+So apparently there was a rep that actually was being interviewed talking a little bit about cross play in Diablo 3 who responded that it's not a question of when, sorry, it's a question of when, not if.
+
+42:51.000 --> 43:03.000
+Basically leading us to go like, oh shit, they're going to put cross play in Diablo 3 so that would be great cause you can play the Switch and the Playstation 4 and the Xbox One and who knows, maybe there'd be a way to kind of link to PC.
+
+43:03.000 --> 43:15.000
+And I thought, I kind of thought this was really exciting news as well, or this statement was very exciting because this may mean that, okay, well if it's cross play, then it may not necessarily go through Nintendo servers and whatever.
+
+43:15.000 --> 43:24.000
+It's going to go through battle net. So maybe, I mean, think of it this way, you could chat with somebody playing World of Warcraft from your Nintendo Switch when you're in Diablo, right?
+
+43:24.000 --> 43:34.000
+That would make sense how that might work, right? Well, unfortunately, that was the news a couple days ago, but Blizzard came out after that and said, I don't think so.
+
+43:34.000 --> 43:48.000
+So there's a second comment from a Blizzard rep that said, while we love the idea of bringing our players together across platforms, we do not have any plans to implement cross platform gameplay for Diablo at this time.
+
+43:48.000 --> 43:59.000
+Now, some are reading into this a bit, is that maybe Blizzard doesn't want to commit to this. They don't want to say it's going to happen because they haven't been testing it, they haven't been doing anything in Nintendo, they don't want to let anybody down.
+
+43:59.000 --> 44:10.000
+Or, if they want to unveil this, they're going to wait for Blizzcon to do it. So there's still some wishful thinking going into this statement. Is that kind of one of those, well they didn't say not ever, just that they're not announcing it right now.
+
+44:10.000 --> 44:12.000
+But, who knows.
+
+44:12.000 --> 44:14.000
+Here's what they're waiting to see.
+
+44:14.000 --> 44:22.000
+Don't expect it out the gate. Do not buy Diablo 3 on Switch expecting that it'll be cross platform. That is something that's very important.
+
+44:22.000 --> 44:33.000
+Now, speaking of companies and cross platform, I think this is a good chance to say something about another company that does a lot of publishing on all these different systems, and that would be Bethesda.
+
+44:33.000 --> 44:53.000
+So Bethesda is looking at doing more cross play. In fact, in a quote, they were doing an interview with Eurogamer, and part of what they said during this Eurogamer was, I'm trying to look at where the specific quote is here, because they actually talked about how cross play would be a really good thing.
+
+44:54.000 --> 45:04.000
+He says here, I'm most heartened by Sony's news last week about cross play, because it seems they're going to open up and embrace not just cross play, but cross platform progression. Those are two very different things.
+
+45:04.000 --> 45:14.000
+I don't want to just be able to play against people on other platforms, I want to be able to take my progress with me from device to device. What I've unlocked my character can do, I want to go from platform to platform.
+
+45:14.000 --> 45:28.000
+And both those things I think are equally important, and I'm very much hopeful that with the next gen platforms, we'll see even more of that in terms of treating our fan base as a whole, as opposed to here's the Xbox folks, here's the PS4 folks, here's the Switch folks and PC.
+
+45:28.000 --> 45:38.000
+Everybody's segmented and walled off from each other. We can just say you're all playing game X, and we can treat you all the same because your experiences are the same. You're playing against each other.
+
+45:38.000 --> 45:50.000
+We already know Bethesda's head is kind of in this a little bit. They're not going to do it with Fallout 76, because it's one of those that was already in the planning stages and kind of done before cross play started going everywhere.
+
+45:50.000 --> 45:59.000
+But we know for their Elder Scrolls game, they flat out came out and said, what's the new one called, the mobile one, but I say mobile, but it's going to be everywhere. It's going to be on Switch, PS4.
+
+45:59.000 --> 46:01.000
+The Elder Scrolls Blades?
+
+46:01.000 --> 46:10.000
+Yeah, that's it, Blades. So they come out and said, if you don't support cross platform, you're not getting Blades. So Bethesda kind of put their foot down on this whole thing.
+
+46:10.000 --> 46:14.000
+So they really want, and you know, as somebody, Bethesda being a third party publisher.
+
+46:14.000 --> 46:19.000
+They should also push for better mods in the PlayStation 4 version of Skyrim, but you know.
+
+46:19.000 --> 46:21.000
+Might be a little late for that now. I think they're looking ahead.
+
+46:21.000 --> 46:22.000
+It's never too late.
+
+46:22.000 --> 46:31.000
+Bethesda was self-parry-ing themselves this year when it came to how many fucking versions of Skyrim there are.
+
+46:31.000 --> 46:39.000
+I don't think Bethesda's interested in going back and visiting any more Skyrim. I think any talk here on out is going to be Blades, and then eventually Elder Scrolls 6.
+
+46:39.000 --> 46:42.000
+But I would say Elder Scrolls 6 is still quite a ways out.
+
+46:42.000 --> 46:46.000
+There's always room for Oblivion remasters.
+
+46:47.000 --> 46:50.000
+Boy oh boy. Alright, anyway.
+
+46:50.000 --> 46:57.000
+So it sounds like Bethesda really wants this, and I think, you know, as we get into more and more consoles, that may be very well the way it goes.
+
+46:57.000 --> 47:00.000
+Especially if the third parties are putting on a lot of pressure to do that.
+
+47:00.000 --> 47:03.000
+And then what else is it going to say with all that?
+
+47:03.000 --> 47:13.000
+Is that they're putting a lot of pressure on it, and then, oh, with Forza, I've been playing that, you know, on both Xbox One and PC.
+
+47:13.000 --> 47:16.000
+And when they talk about the portability, that is really nice.
+
+47:16.000 --> 47:24.000
+It is nice. I can do one thing on my PC, and then when it's like, oh, I want to show my friend, so let's play on Xbox One for a little bit, it just, like, picks right up where I left off, essentially.
+
+47:24.000 --> 47:30.000
+I mean, in Forza, you kind of start over at your house, but it's the same thing.
+
+47:30.000 --> 47:34.000
+You can restart from where your progress is. Yeah, I need to play more of that, too.
+
+47:35.000 --> 47:39.000
+Anyway, there you go. Cross platform and what the future might hold for that.
+
+47:39.000 --> 47:46.000
+It sounds like third parties are putting a little more pressure on for this to stay the norm, especially going into the next generation of consoles.
+
+47:46.000 --> 47:50.000
+But maybe don't expect it for all your games coming out this year.
+
+47:50.000 --> 47:52.000
+Anyhow, moving on, Loki.
+
+47:52.000 --> 47:59.000
+Yes, so apparently some PlayStation 4 users are claiming that they're receiving messages that are locking up their consoles.
+
+47:59.000 --> 48:13.000
+So what they're receiving is basically some user message that can't really be displayed, and then what happens is their controllers and sound output fail, and then basically the console continues with error loops.
+
+48:13.000 --> 48:16.000
+So what can you do to possibly stop this?
+
+48:16.000 --> 48:19.000
+Well, there's a few things you can do to kind of prevent the message if you haven't gotten it already.
+
+48:19.000 --> 48:26.000
+You can basically lock down your privacy settings to only allow friends only or no one to send you messages.
+
+48:26.000 --> 48:40.000
+And then if you do happen to run across the message, the other thing you can do is download the PlayStation mobile app, delete it through the app, and then you can also rebuild your database on the PlayStation to fix the error.
+
+48:40.000 --> 48:45.000
+So that's kind of annoying. Hopefully it's something that they address and will patch out.
+
+48:45.000 --> 48:52.000
+And most likely it sounds like some sort of characters that can't be displayed or something and the console gets confused.
+
+48:53.000 --> 48:55.000
+I don't know. That's stupid.
+
+48:58.000 --> 49:03.000
+Well, I don't like, too, that there's a lot of clickbait going around about how this is bricking consoles.
+
+49:03.000 --> 49:04.000
+It's locking up.
+
+49:04.000 --> 49:14.000
+Yeah, it was brought up on Discord, and I think there was some feedback on Discord like, that headline is really misleading, because if it was bricking your console, you would not be able to use said console ever again.
+
+49:14.000 --> 49:25.000
+This is more like just a fucking giant inconvenience, which isn't cool, don't get me wrong, but if this happens to your PlayStation 4, don't throw it in the dumpster. It's fixable. It's just really inconvenient.
+
+49:25.000 --> 49:30.000
+And honestly, by the time the workday starts on Monday, I'm pretty sure Sony is well aware of this.
+
+49:30.000 --> 49:37.000
+I mean, it just came up with a weekend, so I'm pretty sure you're going to see a patch rolling out probably this week that's going to fix this right up.
+
+49:37.000 --> 49:49.000
+But I think it's a good reminder for everybody to check your privacy settings, and honestly, unless you have a reason for the public to be sending you messages, turn it off. Have it be your friends only.
+
+49:49.000 --> 50:00.000
+I think mine's set to friends only. It might be set to friends of friends, if that's an option, because sometimes I want people to be able to add me if they see we have mutual friends, and they're like, oh, I know that guy.
+
+50:00.000 --> 50:12.000
+But yeah, it's kind of on lockdown for the general public. And luckily, I have the mobile app. I tend to look at my messages on the mobile app first. So if I got anything funky like this, I'd probably delete it before I ever saw it on my PS4.
+
+50:12.000 --> 50:23.000
+Yeah. And with how often I use my PlayStation 4, except for last night when I had to watch the DVD version of A Star is Born from 1970.
+
+50:23.000 --> 50:29.000
+Aside from that, I hardly ever get to play my PlayStation 4 anyway, so yeah.
+
+50:29.000 --> 50:44.000
+So yeah, you know where I get a ton of messages. So this is going to be a big throwback. So if you were here, the night that Orange Lounge Radio, the very last night of Orange Lounge Radio, the DDR show before we merged with the podcast.
+
+50:44.000 --> 50:54.000
+You remember how we used to do it split? We did like an hour long podcast with the live show. It was a split show. Not all of you may know that. If you're new to Orange Lounge Radio, you may not realize there used to be a live only show that was not podcast at all.
+
+50:54.000 --> 51:04.000
+And that obviously changed a long time ago. But anyway, I'm bringing that up because if you were here for that very last show, we had a guest named Mistress Tia on that show, who's one of my longest and dearest friends. She's wonderful.
+
+51:04.000 --> 51:18.000
+She lives in New York City now. Well, this is how long ago that was. Her kid's like 13 or 14 now. And so I get all of these messages on PlayStation because the kid spams the entire friends list talking about fucking Fortnite.
+
+51:19.000 --> 51:33.000
+And it's all these things. It's like, I didn't ask this, but it's her PlayStation out. So of course we friended each other, but it's her kid obviously monopolizes the PlayStation using her account, sending all these messages about how he's going to kick some dude's ass at Fortnite.
+
+51:33.000 --> 51:43.000
+And I'm just kind of laughing. Like it's, I have a good time. I'm not like actually annoyed with it, but I'm just kind of like, Oh my God, stop. Get the kid his own account.
+
+51:44.000 --> 51:53.000
+I know I didn't make her show roll, but there was one thing, you know, with the whole Call of Duty Black Ops 4 being now through the Blizzard launcher or whatever. Yeah.
+
+51:53.000 --> 52:01.000
+Yeah. I guess what happens when you chat in Call of Duty on PC? Your real name shows up. Fun times.
+
+52:01.000 --> 52:11.000
+So I went on a little bit of a Twitter rant because that's what we do now in 2018. We Twitter rant because this goes back to Blizzard's shitty implementation of Real ID.
+
+52:11.000 --> 52:23.000
+And I realized Blizzard has done a lot of great things for PC games. Blizzard has a very diehard community, but even some of the most diehard Blizzard people, like I would die on Blizzard's hill.
+
+52:23.000 --> 52:33.000
+Even some of them that I've met through the years that I did a Horde house, the Warcraft show years ago, even many of them that I've met think Real ID is implemented shittily.
+
+52:33.000 --> 52:41.000
+And when I say shittily, I mean, and I might be making up a word there, but it's a word now. Shittily. It's how Real ID was implemented.
+
+52:42.000 --> 52:57.000
+Is that on the Wiki? Shitty implementation. Shittily. Anyway, I say that because it's like Blizzard goes out of their way to make sure you're using your real name on all this stuff.
+
+52:57.000 --> 53:10.000
+When, you know what, that might not be such a good idea. I realized they did that because they thought they would prevent toxicity, but clearly you're not paying attention to Overwatch if you think this is going to work.
+
+53:10.000 --> 53:22.000
+I don't understand why putting your real name on blast in this day and age of everybody streaming, which Blizzard themselves endorses you streaming through Facebook.
+
+53:22.000 --> 53:31.000
+Remember, they have a partnership with Facebook. It's right there in the Battle.net app. You can stream right there on Facebook. It defaults to showing your real name.
+
+53:32.000 --> 53:42.000
+And in this day and age of streaming, like, is that such a good idea? And you might go, well Rob, if you don't want to put it out there, don't fucking stream.
+
+53:42.000 --> 53:52.000
+Yeah. Problem with your little snap analysis is that if one of my friends is streaming, I can't do anything about it.
+
+53:52.000 --> 54:00.000
+Because the default is to always show your friends real names. So if I send a friend a message who happens to be streaming, oh, I just showed my real name.
+
+54:00.000 --> 54:10.000
+And one I didn't get to pick, one that Blizzard took off of my credit card I was using to pay for World of Warcraft without my permission and permanently put it on my account.
+
+54:10.000 --> 54:17.000
+And I can't change it without some fucking court order or something like that. Like this is still a big problem with Blizzard.
+
+54:17.000 --> 54:27.000
+And one that I really wish, because Blizzard is pretty decent about listening to their fan base when they make a stink, I wish there was more of a stink about this issue because it sucks.
+
+54:27.000 --> 54:34.000
+Especially for those of us that for protection and, you know, things that have happened to us in the past don't always like to use their birth names.
+
+54:34.000 --> 54:45.000
+So I really wish Blizzard, all they have to do, look, if they want to make you accountable or whatever by having your real name, fine, have it on a mouseover.
+
+54:45.000 --> 54:51.000
+Have it on view profile. Like if you're like, Sky, who's Sky? Oh, right click view profile. Oh, it's Rob. Oh, that's who that is.
+
+54:51.000 --> 54:59.000
+Fine, do it that way. But don't have it be like the name that just shows up in chat with the message. It sucks.
+
+54:59.000 --> 55:04.000
+So I just wish Blizzard people would make more of a stink about that because Blizzard might actually listen.
+
+55:04.000 --> 55:09.000
+But I just feel like people either feel like A, there's nothing that can be done. We've already had this real ID debate a long time ago.
+
+55:09.000 --> 55:17.000
+Or B, it's just not a big enough issue for some people, whatever. And for a lot of people it isn't a big deal. They use their real name everywhere.
+
+55:17.000 --> 55:23.000
+But maybe this call of duty thing and how big that news is, maybe that'll spawn a discussion. I don't know.
+
+55:23.000 --> 55:31.000
+But I just would, again, all I want, I want the Blizzard ID to just default to the nicknames and show real name on request or something if you want to do it that way.
+
+55:31.000 --> 55:35.000
+Fine. I'll compromise. Anyway.
+
+55:35.000 --> 55:44.000
+Looking at chat over at live.voggenover.com. Oh, they're still talking about the PS4 spam. Not a lot of feedback to my rant there, but they're talking about the Fortnite spam.
+
+55:44.000 --> 55:48.000
+Kaijuda is saying, I got spam messages on PlayStation 4 a few times. I've been meaning to turn off messages.
+
+55:48.000 --> 55:53.000
+Well, the story about the brick consoles, even I said it. It's not really bricked. Not really bricked.
+
+55:53.000 --> 55:57.000
+Asterisked consoles is a good opportunity to remind yourself about that.
+
+55:57.000 --> 56:02.000
+Fifth Dream says, happens to me too. Some random dude I friended early on sends messages to 70 people.
+
+56:02.000 --> 56:09.000
+Tigercall on chat says, PSN does this thing that would show your IRL name next to your PSN username.
+
+56:09.000 --> 56:14.000
+So I just put in Tiger as the first name and Claws the last name. I got around that too on PSN.
+
+56:14.000 --> 56:21.000
+I think it's because I linked it to my Facebook, which is not my real name, or PlayStation lets you fill it in.
+
+56:21.000 --> 56:26.000
+Like, you don't have to fucking call Sony to be like, I need to change my real name. I'm pretty sure.
+
+56:26.000 --> 56:33.000
+Maybe somebody in chat can correct me if I'm wrong. You can change it yourself by going in there and just changing your name.
+
+56:33.000 --> 56:38.000
+Blizzard does not let you change your name without, like, calling and jumping through hoops.
+
+56:38.000 --> 56:46.000
+This has gotten them some shit with transgender individuals who, you know, go through a process of changing their name and so forth.
+
+56:46.000 --> 57:00.000
+But I believe, to be fair to Blizzard, under some type of heat and feedback, they reduce the requirements to change that sort of information to make that process easier for those folks going through that.
+
+57:00.000 --> 57:11.000
+Anyhow. Yeah, BobbyBlackWolf in chat says, I never linked anything to my Battle.net account either, so they actually still believe my name is BobbyBlackWolf.
+
+57:11.000 --> 57:16.000
+Yeah, they took my info off my credit card. That's what pisses me off. That's how they got my real name.
+
+57:16.000 --> 57:24.000
+So I'm just, I'm really... Anyway. Alright. Let's move on and talk a little bit about other ways to lock things down.
+
+57:24.000 --> 57:28.000
+But this time, a little more literally, how do you lock things down?
+
+57:28.000 --> 57:39.000
+It's a new item called the Switch Safe. It locks the Switch to the dock and prevents the game card slot from being used, and it has a little lock on it.
+
+57:39.000 --> 57:47.000
+So it's basically a dock for your dock that you can put the Nintendo Switch in and you can lock it away.
+
+57:47.000 --> 57:53.000
+Maybe if you're afraid it's gonna get stolen or something like that. I don't know. But what I think it's really for is for families with kids.
+
+57:53.000 --> 58:01.000
+And you know how you might tell the kids, now you don't get to play Nintendo Switch until all your homework is done, and I better not see what...
+
+58:01.000 --> 58:08.000
+This is a way that you can make sure you're literally putting it under lock and key so that the kid can't play the Switch until they've done all their homework.
+
+58:08.000 --> 58:15.000
+So that is a, that's a new little item there that you can get for sale, the actual Switch Safe. Would you get one of these for your house, Loki?
+
+58:15.000 --> 58:16.000
+No.
+
+58:16.000 --> 58:18.000
+Keep your kids away?
+
+58:18.000 --> 58:26.000
+By the way, this is not the first time there's been something like this. Do you remember this for the NES? And Dartetsuya posted this in our story forms.
+
+58:26.000 --> 58:27.000
+Yes, I remember that.
+
+58:27.000 --> 58:40.000
+He's like, it reminds me of this. It looked like this little bar you put on your original Nintendo Entertainment System that would like hold the lid up and prevent games from going in. It was the master lock.
+
+58:40.000 --> 58:41.000
+It's the club.
+
+58:41.000 --> 58:49.000
+It basically is, it's the club. You guys remember that too for your car, for your car from getting stolen, you put the club on the street. It's basically that but for your Nintendo Entertainment System.
+
+58:49.000 --> 58:56.000
+So it kind of is a throwback to that in a way. So it's interesting how all these parental controls have evolved over the years.
+
+58:56.000 --> 59:05.000
+But also, it's interesting because doesn't Nintendo Switch kind of like have parental controls and they're pretty transparent in how to use them?
+
+59:05.000 --> 59:12.000
+And if you want to see what your kid is playing and when, if you just educate yourself on it a little bit, it's really easy to find that information out.
+
+59:12.000 --> 59:13.000
+Totally easy.
+
+59:13.000 --> 59:18.000
+But most people don't know how to do it. So they're like, I'm just going to pick up this lock and key.
+
+59:18.000 --> 59:21.000
+Ignorance is cash.
+
+59:21.000 --> 59:32.000
+I think that is a good way to sum it up. Ignorance is cash. TigerConChat says, do people still use the club? I think if you drive a car from that era still, which some people do, you might.
+
+59:32.000 --> 59:34.000
+Probably not because they're really easy to break through.
+
+59:34.000 --> 59:42.000
+Oh, are they? See, now a lot of cars are all about like, I know my car uses a fob. So you don't even have a key anymore.
+
+59:42.000 --> 59:44.000
+You can still spoof those, I think.
+
+59:44.000 --> 59:51.000
+I was going to say, there's got, but certainly like, okay, you know how like your garage door opener runs on like a wireless signal?
+
+59:51.000 --> 59:56.000
+So you can, you can change the code on your garage door to basically make it run on a different signal.
+
+59:56.000 --> 01:00:00.000
+So like somebody can't just drive around the neighborhood holding down the garage door button and hope to open your garage, right?
+
+01:00:00.000 --> 01:00:05.000
+You can change the code to something unique to prevent that. I would imagine like fobs are kind of like that too.
+
+01:00:05.000 --> 01:00:10.000
+Or, I mean, there's so like, there's got to be a unique key in them that's 120.
+
+01:00:10.000 --> 01:00:18.000
+Well, yeah. And I think originally garage door openers were infrared and they're a little bit more limited, but I think nowadays probably that probably just wireless.
+
+01:00:18.000 --> 01:00:24.000
+And yeah, it's a little bit more, I don't know, higher tech.
+
+01:00:24.000 --> 01:00:31.000
+SHO 100 Matt in chat over at live.voguenetwork.com says, I still see a ton of people using the club on older cars.
+
+01:00:31.000 --> 01:00:38.000
+So, you know, for the good old cars that still run on ignition keys and things like that, of which there's, I mean, heck, my 2010 Civic ran on a key still.
+
+01:00:38.000 --> 01:00:42.000
+So technically I, well, that's Alan's car now. He could use the club.
+
+01:00:42.000 --> 01:00:46.000
+I have a 2017 car, but mine has the chip in the key though. So.
+
+01:00:46.000 --> 01:00:53.000
+Oh, you know what? I think my Honda did too. I think that you're right. I think there was still like a chip in the key and it wouldn't work without it.
+
+01:00:53.000 --> 01:00:59.000
+So you're right. All right. Anyway, uh, let's move on a couple more new stories for you guys before we get to the classic game of the week.
+
+01:00:59.000 --> 01:01:03.000
+Uh, next up a game you and I played a lot of exciting stuff.
+
+01:01:03.000 --> 01:01:10.000
+It's Pokemon Go. And it's only a matter of time because they've already teased it. There's new Pokemon coming.
+
+01:01:10.000 --> 01:01:18.000
+But when, when you might say, I think probably in the next few weeks, maybe right after a Halloween update, maybe. I don't know.
+
+01:01:18.000 --> 01:01:23.000
+But gen four is coming and along with that, some rebalancing to the game as well.
+
+01:01:23.000 --> 01:01:31.000
+So they're going to be doing some rebalancing to the battle mechanic, including adjusting CP values, um, to improve balance.
+
+01:01:31.000 --> 01:01:35.000
+HP values. Thank God. Fucking Blissey.
+
+01:01:35.000 --> 01:01:40.000
+No, my gym queen. No, she needs a nerf. It's fine.
+
+01:01:41.000 --> 01:01:46.000
+Um, so they're going to adjust that to close the gap between high HP Pokemon and low HP Pokemon.
+
+01:01:46.000 --> 01:01:57.000
+Pokemon defense and stamina values will be retroactively rebalanced, allowing higher defense Pokemon to be valuable in battle by outlasting opponents rather than simply running back the clock.
+
+01:01:57.000 --> 01:02:03.000
+Uh, defensive values have also been slightly retroactively reduced for most Pokemon changes.
+
+01:02:03.000 --> 01:02:09.000
+Um, or changes like this will help narrow the gap between Pokemon with the highest defensive stats and other Pokemon.
+
+01:02:09.000 --> 01:02:17.000
+And then they're saying the other migration changes, um, adjustments to the weather and moving forward will have a reduced effect on the rate at which Pokemon spawn.
+
+01:02:17.000 --> 01:02:20.000
+Is that like bad weather? Because that's even worse.
+
+01:02:20.000 --> 01:02:28.000
+Um, no, I think it's that like, you know, um, how some climates just don't ever get rain like here or snow.
+
+01:02:28.000 --> 01:02:33.000
+So it's basically those, I mean, I think it sounds like they'll still enhance some of the spawns, but it's not going to be like dependent.
+
+01:02:34.000 --> 01:02:40.000
+Oh yeah. It's not going to be like where I look at it now and like 30 of the Pokemon in there nearby are enhanced by the weather type thing.
+
+01:02:40.000 --> 01:02:44.000
+Yeah, it's going to be, it'll still be there, but not to the extent you see it now.
+
+01:02:44.000 --> 01:02:51.000
+Um, apparently they said as you explore a given area, you'll notice that a greater variety of Pokemon will appear over time in different rates. Cool.
+
+01:02:51.000 --> 01:03:00.000
+That is very good. Well, cause I'm wondering like with gen four hitting, that's a lot of, like, especially if you're new to the game, you're going to be overwhelmed with all the fucking Pokemon that are out there.
+
+01:03:00.000 --> 01:03:04.000
+So, I mean, there's gotta be a way to kind of distribute the Pokemon in different ways.
+
+01:03:04.000 --> 01:03:10.000
+Certain areas such as parks and nature reserves are now going to contain a more variety, um, variety of Pokemon species.
+
+01:03:10.000 --> 01:03:17.000
+And that's going to be one way to do it. They're going to probably limit some types of spawns to parks. So that'd be interesting.
+
+01:03:17.000 --> 01:03:27.000
+I'm, I'm down for a variety, especially after this psychic week and whatever, like they had, was it the day of female Pokemon, which I was like, Ooh, I got my love disc cause I didn't have that yet.
+
+01:03:27.000 --> 01:03:31.000
+Oh, wow. You didn't have a love disc. Yeah, but everything else is like, eh, I don't need that.
+
+01:03:31.000 --> 01:03:35.000
+Well, they also did shiny, uh, needle, needle queen and evolution.
+
+01:03:35.000 --> 01:03:42.000
+I didn't get any of those. Yeah, no, I didn't either. I did get a shiny drowsy though. Just randomly from the psychic event going on. So that's kind of cool.
+
+01:03:42.000 --> 01:03:48.000
+It's more and more shinies that are out there now. So yeah. You know, and coming up this Sunday is a Bedlam. Yes. Day. Yes.
+
+01:03:48.000 --> 01:04:01.000
+So gen four, when, um, I believe if you follow some of the like Reddits and stuff that really get into the nitty gritty of this, Android got a limited release of the version of the game that is basically has the gen four Pokemon in it.
+
+01:04:01.000 --> 01:04:08.000
+It has to be enabled server side still. So, and they do that. So that way, like Android and iPhone are not getting them at separate times.
+
+01:04:08.000 --> 01:04:15.000
+And then at some point they'll force an upgrade. So you're going to have to download the latest version. That's when you know, the gen four Pokemon are here, uh, with the psychic event ending Monday.
+
+01:04:15.000 --> 01:04:27.000
+Honestly, I think gen four is hitting next week. Um, well at least let me dial that back a little bit. The rebalancing will hit next week. I think, I think that might come first and then gen four, like really soon.
+
+01:04:27.000 --> 01:04:33.000
+I thought they would do like on a Halloween event or something like that where it's like ghost Pokemon or something. They might, they might just unleash them all.
+
+01:04:33.000 --> 01:04:45.000
+I mean, because so much of gen four is evolutions and pre evolutions, like with ride on and, and that whole thing with them getting, uh, it was like the mega evolutions now.
+
+01:04:45.000 --> 01:04:56.000
+No, no, they're not mega evolutions. They're just like, they get new forms. So like electabuzz has a new form. Uh, so there's Rhyhorn, Rhydon, and that's why some of the rebalancing has to happen.
+
+01:04:56.000 --> 01:05:08.000
+Like Rhydon is like one of the most, like I might be switching them around. Sorry. But that rhinoceros dude, he's like one of your best like Raiders and like if he's getting another form, that thing is going to be overpowered as fuck.
+
+01:05:08.000 --> 01:05:19.000
+So they have to dial it back a little bit. So that's what I'm waiting for. My Merkrow to update. I've got so much candy. It's like you're a fucking useless piece of shit, but I'm going to keep you because, uh, mammal swine is going to be new.
+
+01:05:19.000 --> 01:05:33.000
+That's, you know, a big one for the, that, that, uh, line. So yeah, I, so that, that's why I kind of think they can't do just the ghosts first because there's going to be so much gen four that it revolves on evolution and stuff.
+
+01:05:33.000 --> 01:05:48.000
+So we'll see what happens. Uh, looking at chat over at live.vognetwork.com. Uh, let's see. Bobby says, if there's one thing that I've learned from the gaming community, it's that just because something makes a lot of money doesn't mean it isn't failing.
+
+01:05:49.000 --> 01:06:00.000
+Uh, let's see. Yeah, there's still, there's still a lot of money. Act F points out dead gay cause they're joking about the dead game thing. I know Bobby's not serious because I still send him gifts and Pokemon go and he opens them.
+
+01:06:00.000 --> 01:06:12.000
+So act F says black Wolf, a dead game that made over $84 million only in September. Oh yeah. Well, cause people were buying incubators like mad to get their fucking mime and a Kangaskhan. Guilty.
+
+01:06:12.000 --> 01:06:22.000
+I got a mime, but I don't remember where I got that from. I got it from some, I think it must've hatched it. One of the eggs, probably one of the Alolan eggs finally gave you one. So there you go. Let me get me now. Nothing.
+
+01:06:22.000 --> 01:06:34.000
+Uh, Alolan eggs, Alolan eggs are just kind of generic right now, but I would assume when gen four hits, there's going to be something in them you're going to want. I know they're going to do it when gen four hits.
+
+01:06:34.000 --> 01:06:45.000
+They're going to be like, Oh, such and such things are only, I was an idiot. So I had that whole Evie like that for the celiby thing. I've had the Evie thing where you have to walk an Evie for 10 kilometers and then evolve it. Oh right.
+
+01:06:45.000 --> 01:06:57.000
+I walked it for 10 kilometers, switched it with something else and forgot to evolve it. Like, no, damn you. You have to, it has a big common mistake people make. You have to evolve it while it's your buddy.
+
+01:06:58.000 --> 01:07:06.000
+Do not drop it out of your inventory. You can put it back as your buddy and I think you're okay because I think it still has the walk, but you have to evolve it when it is your buddy.
+
+01:07:06.000 --> 01:07:17.000
+Hmm. So if you're willing to sacrifice it or look it up on the internet first, I'm sure somebody has done it. Maybe somebody in our channels. Well, I did evolve it already and I think actually it's, it's yeah, it evolves into something else.
+
+01:07:17.000 --> 01:07:28.000
+But, uh, let's see. Go into chat at live.vognetwork.com. Tigerclaw wants some Pokeballs. Sorry, Tigerclaw. I'm trying to send gifts, but, um, especially on like Sundays, I don't get out on Sundays.
+
+01:07:28.000 --> 01:07:39.000
+So like no gifts go out at all on Sundays, but other days it just depends on what I'm doing. Like when I was in Reno, like I got so many fucking Poke stops while we were in Reno.
+
+01:07:39.000 --> 01:07:49.000
+I think I sent a gift to every single person on my friends list. It's like 120 people. I sent a gift to every single person that didn't already have something sitting in their inventory.
+
+01:07:49.000 --> 01:07:59.000
+Because I think you're, you're limited to sending a hundred gifts a day. There, I just sent you one. Oh, you sent Tigerclaw one? Yes, I sent him. Oh, what a nice guy. Nice guy, Loki. There you go.
+
+01:08:00.000 --> 01:08:10.000
+So it just depends. But if I try to catch, like I sometimes like I don't get enough gifts out of the Poke stops and because I know I usually with my walks, I try to walk past as many of them as I can.
+
+01:08:10.000 --> 01:08:23.000
+But you know, you sometimes you go with like a few spins that it's not that or what'll happen is like, yeah, I'll have my gotcha on and I forget. Oh yeah, I can only collect 10 gifts at a time and I forget to send them.
+
+01:08:23.000 --> 01:08:33.000
+Yeah. Which happened yesterday. Yeah. And my big thing is I forget to open them. Like, I'll be like, Oh, before I go to bed, I'm going to open all my gifts to make sure I hit the max today.
+
+01:08:33.000 --> 01:08:43.000
+And I usually go through and I'll open gifts first from people who I haven't had an interaction with yet for the day to get, you know, as much credit as I can with the leveling up of all the different friendships that I have.
+
+01:08:43.000 --> 01:08:52.000
+But, um, yeah, then I'll forget. And then it would be like, oops, it's one 30 in the morning and it's now tomorrow. So whoops. Uh, I've done that so many times anyway.
+
+01:08:54.000 --> 01:09:09.000
+Yeah. Which by the way, five more days. Yeah. We're going to hit BFF next week. Same thing with Jamie. So I hit, I hit BFF like four people next week, which will be nice because if I time it with the lucky eggs, which you better tell me when we hit it. Cause I can do a lucky egg.
+
+01:09:09.000 --> 01:09:16.000
+If I, yeah, I just didn't like act after that too. He told me that we're going to hit it, but then like, I didn't have a lucky egg on me.
+
+01:09:16.000 --> 01:09:28.000
+I've got like, I was like, I was like, okay, I'm gonna go buy one in his poop popped and like, Oh yeah, you have to do it right away. Like as soon as the game opens, go bring up your screen to do the inventory so it can't beat you to the pop up or whatever.
+
+01:09:28.000 --> 01:09:41.000
+But yeah, if you can pop a lucky egg, uh, I will hit level 40 next week with those friendship increases. Um, if I'm able to lucky egg them all and I'm very excited because that means I'm going to be in the rare level 16 level 40 club.
+
+01:09:41.000 --> 01:09:51.000
+There's a few, I'm actually in a chat for level 16 years. Players who haven't also played on go and there's a few, but not a lot. So it'll be pretty soon whenever Harry Potter, Harry Potter.
+
+01:09:52.000 --> 01:10:04.000
+I got my eye on that whenever that starts. So we'll see. All right. Anyhow, uh, gen four, but we want to go coming soon. Also coming soon, but not that soon coming less soon in the way future.
+
+01:10:04.000 --> 01:10:14.000
+The PlayStation four successor, which I mean, is it not going to be called the PlayStation five? Would you not call it the plate? I don't know. I guess somebody can do whatever the fuck they want.
+
+01:10:14.000 --> 01:10:29.000
+And then again, you know, Microsoft, yeah. Xbox one, three 16 in an interview with the financial times. Uh, Kenny Shiro Yoshida, who's now the boss of Sony did say at this point, what I can say is it's necessary to have a next generation hardware.
+
+01:10:29.000 --> 01:10:38.000
+Uh, and the financial times continued the early indications, uh, were that it might not be a major departure from the PS four and that the fundamental architecture will be similar.
+
+01:10:39.000 --> 01:10:49.000
+So basically they're saying, yep, we're working on the PlayStation successor, which we already knew they were working on the PlayStation successor the day, the PS four hit shelves.
+
+01:10:49.000 --> 01:10:57.000
+That's how long these things take. Especially, you know, if we're going to be talking full four K gaming on that, which is I imagine is what it's going to be on the next round of consoles.
+
+01:10:57.000 --> 01:11:05.000
+Like you're going to have, you know, companies that are already working on it because it's going to take that time to develop those type of games.
+
+01:11:05.000 --> 01:11:13.000
+So, um, yeah, I'm sure it's just a matter of when is it next year is going to be 2020. Who know? I would say probably at this point 2020.
+
+01:11:13.000 --> 01:11:19.000
+I hope so. Yeah. Although Microsoft really kind of set the stage to unveil something next year.
+
+01:11:19.000 --> 01:11:34.000
+Although I feel like that's shooting the Xbox one X in the foot a little bit, but we also know that Microsoft's plan is that whatever is their next console, you could still play the games for that console on the old systems.
+
+01:11:34.000 --> 01:11:42.000
+But it's like the cell phones and we, we, I think we had to play their old games on our, their old console games on my system, my PC.
+
+01:11:42.000 --> 01:11:47.000
+Oh, even with that, that too, as a lot of other games are out there, new console on my PC.
+
+01:11:47.000 --> 01:11:53.000
+But you know what I mean? Like if they come out with, you know, halo 21 or whatever they're up to now. Oh no, it's halo infinite.
+
+01:11:53.000 --> 01:11:57.000
+So if halo infinite comes out on the next console, it's still going to play on the old consoles as well.
+
+01:11:58.000 --> 01:12:07.000
+But it's kind of like your cell phone is that, you know, Pokemon go doesn't run quite the same on an iPhone six as it does on an iPhone 10.
+
+01:12:07.000 --> 01:12:17.000
+There's a little bit of a difference, right? Right. So that's kind of what you can expect with something like what will happen in Microsoft's future and perhaps PlayStations as well.
+
+01:12:17.000 --> 01:12:28.000
+I would assume, although I could be very fucking incorrect in this, but I hope Sony doesn't fuck this up, that the PlayStation five will be built so that you can play a PlayStation four games on it.
+
+01:12:28.000 --> 01:12:46.000
+I hope, I don't know you guys. Anyway, that is it for what is going on with the current and the new games, but I think we should take a moment to journey to gaming's past.
+
+01:12:46.000 --> 01:12:55.000
+I will say though tonight, the segment for gaming's past is a little shorter than it has been previously because we had to catch Dark Sakura during a break during the day to day.
+
+01:12:55.000 --> 01:13:00.000
+So for those of you that step away during the break and so forth, you won't have as much time tonight.
+
+01:13:00.000 --> 01:13:05.000
+So anyway, with that being said, let's get in the time portal and visit the classic game of the week.
+
+01:13:06.000 --> 01:13:14.000
+And so we take a step back through time and space and radio magic and Skype to welcome Dark Sakura to the show.
+
+01:13:14.000 --> 01:13:15.000
+Hi Jamie, how are you doing?
+
+01:13:16.000 --> 01:13:17.000
+I'm okay. How are you?
+
+01:13:18.000 --> 01:13:24.000
+I'm doing well. I'd be better if you were here, but I understand, you know, circumstances are what they are.
+
+01:13:25.000 --> 01:13:26.000
+Yep.
+
+01:13:26.000 --> 01:13:30.000
+So you're actually calling us like while you're on break at your job right now, right?
+
+01:13:31.000 --> 01:13:32.000
+Well, I'm on lunch. Yeah.
+
+01:13:32.000 --> 01:13:39.000
+Yeah. That's dedication. So Dark Sakura is dedicated to bringing you the classic game every week here on the show.
+
+01:13:39.000 --> 01:13:46.000
+So let's get to it Dark Sakura. What did you pick as folks should be going into their own gaming vaults and finding a game to play this week?
+
+01:13:46.000 --> 01:13:48.000
+What did you pick for the classic game of the week?
+
+01:13:49.000 --> 01:13:53.000
+We're time traveling to 1999 and picking Jumbo Safari.
+
+01:13:53.000 --> 01:13:54.000
+I love this game.
+
+01:13:57.000 --> 01:14:01.000
+So Jumbo Safari was released by Sega in 1999 and it was a NAOMI game.
+
+01:14:02.000 --> 01:14:09.000
+Although this was one of the few NAOMI games that did not make it to the Dreamcast, which, you know, was the course of the system at the time.
+
+01:14:11.000 --> 01:14:19.000
+It also was supposed to be one of the real life career series games along with Brave Firefighters and Emergency Call and Helix.
+
+01:14:21.000 --> 01:14:30.000
+So the other thing with this one is that it did eventually get home versions on the Wii and the DS under the title Jumbo Safari Animal Rescue in 2009.
+
+01:14:31.000 --> 01:14:42.000
+So in this particular game you use a steering wheel and a gear shift on the machine to drive in a jeep and then you shoot a lasso to select your animals or to catch animals.
+
+01:14:42.000 --> 01:14:50.000
+It has one of four different players with their own vehicles. The Wii actually has the same arcade game but it uses the motion control.
+
+01:14:51.000 --> 01:14:58.000
+Also with that too is that you've got some other little characters and vehicles and stuff like that in the story mode.
+
+01:14:58.000 --> 01:15:06.000
+Where you go and roam around in the game and you can catch your animals that way and you gain experience points and become a full park ranger.
+
+01:15:06.000 --> 01:15:08.000
+It's a little bit more RPG-ish.
+
+01:15:08.000 --> 01:15:13.000
+And you can also interact with the animals in that game and treat their injuries and feed them.
+
+01:15:13.000 --> 01:15:20.000
+And you have co-op mission mode and four player party games like foster tracing.
+
+01:15:21.000 --> 01:15:24.000
+The DS version is kind of the same way.
+
+01:15:24.000 --> 01:15:32.000
+So it really was just a very simple game though in the arcade. Catch animals, get points. Catch animals, get points.
+
+01:15:32.000 --> 01:15:37.000
+And you get hyenas and cheetahs and all kinds of animals.
+
+01:15:37.000 --> 01:15:40.000
+But that's really it. It's very simple.
+
+01:15:40.000 --> 01:15:46.000
+The console versions are pretty fun but for me it's just whatever I found in the arcade.
+
+01:15:46.000 --> 01:15:48.000
+I'm going to go lasso me a hyena.
+
+01:15:49.000 --> 01:15:51.000
+And that's it. Jambo Safari.
+
+01:15:52.000 --> 01:15:59.000
+Yeah, I remember seeing this game in arcades and it's like, either you've seen Jambo Safari in the arcades or you haven't.
+
+01:15:59.000 --> 01:16:02.000
+It's a very unique kind of looking game in the arcades.
+
+01:16:02.000 --> 01:16:06.000
+And definitely like, you know, oh I'm going to go, you know, rassle me a bear.
+
+01:16:06.000 --> 01:16:08.000
+Although it's not really. It's more like Safari animals.
+
+01:16:08.000 --> 01:16:11.000
+So yeah, like, you know, lions and tigers and ligers.
+
+01:16:11.000 --> 01:16:13.000
+I'm going to catch a hippo.
+
+01:16:13.000 --> 01:16:18.000
+Exactly, exactly. But it kind of reminds me of like Crazy Taxi but a safari.
+
+01:16:18.000 --> 01:16:19.000
+Yeah.
+
+01:16:19.000 --> 01:16:20.000
+I think that's a good way to put it.
+
+01:16:20.000 --> 01:16:21.000
+Yeah, it really is along the same vein.
+
+01:16:21.000 --> 01:16:22.000
+Yeah.
+
+01:16:22.000 --> 01:16:28.000
+And I mean it's like, you see that rhino over there? I'm going to catch him.
+
+01:16:29.000 --> 01:16:30.000
+Exactly.
+
+01:16:30.000 --> 01:16:33.000
+I could have done a Pokemon game like that. Like Pokemon Snap Arcade.
+
+01:16:34.000 --> 01:16:38.000
+I wish, I never did pick this up on the Wii and I kind of wish I had.
+
+01:16:39.000 --> 01:16:45.000
+But yeah, I guess, I guess, you know, maybe it's one of those things that will come back someday either on the Switch or something like that.
+
+01:16:45.000 --> 01:16:48.000
+You should tweet Sega immediately and demand Jambo Safari.
+
+01:16:50.000 --> 01:16:52.000
+There's other games I'd rather see.
+
+01:16:54.000 --> 01:17:00.000
+But it is fun. I mean, if they did that, it should be like called Let Safari!
+
+01:17:01.000 --> 01:17:10.000
+Plus it's unique. I think that's one other thing that makes this like classic game of the week very suitable is that, you know, you can't think of a lot of games that are about like safari animals.
+
+01:17:10.000 --> 01:17:13.000
+Well, maybe the PlayStation 3 classic Africa.
+
+01:17:13.000 --> 01:17:14.000
+Africa.
+
+01:17:14.000 --> 01:17:15.000
+Africa.
+
+01:17:15.000 --> 01:17:16.000
+Yeah.
+
+01:17:16.000 --> 01:17:21.000
+But this isn't that. This is, you know, a little more action packed and a little more arcade fun type of thing.
+
+01:17:22.000 --> 01:17:23.000
+Exactly.
+
+01:17:23.000 --> 01:17:24.000
+Exactly.
+
+01:17:24.000 --> 01:17:27.000
+All right. Well, there it is. Short and sweet. But yeah, I know you're on break tonight.
+
+01:17:27.000 --> 01:17:31.000
+So do you have any final thoughts for our listeners before we head back to the show?
+
+01:17:33.000 --> 01:17:34.000
+I wish I was on the show right now.
+
+01:17:35.000 --> 01:17:36.000
+Oh, we miss you. Come back.
+
+01:17:37.000 --> 01:17:38.000
+What are you throwing?
+
+01:17:39.000 --> 01:17:40.000
+What's that?
+
+01:17:40.000 --> 01:17:42.000
+What are you throwing if you're missing?
+
+01:17:42.000 --> 01:17:47.000
+I'm going to drive my Jambo Safari to the Jeep over there and I'm going to lasso you in.
+
+01:17:48.000 --> 01:17:50.000
+Ah, no. It's just painful.
+
+01:17:50.000 --> 01:17:55.000
+Yeah. Well, I would rather be doing the show, but I got to earn that money.
+
+01:17:56.000 --> 01:17:58.000
+That's right. Make that money. All right. We'll see you next week.
+
+01:18:00.000 --> 01:18:01.000
+All right. Bye.
+
+01:18:07.000 --> 01:18:17.000
+Welcome back, everybody, to Orange Lounge Radio live tonight with our 748th episode already in progress for this October the 14th of 2018.
+
+01:18:18.000 --> 01:18:20.000
+Let's get back into some rapid fire news.
+
+01:18:21.000 --> 01:18:24.000
+We will be opening up the Skype line a little later in our show at Orange Lounge Radio.
+
+01:18:25.000 --> 01:18:26.000
+All one word on Skype if you want to give us a call.
+
+01:18:27.000 --> 01:18:29.000
+Is Mr. Smoosh's, like, screaming coming through the mics?
+
+01:18:30.000 --> 01:18:33.000
+He's very antsy. I'll go give him some kibble to try to shut him up.
+
+01:18:34.000 --> 01:18:37.000
+So you might have to take the rapid fire news a little longer tonight, Loki.
+
+01:18:38.000 --> 01:18:43.000
+All righty. Sounds good. Anyways, so hey, who likes Commodore 64 games?
+
+01:18:43.000 --> 01:18:44.000
+Me!
+
+01:18:46.000 --> 01:18:56.000
+Anyways, as part of the Internet Archive, they've recently added a Commodore 64 emulator, as of last month, actually.
+
+01:18:57.000 --> 01:19:01.000
+And you can actually check out quite a few Commodore 64 games that are on there as well.
+
+01:19:02.000 --> 01:19:07.000
+So in total, they've uploaded, I guess, 15,000 programs, including 9,000 games.
+
+01:19:08.000 --> 01:19:15.000
+The Commodore 64 catalog has quite a bunch of classic games, including Donkey Kong, Ms. Pac-Man, Space Invaders, and whatnot.
+
+01:19:16.000 --> 01:19:19.000
+And they have, like, curated, I guess, like a showcase.
+
+01:19:20.000 --> 01:19:33.000
+So if you want to check out the Commodore 64 and the different games you can play, you can actually go to archive.org slash details slash softwarelibrary underscore c64 underscore showcase.
+
+01:19:33.000 --> 01:19:41.000
+And you can check out, they have Bubble Bobble, Donkey Kong, Ghostbusters, Ms. Pac-Man, Blood Money, Defender, and Chucky Egg.
+
+01:19:42.000 --> 01:19:54.000
+Huh. That's amazing. I was just reminiscing about Commodore 64 with a friend this week, so it actually kind of made me want to go play some more Commodore 64 games and maybe do some streaming or even maybe videos on demand.
+
+01:19:54.000 --> 01:20:02.000
+Kind of like the, remember that project Let's Remember I did on YouTube for like a month? Maybe bring that back with some old Commodore 64 games because such good memories.
+
+01:20:03.000 --> 01:20:04.000
+All that stuff, all those games are great.
+
+01:20:05.000 --> 01:20:06.000
+Yeah, that's pretty cool.
+
+01:20:07.000 --> 01:20:14.000
+So, yeah, check it out if you're interested. And actually, I think there might be more than that available to actually check out.
+
+01:20:15.000 --> 01:20:19.000
+I just loaded up, yeah, here we go. Yeah, Ghosts and Goblins.
+
+01:20:19.000 --> 01:20:38.000
+Yeah, pretty much I think the whole library is available, so if you actually go to archive.org slash details slash softwarelibrary underscore c64 underscore games, you can check out the full library, which is, they have 9,000 results almost, including like BurgerTime, Choplifter, The Last Ninja.
+
+01:20:39.000 --> 01:20:42.000
+And you can browse through there and find everything that's playable.
+
+01:20:42.000 --> 01:20:49.000
+Oh, B.C. Quest for Wheels. I thought it was B.C.'s Quest for Wheels. I remember playing that on the ColecoVision.
+
+01:20:50.000 --> 01:20:56.000
+Yeah, I remember that game too. B.C. was a comic strip, if you didn't know. It's about cavemen and stuff. They had a computer game about it, yeah.
+
+01:20:57.000 --> 01:20:58.000
+Yeah, I used to love that game.
+
+01:20:58.000 --> 01:20:59.000
+Yeah, it's an awesome game.
+
+01:21:00.000 --> 01:21:08.000
+Alright, and then other fun stuff. This kind of falls along the lines of one of my other interests, which is LEGO.
+
+01:21:09.000 --> 01:21:18.000
+And Overwatch now has some new official LEGO sets that you can check out. The first one, of course, being the Omnic Bastion set.
+
+01:21:19.000 --> 01:21:30.000
+For $25, you can purchase it via the Blizzard store, and also be on sale at BlizzCon. I may have to purchase this, because I like LEGOs.
+
+01:21:31.000 --> 01:21:37.000
+You do like LEGOs, and Overwatch is pretty sweet. I know you're not a big Overwatch player, but the characters, the lore, all that stuff is really cool.
+
+01:21:38.000 --> 01:21:40.000
+But they have minifigs coming too, so it's not just Bastion.
+
+01:21:41.000 --> 01:21:42.000
+Yeah, yeah. I mean...
+
+01:21:43.000 --> 01:21:44.000
+I'll have to get D.Va when that happens.
+
+01:21:44.000 --> 01:21:51.000
+Yeah, I was going to say, Alan's super into Overwatch, but I think Trastian is one of his not-so-picked players.
+
+01:21:52.000 --> 01:22:01.000
+So, I don't know if he'll want to get this, but if they come out with Symmetra, Lucio, Zarya, like one of the characters I know he really loves.
+
+01:22:02.000 --> 01:22:08.000
+He's a really good Zarya, by the way. So, he kind of got me to play the more. I need to play more Overwatch.
+
+01:22:08.000 --> 01:22:14.000
+They're doing that Halloween event right now, too, and everything, and they just reworked Torbjorn, and I played...
+
+01:22:15.000 --> 01:22:22.000
+That was something I did do. I didn't talk about it, really, but I just went into the Torbjorn training mode, just to see how he played now.
+
+01:22:23.000 --> 01:22:27.000
+Because I actually really liked Torbjorn before, so I was a little scared of the changes, but it's interesting.
+
+01:22:28.000 --> 01:22:35.000
+They made it so you can kind of let you throw the turret, and it self-builds now, and then you shoot lava. It's different. I don't know how I feel yet.
+
+01:22:36.000 --> 01:22:37.000
+I'll have to get in there and actually play it in some matches.
+
+01:22:38.000 --> 01:22:40.000
+Do you play as the Hamster?
+
+01:22:41.000 --> 01:22:47.000
+I have a Wrecking Ball. I've played as Wrecking Ball, but I can't really figure out how to play Wrecking Ball effectively.
+
+01:22:48.000 --> 01:22:57.000
+But you know, Xtaphir, my old buddy from Hoard House, got a play of the game this week as Wrecking Ball, so I think he's kind of playing that character.
+
+01:22:58.000 --> 01:23:06.000
+I love Wrecking Ball as a character. Well, I love Tracer as a character, but I can't fucking play her for shit in the game. I can't figure it out.
+
+01:23:06.000 --> 01:23:17.000
+I'm more excited when these characters come over to Heroes of the Storm, because not all of them are in Heroes of the Storm, but somebody like Lucio in Heroes of the Storm plays just like he does in Overwatch, but it's just a different type of game.
+
+01:23:18.000 --> 01:23:20.000
+So it's kind of a neat thing. I don't know. Anyway.
+
+01:23:21.000 --> 01:23:28.000
+All right, moving on with some more rapid-fire news, although, you know what, it's kind of a short show so far, so it's probably going to be a shorter show tonight, so we can spend a little more time on rapid news.
+
+01:23:29.000 --> 01:23:34.000
+Stardew Valley, which I know some of you are addicted to. You can get addicted all over again on mobile.
+
+01:23:34.000 --> 01:23:42.000
+That's right. The publisher of the game, Chucklefish, said that for iOS it will be released on October 24th, and I'm assuming Android is coming soon after.
+
+01:23:43.000 --> 01:23:48.000
+So for those of you that want to play Stardew Valley on the road, or anyone that somehow hasn't played it yet, you will soon have your opportunity.
+
+01:23:49.000 --> 01:23:57.000
+Also, something you'll have the opportunity for is that Sony finally, officially, officially saying that you will be able to change your PlayStation ID.
+
+01:23:58.000 --> 01:24:03.000
+That's right. It was announced this week starting in early 2019. You can change your old PlayStation Network ID.
+
+01:24:04.000 --> 01:24:11.000
+Part of the news I wouldn't have expected is that the first change will be free. So everybody gets one new free name change, which is cool, I guess.
+
+01:24:12.000 --> 01:24:20.000
+If you want to change it after that, $10 a pop, or only $5 if you're with PlayStation Plus. Beta testing is going to begin soon if you're part of the preview program.
+
+01:24:21.000 --> 01:24:27.000
+However, this is interesting. Not all games will support the new ID.
+
+01:24:27.000 --> 01:24:39.000
+So this must have really been some poor planning that Sony is paying for now, because apparently any PS4 game published after April 1st, 2018 will support it.
+
+01:24:40.000 --> 01:24:49.000
+The rest? Not guaranteed. However, Sony does say a large majority of the most played PS4 games that were released before.
+
+01:24:49.000 --> 01:24:58.000
+Which I would imagine would mean probably anything first party, but they're not going to be able to account for a lot of the third party stuff, especially if they didn't help them with it.
+
+01:24:59.000 --> 01:25:05.000
+And I would imagine like maybe indie stuff may really have a problem as well. So just a heads up. That's so weird to me.
+
+01:25:06.000 --> 01:25:09.000
+But it's just the way it worked behind the scenes. That's just how it happened.
+
+01:25:09.000 --> 01:25:18.000
+They do also say, not all games applications for PS4, PS3, and Vita systems are guaranteed to support the online ID change.
+
+01:25:19.000 --> 01:25:23.000
+Users may occasionally encounter issues or errors in certain games.
+
+01:25:24.000 --> 01:25:31.000
+If you experience issues after changing your ID, you can revert back to the original for free at any time.
+
+01:25:32.000 --> 01:25:35.000
+Reverting back to the old ID will resolve most issues caused by the name change.
+
+01:25:36.000 --> 01:25:39.000
+So, in other words, don't change.
+
+01:25:40.000 --> 01:25:42.000
+Never change. Change is bad.
+
+01:25:43.000 --> 01:25:45.000
+If you play old stuff, don't change.
+
+01:25:45.000 --> 01:25:57.000
+The thing about this though, I don't know. I kind of feel like people are making a bigger deal out of this than is necessary.
+
+01:25:58.000 --> 01:26:04.000
+But, you know, it would be unfair of me to sit here and complain about real ID and not kind of point out the whole, this is a little silly too.
+
+01:26:05.000 --> 01:26:08.000
+Because people do change their identities and so forth later on.
+
+01:26:08.000 --> 01:26:14.000
+You know, people want to go, maybe the name they picked when they were 13 years old playing Fortnite isn't quite what they want when they're 21 years old.
+
+01:26:15.000 --> 01:26:18.000
+You know, which PlayStation 3 and 4 and online has been around that long.
+
+01:26:19.000 --> 01:26:24.000
+Where, you know, some folks that were 12 and 13 when this first rolled out are like in their 20s now and they want to change their damn name.
+
+01:26:25.000 --> 01:26:34.000
+So I get it to that extent, but because of the way Sony's infrastructure was set up, you're not really changing your name, it sounds like, because the old name is like there forever.
+
+01:26:35.000 --> 01:26:38.000
+It's just like there's some type of, we're just calling it something different for now.
+
+01:26:39.000 --> 01:26:42.000
+Pretty much, pretty much. So yeah.
+
+01:26:43.000 --> 01:26:49.000
+And Brad from Pod Culture points out Sky versus Rob Roberts on Twitter, you know, and that's in our chat room.
+
+01:26:50.000 --> 01:26:54.000
+It's a fair call out, but I'm not going to change my PlayStation ID to Rob Roberts.
+
+01:26:55.000 --> 01:27:01.000
+Like, I don't see the need. I'm fine with still being like Sky on consoles.
+
+01:27:01.000 --> 01:27:08.000
+Well, here's the other thing, you know, here's the other reason I don't change because PlayStation 4 has all that Facebook integration now.
+
+01:27:09.000 --> 01:27:15.000
+So like, even if many of you change your names, I'm never going to see it because I have your Facebook name in my friends list.
+
+01:27:16.000 --> 01:27:21.000
+And that's actually kind of what I prefer. Isn't that funny? Because now I'm going back and saying, I like the real name thing.
+
+01:27:22.000 --> 01:27:29.000
+But it's your Facebook name, you can change it whenever you want, you don't have to like call, you know, it's a lot easier to do.
+
+01:27:30.000 --> 01:27:35.000
+It's also like, you have a choice, whereas, you know, it's kind of forced upon you otherwise.
+
+01:27:36.000 --> 01:27:39.000
+Yeah. So I'm probably just not going to be changing my online username.
+
+01:27:40.000 --> 01:27:44.000
+So, alright, let's travel around the world and check out what's coming out in stores this week.
+
+01:27:45.000 --> 01:27:48.000
+Games that will support these changes because they're after April 1st.
+
+01:27:48.000 --> 01:27:53.000
+Yes. So Big Buck Hunter Arcade for Nintendo Switch.
+
+01:27:54.000 --> 01:28:02.000
+Crayola Scoot on PC, Switch, PlayStation 4, and Xbox One. Apparently that's an extreme sports game, whatever the fuck that's supposed to be.
+
+01:28:03.000 --> 01:28:08.000
+Lego DC Super Villains on PC, Switch, PlayStation 4, and Xbox One.
+
+01:28:09.000 --> 01:28:14.000
+NBA 2K Playgrounds 2 on PC, Switch, PlayStation 4, and Xbox One.
+
+01:28:14.000 --> 01:28:17.000
+Rapala Fishing Pro Series on the Switch.
+
+01:28:18.000 --> 01:28:27.000
+Starlink, or Star Fox, but still Starlink, Battle for Atlas on the Switch, PlayStation 4, and Xbox One.
+
+01:28:28.000 --> 01:28:34.000
+Warriors Orochi 4 on PlayStation 4, the Switch, PC, and Xbox One.
+
+01:28:35.000 --> 01:28:43.000
+Let's try to pronounce this one. I think it's DICE, RA, Amantas, Armentis.
+
+01:28:44.000 --> 01:28:46.000
+It's a visual novel game. It's on the Switch.
+
+01:28:47.000 --> 01:28:57.000
+Moto Racer 4 on the Switch, Siberia 3 on the Switch, and let's see, Sinner, Sakura Fice for Redemption.
+
+01:28:58.000 --> 01:29:00.000
+That's a weird way to spell that.
+
+01:29:00.000 --> 01:29:04.000
+That's on the Switch, PlayStation 4, and Xbox One.
+
+01:29:05.000 --> 01:29:12.000
+Dark Souls Remastered on the Switch, and last but not least, Soul Calibur 4 on...
+
+01:29:13.000 --> 01:29:14.000
+6.
+
+01:29:14.000 --> 01:29:19.000
+6, whatever. 4, 6. It's all the same. It's not going to have Yoda in this one?
+
+01:29:20.000 --> 01:29:23.000
+No, it's not. It's going to have the Witcher guy, Geralt.
+
+01:29:24.000 --> 01:29:25.000
+Close enough. That's like Yoda, right?
+
+01:29:25.000 --> 01:29:26.000
+Close enough.
+
+01:29:27.000 --> 01:29:29.000
+Soul Calibur 6 on PC, PlayStation 4, and Xbox One.
+
+01:29:30.000 --> 01:29:34.000
+By the way, Siya Tabiri would like you to know it's pronounced Diaz-E-Ray.
+
+01:29:35.000 --> 01:29:36.000
+There you go.
+
+01:29:37.000 --> 01:29:43.000
+Traveling to Japan. Probably the big release over there on the PlayStation 4 this week is Soul Calibur 6 on October 18th.
+
+01:29:44.000 --> 01:29:46.000
+I know I am really looking forward to that. That's a fighting series that I enjoy.
+
+01:29:47.000 --> 01:29:51.000
+So to celebrate Soul Calibur 6, you can also get a special arcade stick that's going to be coming out as well.
+
+01:29:51.000 --> 01:29:56.000
+And I believe they may... No, they do not have a special PlayStation. There's just other types of...
+
+01:29:57.000 --> 01:29:58.000
+There's like third-party joysticks you can get, too.
+
+01:29:59.000 --> 01:30:02.000
+I'm surprised there's not a special PlayStation 4 to celebrate it, but it looks like they don't have that.
+
+01:30:03.000 --> 01:30:06.000
+If Soul Calibur isn't up your alley, then you can look forward to Crystar.
+
+01:30:07.000 --> 01:30:11.000
+It's another big game that's coming out in Japan this week. Both those games on the 18th.
+
+01:30:12.000 --> 01:30:14.000
+That's really it for the PlayStation 4. I imagine Soul Calibur is kind of a big deal.
+
+01:30:15.000 --> 01:30:20.000
+But over on the Nintendo Switch, you have Dark Souls Remastered getting its Japanese release this week.
+
+01:30:21.000 --> 01:30:26.000
+There is that Dark Souls figure that comes with that. So your amiibo, for those of you still collecting amiibo.
+
+01:30:27.000 --> 01:30:31.000
+Also, Crash Bandicoot Butobi San Dan Mori, which is of course the Crash Bandicoot collection.
+
+01:30:32.000 --> 01:30:36.000
+That is coming out on the Switch over there as well. So that's what you have to look forward to.
+
+01:30:37.000 --> 01:30:42.000
+DS Irae is also on the Nintendo Switch. That whole game is hitting Japan this week as well.
+
+01:30:43.000 --> 01:30:46.000
+Without Dark Sakura, we have no one to do the UK dates. Maybe you could pick that up, Loki?
+
+01:30:47.000 --> 01:30:49.000
+Or maybe Mr. Smoosh wants to scream it into the mic.
+
+01:30:49.000 --> 01:30:51.000
+Yeah, he's very interested in doing that.
+
+01:30:52.000 --> 01:30:55.000
+God, he's having a fit. Because his other dad's not here.
+
+01:30:56.000 --> 01:31:00.000
+Well, in the UK you're getting Big Buck Hunter Arcade on the Switch.
+
+01:31:01.000 --> 01:31:05.000
+Starlink Battle for Atlas on PlayStation 4, Xbox One, and the Switch.
+
+01:31:06.000 --> 01:31:10.000
+Dark Souls Remastered on the Switch. Warriors Orochi 4 on the Switch.
+
+01:31:11.000 --> 01:31:12.000
+PlayStation 4 and Xbox One.
+
+01:31:12.000 --> 01:31:19.000
+Siberia 3 on the Switch. Project High Rise Architects Edition on PlayStation 4, Xbox One, and the Switch.
+
+01:31:20.000 --> 01:31:25.000
+And, let's see, Soul Calibur 6 on PlayStation 4 and Xbox One.
+
+01:31:26.000 --> 01:31:32.000
+And we have Crayola Scoot on PlayStation 4, Xbox One, and the Switch.
+
+01:31:33.000 --> 01:31:35.000
+Luigi's Mansion on 3DS.
+
+01:31:35.000 --> 01:31:40.000
+And Lego DC Super Villains, PlayStation 4, Xbox One, and the Switch.
+
+01:31:41.000 --> 01:31:44.000
+Motor Racer 4 on the Switch.
+
+01:31:45.000 --> 01:31:48.000
+And finally, Grave Danger on PlayStation 4 and the Switch.
+
+01:31:49.000 --> 01:31:50.000
+Lots of Switch games.
+
+01:31:51.000 --> 01:31:54.000
+So, the chat over at live.vognetwork.com is lighting up going,
+
+01:31:55.000 --> 01:31:59.000
+Poor Mr. Smoosh, give him attention. Nobody loves him except for all his internet fans. Give him a mic.
+
+01:32:00.000 --> 01:32:04.000
+Okay, first off, we love Mr. Smoosh. You know that. Shut up.
+
+01:32:05.000 --> 01:32:11.000
+I could call him over here. He's not a dog. He's not gonna come over here. Cats do whatever the hell they want.
+
+01:32:12.000 --> 01:32:15.000
+So, I wouldn't be able to get him over here on a mic even if I could. Oh, oh. Other dad just got home,
+
+01:32:16.000 --> 01:32:20.000
+and so now Mr. Smoosh will be following him around like crazy. I just sent Alan a message going,
+
+01:32:21.000 --> 01:32:22.000
+He's being a terror.
+
+01:32:23.000 --> 01:32:25.000
+Okay, you guys. Alan's here, and he'll take care of Mr. Smoosh.
+
+01:32:26.000 --> 01:32:31.000
+But sadly, no mic, because you can't make cats do anything, and you all know that.
+
+01:32:32.000 --> 01:32:33.000
+You cat lovers know that. Cats do what they want.
+
+01:32:33.000 --> 01:32:36.000
+You don't own the cat. The cat owns you.
+
+01:32:37.000 --> 01:32:41.000
+Let's get to the email, because you guys own us with your thoughts and opinions.
+
+01:32:42.000 --> 01:32:44.000
+Every week with your emails, if you want to send us emails,
+
+01:32:45.000 --> 01:32:49.000
+participate at orangeloungeradio.com is the place to send your emails,
+
+01:32:50.000 --> 01:32:53.000
+and we read your emails here live on air.
+
+01:32:54.000 --> 01:32:57.000
+We have two emails tonight, and the first one to us comes from YYR,
+
+01:32:57.000 --> 01:33:03.000
+who's continuing on his DDR adventures and questions for you, Loki, from a previous episode.
+
+01:33:04.000 --> 01:33:06.000
+So let's start. YYR starts us off tonight.
+
+01:33:07.000 --> 01:33:12.000
+Hello, LR. Thanks as always for the show, for promoting my crude-looking games.
+
+01:33:13.000 --> 01:33:16.000
+They're retro, YYR, and for reading and responding to these emails of mine.
+
+01:33:17.000 --> 01:33:21.000
+In response to the in-depth discussion that was had last week regarding Loki's DDR progress,
+
+01:33:22.000 --> 01:33:24.000
+or lack thereof, I'll make a few suggestions.
+
+01:33:24.000 --> 01:33:28.000
+Loki, you can follow them or not based on how much you're looking to build your skills, if at all.
+
+01:33:29.000 --> 01:33:32.000
+And you can find out by following Loki on Twitch at lokiolr.
+
+01:33:33.000 --> 01:33:37.000
+We'll see what my skills are and how I stumble about, but I don't use the bar.
+
+01:33:38.000 --> 01:33:40.000
+Maybe you'll have to start. Who knows?
+
+01:33:41.000 --> 01:33:44.000
+YYR might be your first Twitch subscriber when you hit that affiliate status. Anyway.
+
+01:33:45.000 --> 01:33:47.000
+YYR continues, in my typical two sessions per week,
+
+01:33:48.000 --> 01:33:53.000
+I personally find it difficult to focus both on single and double skill building within the same session.
+
+01:33:54.000 --> 01:33:57.000
+If I'm seriously looking to improve, I have to focus on one or the other.
+
+01:33:58.000 --> 01:34:00.000
+I do try to switch between them regularly, though,
+
+01:34:01.000 --> 01:34:05.000
+because I definitely find that skill building in one style does help the other, for me at least.
+
+01:34:06.000 --> 01:34:10.000
+For example, I learned how to do crossovers properly in single by playing double.
+
+01:34:11.000 --> 01:34:14.000
+It sounds to me like you do ultimately want to focus on double, which is fantastic,
+
+01:34:15.000 --> 01:34:19.000
+but that you've hit a wall. My recommendation is that you focus a bit more on single at the moment
+
+01:34:19.000 --> 01:34:25.000
+in an effort to practice foot speed and streams, with the goal being to break into the upper 8, lower 9 range,
+
+01:34:26.000 --> 01:34:30.000
+because doubles charts have similar density and patterns to their single counterparts
+
+01:34:31.000 --> 01:34:35.000
+that should help prepare you to break through the wall and eventually reach the same point on double.
+
+01:34:36.000 --> 01:34:38.000
+Which, you know, if you aren't playing doubles, Loki, you're not going to use the bar anyway.
+
+01:34:39.000 --> 01:34:40.000
+Well, I take that back.
+
+01:34:41.000 --> 01:34:42.000
+Yeah, you say that, but I've seen that.
+
+01:34:43.000 --> 01:34:44.000
+If your legs are big enough, you can do it.
+
+01:34:45.000 --> 01:34:46.000
+My legs are not big enough. That's not an option.
+
+01:34:46.000 --> 01:34:52.000
+Yeah. Some specific charts. YYR getting into the theory of all games. This is game theory.
+
+01:34:53.000 --> 01:35:05.000
+Anyway, some specific charts to work on or work towards could include the heavy difficulties of B-Lovin', Dxy, Zenon, La Senorita Virtual, and Do You Remember Me?
+
+01:35:06.000 --> 01:35:10.000
+So, for those that are not as well-versed in DDR, those are all songs in the game.
+
+01:35:11.000 --> 01:35:14.000
+Also, I would encourage you to try the standard difficulties of the boss stages.
+
+01:35:14.000 --> 01:35:18.000
+In other words, anything with Survivor or Max in the title except for Trip Machine Survivor.
+
+01:35:19.000 --> 01:35:23.000
+These are much easier than the heavy versions, but retain the high speed so they make for great practice.
+
+01:35:24.000 --> 01:35:28.000
+If any of this sounds unattainable, well, that's good because it will make it much more satisfying when you do nail it.
+
+01:35:29.000 --> 01:35:34.000
+Just remember, everyone thought Max 300 looked impossible the first time they saw it, myself included.
+
+01:35:35.000 --> 01:35:43.000
+But now, even as I'm turning 39 next month, one of my goals is to get a perfect, full combo on that very same Max 300 Expert Chart on DDR Ace.
+
+01:35:44.000 --> 01:35:50.000
+I think the best way to improve at DDR is to set goals that seem like they're just a little bit out of reach, then work towards them as best you can.
+
+01:35:51.000 --> 01:35:56.000
+Good luck! I'll end by expressing my disappointment at something that I believe was missing from last week's episode.
+
+01:35:57.000 --> 01:36:05.000
+It is true that there were a few mentions, but I was looking for a full segment containing news and updates covering everything new in the world of Bowsette.
+
+01:36:06.000 --> 01:36:10.000
+On the Orange Launch Radio website, the subtitle proclaims, news that gamers really want to know.
+
+01:36:10.000 --> 01:36:17.000
+Well, I'm Gamer, and I want to know about the latest Bowsette innovations, cosplays, and especially dank memes.
+
+01:36:18.000 --> 01:36:21.000
+So please implement this new segment starting next week.
+
+01:36:22.000 --> 01:36:30.000
+Well, YYR, when it comes to Bowsette, all I have to say is that's fake news, and we don't talk about fake news that gamers really want to know about.
+
+01:36:31.000 --> 01:36:35.000
+Thank you as always for listening to our feedback and implementing it into the show.
+
+01:36:36.000 --> 01:36:38.000
+Have a great week, lots of love, YYR.
+
+01:36:38.000 --> 01:36:46.000
+P.S. Yes, the ridiculous request for a Bowsette segment was made specifically so we could all hear Rob's reaction. You're welcome.
+
+01:36:47.000 --> 01:36:51.000
+Fake news, fake reaction. Alright, moving on.
+
+01:36:52.000 --> 01:36:59.000
+It's not that I hate Bowsette. Let's talk about this for a minute. Can we talk? Can we twawk? We're gonna twawk.
+
+01:37:00.000 --> 01:37:04.000
+It's not that I hate Bowsette. I hate what you've all done with it.
+
+01:37:05.000 --> 01:37:08.000
+There's a difference. There's a big difference.
+
+01:37:10.000 --> 01:37:14.000
+Did you see, did you see the trailer for the Bowsette porn that hit the web this week, or maybe it was last week?
+
+01:37:15.000 --> 01:37:16.000
+Which one?
+
+01:37:17.000 --> 01:37:20.000
+Exactly. Exactly. Delete it.
+
+01:37:22.000 --> 01:37:30.000
+Moving on. One more email tonight from Frodo Swagons, who sends us like a, it's like a Twitter sized email basically.
+
+01:37:30.000 --> 01:37:41.000
+So Frodo Swagons sends us an email that says, Loki, you were just elected the president of Nintendo. What are your plans for Nintendo's future?
+
+01:37:42.000 --> 01:37:49.000
+Frodo Swagons. That's it. That's the email. So I love it. Short and to the point. Frodo Swagons doesn't have time to fuck around here.
+
+01:37:50.000 --> 01:37:57.000
+It also, actually P.S. sent from Yahoo Mail on Android. So they were on a mobile device when they did it.
+
+01:37:57.000 --> 01:37:59.000
+No Yahoo Mail wasn't on Android yet.
+
+01:38:00.000 --> 01:38:08.000
+Oh, now you know. The more you know. Anyway, so one more time. You were just elected the president of Nintendo because that's how presidents get put in place.
+
+01:38:09.000 --> 01:38:10.000
+Elected by the board.
+
+01:38:11.000 --> 01:38:12.000
+It really should be. I mean.
+
+01:38:13.000 --> 01:38:15.000
+What are your plans for Nintendo's future? Congratulations on your promotion, Loki.
+
+01:38:16.000 --> 01:38:17.000
+That's awesome.
+
+01:38:18.000 --> 01:38:19.000
+What are you doing day one? What are we doing?
+
+01:38:20.000 --> 01:38:22.000
+Day one? Well, first off, we're totally, totally announcing a new F-Zero game.
+
+01:38:23.000 --> 01:38:24.000
+Good. Good.
+
+01:38:24.000 --> 01:38:27.000
+And then number two, of course, we're announcing Waluigi for Smash.
+
+01:38:28.000 --> 01:38:32.000
+Okay. I like where this is going. How about a cease and desist on Bowsette on the internet?
+
+01:38:33.000 --> 01:38:34.000
+Oh, she's going in Smash.
+
+01:38:35.000 --> 01:38:36.000
+Fuck off.
+
+01:38:38.000 --> 01:38:39.000
+Why not?
+
+01:38:40.000 --> 01:38:41.000
+Fine. Waluigi and Bowsette in Smash. Fine.
+
+01:38:42.000 --> 01:38:49.000
+But no, if we really want to piss off the fans, you know, in Nintendo's side, what we'll do is we'll do our own version of Bowsette that's totally like just, you know, more Bowser than Bowsette.
+
+01:38:50.000 --> 01:38:53.000
+You know, less Boobs, more dinosaur turtle thing.
+
+01:38:54.000 --> 01:38:55.000
+Yeah.
+
+01:38:56.000 --> 01:38:57.000
+So we can do that.
+
+01:38:59.000 --> 01:39:00.000
+What else?
+
+01:39:01.000 --> 01:39:03.000
+Mother 3. Got to localize that, of course.
+
+01:39:06.000 --> 01:39:07.000
+Yeah, basically what everybody else wants.
+
+01:39:08.000 --> 01:39:09.000
+Yeah.
+
+01:39:10.000 --> 01:39:17.000
+It's kind of less than I would have thought. I thought you would have had this whole spiel and 10-point plan about what to do about online.
+
+01:39:19.000 --> 01:39:22.000
+My lack of a plan for online is still better than their plan for online.
+
+01:39:22.000 --> 01:39:27.000
+Hold yourself for this. Here we go. Because I got this question in chat at live.fognotor.com.
+
+01:39:28.000 --> 01:39:34.000
+ActDeft in chat says, Rob Roberts, you get the Peachette crown and are elected new president of Nintendo. What do you do?
+
+01:39:35.000 --> 01:39:40.000
+Alright, I'm going to do two things. Number one, I'm going to ban Bowsette from the internet.
+
+01:39:41.000 --> 01:39:42.000
+Cease and desist all the websites.
+
+01:39:43.000 --> 01:39:44.000
+But you have the Peachette crown.
+
+01:39:45.000 --> 01:39:51.000
+That's my first step. Second step, I sell the company to Microsoft. Now online will finally be figured out.
+
+01:39:52.000 --> 01:39:59.000
+Done. Mic drop. And that's it. I sell the company to Microsoft and give everybody what they've always wanted.
+
+01:40:00.000 --> 01:40:08.000
+The super company that has, why didn't I sell it to Sony? Because a little more interesting competition. A little more interesting competition if I sell it to Microsoft.
+
+01:40:09.000 --> 01:40:15.000
+Microsoft's having problems breaking into Japan. Microsoft can help out with the online. There's a little more of a help me help you situation there.
+
+01:40:16.000 --> 01:40:17.000
+There it is.
+
+01:40:18.000 --> 01:40:19.000
+President cat localized.
+
+01:40:19.000 --> 01:40:23.000
+Yes. Yes. And then president cat localized on my way out the door.
+
+01:40:24.000 --> 01:40:28.000
+And new F0 again. I guess I have more than two things I want to do. Alright.
+
+01:40:29.000 --> 01:40:34.000
+Anyway, thank you for the emails. Participate at OrangeLawnTradio.com if you want to send us an email for a future week. Those are fun.
+
+01:40:35.000 --> 01:40:38.000
+Let's get into some more news stories. Low keys.
+
+01:40:39.000 --> 01:40:48.000
+Alright. So this is pretty awesome. So they've got this whole, basically you can get a different version of
+
+01:40:49.000 --> 01:40:52.000
+The Legend of Zelda. Well, I wouldn't say it's a different version, but it's a
+
+01:40:53.000 --> 01:41:01.000
+A tweet starting save for The Legend of Zelda. They call it The Legend of Zelda Life of Luxury.
+
+01:41:02.000 --> 01:41:10.000
+Living the life of luxury. It's apparently a version of Zelda that you can get through the whole NES library on the Switch online app.
+
+01:41:10.000 --> 01:41:14.000
+Which allows you to start off the original Legend of Zelda, which originally you start with nothing.
+
+01:41:15.000 --> 01:41:19.000
+And you have to, you know, get a sword from a man and continue the game through that.
+
+01:41:20.000 --> 01:41:30.000
+But you start off with a lot more stuff. So you start off with the white sword, a magical shield, blue ring, power bracelet, blue candle, and a red potion and a piece of meat.
+
+01:41:31.000 --> 01:41:35.000
+Three extra heart containers as well as a ton of rupees, bombs, and keys.
+
+01:41:35.000 --> 01:41:41.000
+It's like basically Bobby Black Wolf mode of The Legend of Zelda.
+
+01:41:42.000 --> 01:41:47.000
+And you get to play the game that way. And then of course if you beat the game then you can get the second quest type thing.
+
+01:41:48.000 --> 01:41:53.000
+Neat idea. I wonder if I can get my kids to play Zelda this way, but I don't know.
+
+01:41:54.000 --> 01:42:02.000
+I mean, you know, I checked out the Switch online this week and it was cool to see the Solomon's Key and this dodgeball and whatever golf game they added that I don't plan on playing.
+
+01:42:02.000 --> 01:42:06.000
+But, you know, the other two games are cool to see. And then, you know, it was kind of like this extra little bonus.
+
+01:42:07.000 --> 01:42:11.000
+Like Zelda SP, obviously Twitter ruined it for me so I knew it was coming, but I thought that's kind of interesting.
+
+01:42:12.000 --> 01:42:18.000
+What do you think? I mean, and basically all it is, it's like either a ROM save state or like a game genie-fied version.
+
+01:42:19.000 --> 01:42:25.000
+Because what's interesting about it is that when you start it you completely bypass the title screen. Have you actually gone in to check it out?
+
+01:42:26.000 --> 01:42:27.000
+It sounds like a save state.
+
+01:42:28.000 --> 01:42:29.000
+Like a modified save state.
+
+01:42:29.000 --> 01:42:35.000
+That's what it feels like. It feels like a modified save state. I mean, and I don't know how they did it, but seeing as Nintendo...
+
+01:42:36.000 --> 01:42:40.000
+So what happens when you go to those dungeons with those things in there? Is that, it's just like...
+
+01:42:41.000 --> 01:42:44.000
+I don't know. I haven't played that far into it yet, so I don't know if they're not there or what.
+
+01:42:45.000 --> 01:42:51.000
+I'm thinking that's going to be my after show stream tonight as I'm going to play through that and kind of answer some of those questions about where do those items go?
+
+01:42:52.000 --> 01:42:55.000
+What happens when you go to those places? So we'll take a look at that later tonight.
+
+01:42:55.000 --> 01:43:01.000
+It doesn't give you everything because you don't get the magic sword and I think the bow is in one of those levels.
+
+01:43:02.000 --> 01:43:10.000
+So I think it gives you everything you can buy from merchants, but I'm not sure it gives you the stuff in the levels. You might still have to play through the levels and all that stuff.
+
+01:43:11.000 --> 01:43:16.000
+But it's still interesting that Nintendo is kind of padding the online library with this stuff.
+
+01:43:16.000 --> 01:43:27.000
+I mean, okay, it's kind of a, I don't know, it's a bit of a throwaway, but it's not, it is something, Loki, where it's not just a straight up emulation of an old game, you know what I mean?
+
+01:43:28.000 --> 01:43:31.000
+Like it's something like, oh, Nintendo did something different.
+
+01:43:32.000 --> 01:43:39.000
+Let's give us some ROM hacks. We need some ROM hacks of like, you know, Mario games or Metroid or something. Is Metroid in there already?
+
+01:43:39.000 --> 01:43:48.000
+I believe it's, it's on the, I think it's next month's big game is next month. Yeah. But who knows, you know, maybe Nintendo is planning to do this to pad the library.
+
+01:43:49.000 --> 01:43:51.000
+I would go for an easy mode in Metroid. I'm down with that.
+
+01:43:52.000 --> 01:43:56.000
+Yeah. Well, that's, that's why we had good old passcodes back in the day. Like Justin Bailey understood.
+
+01:43:57.000 --> 01:43:58.000
+Yeah, that should still work.
+
+01:43:59.000 --> 01:44:04.000
+Yeah. All those old passwords should still work. So, uh, if, if you have an old ass password from the NES days, they should still work.
+
+01:44:04.000 --> 01:44:13.000
+I mean, the game's programming has not changed or any of that. So you could use a lot, but there's no reason. I mean, what, and again, it wouldn't take much effort on Nintendo's part.
+
+01:44:14.000 --> 01:44:27.000
+Why not just like, if you start Metroid, have it go use save password for regular Metroid or for special Metroid, uh, that you play as Samus, like basically Justin Bailey or whatever, or you play as, um, you know what I mean?
+
+01:44:27.000 --> 01:44:39.000
+Samus without the suit or that you start with like all the items and stuff like a super code that you can go right to mother brain or whatever. I mean, maybe that's a direction Nintendo's exploring that we see going on here with this, uh, Zelda hack.
+
+01:44:40.000 --> 01:44:42.000
+I wish we get more NES remix stuff.
+
+01:44:43.000 --> 01:44:50.000
+You know, what's funny is over in our chat room over at live.vognetwork.com, they're kind of talking about NES remix. Uh, let's see. What was the, oh yes.
+
+01:44:51.000 --> 01:45:03.000
+Act Dev says, you know, with this, when are we getting NES remix for NES online? You never know. That could be something. Uh, Tigerclaw follows that up with the real question is when are we getting SNES remix? Never say never.
+
+01:45:04.000 --> 01:45:15.000
+So, yeah, but I thought this was an interesting direction for Nintendo with the, you know, it's something different besides just the game and it's not much, but it's like, oh, that's a, that's an interesting thing that they did.
+
+01:45:16.000 --> 01:45:19.000
+So I'll be curious to see if they do this with other games in the coming, in the coming weeks.
+
+01:45:20.000 --> 01:45:26.000
+Now, um, so I joked earlier about how I would sell Nintendo to Microsoft. I wasn't being serious, you guys, just, just so we're clear.
+
+01:45:27.000 --> 01:45:36.000
+Um, but, uh, Microsoft is certainly going to, uh, buy as many studios as they can to really get those first parties and give them an edge, uh, in the next generation of games.
+
+01:45:37.000 --> 01:45:49.000
+And it sounds like this next one could be a doozy. Uh, Microsoft is finalizing a deal to acquire Obsidian Entertainment, uh, which, you know, Obsidian Entertainment made Pillars of Eternity II and they made some pretty big games.
+
+01:45:50.000 --> 01:45:56.000
+Uh, apparently there's been some people briefed on negotiations and it leaked to the press, but, you know, we don't know if it's a done deal yet.
+
+01:45:57.000 --> 01:46:02.000
+Uh, apparently one person said it's 90% finished, it's not a matter of when, it's if, and so on.
+
+01:46:03.000 --> 01:46:09.000
+Some of the other big games that Obsidian's worked on, Knights of the Old Republic II, Fallout New Vegas, and of course Pillars of Eternity.
+
+01:46:09.000 --> 01:46:16.000
+So, um, yeah, uh, of course Microsoft gave the good old, we do not comment on rumors or speculation when they were called out on it.
+
+01:46:17.000 --> 01:46:23.000
+But, I mean, where there's smoke, there's fire, apparently there's three different sources cluing in that this is happening and this could be a pretty, pretty big deal.
+
+01:46:24.000 --> 01:46:25.000
+Uh, what do you think?
+
+01:46:26.000 --> 01:46:34.000
+I think it's, I mean, it's not unexpected because they've been purchasing a ton of different studios. I'd just like to see what's coming out of all these studio purchases.
+
+01:46:34.000 --> 01:46:41.000
+Well, I don't think we'll know that for a little bit. You know, we won't really know until the next box, whenever that is, but it's interesting nonetheless.
+
+01:46:42.000 --> 01:46:53.000
+Uh, I love Obsidian's response to this, by the way. Obsidian said, unfortunately we don't comment on rumors or speculation other than to say that the Rumors album by Fleetwood Max still holds up.
+
+01:46:54.000 --> 01:46:56.000
+That was their official comment.
+
+01:46:57.000 --> 01:46:58.000
+That's hilarious.
+
+01:46:59.000 --> 01:47:09.000
+It's a bummer Lindsey Buckingham ain't touring with them and Fleetwood Max is just in the year 2018. They are just as much of a dramatic mess as they were back in the day.
+
+01:47:11.000 --> 01:47:16.000
+This is what happens when you're in your 70s and you do a lot of drugs. Alright, let's move on. Loki.
+
+01:47:17.000 --> 01:47:25.000
+Alright, so the Brazilian government is calling for the removal of some, um, violent far right games from Steam.
+
+01:47:25.000 --> 01:47:38.000
+So they have, you know, right now there's been this whole thing on Steam where they just said, listen, we're not gonna really police anything unless it's, you know, straight up trolling, but we're just gonna let everything on to the service.
+
+01:47:39.000 --> 01:47:43.000
+And because of that, now you're getting all sorts of, like, weird shit on there.
+
+01:47:43.000 --> 01:48:03.000
+So there's this thing called, um, Bolsamido 2K18 where you play as, um, Bolsonaro and he punches and stomps on black LGBTQ and political rival protesters.
+
+01:48:04.000 --> 01:48:07.000
+So you're beating up minorities and stuff like that.
+
+01:48:08.000 --> 01:48:17.000
+And basically, you know, there's this whole thing in the beginning, defeat the communistic evils in this disrespectful game and be the hero that will free the nation from misery.
+
+01:48:19.000 --> 01:48:23.000
+It just sounds like more trash that they've unloaded on Steam. More garbage.
+
+01:48:24.000 --> 01:48:36.000
+But I think it's interesting that now the government is stepping in, basically telling Steam, like, I mean, not our government, but the Brazilian government is stepping in to basically tell Steam to fucking, like, clean up their shop. You know what I mean?
+
+01:48:37.000 --> 01:48:43.000
+Basically because they're, you know, saying this can, like, incite violence or, you know, it's just that they're promoting this type of thing.
+
+01:48:44.000 --> 01:48:46.000
+That Steam by selling it is promoting it.
+
+01:48:47.000 --> 01:48:54.000
+Which, yeah, I mean, you can't really argue that they're not promoting this stuff because they're, you're allowing it on your marketplace.
+
+01:48:55.000 --> 01:49:03.000
+It's essentially, as I've heard the descriptions, like, if you're allowing, like, people to bring in, like, feces and place it on your store shelves.
+
+01:49:03.000 --> 01:49:06.000
+It's like you went to your favorite supermarket and people are just placing-
+
+01:49:07.000 --> 01:49:08.000
+Wait, you don't see that at Walmart today?
+
+01:49:09.000 --> 01:49:13.000
+You're placing just, like, straight up feces in a box, you know, on the store shelves.
+
+01:49:14.000 --> 01:49:24.000
+And they're like, yeah, we're cool with that, you know, I mean, you can't be upset when someone says you can't put feces on your store shelves and sell it as food.
+
+01:49:25.000 --> 01:49:26.000
+There's rules and laws against that.
+
+01:49:26.000 --> 01:49:31.000
+We have, we have, it's gonna violate some health codes or something, so you can't do that, you know.
+
+01:49:32.000 --> 01:49:37.000
+That's, that's basically what the Steam storefront is right now. It's just they're letting anything out with our-
+
+01:49:38.000 --> 01:49:41.000
+Wait a second! Is that trolling? No, it's not trolling, it's feces. Oh, okay, that's-
+
+01:49:42.000 --> 01:49:46.000
+Fifth Dream in chat says, feces are us. Why not?
+
+01:49:47.000 --> 01:49:51.000
+And Sia Tabiri, of course, mentions, usually that's in a plastic bag and in the garden section.
+
+01:49:52.000 --> 01:49:54.000
+But it's not being, well, it's being sold as pet food.
+
+01:49:54.000 --> 01:50:00.000
+Gotcha, because Target got rid of all their garden sections. I think most Walmarts did too, right? I don't know, anyway, it doesn't matter.
+
+01:50:01.000 --> 01:50:02.000
+New gardens nowadays.
+
+01:50:03.000 --> 01:50:18.000
+The point is, it's about Steam, and the point is, is that, look, and I get a lot of people are like, we're becoming too politically correct in our society and people are so sensitive and all this stuff, but like, this is some shit that crosses a very obvious line.
+
+01:50:18.000 --> 01:50:31.000
+Like, you know what I mean? Like, this isn't about, like, maybe a tasteless joke or something like that. This is about, like, beating up people that are like, correct me if I'm wrong, this is like beating up minorities and people, like, it's not cool.
+
+01:50:32.000 --> 01:50:34.000
+Like, it's like violence and shit. It's not okay. Right?
+
+01:50:35.000 --> 01:50:36.000
+Right.
+
+01:50:37.000 --> 01:50:46.000
+That's what we're talking about in this game. So, and this is why the government of Brazil has stepped in and said, um, no, not in this country, you're not selling this. Which is what they're doing, they're selling that stuff, so.
+
+01:50:47.000 --> 01:50:48.000
+On a side tangent.
+
+01:50:49.000 --> 01:50:50.000
+Oh boy.
+
+01:50:51.000 --> 01:50:52.000
+That I completely forgot in my gaming week.
+
+01:50:53.000 --> 01:50:54.000
+Oh boy.
+
+01:50:55.000 --> 01:50:56.000
+I checked out that Naked Fighter game. It is garbage.
+
+01:50:57.000 --> 01:50:58.000
+Oh, from last week?
+
+01:50:59.000 --> 01:51:15.000
+It is garbage, because it's basically, it's like a turn bait, so you create your stupid characters and you put them, like, against each other, and then you watch them fight, and it's the most boring fucking piece of, like, I seriously, like, sat there for a couple minutes, and the fight was still not over yet, and I'm like, this is boring.
+
+01:51:16.000 --> 01:51:17.000
+I'm like, this is fucking dumb.
+
+01:51:18.000 --> 01:51:19.000
+Only video games can make nudity boring.
+
+01:51:20.000 --> 01:51:30.000
+Seriously, it's like, it's like, it made the, it's like, it's dumb. It's so boring at that point. The game is just garbage. Yeah, I get it, hahaha, it's naked people, but the game is garbage.
+
+01:51:31.000 --> 01:51:39.000
+But isn't that, okay, that's, that's like, any mod, like a Skyrim mod that makes everybody naked, or Mario, I'm sure there's a Mario 64 mod that makes everybody naked and all that stuff.
+
+01:51:40.000 --> 01:51:41.000
+Yeah, Bowser in there.
+
+01:51:42.000 --> 01:51:47.000
+Anyway, but isn't one of those things where it's like, haha, they're naked, and then it's like, that's it. That's it.
+
+01:51:48.000 --> 01:51:54.000
+But that never gets boring in Skyrim. Skyrim is a fun game, and adding the nudity on top of that is just the icing of the cake.
+
+01:51:55.000 --> 01:52:04.000
+But when, when all your cake is just, it's icing, covering feces, you know, then you can't, it's not, that does not make a cake.
+
+01:52:07.000 --> 01:52:08.000
+Moving on.
+
+01:52:09.000 --> 01:52:10.000
+I've had it.
+
+01:52:11.000 --> 01:52:18.000
+Dragon Quest on the 3DS, or lack thereof, because Dragon Quest XI didn't come out on the 3DS, and, here in this country.
+
+01:52:19.000 --> 01:52:23.000
+A lot of us were left wondering, well, why? Because it looked kind of awesome with the retro and all this stuff.
+
+01:52:24.000 --> 01:52:38.000
+Well, apparently, there's a statement from Yu Miyake, who's the executive producer of the Dragon Quest series, talking about Nintendo 3DS re-releases and saying they were popular in Japan, but they didn't sell as well as they hoped in the West.
+
+01:52:38.000 --> 01:52:50.000
+Dragon Quest X hasn't released overseas, says the quote. The 3DS games weren't that popular overseas, and some folks jumped from Dragon Quest VIII all the way to Dragon Quest XI.
+
+01:52:51.000 --> 01:53:03.000
+Basically indicating that Dragon Quest IX, which was 3DS exclusive, if I remember correctly, didn't sell that well over here, and may indicate why Dragon Quest XI they didn't feel like doing over here.
+
+01:53:04.000 --> 01:53:11.000
+Hopefully still that Switch version is going to end up happening over here, because I know for me, I think I've moved on from the DS to the Switch.
+
+01:53:12.000 --> 01:53:23.000
+I do kind of wish Nintendo would take the 3DS out back and shoot it already, but I got it a little more when the Switch was first launching, and we weren't sure if it was going to be a success.
+
+01:53:24.000 --> 01:53:30.000
+But I think it's safe to say now, it's a success, so they can retire the 3DS. It's okay. Let it go.
+
+01:53:30.000 --> 01:53:36.000
+But we all know that's not happening, because there's still the Luigi's Mansion remake, and lord knows what else.
+
+01:53:37.000 --> 01:53:42.000
+So, anyway. Fifth dream in chat over at live.vognetwork.com says, save it for Switch.
+
+01:53:43.000 --> 01:53:47.000
+I want to jump back quickly to your last story about the game that got Brazil's attention.
+
+01:53:48.000 --> 01:53:57.000
+Cajudo in chat says, the PC argument is bullshit. Us sane people know how to follow work rules, school rules, restaurant rules, movie theater rules, the internet is no different.
+
+01:53:57.000 --> 01:54:05.000
+It has rules. Follow them. That's a good point. Yes, we have free speech, but I'm sure you all know free speech is A, not freedom from consequence.
+
+01:54:06.000 --> 01:54:16.000
+Free speech has nothing to do with the place of private business and so forth. Brazil is a different country with their own laws, and I'm not up to up on their constitution and what governs their country. I apologize.
+
+01:54:17.000 --> 01:54:19.000
+But maybe free speech isn't the same thing there. But anyway.
+
+01:54:20.000 --> 01:54:21.000
+Well, I think it's still hate speech.
+
+01:54:21.000 --> 01:54:34.000
+Well, my point is, you don't yell fire in a crowded theater, because free speech does not allow you to do that. You know what I mean? You're still in a private place of business, and not only are you breaking all sorts of societal laws, but you're basically, you know, you're being an asshole.
+
+01:54:35.000 --> 01:54:36.000
+Don't be an asshole.
+
+01:54:37.000 --> 01:54:39.000
+Exactly. If only more people just kind of knew that inherently, right?
+
+01:54:40.000 --> 01:54:42.000
+It's weird that you have to tell somebody.
+
+01:54:43.000 --> 01:54:47.000
+I know, right? But, I mean, you're raising kids. Do you have to educate your kids? Don't be a little asshole?
+
+01:54:48.000 --> 01:54:49.000
+Yes.
+
+01:54:49.000 --> 01:54:51.000
+And it's not always easy, is it?
+
+01:54:52.000 --> 01:54:59.000
+Just like, just like my cat. Stop being a little asshole. Unfortunately, the cat doesn't speak English, so it's hard to communicate.
+
+01:55:00.000 --> 01:55:01.000
+Yeah, but the cats know that they're being assholes.
+
+01:55:02.000 --> 01:55:03.000
+That's true.
+
+01:55:04.000 --> 01:55:05.000
+My cat does that all the time.
+
+01:55:06.000 --> 01:55:07.000
+That's true.
+
+01:55:08.000 --> 01:55:11.000
+Like, you'll pay attention to her, you'll pet her, you'll cuddle with her, and she gets up off your lap and then goes, wakes up the kids.
+
+01:55:12.000 --> 01:55:13.000
+It's like, what the fuck is your problem?
+
+01:55:14.000 --> 01:55:15.000
+Like, scratches at their doors.
+
+01:55:16.000 --> 01:55:22.000
+Why are you doing that? I am paying attention. I'm giving you all the things you want. I gave you your food, I gave you your treats.
+
+01:55:23.000 --> 01:55:24.000
+And this is the thanks I get.
+
+01:55:25.000 --> 01:55:30.000
+And instead you're just like, fuck you, I'm scratching at the door. I'm gonna wake them up and piss you off. Ha ha ha ha.
+
+01:55:31.000 --> 01:55:32.000
+More treats for me.
+
+01:55:33.000 --> 01:55:35.000
+I don't think she understands what she's supposed to be doing.
+
+01:55:36.000 --> 01:55:40.000
+Alright, just a couple more stories for you guys before we go to the Skype line at OrangeLoungeRadio, all one word on Skype.
+
+01:55:40.000 --> 01:55:48.000
+So this is a pretty awesome mod, but there's somebody that made a custom Mario 64 mod called Portal 64.
+
+01:55:49.000 --> 01:55:53.000
+And it's, like you would think, it's Mario 64 with portals. Think he went portals.
+
+01:55:54.000 --> 01:56:02.000
+So it's got all the usual suspects, you know, the portal gun, they've even got like a companion cube that's in one of these.
+
+01:56:03.000 --> 01:56:08.000
+There's the cores falling around, instead of the castle, Peach's Castle, you have Aperture Labs.
+
+01:56:08.000 --> 01:56:16.000
+Still collecting the stars and whatnot, but it's pretty cool, like you can use the portals for different jumps and things.
+
+01:56:17.000 --> 01:56:28.000
+I'm not sure where you can necessarily download it yet, because I think it's still being worked on, but it's pretty cool to check out.
+
+01:56:28.000 --> 01:56:40.000
+It was by a guy, Emanuar, I think. I can't see what his YouTube page is here. Yeah, Kaze Emanuar.
+
+01:56:41.000 --> 01:56:44.000
+Mods are pretty amazing and the things that people do with them, isn't it?
+
+01:56:45.000 --> 01:56:48.000
+Yeah, he calls it Portal 3, but it's basically Portal 64.
+
+01:56:49.000 --> 01:56:50.000
+You wish!
+
+01:56:51.000 --> 01:56:53.000
+It's pretty functional for a mod, I mean, it's pretty awesome, so...
+
+01:56:53.000 --> 01:56:59.000
+Yeah, no, that is rad, and it's especially not just that you're modding a current game, but you're going back and you're modding it.
+
+01:57:00.000 --> 01:57:05.000
+What is it about Mario 64 that that is always, because I feel like just like three months ago...
+
+01:57:06.000 --> 01:57:07.000
+Mario 64 Maker, and like...
+
+01:57:08.000 --> 01:57:10.000
+And then the Battle Royale in Mario 64 or something.
+
+01:57:11.000 --> 01:57:12.000
+That was awesome, yeah, the online one.
+
+01:57:13.000 --> 01:57:14.000
+Where they put Waluigi in there and all that stuff.
+
+01:57:15.000 --> 01:57:16.000
+Nintendo shut that shit down.
+
+01:57:17.000 --> 01:57:19.000
+Mario 64 online, it came back though, I think.
+
+01:57:19.000 --> 01:57:23.000
+Well, yeah, it's the internet, it's whack-a-mole, Nintendo's C&D is one side because of somewhere else.
+
+01:57:24.000 --> 01:57:38.000
+It was awesome, I wish, that's something like when they eventually add stuff to, you know, Mario 64 that I hope that they add online functionality or something like that to the Nintendo collection or whatever they're doing.
+
+01:57:39.000 --> 01:57:41.000
+NES library whenever they move past the NES.
+
+01:57:42.000 --> 01:57:48.000
+That's the type of stuff Nintendo, instead of the Zelda with all the rupees enabled, that's the type of thing they should be doing, huh?
+
+01:57:49.000 --> 01:57:58.000
+I mean, if some Joe nobody that has no idea how you program the game, I mean, can do it, then why can't you do it? Oh, that's right, because it's online.
+
+01:57:59.000 --> 01:58:00.000
+I forgot.
+
+01:58:01.000 --> 01:58:11.000
+Going to chat over at live.vognetwork.com, Dungeon Buster says there's a neat mod or ROM hack out there that blended Zelda A Link to the Past with Super Metroid and a randomizer.
+
+01:58:11.000 --> 01:58:20.000
+You know, those randomizers are really the rage on Twitch. I was watching our buddy Breslil streaming Zelda randomizer. It was this morning or last night, one of those things.
+
+01:58:21.000 --> 01:58:36.000
+Yeah, it was weird because like it basically made like any shop or level entrance could be anything. Like you might go to the level entrance for level one and it's the old lady who gives you a letter or something like completely different.
+
+01:58:37.000 --> 01:58:39.000
+So he has to actually hunt around for the different levels. It was interesting.
+
+01:58:39.000 --> 01:58:51.000
+Yeah, normally the ones I've seen with the randomizers haven't been with the doors. It was just the items in the chest. The chests were all randomized, so you might go someplace where you might get the sword, you might get something else.
+
+01:58:52.000 --> 01:58:57.000
+Would that work though? Because wasn't Zelda sort of built where like you have to have the item in one dungeon to get to the next dungeon?
+
+01:58:58.000 --> 01:58:59.000
+Like the original Zelda?
+
+01:59:00.000 --> 01:59:01.000
+Yeah. I thought that was a thing.
+
+01:59:02.000 --> 01:59:07.000
+Maybe. They might have some sort of safe guards for that, but this is A Link to the Past is what I was talking about.
+
+01:59:07.000 --> 01:59:11.000
+Oh, oh, oh, okay. Gotcha. Oh yeah, I've seen The Link to the Past randomizer. I have seen that.
+
+01:59:12.000 --> 01:59:21.000
+Yeah, but The Link to the Past randomizer though with Super Metroid would be awesome. I hope we see the next one or either the upcoming Game of Summer Quick or Summer Game of Summer Quick.
+
+01:59:22.000 --> 01:59:26.000
+They're just throwing all this stuff in a blender now, seeing what they can come up with. It's pretty cool though. I like all this like retro stuff.
+
+01:59:26.000 --> 01:59:36.000
+I do wish Nintendo kind of officially embraced this a little more. Maybe this whole Zelda thing that they did on the Switch is them kind of showing like we might be open to something a little different.
+
+01:59:37.000 --> 01:59:42.000
+Can you imagine if Nintendo like fully embraced like a Zelda randomizer as a thing? That would be fucking rad.
+
+01:59:43.000 --> 01:59:44.000
+It would be.
+
+01:59:45.000 --> 01:59:52.000
+I think people would be really into that. And then it would also, instead of all these unofficial hacks and stuff out there, not that there's anything wrong with that because the community's created a beautiful thing,
+
+01:59:53.000 --> 02:00:00.000
+but for Nintendo to like officially endorse that and take that on would create a benchmark. Imagine allowing like mod support for some of these games.
+
+02:00:01.000 --> 02:00:08.000
+Like maybe not, you know, maybe we can police it where it's not like nudie mods and shit, but it's just like, you know, these randomizers.
+
+02:00:09.000 --> 02:00:14.000
+What about the good things mods did? More difficult maps or different maps like brand new maps or something.
+
+02:00:14.000 --> 02:00:20.000
+Yeah. Yeah. All right. Anyhow, our last story tonight before we open up the Skype line, although I will go to Loki for last minute news too.
+
+02:00:21.000 --> 02:00:33.000
+Uh, guess what? A new company has started a gaming division. Uh, that's right. There's apparently a KFC gaming. That's right. Kentucky Fried Chicken.
+
+02:00:34.000 --> 02:00:35.000
+They did have that weird VR game.
+
+02:00:35.000 --> 02:00:48.000
+Is getting into gaming. All right. Uh, and of course a lot of people are kind of doing, oh, this is a throwback. Remember Yo Noid on the NES, which was, that was Domino's thing years ago, right?
+
+02:00:49.000 --> 02:00:53.000
+Yeah. Or Cool Spot on the Super NES. Cool Spot was on, or actually it was on Genesis too.
+
+02:00:54.000 --> 02:00:58.000
+One of the greatest games they ever released on Xbox 360, Sneak King, Limburger Kings games.
+
+02:00:59.000 --> 02:01:07.000
+All their games are awesome. I only have Pocket Bike Racer. I don't know what happened to my Sneak King. I would have never sold it, so I don't know what happened.
+
+02:01:08.000 --> 02:01:09.000
+Man, Sneak King was so good. So anyway.
+
+02:01:10.000 --> 02:01:17.000
+It was great. They should have put out more games. Come on, come on guys. Like I'd even settle for like a Sneak King mobile game.
+
+02:01:18.000 --> 02:01:23.000
+So anyway, apparently KFC now has a gaming division, so maybe we're going to see some type of game from them in the future.
+
+02:01:23.000 --> 02:01:32.000
+And then this particular story has a picture of the new spokesperson for the new Colonel Sanders, who I believe, isn't that Reba? That's Reba McEntire that plays the Colonel now.
+
+02:01:33.000 --> 02:01:38.000
+I thought she was a few, I don't know. I can't keep track of who's playing the Colonel nowadays, but I know she was.
+
+02:01:39.000 --> 02:01:40.000
+It's always changing.
+
+02:01:41.000 --> 02:01:42.000
+It is.
+
+02:01:43.000 --> 02:01:49.000
+So anyway, we'll see what game. What game could Kentucky Fried Chicken come up with?
+
+02:01:50.000 --> 02:01:54.000
+By the way, I'm going to open up the Skype line over Orange Lounge Radio, all one word on Skype if you want to give us a call.
+
+02:01:55.000 --> 02:02:02.000
+The phone lines are open. If you want to do it the old fashioned way, 1-877-GAME-OLR. But Skype's probably better. Orange Lounge Radio, all one word on Skype.
+
+02:02:03.000 --> 02:02:08.000
+But I was going to say, what kind of game would you want to see KFC make?
+
+02:02:09.000 --> 02:02:14.000
+How about a Mario Kart game, but you're racing drumsticks?
+
+02:02:15.000 --> 02:02:22.000
+I would want to see whatever crazy shit they could come up with. Because remember, they had the whole VR game that was supposed to be a training game.
+
+02:02:23.000 --> 02:02:29.000
+That was fucking weird. And I'm down with the fucking weird. If it's fast food, make it as strange as fucking possible.
+
+02:02:30.000 --> 02:02:33.000
+Bob Coffey in chat suggests KFC versus Taco Bell.
+
+02:02:34.000 --> 02:02:39.000
+I don't need a versus game. Unless it's a fighting game, in which case I'm down with the mascots fighting.
+
+02:02:40.000 --> 02:02:45.000
+Doesn't the same parent company own KFC, Taco Bell, and I think Pizza Hut are all the same number.
+
+02:02:46.000 --> 02:02:49.000
+Oh yeah, that's right. They're all Pepsi. Pepsi man. He runs everything.
+
+02:02:50.000 --> 02:02:56.000
+There's the secret. It's like the final boss you have to get in the game. I thought I saw a call coming through, but then it disappeared.
+
+02:02:57.000 --> 02:03:00.000
+But the Skype line is open at Orange Lounge Radio, all one word on Skype.
+
+02:03:00.000 --> 02:03:06.000
+Dark Tutsi is saying BK did a racing game, if I recall correctly, and yeah, that was the one you owned, right?
+
+02:03:07.000 --> 02:03:10.000
+Anyway, we do have a call, so let's go to it. Hi, you're on Orange Lounge Radio. Who's this?
+
+02:03:11.000 --> 02:03:12.000
+Hey, what's going on everybody? It's Rama.
+
+02:03:13.000 --> 02:03:14.000
+Hey Rama, buddy. How you doing?
+
+02:03:15.000 --> 02:03:16.000
+I'm doing pretty good. How about you?
+
+02:03:17.000 --> 02:03:18.000
+I am fantastic. What's on your mind tonight?
+
+02:03:19.000 --> 02:03:27.000
+A few things, and I'll be on my merry little way. Now, if you tune into our show over at Anime Jam Session, if you listen, sometimes throughout the episode,
+
+02:03:27.000 --> 02:03:31.000
+you will hear Mako Chan's cat, Damien, scream his little head off.
+
+02:03:32.000 --> 02:03:35.000
+I'm glad it's not just us that's having cat issues during the show.
+
+02:03:36.000 --> 02:03:43.000
+No. It's like when we're doing our How Was Your Week, How Was Your Day, sometimes as we're going through our routine, you'll hear this cat meowing.
+
+02:03:44.000 --> 02:03:45.000
+We all stop and go, hi, Damien.
+
+02:03:46.000 --> 02:03:50.000
+And that's because the cat wants to play on How Was Your Week, How Was Your Day.
+
+02:03:51.000 --> 02:03:56.000
+Something like that, plus he's putting himself right on Mako Chan's shoulders going, my human.
+
+02:03:57.000 --> 02:03:59.000
+I missed that segment. That's what we used to call it, you know?
+
+02:04:00.000 --> 02:04:01.000
+Yeah.
+
+02:04:02.000 --> 02:04:04.000
+Back before OLR was strictly video games, we used to call it How Was Your Week, How Was Your Day.
+
+02:04:05.000 --> 02:04:17.000
+Well, like I said, a lot of what Anime Jam Session does is heavily inspired by OLR, which, as I've said, we're like the bratty kid, sister, kid, brother of the show.
+
+02:04:18.000 --> 02:04:21.000
+And I love it, but I'm also speaking to you through that cat.
+
+02:04:22.000 --> 02:04:24.000
+And I believe it, every single minute of it.
+
+02:04:24.000 --> 02:04:26.000
+What else is on your mind, buddy?
+
+02:04:27.000 --> 02:04:34.000
+Now, I know Loki mentioned DDR earlier, so I gotta know. What is y'all's go-to song for DDR?
+
+02:04:35.000 --> 02:04:39.000
+It's Rainin' Men by Jerry Howell. No, that's what you want me to say. That's what you want me to say.
+
+02:04:40.000 --> 02:04:48.000
+No, it depends what mix I'm playing. I always liked the ones that were very, like, constant stream of notes was a good warm-up.
+
+02:04:49.000 --> 02:04:54.000
+So when Fourth Mix was All the Rage, I always thought Kick the Can was a great warm-up song.
+
+02:04:55.000 --> 02:04:58.000
+You know, obviously, for one, it's got that great little...
+
+02:05:01.000 --> 02:05:04.000
+You know, it's obviously the old, you know, classic tune that's incorporated in the dance song.
+
+02:05:05.000 --> 02:05:07.000
+But it was just like that constant stream of eighth notes made, like, a really good warm-up song.
+
+02:05:08.000 --> 02:05:11.000
+But that song isn't around in newer mixes.
+
+02:05:12.000 --> 02:05:13.000
+It was like Fourth Mix and Fourth Mix.
+
+02:05:13.000 --> 02:05:18.000
+Yeah, but that was, like, my go-to warm-up. I used to do Ghosts when that was available, when we had a max machine.
+
+02:05:19.000 --> 02:05:24.000
+But that's no longer available. I'm not sure what I would do on an Extreme machine these days.
+
+02:05:25.000 --> 02:05:27.000
+Because that's the machine that you have in your house, right? You have a Dance Dance Revolution Extreme?
+
+02:05:28.000 --> 02:05:29.000
+Yes.
+
+02:05:30.000 --> 02:05:31.000
+Do you have, like, a same go-to starter song that you do every day?
+
+02:05:32.000 --> 02:05:35.000
+Well, I play non-stop random mixes, so it's whatever comes up.
+
+02:05:36.000 --> 02:05:42.000
+So if I'm playing just, like, actual songs, I don't know, it just depends what kind of a mood I'm in.
+
+02:05:43.000 --> 02:05:53.000
+I mean, usually I like Last Message or 1998's Pretty Good or Dance Dance Revolution.
+
+02:05:54.000 --> 02:05:55.000
+You know what song?
+
+02:05:56.000 --> 02:05:57.000
+Fantasy.
+
+02:05:58.000 --> 02:06:01.000
+You know what song I will still rock in DDR Extreme to this day? My answer? Butterfly.
+
+02:06:02.000 --> 02:06:03.000
+I can see it.
+
+02:06:04.000 --> 02:06:09.000
+The butterfly steps are really, I play that once in a while because it'll come up on my, the non-stop or whatever.
+
+02:06:09.000 --> 02:06:17.000
+But, like, the steps for doubles are kind of, they're mirrored. So, like, you do one pattern and it mirrors it and you do it again.
+
+02:06:18.000 --> 02:06:19.000
+It's just, like, it's kind of boring.
+
+02:06:20.000 --> 02:06:22.000
+Kick the Can would be my real answer, though, if it's a machine that has that.
+
+02:06:23.000 --> 02:06:24.000
+I like that.
+
+02:06:25.000 --> 02:06:30.000
+Oh, and I also like, what was the other one? So In Love has actually got some pretty fun steps to play.
+
+02:06:31.000 --> 02:06:33.000
+I don't know.
+
+02:06:33.000 --> 02:06:42.000
+Man, y'all want me to get a DDR machine. This is making me want to get a DDR machine more and more, but, you know, it's just not in the cards right now, maybe in the future.
+
+02:06:43.000 --> 02:06:48.000
+Well, I mean, you could kind of build your own step mania machine and just kind of make your way up, you know?
+
+02:06:49.000 --> 02:06:56.000
+Yeah, I guess that's true. You know, it'd be about kind of getting, it's all about that right dance pad that isn't going to, like, fuck up your floor.
+
+02:06:57.000 --> 02:07:01.000
+If you want to spend a ton of money, you can always buy the step mania, step maniac ones.
+
+02:07:01.000 --> 02:07:03.000
+Well, at that point, why not just buy the fucking game?
+
+02:07:04.000 --> 02:07:05.000
+Yeah, you're probably surprised.
+
+02:07:06.000 --> 02:07:08.000
+Honestly. That's my thought, anyway.
+
+02:07:09.000 --> 02:07:10.000
+So true, so true.
+
+02:07:11.000 --> 02:07:17.000
+Yeah, ask your 200 Matt in our chat over at live.voguenetwork.com. Absolutely right, it will be Mr. Smoosh's DDR machine. That is absolutely right.
+
+02:07:18.000 --> 02:07:20.000
+Surprisingly enough, my cat does not give a shit about the DDR machine.
+
+02:07:21.000 --> 02:07:22.000
+Really?
+
+02:07:23.000 --> 02:07:24.000
+Yeah, she does not lay on it.
+
+02:07:25.000 --> 02:07:26.000
+Does the cat not enjoy the garage, maybe?
+
+02:07:26.000 --> 02:07:33.000
+She loves the garage. She likes sleeping in a paint tray that's in our, like, our shelving. We, like, store our paints in, like, a shelving unit.
+
+02:07:34.000 --> 02:07:40.000
+So she's hidden back there and she'll sleep in those, like, a paint tray. Not the four beds we have in the house, but the paint tray.
+
+02:07:41.000 --> 02:07:44.000
+But she won't touch the cabinet. She won't sleep near it or anything.
+
+02:07:45.000 --> 02:07:52.000
+I think it's because it's too cold. She likes the warmth, especially in the summer. Like, it's like 100 degrees out there and she'll go to sleep out there.
+
+02:07:52.000 --> 02:08:02.000
+Even in the winter, though, she'll come out there sometimes and sleep. But no, never touches the machine. But once again, I think it's because it's all metal and it's cold. So she won't, doesn't like it.
+
+02:08:03.000 --> 02:08:05.000
+Interesting. Anything else on your mind tonight, Rama?
+
+02:08:06.000 --> 02:08:19.000
+One more thing, and we'll be on our merry little way. On the anime jam session, we understand some of the issues and how some things in OLR and gaming can cross over with anime and anime jam session.
+
+02:08:19.000 --> 02:08:26.000
+So in regards to YYR's email, we will gladly sponsor This Week and Bowsette for Orange Lounge Radio.
+
+02:08:27.000 --> 02:08:29.000
+Have a great night, Rama. It was good to hear from you.
+
+02:08:33.000 --> 02:08:45.000
+I just, I just don't understand why it's everywhere. It's like you can't escape it. Like, somebody showed me a fucking video. It was like, they took New Super Mario Brothers Wii or whatever.
+
+02:08:45.000 --> 02:08:52.000
+It was one of the New Super Mario Brothers games in the level where Bowser chases you in the castle and they made it Bowsette. Why? Because they can.
+
+02:08:53.000 --> 02:08:56.000
+There's also a mod for Breath of the Wild where you can play as Bowsette.
+
+02:08:57.000 --> 02:08:58.000
+Yippee!
+
+02:08:59.000 --> 02:09:19.000
+I can't explain it. Sometimes I can't. Sometimes I can't. It's just something that everybody is loving and, you know, last week there was a comic somebody drew of all the popular meme waifus telling Bowsette, enjoy your 15 minutes of fame while you can before you get tossed in the trash.
+
+02:09:20.000 --> 02:09:21.000
+Put me in that picture.
+
+02:09:22.000 --> 02:09:25.000
+Breath of the Wild's footage. Her dress is doing some weird physics, man. That's all I gotta say.
+
+02:09:25.000 --> 02:09:30.000
+SSJ100Matt in our chat points out the real exciting news of the week is that Rob will be coming back to New York City soon.
+
+02:09:31.000 --> 02:09:42.000
+Yes, with the news that Lady Gaga may be in a Broadway play, my good Judy Victoria down in LA is like, we're going. We're going to New York City. We're gonna see this fucking play with Gaga. If it's true.
+
+02:09:43.000 --> 02:09:48.000
+And they haven't officially announced that yet, but I'm really overdue for a New York visit. Allen's never been and he really wants to go sometimes.
+
+02:09:48.000 --> 02:10:00.000
+So I think Toronto's like for sure next year and I really want to work in New York City. I'm not going to do MAGFest, which I know is sad, but that frees me up to be able to do some other stuff. So that's kind of the thought process there.
+
+02:10:01.000 --> 02:10:07.000
+I'm perfectly okay with that because Mako-chan wants to meet you and Allen. She wants to add you two to her collection.
+
+02:10:08.000 --> 02:10:13.000
+Ah, well, I'm already an honorary member, I would hope. But yes, officially it would be nice.
+
+02:10:13.000 --> 02:10:22.000
+Yes. Remember, there was an episode way back when of Ask Orange Lodge where she did ask, but now a picture or two together, it'll be official.
+
+02:10:23.000 --> 02:10:25.000
+Yeah, we'll make it official. We will. We'll get ring pops and everything.
+
+02:10:26.000 --> 02:10:31.000
+Don't give her any ideas. You don't know.
+
+02:10:32.000 --> 02:10:36.000
+Look out, bitch. I'll get her a Bowser crown. Then you'll really be sorry for inflicting that on the internet.
+
+02:10:36.000 --> 02:10:43.000
+Cosplay's daisy to my Luigi. Don't give her more of a inflated head than she already has.
+
+02:10:44.000 --> 02:10:51.000
+SS 2100 Matt says, it's been over 10 years since Rob has come to New York. I had hair when Rob was in New York last. So did I.
+
+02:10:52.000 --> 02:10:55.000
+Anyway, I'm going to let you go. Thanks for the call.
+
+02:10:56.000 --> 02:10:57.000
+Take care, bros.
+
+02:10:58.000 --> 02:11:00.000
+Orange Lounge Radio, all one word on Skype if you want to get through.
+
+02:11:01.000 --> 02:11:03.000
+Loki, any last minute stories?
+
+02:11:03.000 --> 02:11:07.000
+Well, you took both my Bowser stories. I guess I can't read them.
+
+02:11:08.000 --> 02:11:09.000
+Gosh, I'm so upset.
+
+02:11:10.000 --> 02:11:18.000
+Oh, darn. So I guess the annual annual desert bus for hope is starting going to be soon.
+
+02:11:19.000 --> 02:11:24.000
+November 9th, they're going to be starting at 10 a.m. and apparently they're starting their fundraising.
+
+02:11:24.000 --> 02:11:34.000
+So last year they raised six hundred fifty thousand dollars or one hundred fifty eight hours for Child's Play.
+
+02:11:35.000 --> 02:11:37.000
+So maybe they'll top it again. We'll see.
+
+02:11:38.000 --> 02:11:39.000
+Good cause.
+
+02:11:40.000 --> 02:11:44.000
+Yep. And then, of course, the Mortal Kombat trilogy apparently is having a fan remake.
+
+02:11:45.000 --> 02:11:49.000
+Apparently people are redoing the graphics in the game, doing like an HD remaster type of thing.
+
+02:11:50.000 --> 02:11:53.000
+Why? I don't get it. Are they redigitizing the characters or something?
+
+02:11:54.000 --> 02:11:59.000
+I. Yeah, it looks like they might be doing that or like I don't know if they're filming different characters or something.
+
+02:12:00.000 --> 02:12:03.000
+What they're doing is there says the fan project has been under development since 2011.
+
+02:12:04.000 --> 02:12:10.000
+It started as a Mugen project and it's not going to be one soon.
+
+02:12:11.000 --> 02:12:17.000
+This is a pixel perfect arcade remake of the original Mortal Kombat trilogy using new 3D models created from the original Mortal Kombat games.
+
+02:12:18.000 --> 02:12:22.000
+From all of the behind the scenes clips from massive scale.
+
+02:12:22.000 --> 02:12:32.000
+Oh, because Tobias or Boone, one of those guys on Twitter, was putting out like videos of the motion capture from back in the day.
+
+02:12:33.000 --> 02:12:37.000
+So somebody must have picked that up and was like, we can make HD video out of this.
+
+02:12:38.000 --> 02:12:39.000
+That's interesting. Wow.
+
+02:12:40.000 --> 02:12:43.000
+Yeah. So Tiger Claw actually links video of the HD remakes.
+
+02:12:44.000 --> 02:12:49.000
+I kind of want to see this. I don't like to usually play YouTube's live on air, but we're running a little short tonight.
+
+02:12:50.000 --> 02:12:51.000
+So I'll play play this.
+
+02:12:52.000 --> 02:12:57.000
+Wow. That does look really good compared to the original.
+
+02:12:58.000 --> 02:13:01.000
+Yeah. They kind of went back and redid the backgrounds.
+
+02:13:02.000 --> 02:13:03.000
+That's the other important part.
+
+02:13:04.000 --> 02:13:06.000
+Like they totally went back and redid those backgrounds.
+
+02:13:07.000 --> 02:13:12.000
+So this is a Scorpion and Sub-Zero, which obviously is just the same with a palette swap.
+
+02:13:13.000 --> 02:13:16.000
+But they're in that stage where Shang Tsung is sitting in the background.
+
+02:13:17.000 --> 02:13:20.000
+Huh. Okay. I got to give it to him.
+
+02:13:20.000 --> 02:13:24.000
+That looks pretty fricking good. Ooh, where's the fatality? Ooh, the fatalities at the end.
+
+02:13:26.000 --> 02:13:27.000
+Gross.
+
+02:13:28.000 --> 02:13:30.000
+Wow. They made that HD too.
+
+02:13:31.000 --> 02:13:32.000
+Okay.
+
+02:13:33.000 --> 02:13:37.000
+Curious to see what they come up with there. Thanks for that leak for YouTube. That's the first I've heard of that.
+
+02:13:38.000 --> 02:13:39.000
+Yeah. So it was pretty neat.
+
+02:13:40.000 --> 02:13:44.000
+Well, one more call for calls to see if anybody wants to get through Orange Lounge Radio, all one word on Skype.
+
+02:13:45.000 --> 02:13:46.000
+Anything else for last minute stories?
+
+02:13:47.000 --> 02:13:51.000
+Someone's trying to remake the single player campaign of Goldeneye in Unreal 4.
+
+02:13:52.000 --> 02:13:54.000
+Again? Didn't we have a remake on like the Wii?
+
+02:13:55.000 --> 02:13:57.000
+Well, we have like an official remake that we did.
+
+02:13:58.000 --> 02:13:59.000
+But no, this is someone else doing it now.
+
+02:14:00.000 --> 02:14:01.000
+All right. Fair enough.
+
+02:14:02.000 --> 02:14:09.000
+Well, Goldeneye is one of those things where it's like I play, or not me personally, but I've heard people say I play first person shooters because of Goldeneye.
+
+02:14:10.000 --> 02:14:12.000
+Like Goldeneye got me into this. So, you know, people have a lot of love for that game.
+
+02:14:12.000 --> 02:14:15.000
+So I'm not surprised people want to go back and play the classic.
+
+02:14:16.000 --> 02:14:18.000
+Why don't we have a Goldeneye Battle Royale game yet?
+
+02:14:19.000 --> 02:14:20.000
+Guys are slow.
+
+02:14:21.000 --> 02:14:22.000
+Licensing nightmare. That's the problem.
+
+02:14:23.000 --> 02:14:24.000
+Oh, fan game. Licensing.
+
+02:14:25.000 --> 02:14:30.000
+Yeah, but they can't call it Goldeneye. And if you don't call it Goldeneye, people are going to be like, Golden Spy.
+
+02:14:35.000 --> 02:14:40.000
+What would you call it? Jim Band Golden Spy.
+
+02:14:42.000 --> 02:14:44.000
+I don't know what you'd do. Anyway.
+
+02:14:45.000 --> 02:14:51.000
+All right. Well, I guess nobody else is trying to call. So that's it. That's going to do it for tonight's Orange Lounge Radio.
+
+02:14:52.000 --> 02:14:54.000
+A little bit shorter, but that's the way it goes sometimes. Some weeks are bigger than others.
+
+02:14:55.000 --> 02:14:57.000
+We'll be back in seven days to do it all over again.
+
+02:14:58.000 --> 02:15:02.000
+But in the meantime, I'm going to say, as I always do, thank you so much for listening to the show.
+
+02:15:03.000 --> 02:15:06.000
+Thank you for taking time out of your week to be here with us on Sunday night.
+
+02:15:07.000 --> 02:15:09.000
+Or if you're listening to us on the podcast feed, that's always appreciated as well.
+
+02:15:09.000 --> 02:15:13.000
+If you enjoyed what you heard here at Orange Lounge Radio, please tell a friend or two about the show and help us spread the word.
+
+02:15:14.000 --> 02:15:18.000
+Because we are the show where every gamer has a voice, but if the voices aren't here to air, then what are we going to do?
+
+02:15:19.000 --> 02:15:25.000
+So, yeah, there's that. That's it. That's all I have to say. Loki, any final thoughts for you tonight?
+
+02:15:26.000 --> 02:15:34.000
+My final thought is that hopefully I'm going to be streaming on Twitch soon, so just waiting on my hardware to come in.
+
+02:15:35.000 --> 02:15:36.000
+That's exciting. Sure is.
+
+02:15:36.000 --> 02:15:40.000
+And hopefully the bandwidth can hold all that.
+
+02:15:41.000 --> 02:15:45.000
+And then my final thought is I need to be streaming on Twitch more. I haven't done it in a few days.
+
+02:15:46.000 --> 02:15:50.000
+And it's just, you know, real life gets in the way. I do it where I can, though. It happens.
+
+02:15:51.000 --> 02:15:55.000
+But then I'll be like, oh, I'm going to get sucked into another MMO or another Facebook game or something like that.
+
+02:15:56.000 --> 02:15:58.000
+And then it's like, whoops, I haven't been streaming lately. Oops, my bad.
+
+02:15:59.000 --> 02:16:04.000
+Anyway, but we will be back in seven days. That's the one thing we will be doing, is we always do another episode of OLR in seven days.
+
+02:16:04.000 --> 02:16:09.000
+Dark Sakura, I think, is still working next week, so she won't be here, but we will have you guys here.
+
+02:16:10.000 --> 02:16:13.000
+And who knows, maybe we'll try to find a fun guest to bring us to. That was a lot of fun with Delvin last week.
+
+02:16:14.000 --> 02:16:16.000
+So we'll hopefully have some more third chairs sitting in with us in the coming week.
+
+02:16:17.000 --> 02:16:20.000
+Anyway, that's going to do it for another episode of OLR. Thanks for being here, and we'll see you next time.
+
+02:16:21.000 --> 02:16:22.000
+Have a great week. Happy gaming.
+
+02:16:23.000 --> 02:16:25.000
+You've been listening to Orange Lounge Radio.
+
+02:16:26.000 --> 02:16:29.000
+Orange Lounge Radio is a production of OLR Studios.
+
+02:16:29.000 --> 02:16:38.000
+To join us for a live show, tune into vognetwork.com Sunday nights at 6 p.m. Pacific, 9 p.m. Eastern.
+
+02:16:39.000 --> 02:16:49.000
+The views and opinions expressed in this program do not necessarily reflect those of the staff of Orange Lounge Radio or VoG Network, but you know they were all still true.
+
+02:16:52.000 --> 02:16:53.000
+See you next week.
+
+02:16:59.000 --> 02:17:01.000
+See you next time.
+

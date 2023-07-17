@@ -1,0 +1,2959 @@
+start	end	text
+0	7000	Orange Lounge Radio
+7000	14000	Visual Hosts, DarkSakura, Skie, and Loki
+14000	28000	Club Nintendo Returns! My Nintendo debuts for many countries next month. Along with rewards, My Nintendo also marks Nintendo's expansion into social and gaming apps for phones and tablets. There's plenty to explain, along with some changes of heart and so much more, and it all starts right now on the show where every gamer has a voice.
+28000	31000	Orange Lounge Radio
+31000	44000	Hello my friends out there on the internet and welcome back to another week of the show where every gamer has a voice. It is Orange Lounge Radio. Tonight, February the 7th of 2016, episode number 630 of our show.
+45000	55000	My name is Rob Roberts, also on Twitter at Skie, joining you in Sacramento, California Studio N7 with my co-hosts. Say hello to DarkSakura or Jamie Summers.
+55000	62000	Hello and welcome back. You were absent last week. I know you had some other stuff coming up last minute, but we're glad to have you back.
+62000	63000	Yeah.
+63000	64000	So how you doing?
+64000	65000	Alright.
+65000	68000	It's been a little while since you've been here because I was sick like two weeks ago.
+68000	70000	Yeah, way to go Rob.
+70000	80000	I'm sorry, we've been Jamie-less for a little while. I did tell the listeners that even though you missed last week, you were the one host that was good to go two weeks ago. And it was almost the Jamie Summers show for three hours.
+80000	82000	Dude, that used to happen.
+82000	85000	What would happen on the Jamie Summers show for three hours?
+85000	99000	Oh, I know, I know. You said it earlier when you came into the studio that yesterday you were having a bunch of sweet food. Today you're having a bunch of savory food. The three hour Jamie Summers experience would be salty.
+99000	100000	So...
+100000	101000	You like that?
+101000	115000	No, I honestly don't know what the Jamie show would be. It's basically just me going, screw the format. I'm going to talk about, let me explain you a thing. That'll be my show. Let me explain you a thing.
+115000	127000	It's hard to do a show by yourself. Our pal Bobby Black Wolf, we are on of course 6 o'clock Pacific, 9 o'clock Eastern every Sunday night live at the Voicy Geeks Network, voggenetwork.com, immediately after the Bobby Black Wolf show.
+127000	142000	Our pal Bobby Black Wolf, he does do the solo thing and it's not easy. It's not. He does calls, so at least he has that at the end of the show, but he does a good 40 minutes or so by himself. So it's something that takes time to develop, I'm sure.
+142000	145000	See, I miss my music streaming show.
+145000	146000	Yeah.
+146000	150000	Because then I could just play whatever the weirdness I had in my directory was.
+150000	156000	Oh, I miss the day when the legal legalities were much more blurred than they are today.
+156000	164000	You know what I could do is I could do nothing but playing turntable.fm and stream it.
+164000	172000	Oh my gosh, I miss that site. Turntable.fm was awesome. Did they ever get like a suitable replacement for that site? I don't remember what happened.
+172000	173000	I thought it was still going.
+173000	175000	No, turntable.fm shut down some time ago.
+175000	176000	Oh, that sucks.
+176000	177000	Yeah.
+177000	182000	Because then they were going through SoundCloud and then things happened and yeah.
+183000	188000	Oh well. Anyway, also joining us in studio, say hello to Techmaster Loki.
+188000	189000	Hello.
+189000	197000	When OLR was a network, he actually had a show that was like turntables. It was two turntables and a microphone with Loki. So that wasn't the name of the show.
+197000	198000	No.
+198000	199000	What was it, Friday Night Live?
+199000	200000	It was Livewire.
+200000	202000	Livewire. Oh, that's it because the Mountain Dew joke.
+202000	203000	Yep.
+203000	207000	Yeah, yeah, yeah. Good times. So have you mixed anything lately?
+207000	209000	No.
+209000	211000	No, DJ Loki's gone.
+211000	214000	No, it's just having felt like it.
+214000	218000	Sure, I understand. Replaced with an indie game developer, Loki, which he also has.
+218000	225000	Which he also hasn't really felt like doing. No, actually, funny enough, this week actually, I was super excited about it on Twitter.
+225000	238000	Like, I have been having the hardest time getting Unity 5 to work on my PC. It just, for whatever fucking reason, it would just crash whenever I would try to change the color of a texture or whatever.
+238000	242000	Whenever I go to that color picker, just the whole thing crashes. And I can never get it to work.
+242000	256000	And it's fucking Windows 8's fault. Like, way back when I had Windows 8, it was that fault because, for whatever reason, that version of Windows I had kept having problems where it would take off file ownership.
+256000	262000	So, like, you'd create a file or something and all of a sudden you can't read it, can't write to it because just all the owner properties are gone.
+262000	265000	And you just randomly do that with pretty much anything that's being created.
+265000	272000	So, apparently, there was a file or a settings file that was hidden deep within the computer for Unity that still had that problem.
+272000	278000	I, just out of a whim, I was like, you know, I was gonna install virtual machine to get it installed on there and see if that would work.
+278000	284000	And I was like, you know, I should see about actually uninstalling it properly. Let me make sure I'm doing this right.
+284000	290000	And it's like, oh, yeah, check in this folder, delete all this stuff. I'm like, I've done that. And I went into this other folder. I'm like, oh, hey, there's stuff still there.
+290000	295000	I'm sorry, but this sounds like when I had that Skype debacle a week, like a month ago on the show. Remember that?
+295000	302000	Where the missing piece was, I needed Internet Explorer 8. Not 11. I needed Internet Explorer 8 specifically.
+302000	307000	There was a file that was sitting in, like, one of the Unity 5 setting things that I went and deleted.
+307000	313000	And then it wouldn't delete. I'm like, why is this not deleting? And sure enough, the file was called, like, color setting something something.
+313000	320000	I'm like, oh, son of a bitch. And so I deleted it, uninstalled it, reinstalled it. Oh, hey, it works now.
+320000	325000	But that's great, though. So now I have Unity 5 working and I can make my game look much better.
+325000	330000	And, yeah, all the fun bells and whistles I couldn't access with Unity 4 without Pro.
+330000	335000	Alright, we do tape live, of course, at the Voice Geeks Network on Sunday nights, like I said earlier.
+335000	340000	But if you are listening live, and thank you, by the way, if you are live tonight. I mean, we love the podcast people as well. Don't get me wrong.
+340000	350000	We do the podcast because we love you guys, too. But I know, especially today, there's a little football game going on about a two-hour drive from here that has everybody going crazy.
+350000	358000	So thank you, guys, for choosing OLR tonight. I very well realize some of you have OLR in the left ear and, like, the TV on speaker.
+358000	363000	So you can kind of do both. Hey, that's okay. If you can multitask, you're still okay by me.
+363000	371000	But if you are listening live, join our chat room, live.vognetwork.com. VX JasonXVR, our pal that does the voiceovers here on the show, says,
+371000	380000	dubtrack.fm is the standing site of the turntable or plug DJ ilk, though there is no dance floor or user representation.
+380000	391000	So, and that, you know, that was part of the best thing about turntable and why I love that site, which I can't believe we're doing, like, the retro thing for something that really was, well, it was only about two or three years ago that was the thing.
+391000	399000	But I really discovered a lot of great music through that. And that was even, like, we used to do, like, the post-OLR. We would kind of go on turntable for a little bit.
+399000	408000	And, like, you would have five people on the stage and, like, I'd play a song, then Jamie would play a song, then whatever random listener got up there, like, Dark Tetsuya or Misty or something would play a song.
+408000	416000	And, yeah, it was just, that was a lot of fun. So I missed that. I understand legally it's probably a bitch, but that was a great music discovery site.
+416000	427000	So, anyhow, joining us in studio tonight, welcome back this week, someone else who I think joined us on many of those turntable nights, but is joining us here in studio for yet another bottle of wine.
+427000	429000	Say hello to Shane.
+429000	431000	I said it early.
+431000	434000	How are you? Yes, you did. You're going to town on that wine early, aren't you?
+434000	440000	Well, from earlier, too, but no, I haven't, I'm taking this at a decent rate.
+440000	441000	Yeah?
+441000	442000	Yeah.
+442000	448000	I think we had wine here in the studio, and today, Shane was like, I want more, so we need to go to the winery.
+448000	449000	It tastes like juice.
+449000	450000	What wine?
+450000	452000	Yeah, and Dark Sakura just finished her glass, by the way.
+452000	456000	Yeah, I'm, like, losing right now, but there's plenty of night left.
+456000	457000	Did you have fun at the wineries today?
+457000	458000	Yes, I did.
+458000	459000	Good times.
+459000	461000	And one tasted like Frutopia.
+461000	462000	And you said it, right?
+462000	469000	And I said that to the wine people, because what are they going to do? Be horrified that I said that? It was a compliment.
+469000	478000	I just, I don't know if, do we have any winemakers out there who listen? Would you enjoy having your drink compared to something you could get at McDonald's in the 90s?
+478000	480000	Okay, but it was good.
+480000	482000	Mmm, this tastes like Dippin' Dots.
+482000	491000	Well, that was good, too. So, yeah, you should take that and be proud that I said that, and I didn't say it tasted like a shoe like most wine does.
+491000	493000	You just don't like reds. You like whites.
+493000	496000	Well, no, they also had that red that was good, too.
+496000	498000	Because it was a sweet red. Anyway.
+499000	507000	In our chat room, we have Agent Pothead, who says, first time listening live ever for me. Well, you picked a heck of a night to do it. Thank you for being here. Appreciate that.
+507000	511000	And anybody else who might be listening to OLR for the very first time.
+511000	516000	Shane, I would ask what's new with you, but we just really got all that out of the way last week.
+516000	519000	Because nothing happens in the span of a week.
+519000	522000	Well, do you want to talk about this new little toy you're playing with right now?
+522000	526000	Oh, I finally got my Apple Pencil for my iPad Pro, and it's freaking amazing.
+526000	529000	And I don't even want to touch my screen anymore. I'm just going to touch it with the pencil.
+529000	533000	You're the only person I know, first off, with an iPad Pro, which is the gigantic one.
+533000	537000	It's not even that big after you play with it for a while. Like, I need a Pro Pro now.
+537000	545000	But you said something to me. Speaking of gaming and all this stuff, you said something to me earlier today. Like, how much are those things retail? Those Pros? Like $1,000?
+545000	548000	The one I got retail normally is like $1,100.
+548000	550000	Oh, my God. All right.
+550000	552000	But I did not pay that, nor nearly that much.
+552000	554000	Okay, all right. We won't get into that.
+554000	555000	Exactly.
+555000	563000	Okay, so these things are usually about $1,100, but you have one. And you said something earlier that, what was it? DJ Max Technica.
+563000	565000	Oh, yeah, Technica. Yeah, what about it?
+565000	566000	Like, justified your purchase.
+566000	572000	Oh, yeah, because I can't quit playing it. I absolutely love it. It's my Technica iPad. That's all it is.
+572000	573000	But now with your pen...
+573000	578000	Now it's my drawing slash Technica iPad. But Technica's probably still a little higher on the list.
+578000	581000	And I didn't even know you did art for yourself.
+581000	582000	Yep. There you go.
+582000	587000	Because I would think if you were an art guy, you would have done the album art for your show yourself.
+587000	590000	I didn't have anything to even do that with, though, until now.
+590000	592000	Gotcha. Well, thank God Cody helped you out, huh?
+592000	595000	Yes, and his album art is fantastic.
+595000	601000	Quick plug for your show. Since we at least have one person who's listening for the first time tonight. Quick plug for your show.
+601000	604000	I don't know how to do that right now because I'm drinking.
+604000	605000	You say the name of the show.
+605000	606000	Ranger Pride.
+606000	607000	And what it's about.
+607000	609000	Power Rangers and Super Sentai.
+609000	610000	And where they can find it.
+610000	611000	On the Internet.
+611000	613000	Very good. Very good.
+613000	614000	And iTunes.
+614000	617000	Just say available, just like on RuPaul's Drag Race, your favorite show.
+617000	618000	I will not. That is not my favorite show.
+618000	621000	Available on iTunes. Wink. That's how you do it.
+621000	624000	That is not something I'm going to say like that.
+624000	627000	All right. All right.
+627000	632000	Agent Pothead is pointing out, I've been a listener for about six years. Just my first time in chat.
+632000	634000	Well, welcome all the same.
+634000	637000	That's a heck of a long time to be listening before you do the live thing.
+637000	641000	You know what? I actually, I hear that quite a bit from some of the live people.
+641000	646000	It's like, you know, I've been listening to this show for years and I just, it just occurred to me you guys are live right now.
+646000	648000	And I'm not doing anything for a change on Sunday night.
+648000	651000	So, no, we welcome everybody who likes to participate.
+651000	656000	So, anyhow, we're going to get into some gaming news for the week, of course.
+656000	660000	And there's a lot of it going on, despite, you know, whatever football game's on the TV right now.
+660000	666000	But I didn't want to get into a kickoff topic tonight, which, you know, there is a game on TV.
+666000	673000	But there's some people that instead of watching the game that's on TV, well, they'll watch the game on TV,
+673000	675000	but they want to watch it for the commercials.
+675000	680000	And, you know, Super Bowl commercials are pretty legendary.
+680000	687000	I'm hearing this year's, I mean, of Twitter, I don't know how much I trust Twitter to be the gauge of everything social in the world.
+687000	690000	And especially if they're going to fuck up the timeline order, which I've heard is a thing.
+690000	692000	I don't know if that's Opt-In or whatever.
+692000	696000	Apparently it's supposed to be Opt-In, but hopefully they don't go the route of Facebook.
+696000	698000	But anyway, I digress.
+698000	701000	Twitter is, you know, sometimes my gauge, that sort of thing.
+701000	703000	And I'm hearing the commercials this year are not that great.
+703000	706000	But some of the commercials in the past have been amazing.
+706000	714000	For example, the year Betty White did the Snickers ad, I think that kind of put her back into the mainstream.
+714000	719000	And let's all be thankful for that, because Betty White should have never really left the mainstream.
+719000	723000	And if you saw a movie called Lake Placid where she had amazing cameo, she never left the mainstream.
+723000	729000	But anyway, I want to talk about commercials, and specifically a little bit about video game commercials.
+729000	734000	Because, say what you will about the commercials that are on during the Super Bowl this year.
+734000	738000	But we know that there's a big one for the 20th anniversary of Pokemon.
+738000	744000	We already talked about that a little bit on last week's show, I think, because the commercial was already out on the internet.
+744000	746000	I don't think we talked about that last week at all.
+746000	747000	Did we? I thought we did.
+747000	748000	Nope.
+748000	750000	We talked about it. I haven't seen it.
+750000	751000	You haven't seen it?
+751000	753000	That's what I would have said. No, I have not seen it.
+753000	754000	You still haven't seen it now?
+754000	759000	No, I heard about it. It's got Generation 1 Pokemon and Lucario.
+759000	761000	And that's all I heard about it.
+761000	766000	Well, it's got this really weird intermix, real life stuff.
+766000	771000	It even shows a guy at a football game getting prepped, ready to go out on the field.
+771000	776000	And as he walks out, you know how football players will tap the ceiling type thing?
+776000	780000	The ceiling says, I want to be the very best.
+780000	783000	There's a whole bunch of little Easter eggs in that commercial.
+783000	784000	Exactly.
+784000	788000	But then the other part is that a lot of the Pokemon that are in it just look like they're fucking real.
+788000	792000	Like there's a Pikachu chilling out in somebody's living room that just looks like it's the family cat.
+792000	799000	And everybody, of course, is going, this is what Pokemon Go is going to be like with stars in their eyes.
+799000	804000	And it's like, no, if you've ever played Ingress, Pokemon Go will be nothing like what you think it's going to be.
+804000	808000	Just like the trailers for Ingress, it's like this big epic thing.
+808000	811000	It's like, dude, this is going to be so awesome.
+811000	816000	You'll be sitting there on my cell phone and saying, no, it's not awesome. There's nothing.
+816000	820000	I love Ingress. I've met many amazing people playing Ingress.
+820000	823000	It's a great game, but it's nothing like the trailer.
+823000	828000	The trailer, it's not any more close to that. People do not do that at all.
+828000	835000	I encourage you to watch the Ingress trailer and then watch the Pokemon Go trailer and look at the fast one they're pulling on you.
+835000	838000	And again, that's not a slam on Pokemon Go. I can't wait to play it.
+838000	840000	I think it's going to be the MMO that everybody's been waiting for.
+840000	845000	But anyway, so this Pokemon commercial has been on TV and I know a lot of people are talking about that.
+845000	847000	But how about video game commercials in general?
+847000	850000	I personally don't see as many of them as I used to.
+850000	856000	And that's probably because, well, I don't watch as many TV shows in general.
+856000	859000	Or if I do, it's on Netflix, so there are no commercials.
+859000	862000	Or I think a lot of people have the power to fast forward commercials.
+862000	866000	But I certainly know that video game commercials were a huge part of my youth.
+866000	870000	And I want to know from the crew in here, and for those of you in chat,
+870000	880000	if you remember any epic video game commercials and how it might have sold you on the game or maybe made you want the game even more.
+881000	886000	So, video game commercials. Anybody? Want to start us off, Loki?
+886000	894000	Video game commercials? I don't know. I think a lot of the ones for Grand Theft Auto were pretty cool.
+894000	899000	Just they set them to music and stuff. Like, I remember San Andreas, you know, that was pretty awesome.
+899000	906000	Even Grand Theft Auto 5. But Grand Theft Auto 5, I just watched the trailers like crazy anyways before the game came out.
+906000	914000	I can't really think of any 80s commercials or anything for video games that just kind of got me hyped up about them or anything. I don't know.
+914000	922000	In chat, Bobby Blackwolf says, I still see Call of Duty commercials and they show review scores from all these tiny sites that gave them great marks.
+922000	928000	Which is the exact same thing that happens with movies. And they'll cut things completely out of context and all this other stuff too, right?
+928000	934000	Bobby says, we could get into a Call of Duty commercial if VOG wants to give Call of Duty a high rating and submit it to them.
+934000	941000	We're not going to sell out like that. If somebody on our staff happens to truly enjoy a Call of Duty game, then so be it.
+941000	943000	We'll give it a 10. A 10 out of 1.
+943000	945000	You want to be a 10 out of 100?
+945000	951000	It would just be like, you know, we'll just reverse the order. 10 higher the number, worse the game is.
+951000	953000	10 out of 10. It's okay.
+953000	956000	It's a 10th place position.
+956000	960000	And he's the one person not drinking wine. Just, you know, Dark Sakura.
+960000	963000	Four words. Your vision is our vision.
+963000	965000	What was? I don't remember that.
+965000	966000	ColecoVision.
+966000	969000	Oh! I'm too young for that.
+969000	973000	Was that weird baby commercial in the Super Bowl at all?
+973000	978000	Like for the Playstation 3, did they start doing that around that time? Or was that way...
+978000	981000	So it was ColecoVision for you, Dark Sakura?
+981000	985000	I just remember that being the first video game commercial I have a memory of.
+985000	986000	Sure.
+986000	991000	And it was only 1982, which I think you existed.
+991000	993000	I did exist. I'm just giving you crap.
+993000	999000	I remember the Atari 2600 kiosks at Thrifty's Payless or whatever.
+999000	1001000	I think it was just Payless at the time.
+1001000	1008000	The item that Dan and I sat and cleaned up on the kitchen table a few days ago was the same ColecoVision I owned as a kid.
+1008000	1009000	Wow. And it still works?
+1009000	1010000	Still works.
+1010000	1011000	That's amazing.
+1011000	1017000	On top of that, it still had the little technical advice safety sticker on the top of it.
+1017000	1021000	With adhesive that never died or something.
+1021000	1025000	So we actually did save the sticker and put it in the bottom of our Frogger box full of annuals.
+1025000	1026000	That's awesome.
+1026000	1027000	Yeah.
+1027000	1031000	So, we've got pictures of it. I'll post it somewhere.
+1031000	1039000	The one that always comes to mind wasn't necessarily the video game commercial, but it was the Nintendo cereal commercial.
+1040000	1042000	Because Nintendo is for breakfast.
+1042000	1044000	Now, who doesn't remember that song?
+1044000	1046000	Well, it's our age. That's our age.
+1046000	1047000	Okay. I was like, I don't remember.
+1047000	1048000	Did you ever have Nintendo cereal?
+1048000	1051000	I'm pretty sure I did, but I don't remember having a commercial for it.
+1051000	1054000	It wasn't terrible, but it was pure sugar.
+1054000	1055000	It was pure sugar.
+1055000	1056000	It was awful.
+1056000	1057000	That sounds really good.
+1057000	1059000	I ate as a kid was like grape nuts and total.
+1059000	1061000	I hated kid cereals.
+1061000	1062000	I like that.
+1062000	1063000	Except for Rice Krispies.
+1063000	1065000	I didn't like total, but I like Chex.
+1065000	1066000	That's what I like.
+1066000	1067000	Chex is the bomb.
+1067000	1069000	That's why they still make mix out of it.
+1069000	1071000	Don't they still sell Chex?
+1071000	1075000	Yeah, but you take Chex and you just cover it in cinnamon.
+1075000	1076000	Sounds good to me.
+1076000	1077000	And then you add this stuff to it.
+1077000	1080000	Like real cinnamon and not that fake cinnamon crap they put on.
+1080000	1081000	Cinnamon Toast Crunch.
+1081000	1085000	Chex, I was going to say, Chex was cinnamon. Isn't that just Cinnamon Toast Crunch?
+1085000	1089000	Because the Cinnamon Toast Crunch was not good or real cinnamon.
+1089000	1092000	Cinnamon Toast Crunch is also not good if you put it in milk.
+1092000	1095000	Nasty, nasty, nasty crap.
+1095000	1097000	Golden Grahams is like crack.
+1097000	1098000	That was awful too.
+1098000	1099000	Instead of Cheerios.
+1099000	1102000	As soon as they eat one, I'm like, I got to consume the entire box.
+1102000	1106000	I am actually one of the crazy people that hates the taste of Cheerios.
+1106000	1109000	I like Honey Nut Cheerios, but not...
+1109000	1111000	The sweetest thing that I liked as a kid was Frosted Mini-Wheats.
+1111000	1112000	Wait a minute.
+1112000	1114000	The kick off topic was supposed to be...
+1114000	1115000	Cereal.
+1115000	1116000	Commercials, not breakfast, cereal.
+1116000	1118000	We can do that another time.
+1118000	1122000	Shane, okay, so you're a whopping five years younger than me.
+1122000	1124000	So what do you remember?
+1124000	1126000	I can't remember any commercials.
+1126000	1128000	Like I'm literally racking my brain.
+1128000	1130000	But they still show them today.
+1130000	1131000	I know, but I don't...
+1131000	1134000	The last time I remember seeing one was during South Park.
+1134000	1135000	I'm sure there's like...
+1135000	1138000	I've seen like Assassin's Creed or Call of Duty commercials.
+1138000	1147000	But I can't think of a single commercial right now that I've seen at all.
+1147000	1149000	I don't know why.
+1149000	1152000	I remember a commercial for Link's...
+1152000	1157000	The Link game that was on Super Nintendo that was...
+1157000	1158000	Link to the Past?
+1158000	1159000	Yeah, Link to the Past.
+1159000	1160000	It was pretty amazing.
+1160000	1161000	I don't know.
+1161000	1162000	I have nothing.
+1162000	1163000	Absolutely nothing for commercials.
+1163000	1164000	I had that when it came out.
+1164000	1165000	Yeah.
+1165000	1166000	No, it was good.
+1166000	1170000	So I just don't think they ever existed at this point, because I can't remember it.
+1170000	1172000	Did you watch TV as a kid?
+1172000	1173000	I feel like I probably did.
+1173000	1175000	What shows were you watching, though?
+1175000	1177000	Because if you were watching like adult shows...
+1177000	1178000	Like adult shows.
+1178000	1182000	Let's say when you were 10.
+1182000	1183000	Power Rangers.
+1183000	1184000	Okay, will you show...
+1184000	1188000	And X-Files.
+1188000	1189000	What?
+1189000	1191000	It's just a funny combination.
+1191000	1192000	Power Rangers and X-Files.
+1192000	1193000	I remember.
+1193000	1196000	That's like two of my favorite shows when I was a kid.
+1196000	1198000	That commercial was lame.
+1198000	1199000	Oh, the Pokemon one?
+1199000	1200000	You just watched it?
+1200000	1201000	Yeah, I just watched it.
+1201000	1202000	Which thing is lame?
+1202000	1203000	Why was it lame?
+1203000	1204000	It's just stupid.
+1204000	1205000	It's just like, oh, I can do that.
+1205000	1206000	I can do that.
+1206000	1210000	And then they're training to be the best, I guess, in whatever crap that they're doing.
+1210000	1212000	And then it's just some random Pokemon shit.
+1212000	1221000	I never got my video game desiring stuff from commercials.
+1221000	1225000	Because I had subscriptions to Nintendo Power and GamePro, so I saw print ads.
+1225000	1228000	And I never really saw TV ads for games.
+1228000	1230000	There were a lot of legendary print ads, though.
+1230000	1232000	I can't even remember those, but I have no idea.
+1232000	1234000	Genesis does what Nintendo does.
+1234000	1235000	That was epic.
+1235000	1237000	I had GamePro, and that was all just one ad.
+1237000	1238000	That was a TV commercial, right?
+1238000	1243000	The Dark Side was just seeing the little jingle over there.
+1243000	1246000	That's how they showed off that Street Fighter Championship Edition was going to be a thing
+1246000	1249000	on Genesis, right?
+1249000	1254000	And having the long-term argument over which version of Samurai Shodown was better.
+1254000	1256000	Which, by the way, was the SNES version.
+1256000	1260000	Alan Alchemy is off work tonight and wanted to make a quick cameo on the show to talk
+1260000	1262000	on this topic.
+1262000	1264000	If you guys mentioned this previously, I apologize.
+1264000	1266000	I'm going to look really stupid.
+1266000	1270000	But who remembers the Legend of Zelda commercial that had nothing to do with Legend of Zelda?
+1270000	1272000	It was a guy in the turtleneck in a maze.
+1272000	1273000	Zelda!
+1273000	1274000	He was like, Octorot!
+1274000	1278000	And he's shouting the names of the monsters, and then they showed a little gameplay footage.
+1278000	1279000	And you had no idea.
+1279000	1281000	It was the weirdest commercial.
+1281000	1284000	You can probably find it on YouTube.
+1284000	1288000	I feel like that commercial came up on the show not even a month ago.
+1288000	1290000	I mean, yes, that was an epic commercial.
+1290000	1291000	But yeah, I think we played it.
+1291000	1292000	Epicly stupid.
+1292000	1293000	It was pretty stupid.
+1293000	1297000	I think we watched it going, what does this actually have to do with the game whatsoever?
+1297000	1299000	Okay, I thought of one for Shane.
+1299000	1301000	Because I know when I was young.
+1301000	1302000	Here's the thing.
+1302000	1304000	Maybe it wasn't video game commercials.
+1304000	1306000	And we'll end on this, and we'll go into our gaming week.
+1306000	1308000	Maybe it wasn't video game commercials.
+1308000	1311000	But it was product placement for video games that was a big seller.
+1311000	1316000	And what I'm talking about is, when I was young, and when Jamie was young,
+1316000	1319000	they had a show on TV called Starcade.
+1319000	1320000	And that's where...
+1320000	1321000	Starcade was great.
+1321000	1324000	Yeah, they would play the actual 80s arcade games.
+1324000	1325000	And GameProTV.
+1325000	1327000	Like Kongo Bongo and shit.
+1327000	1328000	And trying to set the high scores.
+1328000	1333000	But now, five years later, probably when you were younger, around that 10 age,
+1333000	1336000	Nick Arcade was the thing that was on TV.
+1336000	1340000	Now, do you remember seeing stuff on Nick Arcade going, I want to get that?
+1340000	1341000	No.
+1341000	1343000	Really?
+1343000	1344000	No, I didn't.
+1344000	1345000	Well, that was anticlimactic, wasn't it?
+1345000	1348000	You want to know what's great, though, is that I remember on GameProTV,
+1348000	1352000	they had that one kid who was...
+1352000	1354000	It was hosted by J.D. Roth.
+1354000	1355000	No, no, no, no.
+1355000	1356000	Funhaus?
+1356000	1358000	Yeah, who was the Funhaus guy.
+1358000	1360000	But no, J.D. Roth didn't do this one.
+1360000	1362000	He's the producer of The Biggest Loser.
+1362000	1363000	Yeah.
+1363000	1364000	Fun fact. Anyway.
+1364000	1369000	But, well, it was when they showed the Neo Geo.
+1369000	1370000	Ah.
+1370000	1372000	And had the cards and everything.
+1372000	1374000	And I was like, I need this in my life.
+1374000	1379000	And I made it my dream goal as a gamer to own a Neo Geo.
+1379000	1381000	And then when you got an income...
+1381000	1382000	No.
+1382000	1383000	You bought a Neo Geo, right?
+1383000	1388000	When I got with Dan, he had a Neo Geo.
+1388000	1390000	And I knew he was a keeper.
+1390000	1394000	Some women, they want some flowers.
+1394000	1396000	They want a diamond ring.
+1396000	1399000	Dark Sakura wants her man to have a Neo Geo.
+1399000	1401000	I love it.
+1402000	1407000	Well, and I honestly, I kind of put the goal off for a while because I worked at an arcade
+1407000	1411000	and we had all kinds of Neo Geo cabs and everything.
+1411000	1413000	And it were all the games that I wanted to play.
+1413000	1414000	We had a Metal Slug.
+1414000	1417000	We had the widescreen Samurai Shodown 4 and everything.
+1417000	1419000	And I was happy.
+1419000	1425000	And then I moved out here and Dan had a Neo Geo and a Sega CD.
+1425000	1426000	And I was like...
+1426000	1428000	I'm moving in.
+1428000	1433000	Well, and the thing is, when I shipped my stuff ahead of time so that when I...
+1433000	1437000	The day I arrived, actually my big thing of luggage arrived.
+1437000	1442000	And in it was my Super Nintendo and Dan knew I was a keeper.
+1442000	1449000	You know, Nintendo did a great job of advertising kind of by using commercials in a way.
+1449000	1453000	It was like, if you had Nintendo Power, sometimes they would send you video tapes, VCR tapes
+1453000	1454000	of upcoming games.
+1454000	1455000	And I got one for like...
+1455000	1456000	Videos.
+1456000	1457000	I got one for Donkey Kong.
+1457000	1458000	I remember that.
+1458000	1459000	Donkey Kong Country.
+1459000	1463000	I believe I got one for Killer Instinct.
+1463000	1464000	There was one for Killer Instinct.
+1464000	1465000	Yeah.
+1465000	1466000	Because didn't it also come with the Killer Cuts album?
+1466000	1467000	No.
+1467000	1469000	That was when you bought the Super Nintendo game.
+1469000	1470000	Yeah.
+1470000	1471000	Okay.
+1471000	1472000	Which I got mine at Montgomery Wards.
+1472000	1475000	I got several games from there too.
+1475000	1476000	That's right.
+1476000	1477000	My Nintendo came from Sears.
+1477000	1478000	I paid 60 bucks for it.
+1478000	1481000	Back when Sears was a major player in gaming.
+1481000	1483000	And I still have my Killer Cuts.
+1483000	1486000	I got Einhander from Montgomery Wards.
+1486000	1489000	Remember when we were all kids, there was no GameStop.
+1489000	1490000	There was a...
+1490000	1491000	Funkoland was in a magazine.
+1491000	1492000	I remember that.
+1492000	1493000	I didn't have Funkoland.
+1493000	1494000	But that was KB Toys.
+1494000	1496000	Yeah, it was like KB Toys and Toys R Us.
+1496000	1500000	I had Electronics Boutique and software, et cetera.
+1500000	1503000	Remember when we went to the Toys R Us and Chico and they still had the pull caps?
+1503000	1504000	That was so cool.
+1504000	1505000	That was so cool.
+1505000	1506000	Oh my God.
+1506000	1508000	It's like a Toys R Us of the 90s with the pull slip.
+1508000	1509000	Yes.
+1509000	1510000	Babbages.
+1510000	1516000	And our Babbages was, we had a Babbages in the mall and we had a software, et cetera,
+1516000	1521000	that was part of Barnes and Noble, like in the back.
+1521000	1523000	And that was also the first Starbucks I ever went to.
+1523000	1525000	I used to get all my stuff for half price there.
+1525000	1528000	Going to our chat over at live.vognetwork.com.
+1528000	1533000	Dungeon Buster says, if I recall correctly, there was a Neo Geo ad comparing itself as
+1533000	1538000	a fully loaded hot dog versus a plain boring one, all the other consoles.
+1538000	1539000	I remember that actually.
+1539000	1540000	I, that is true.
+1540000	1542000	That was a, that was a real thing.
+1542000	1543000	This hot dog costs $500.
+1543000	1547000	This hot dog, not $500.
+1547000	1549000	But the $500 one is fully loaded.
+1549000	1551000	It better be for $500.
+1553000	1554000	All right.
+1554000	1555000	Well, uh, let's see.
+1555000	1559000	NSJ100Matt says Toys R Us and Sears were my local game stores as a kid.
+1559000	1561000	So, um, I used to go to Fry's.
+1561000	1567000	I remember like, uh, Street Fighter II came from a software, et cetera, but that was,
+1567000	1568000	mine came from a pawn shop.
+1569000	1573000	I used to pre-order my games at both software, et cetera, and Electronics Boutique in the
+1573000	1574000	same mall.
+1574000	1576000	And then just like decide later which one I wanted to go to.
+1576000	1579000	Cause I could never remember which one was upstairs or downstairs.
+1579000	1582000	So I was just like, I'll call in and do it over the phone.
+1582000	1583000	Wow.
+1583000	1584000	Yeah.
+1584000	1585000	Wow.
+1585000	1586000	It didn't matter.
+1586000	1587000	It didn't matter.
+1587000	1589000	All right, let's get into our gaming week.
+1589000	1592000	So we've had a fun walk down memory lane, but let's talk about the types of video games
+1592000	1596000	that we have been playing a little more recently, such as this week.
+1596000	1598000	Uh, Dark Sakura, you got a couple of weeks to catch us up on.
+1598000	1599000	How was your gaming week?
+1599000	1603000	It was actually kind of eventful because I was sitting down to play Dragon Age Inquisition
+1603000	1607000	today and I just got this random thing.
+1607000	1613000	I was looking at different mods and decided that, um, these screenshots that someone posted
+1613000	1616000	of Dragon's Dogma actually looked kind of cool.
+1616000	1623000	And so I, you know, it was on sale for that, whatever Steam thing sale they're doing is.
+1623000	1629000	Um, and so I decided that I was going to buy it and I started playing it and it was
+1629000	1632000	actually super, super nice.
+1632000	1637000	And I see Shane's iPad, so I'm going to airdrop him a picture of a Cliccovision.
+1637000	1639000	I had a Cliccovision.
+1639000	1646000	I, um, before I left Kansas, I found it and tried to turn it on and the only game I could
+1646000	1651000	find the scary cat in the hat mix up game that just, I hate so much and it wouldn't
+1651000	1652000	work.
+1652000	1653000	So I was okay.
+1653000	1660000	Well, we also had Tecmo Bowl going on today because Dan wanted to see which team Tecmo
+1660000	1664000	Bowl would pick and they picked the Panthers.
+1664000	1669000	Um, uh, but Dragon's Dogma is pretty neat so far, but it really felt like a knockoff
+1669000	1671000	of Origins at first.
+1671000	1675000	And then, um, it actually got better after character creation.
+1675000	1683000	It, it, the story definitely veered, but I forgot that it was, um, uh, Capcom that was
+1683000	1686000	the, uh, uh, producer.
+1686000	1691000	So I was a little surprised and kind of dismayed with myself for giving Capcom money, but oh
+1691000	1692000	well.
+1692000	1699000	Um, and then, um, I've been playing some more, um, Animal Crossing, Happy Home Designer,
+1699000	1702000	which that game makes me happy in my heart.
+1702000	1705000	Does it make you a home designer in your heart too?
+1705000	1706000	I guess.
+1706000	1708000	A virtual home designer.
+1708000	1715000	You know, I, I, I broke out my, um, amiibo, uh, the, the, the amiibo and, uh, made Cyrus
+1715000	1716000	a home today.
+1716000	1717000	I love Cyrus.
+1717000	1722000	I figured if I do kicks, it's just going to be nothing but like shoes all over the place.
+1722000	1727000	And I'm going to put a big sign in front of his house that says OMG shoes.
+1727000	1729000	Um, uh, Shane sent me a dog.
+1729000	1730000	Yeah.
+1730000	1733000	I, well, you sent me a picture, so I was like, I need to return the favor.
+1733000	1734000	So here's a puppy.
+1734000	1735000	Nice.
+1735000	1737000	We're air dropping here in studio.
+1737000	1743000	Um, I also cleaned out a bunch of games out of my steam library that I'm not playing because
+1743000	1749000	I'm going to be changing out my hard drive in my PC for a terabyte hard drive soon.
+1749000	1756000	And, um, Dan and I are actually going to be doing the full home rig switch over to max
+1756000	1763000	after, uh, income tax comes back in depending, depending cause we also wanted, you know,
+1763000	1766000	actually clean up the game room and do stuff to it.
+1766000	1769000	We're also going to be selling off some of the vault.
+1769000	1771000	You've been threatening to do this for a while.
+1771000	1772000	No, it's starting.
+1772000	1775000	We've actually gone to see how many duplicates of things we have.
+1775000	1778000	Do you know that we own six Nintendos?
+1778000	1779000	Wow.
+1779000	1780000	I think six.
+1780000	1781000	Well, one of them's loaned out.
+1781000	1783000	One of them is the really crappy one.
+1783000	1785000	Two of them are fine decks.
+1785000	1789000	Two of them are in the box and one of them's a top loader.
+1789000	1792000	I love that you have it all detailed that much.
+1792000	1793000	That's what you said.
+1793000	1794000	One of them's the crappy one.
+1794000	1795000	Like it's broken.
+1795000	1796000	Oh, it's broke.
+1796000	1797000	Okay.
+1797000	1798000	Yeah.
+1798000	1799000	This still, it still works cause it's Nintendo.
+1799000	1804000	I mean, um, we also were probably going to be selling off my super Nintendo cause it's,
+1804000	1808000	it's got, it was, it's got the stain on it and we've got, you know, one that's really
+1808000	1809000	pretty.
+1809000	1811000	And then we have, uh, the new style, one of those as well.
+1811000	1818000	Um, so anyone out there interested in buying a piece of the vault, let me know cause I
+1818000	1821000	will give OLR people first crack.
+1821000	1824000	Um, other than that, um, haven't really been, oh yeah.
+1824000	1825000	Heroes of Dragon Age.
+1825000	1832000	This is my, my drug now because I want Cullen and the stupid game won't give, give me, it'll
+1832000	1836000	give me a million reanimated Leandras, but no Cullen.
+1836000	1841000	Although I do now have a King Galister and that makes me happy too because he's precious
+1841000	1844000	King cinnamon roll and now I'm done.
+1844000	1845000	All right.
+1845000	1846000	Let's go over to Loki.
+1846000	1847000	How was your gaming week?
+1847000	1854000	Um, my gaming week was pretty much consisted of, uh, Lego Marvel Avengers.
+1854000	1857000	I played through the rest of the mission.
+1857000	1858000	I think it's all story missions now.
+1858000	1859000	I have to go back and check.
+1859000	1864000	Um, but basically the main game, the main portion of that is just the first two Avenger
+1864000	1868000	movies and they have three separate missions that cover the other movies that are kind
+1868000	1871000	of in between Avengers and Avengers two.
+1871000	1878000	So there is Thor Dark World, Captain America, Winter Soldier and Iron Man three, all of
+1878000	1882000	which I've not seen the movies yet for those, but it played through all the levels for me.
+1882000	1884000	Kind of a gist of what kind of happens now on this.
+1884000	1888000	So I finished all those and unlocked a bunch of characters and all that fun stuff.
+1888000	1894000	Still really frustrates me that the cars drive like shit and also that the, um, map
+1894000	1899000	for whatever reason, they got rid of the map and it's this really small radar screen that
+1899000	1902000	they have now that makes it fucking impossible to find anything you're looking for in the
+1902000	1903000	game is super easy.
+1903000	1908000	Like in the old game to kind of eliminate, okay, here's all the different things I've
+1908000	1909000	already unlocked.
+1909000	1911000	Um, you know, I need to figure out which character I'm missing.
+1911000	1912000	Oh, okay.
+1912000	1914000	He's up here in the corner of the screen or something like that.
+1914000	1915000	Now you can't.
+1915000	1920000	You just have to run around randomly to all these colored dots and hopefully one of them
+1920000	1923000	is the same is what you're looking for.
+1923000	1927000	It's just really frustrating the way they decided to do that and for no apparent reason,
+1927000	1931000	because all that they did was like the, the button that was the map before, which was
+1931000	1936000	like the touch pad on the PlayStation four now is a go to space button, which actually
+1936000	1937000	they have that in the pause menu as well.
+1937000	1941000	So it's stupid that they got rid of it.
+1941000	1946000	Uh, that being said, also played, um, what was it?
+1946000	1948000	My son played a little bit of Lego, Marvel, um, superheroes.
+1948000	1950000	So I played a little bit of that as well.
+1950000	1955000	I'm very bored of that game since we've over 200 and like 30 hours into it.
+1955000	1959000	I will play that game with your son because they put Wiccan in it now.
+1959000	1960000	Yes.
+1960000	1961000	Yes.
+1961000	1964000	We have Wiccan already from a Lego vendors, so that's pretty cool.
+1964000	1965000	Um, still disappointed.
+1965000	1967000	Spiderman's not in it though.
+1967000	1972000	Um, they have all the other ones from ultimate Spiderman, but not Spiderman.
+1972000	1974000	And then what else did I play?
+1974000	1976000	I also played ingress.
+1976000	1979000	I'm about 500,000 away from level 11.
+1979000	1983000	So, so just kind of playing it on my compute and commutes and stuff.
+1983000	1987000	And also, you know, on my way to the show today, I knocked down two big fields and stuff.
+1987000	1989000	So did that.
+1989000	1991000	And then what else?
+1991000	1992000	What else did I play?
+1992000	1996000	Um, I know there's something else I played.
+1996000	2000000	I bought some more games, I thought, on the PlayStation four because they were having
+2000000	2002000	some sales and everything.
+2002000	2007000	So I want to say I was playing one of those, but yeah, apparently it was so awesome that
+2007000	2009000	I completely forgot about it.
+2009000	2012000	So I think maybe some follow up.
+2012000	2013000	That's it.
+2013000	2016000	I did disconnect myself from the internet though, because they're going to patch out
+2016000	2020000	one of the glitches I've been using and I don't want that to happen.
+2020000	2022000	Like, no.
+2022000	2023000	All right.
+2023000	2028000	Um, my gaming week was, um, pretty, uh, I really only played Diablo three.
+2028000	2033000	I've been playing a lot of Diablo three seasons and I'm sure this made up the bulk of Shane's
+2033000	2034000	week as well.
+2034000	2039000	Uh, but it's kind of like a thing like now, like, cause Diablo three, I feel like spoilers
+2039000	2040000	for my week.
+2040000	2042000	Well, I feel like we've played a lot.
+2042000	2045000	Like last night we played a ton and then like there was another day this week we played
+2045000	2050000	some, but it's like me, you, our friend Dom, and then Alan will all play online.
+2050000	2053000	So it's like a perfect, like a little four player set up and we're all different classes
+2053000	2054000	in the season.
+2054000	2056000	So, uh, that's been kind of fun to progress in the rifts and all that.
+2056000	2058000	So I'm having a great time with Diablo three.
+2058000	2061000	I, a little, I still been dabbling a little bit in fall of SE 14.
+2061000	2064000	I did sign on enough to do the holiday event cause they have the Valentine's, but they
+2064000	2066000	call it Valentine or something.
+2066000	2067000	They call it something different in the game.
+2067000	2071000	Um, and I did that event real quick just to do that.
+2071000	2075000	Uh, I'm more kind of waiting for the content patch though, which I think is while I'm at
+2075000	2079000	magfest is when, or like right when I get back, it was in that content patch comes out.
+2079000	2081000	So, um, there's that to look forward to.
+2081000	2083000	Otherwise I, I honestly didn't play a lot of stuff.
+2083000	2084000	I'm sorry guys.
+2084000	2088000	A little bit of fall of SE explorers, but, um, I, I kind of slacked off on gaming this
+2088000	2089000	week.
+2089000	2091000	Uh, Shane, how was your gaming week?
+2091000	2094000	Um, so I played a little bit of Diablo.
+2094000	2100000	I didn't, I don't think it's as much as you are kind of exclaiming, but mostly I played
+2100000	2103000	more than you because Alan and I will play without you and without Dom.
+2103000	2107000	So there, there is more that I played a bit of explorers.
+2107000	2109000	Explorers still really love that game.
+2109000	2114000	Mostly, mostly DJ Max Technica on my iPad.
+2114000	2116000	Like I can't get enough of it.
+2116000	2117000	It's so good.
+2117000	2121000	I wish they would update it, but it hasn't been updated in over a year, but I want more
+2121000	2126000	songs even though like technically I think it has like a hundred, but you have to pay
+2126000	2127000	for them.
+2127000	2130000	So I'm not going to get most of them, but it's really fun.
+2130000	2131000	I love it.
+2131000	2138000	I also, um, got a fan translation for the second Ace Attorney Investigations game.
+2138000	2143000	And so I started playing that cause I love the Ace Attorney games, but I didn't even
+2143000	2150000	make it past like the first examining stage before I was like, I'm too tired to keep playing.
+2150000	2152000	It's a lot of reading, but it's good.
+2152000	2154000	I like, I like the music a lot.
+2154000	2158000	So, um, that's all the games I played.
+2158000	2160000	Technica, some Cytus.
+2160000	2161000	That's it.
+2161000	2162000	All right.
+2162000	2167000	Uh, before we get into tonight's gaming news, I want to just do some quick housekeeping.
+2167000	2171000	Uh, we will be here live next week in seven days, but we will not be here live in two
+2171000	2172000	weeks.
+2172000	2176000	That is because I'm going to be in the Washington DC area at MagFest.
+2176000	2177000	I'm very excited to be there.
+2177000	2181000	Um, OLR and VOG Network, we're not really doing anything in an official capacity.
+2181000	2186000	We're just going because honestly, um, a lot of our listeners have been saying you should
+2186000	2187000	go.
+2187000	2191000	And, um, after last year when I, I wasn't really, I'm in all honesty and transparency,
+2191000	2195000	I wasn't really feeling PAX East and I'm sorry to all the fans there.
+2195000	2198000	And, and I know there's some great people that still go and so forth, but I just, I
+2198000	2201000	wasn't feeling it quite the same way and I wanted to try some different shows.
+2201000	2203000	So, um, a lot of folks were like, you should try MagFest.
+2203000	2207000	So I said, okay, so we're going to do MagFest this year.
+2207000	2209000	So I'm really excited to go and check that out.
+2209000	2210000	Um, so I will be there in two weeks.
+2210000	2212000	So that is very exciting.
+2212000	2214000	Bobby Blackwell from the Voice of Geeks Network also going to be there.
+2214000	2216000	I know some of our listeners are coming as well.
+2216000	2221000	Um, and, uh, my buddy who is on the Koopa Club podcast is going to be there.
+2221000	2223000	So, uh, I'm sure there will be no shortage.
+2223000	2224000	I saw some podcast panel.
+2224000	2227000	We have nothing to do with it, but there was some gaming podcast and I apologize.
+2227000	2231000	I forget the name of the moment of who you were, but, um, there, there's, there will
+2231000	2234000	be no shortage of podcasters I'm sure at, uh, MagFest.
+2234000	2237000	So I'm looking forward to having a very good time there.
+2237000	2242000	Uh, stay tuned to our forums for more information on any, uh, potential meetup at the show.
+2242000	2245000	Uh, we're hoping to do like an unofficial type of meetup there, but I'll be really easy
+2245000	2246000	to find.
+2246000	2249000	Just, uh, look for like, look, look for a Tron machine.
+2249000	2253000	Uh, look for Dig Dug cause I'm really, you know, I play that and I'm, I like that game
+2253000	2254000	a lot.
+2254000	2257000	Uh, or look for, um, like a classic Star Wars.
+2257000	2260000	If they have like one of those Star Wars caps, especially if you can sit in it, like they
+2260000	2263000	have at, um, California Extreme, I will definitely be playing that.
+2263000	2264000	So, all right.
+2264000	2266000	Uh, so I'm excited about MagFest.
+2266000	2269000	SSG100Matt says, I'm getting really hyped for MagFest.
+2269000	2271000	I mentally packed this week.
+2271000	2276000	Hey, when I saw that schedule come out and I saw that they are actually screening a Clue
+2276000	2282000	VCR game documentary, that's when my hype began because that, that was like my childhood
+2282000	2283000	right there.
+2283000	2287000	That's, that's why I didn't see commercials cause I was watching that damn Clue VCR game
+2287000	2292000	and that's in addition to the movie from 85, like over and over and over again on my beta.
+2292000	2297000	Um, anyway, so, uh, another big, uh, thing to mention here on OLR, we mentioned this
+2297000	2300000	on Bobby's show before we started tonight, but I think it's appropriate to mention here
+2300000	2301000	too.
+2301000	2304000	Uh, this affects the voice of geeks network, uh, in seven days.
+2304000	2309000	So next Sunday at six o'clock right in between Bobby's show and our show, we're going to
+2309000	2314000	be doing a special, uh, quick little state of the station update where we are going to
+2314000	2321000	be announcing not one new show, not two new shows, three new shows joining the voice of
+2321000	2324000	geeks network, uh, effective next week.
+2324000	2328000	And you'll get to hear a preview of at least one of them, if not more right after OLR next
+2328000	2329000	week.
+2329000	2331000	Um, so I'm very excited about that.
+2331000	2333000	We're going to be making that announcement, um, next week.
+2333000	2334000	So stay tuned.
+2334000	2337000	Uh, meanwhile, we're going to get into some gaming news.
+2337000	2339000	I think it's that time.
+2339000	2342000	Let's talk about what happened to video games this week, much more than football, right
+2342000	2343000	Loki?
+2343000	2344000	Uh, yes.
+2344000	2345000	So there's a rumor.
+2345000	2350000	Well, I should say there's always a rumor about this, but hopefully a little bit more
+2350000	2355000	to it, uh, that Nintendo is going to be finally localizing mother three.
+2355000	2361000	And this is coming from Emily Rogers, um, who is, I guess, a Nintendo focused writer
+2361000	2363000	who's made different predictions in the past.
+2363000	2369000	It basically has a source that has come forward, adding, um, some more evidence to this, basically
+2369000	2374000	saying that, you know, the 10th anniversary of the game, um, on, since it's launching
+2374000	2377000	Game Boy Advance in Japan is coming up soon.
+2377000	2383000	And they're saying that it's probably going to be released as like a virtual console game.
+2383000	2386000	So that'd be interesting.
+2386000	2388000	Well, it took them long enough.
+2388000	2389000	Jesus.
+2389000	2392000	Um, it's about to, I hope, I hope this is true.
+2392000	2394000	Um, it makes a lot of sense though.
+2394000	2395000	Um, I can't, okay.
+2395000	2399000	Again, I can't imagine the virtual console thing really costs him a lot of money.
+2399000	2405000	Um, especially that they could just take the ROM from Europe and put it out here.
+2405000	2409000	I mean, yes, I know that there was different, actually, no, cause it was a handheld game.
+2409000	2411000	I don't think the resolutions would have been any different.
+2411000	2415000	I know for some older games, you have different resolutions on that games.
+2415000	2418000	You literally, well, Game Boy Advance is a region free.
+2418000	2419000	I think you can just pop one in.
+2419000	2423000	So, there's no reason why this game shouldn't make a virtual console.
+2423000	2424000	I don't know if they did.
+2424000	2426000	They actually have a ROM though in Europe for that.
+2426000	2427000	It was released in Europe.
+2427000	2428000	Yeah.
+2428000	2429000	I don't think it was it.
+2429000	2430000	I'm, I'm almost positive.
+2430000	2431000	It was three.
+2431000	2432000	No, you're up.
+2432000	2433000	Didn't get it.
+2433000	2436000	I know nobody's got happen.
+2436000	2437000	Yeah.
+2437000	2440000	They had a, an English translated one already in Europe.
+2440000	2443000	I don't think people would give a shit because they would just be importing that.
+2443000	2448000	But this is, no, they don't have an English version of this aside from the one that has
+2448000	2449000	been fan made.
+2449000	2453000	Well, but it's not, okay, so clearly I'm crazy, which is fine.
+2453000	2459000	But, um, the, it's not completely crazy that they would have like a prototype that they
+2459000	2463000	could just like finish up with minimal resources because that's what happened to Earthbound
+2463000	2464000	Zero.
+2464000	2468000	And my assumption is they made a good chunk of change from Earthbound Zero, um, or Mother
+2468000	2472000	One as the case may be that they were, uh, able to justify doing this.
+2472000	2474000	Now it'll be interesting to see what they sell it as.
+2474000	2478000	Are they going to put it out as Earthbound Two and really confuse people?
+2478000	2481000	Are they just going to put it out as Earthbound Lucas's story or something?
+2481000	2482000	Earthbound The Final.
+2482000	2484000	Earthbound The Final.
+2484000	2485000	I don't know.
+2485000	2489000	Call it Mother Three or Earthbound Mother Three or something like that.
+2489000	2490000	Yeah, maybe Earthbound Mother.
+2490000	2491000	I don't know.
+2491000	2493000	We don't know what it really was called.
+2493000	2494000	Yeah.
+2494000	2496000	Now it's kind of like it's square eventually.
+2496000	2497000	Yeah.
+2497000	2499000	With, you know, Final Fantasy.
+2499000	2500000	Exactly.
+2500000	2504000	Square eventually kind of said, all right, we, everybody knows what's going on, but there
+2504000	2508000	still is a part of me that will call Final Fantasy Four, I guess.
+2508000	2512000	I will still call it Final Fantasy Two, but when I am specific, specifically speaking
+2512000	2517000	about the US version, which was kind of different, it was dumbed down, right?
+2517000	2520000	I can't think of it that way because I've spent a lot of time playing the Japanese Two
+2520000	2521000	and Three.
+2521000	2522000	Yeah, I know.
+2522000	2525000	And I love Three with the job system in it and everything.
+2525000	2526000	I know.
+2526000	2529000	I usually mention what system, like if I'm saying Final Fantasy Two on the Game Boy Advance,
+2529000	2530000	that's one game.
+2530000	2532000	But if I say Final Fantasy Two on the Super Nintendo, that's another.
+2532000	2533000	He goes, I don't know.
+2533000	2534000	That's just how I tend to label things.
+2534000	2537000	I've never played any of the Earthbound games, so.
+2537000	2538000	They're good.
+2538000	2541000	I mean, as far as RPGs go, I mean, you might have a hard-
+2541000	2542000	Be the game with prayer.
+2542000	2547000	You might have a hard time going back now, like, and this happens a lot with retro games,
+2547000	2548000	right?
+2548000	2551000	You kind of go back and you're like, what did I really see in this as a kid?
+2551000	2552000	Well, one of two things can happen.
+2552000	2554000	You can kind of have that approach.
+2554000	2558000	Or sometimes you really, like when I go back and play an old Mario game, like especially
+2558000	2562000	like Mario Two, I'm right back to being, you know, ten years old.
+2562000	2566000	Yeah, like I think like when you go back and play like Final Fantasy, like the Super Nintendo
+2566000	2570000	games, they still hold up for me, but like going back and playing Final Fantasy Seven,
+2570000	2572000	I was like, uh.
+2572000	2573000	Yeah.
+2573000	2575000	It's a little rough.
+2575000	2576000	It's a little rough.
+2576000	2578000	This isn't quite as good as I remembered it.
+2578000	2582000	That shit was, uh, that was like cutting edge at the time.
+2582000	2586000	Like, yeah, I was like super hyped about it because I love, like before that was, you
+2586000	2587000	know, Final Fantasy Three.
+2587000	2589000	I was like, dude, all this is so awesome.
+2589000	2593000	And then even still, I kind of remember how I felt playing it for the first time.
+2593000	2599000	It was just super, like, I love that whole just kind of, you know, futuristic tech and
+2599000	2601000	kind of that fantasy world type setting.
+2601000	2607000	I really liked that about six and seven had that all over the place.
+2607000	2609000	And so I was really hyped up about that.
+2609000	2610000	All right.
+2610000	2614000	Well, moving on to where, where this could possibly be announced.
+2614000	2619000	I mean, Earthbound Zero was an E3 thing last year, so why not Mother 3 for E3?
+2619000	2621000	If not sooner, maybe they'll do a direct.
+2621000	2625000	I mean, June is a long time to wait after all, and June will probably be dominated with
+2625000	2626000	NX conversation.
+2626000	2630000	But anyhow, let's talk about Bethesda and what they are planning for E3.
+2630000	2635000	You might remember last year, Bethesda actually cut into our show and we, like for the first
+2635000	2639000	time ever, we had to be like, all right, well, we know how it really goes.
+2639000	2645000	I mean, as far as gamers go, a press conference is bigger than the Super Bowl, right?
+2645000	2647000	Some people even call E3 the Super Bowl for gamers, right?
+2647000	2651000	So whereas I think there's plenty of you that will listen to this show as opposed to the
+2651000	2655000	Super Bowl, I don't know if there's people that are willing to miss press conferences
+2655000	2656000	to listen to this show.
+2656000	2659000	Although I know there's a few of you that would say I would.
+2659000	2663000	Depends if it's that PC gaming centric one from last year.
+2663000	2667000	Yes, I'm willing to miss that for the show because that was really lame last year.
+2667000	2668000	Yeah, but who knows?
+2668000	2673000	Maybe this will be the Skyrim HD year or I was hoping it would be the, you know, the
+2673000	2674000	Half-Life 3 here.
+2674000	2676000	But no, no, no, no.
+2676000	2678000	Or it'll be a new Elder Scrolls one these days.
+2678000	2682000	Gaben's going to be on the stage and everyone's going to lose their shit.
+2682000	2689000	It's going to be rolled down as life support Iron Lung, but it goes half life and die.
+2689000	2690000	But here's the thing.
+2690000	2692000	Bethesda, it is confirmed it is happening again this year.
+2692000	2696000	And it is on Sunday and it's going to be seven o'clock the same time.
+2696000	2702000	The save the dates went out and they did have the characters from Skyrim, Doom, Dishonored
+2702000	2703000	all showing up there.
+2703000	2706000	So I'm sure Dishonored 2 is a part of, you know, what they're going to be talking about.
+2706000	2708000	Skyrim HD! Skyrim HD!
+2708000	2711000	Maybe Fallout DLC, wherever that is at that point.
+2711000	2713000	We'll probably hear more about that.
+2713000	2717000	What's interesting though is that this year they're not going to be the first because
+2717000	2723000	as you remember us talking about last week with the whole E3 has just decided to literally
+2723000	2724000	do their own thing.
+2724000	2725000	They're not going to participate in E3.
+2725000	2729000	Instead they're going to be across the street and they're going to do their own conference.
+2729000	2733000	Well, I mean, they always did their own conference, but now they have to fire the first shot because
+2733000	2735000	their thing is opening a day earlier.
+2735000	2739000	So they're going to go Sunday at 4 Eastern.
+2739000	2741000	So they're not even going to be first.
+2741000	2742000	Sorry, EA is going to be first.
+2742000	2743000	Bethesda will not be.
+2743000	2746000	So when's Bethesda 7 PM?
+2746000	2748000	I believe Pacific.
+2748000	2749000	Alright.
+2749000	2750000	Yeah.
+2750000	2754000	So there's a big gap between them, but still.
+2754000	2759000	You know, now E3 has spilled into Sunday because you're going to have those guys on Sunday.
+2759000	2766000	Presumably you're going to have Microsoft and Sony again on Monday.
+2766000	2771000	And then you'll have Nintendo Tuesday morning, unless now that there's a gap with EA,
+2771000	2773000	somebody may fill in that gap.
+2773000	2775000	I don't know if that will be Nintendo.
+2775000	2776000	It's going to be Konami.
+2776000	2778000	They're going to have so many things to not talk about.
+2778000	2780000	Could be Square Enix.
+2780000	2784000	Remember Square Enix did their own thing last year, but it was kind of a, it was a direct like Nintendo.
+2784000	2789000	And I should say, even though I'm saying Nintendo conference, we all know they switched to the direct style.
+2789000	2795000	Although, I mean, if a console is showing up, this might be the year to go back to the old school way.
+2795000	2798000	I don't think a direct is necessarily a given.
+2798000	2799000	We'll see.
+2799000	2802000	I think a direct would still be nicer just in general.
+2802000	2806000	Nintendo's directs are always really straight to the point.
+2806000	2811000	And you can't have, you know, errors that happen on stage.
+2811000	2816000	Like when they were trying to target with Link and the Wii remote for Skyward Sword.
+2816000	2819000	They can cut all that out and just show what they want to show.
+2819000	2820000	Yeah.
+2820000	2821000	Not worry about that stuff.
+2821000	2824000	But you know, it does, it does lose a little something.
+2824000	2825000	I mean, I, you know, and I.
+2825000	2827000	Well, it'd be on the show floor.
+2827000	2833000	So why do we need to show it in front of an audience in an auditorium when people can just go see it on the floor?
+2833000	2836000	Why do people go to see artists live when you can listen to the CD?
+2836000	2837000	No, no, no.
+2837000	2838000	That's what I wondered to myself.
+2838000	2839000	Because going to.
+2839000	2840000	I understand what you're saying, Shane.
+2840000	2845000	He's basically saying that, you know, why bother just demonstrating it live in front of an audience when.
+2845000	2847000	When that same audience would be on the floor.
+2847000	2849000	Yeah, they're going to be seeing it live anyway.
+2849000	2850000	Do it there.
+2850000	2851000	There's something about it.
+2851000	2852000	Don't get me wrong.
+2852000	2853000	I'm not saying I'm like anti direct or anything.
+2853000	2854000	I'm not.
+2854000	2858000	No, there is something about like losing out on that essence of Nintendo.
+2858000	2862000	Like when they're demonstrating Wii music and having a guy drum.
+2862000	2864000	But you guys are fixating on their shittier years.
+2864000	2865000	No, no, no.
+2865000	2867000	No, I remember the year they opened.
+2867000	2870000	That was the year I met Koji Kondo and that was great.
+2870000	2873000	Remember the year they opened with the Zelda Symphony and all that.
+2873000	2874000	I mean, like I was.
+2874000	2875000	Reaction from the audience.
+2875000	2876000	I was.
+2876000	2878000	Wasn't that the year I was actually at their press conference?
+2878000	2883000	That was the Wii U demo on the screens and stuff.
+2883000	2886000	And then you could go play it on the show floor.
+2886000	2893000	I still think even being at a good Nintendo press conference that getting all the good
+2893000	2898000	information out in a direct is better than having an auditorium full of people who in
+2898000	2902000	like 10 minutes after that thing ends are just going to go play it anyway.
+2902000	2904000	So it makes no sense to me.
+2904000	2905000	All right.
+2905000	2910000	Well, that's the 100 Matt with a good tinfoil hat theory in our chat over at live.vognetwork.com.
+2910000	2914000	You have to think Square Enix is doing something unannounced with Nintendo.
+2914000	2916000	They seem to be buddy-buddy lately.
+2916000	2921000	Oh, remember those rumors from about a month ago that Nintendo is in bed with some particular
+2921000	2925000	company for NX and through the process of elimination.
+2925000	2929000	It seems like Square Enix is a very likely candidate for Nintendo to be in bed with.
+2929000	2931000	Although we don't know.
+2931000	2932000	It could be nothing.
+2932000	2933000	We'll see.
+2933000	2936000	It could be Sega.
+2936000	2939000	Maybe Phantasy Star Online 2 will be on the NX.
+2939000	2941000	Maybe that's what they've been waiting for this whole time.
+2941000	2942000	Maybe not.
+2942000	2943000	All right.
+2943000	2946000	Anyhow, we'll see what happens as the other pieces fall into place.
+2946000	2949000	I imagine we're going to hear more save the dates in the coming days.
+2949000	2953000	As far as this show, I don't know what we're going to do yet.
+2953000	2958000	So don't ask because I'm saying save the date like it's going to be a wedding.
+2958000	2959000	I know.
+2959000	2960000	Right.
+2960000	2961000	I don't know.
+2961000	2962000	I think it wasn't Shane.
+2962000	2966000	Last I checked, Shane was going to try to convince me to go to the EA thing to play
+2966000	2967000	Mass Effect.
+2967000	2968000	Oh yeah, because I want to go play Mass Effect.
+2968000	2969000	I wouldn't go to that.
+2969000	2971000	See, two people will convince you.
+2971000	2972000	Have fun.
+2972000	2973000	I can't take all that time off work.
+2973000	2974000	That's my problem.
+2974000	2977000	It's like two days because we don't have to go every day.
+2977000	2980000	Do you just want to just drive down there and hang out at EA and come back?
+2980000	2981000	Yeah.
+2981000	2982000	That is exactly what I would like to do.
+2982000	2983000	Have a great date.
+2983000	2984000	With a stop at Disneyland and then come back.
+2984000	2985000	Take pictures.
+2985000	2989000	As long as I still have time for Power Morphicon, yes.
+2989000	2990000	Alright, priorities.
+2990000	2991000	Priorities.
+2991000	2992000	Well, those tickets are already gone.
+2992000	2995000	I have a priority.
+2995000	2996000	Alright.
+2996000	2998000	What is your priority, Darcyra?
+2998000	3000000	My priority is...
+3000000	3001000	Disneyland?
+3001000	3002000	Yeah, actually.
+3002000	3003000	Tea cups?
+3003000	3006000	You know, I took a video just for you.
+3006000	3009000	Shedding a single tear at the former site of Bucket of Meat?
+3009000	3012000	I actually did cry a little bit into my stolen bucket.
+3012000	3014000	Aw, had you been drinking, though?
+3014000	3017000	No.
+3019000	3023000	To register participation for this week's episode of Orange Andrade with VoGnetwork.com,
+3023000	3025000	use the passphrase, sing.
+3025000	3026000	Alright, moving on.
+3026000	3027000	Next story, Darcyra.
+3027000	3028000	Okay.
+3028000	3032000	So, I know that you talked about the Fine Brothers last week.
+3032000	3033000	Yeah, we talked a little bit about this, but...
+3033000	3036000	About the whole trademarking the React thing.
+3036000	3039000	And actually, Dan and I watched their response video about that.
+3039000	3040000	It was pretty...
+3040000	3041000	I didn't see it.
+3041000	3042000	I only heard about it.
+3042000	3044000	But the response hadn't happened last week, because it wasn't just that.
+3044000	3046000	We talked about another trademark thing that was going on.
+3046000	3048000	I don't know if it was the Sony Let's Play thing.
+3048000	3049000	Yeah, it was.
+3049000	3050000	Yeah, so...
+3050000	3053000	Which has already been determined that it couldn't be trademarked.
+3053000	3054000	Yeah, it was that.
+3054000	3058000	It's, yeah, so it's like something in the common vernacular, so...
+3058000	3063000	Well, anyway, so the Fine Brothers, they had a lot of backlash.
+3063000	3066000	They lost like a million subscribers.
+3066000	3067000	Wow.
+3067000	3072000	And tons of dislikes on videos related to that whole thing.
+3072000	3079000	And so they finally, I guess, realizing that people do not like this course of action,
+3079000	3086000	no matter what they may think of it, decided to go back on it and say that they weren't
+3086000	3087000	gonna do it.
+3087000	3090000	In fact, they released a statement saying...
+3090000	3092000	I'm just gonna read this.
+3092000	3096000	We realized we built a system that could easily be used for wrong.
+3096000	3097000	We are fixing that.
+3097000	3101000	The reality that trademarks like these could be used to theoretically give companies the
+3101000	3107000	power to police and control online video is a valid concern.
+3107000	3112000	And though we can assert our intentions are pure, there's no way to prove them.
+3112000	3117000	So, yeah, they pulled it back.
+3117000	3124000	They are actually going to rescind the trademark filing, discontinue the licensing and tools
+3124000	3130000	plan, which they were calling the React World program, and release all past content ID claims
+3131000	3132000	on YouTube.
+3132000	3137000	Can I say something about this that might be a little bit unexpected and maybe, I guess,
+3137000	3141000	a little tinfoil haddish, but maybe like a moral of this story, perhaps?
+3141000	3143000	Because I kind of feel like...
+3143000	3145000	And I could be wrong.
+3145000	3148000	And I realized I was critical of this whole thing last week, as we all were.
+3148000	3152000	But kind of hearing about this and thinking about how did we get from point A to B and
+3152000	3159000	all that, do I really think the Fine brothers themselves, those two guys that do this whole
+3159000	3162000	thing, do I think that this was actually their idea?
+3162000	3164000	I kind of don't think it was.
+3164000	3170000	And so I think the moral of the story is you need to watch the people that represent you.
+3170000	3175000	And I think this goes true for a lot of people that are looking at developing indie games
+3175000	3178000	and trying to get that out there and hooking up with publishers and all this stuff.
+3178000	3181000	I think you really need to watch the people that represent you because I have this weird
+3181000	3187000	feeling that the lawyers for the Fine brothers, I mean, they probably had to sign off on it.
+3187000	3189000	They probably like, uh-huh, yeah, good idea.
+3189000	3195000	But I had this weird feeling that somebody planted the seed in their head that they just
+3195000	3196000	kind of went along with.
+3196000	3199000	I'm not trying to absolve them of guilt or whatever, any of the fallout.
+3199000	3204000	I'm just trying to say I had this feeling this was not their idea, but they're the ones
+3204000	3207000	on video now having to apologize for it.
+3207000	3208000	Does that make sense?
+3208000	3210000	I don't think it was.
+3210000	3215000	I think that it's something that they had to have had quite a bit of a hand in, even
+3215000	3217000	if it wasn't their idea to begin with.
+3217000	3221000	It just seems like it's too common an occurrence trying to...
+3221000	3222000	Sure.
+3222000	3223000	...trademark things on.
+3223000	3226000	Yeah, I'm not absolving them of all guilt, but I'm just saying, like, you know, maybe
+3226000	3229000	if somebody different was directing them, this wouldn't have happened.
+3229000	3230000	Does that make sense?
+3230000	3235000	I mean, if they were trying to do trademarks for, like, elders react to as their statement
+3235000	3240000	or kids react to as their statement, you know, the actual phrase.
+3240000	3241000	Right.
+3241000	3243000	Narrow to YouTube usage or whatever.
+3243000	3245000	That can be branding right there.
+3245000	3248000	And then in that case, it would be protecting their brand.
+3248000	3255000	However, just the word react, it's like just the word crush, you know.
+3255000	3256000	Or saga.
+3256000	3259000	Or saga or candy.
+3259000	3261000	I think it would be very hard to trademark candy.
+3261000	3266000	I think Hershey's and Mars, I think Cadbury, they'd all have some problems with that.
+3266000	3268000	You mean all of this...
+3268000	3271000	Willy Wonka would fuck you up if you tried to trademark candy.
+3271000	3274000	Well, that's okay, because Nestle is evil anyway.
+3274000	3275000	I forgot.
+3275000	3277000	I didn't know those two companies were connected.
+3277000	3280000	No, it's Nestle, Mars.
+3280000	3285000	There's a few other companies that participate in using underage child labor.
+3285000	3288000	And you have to be careful who is representing you.
+3288000	3293000	Because, again, these are probably suppliers that they have no idea.
+3293000	3295000	They don't know how the sausage is made.
+3295000	3296000	Nestle knows.
+3296000	3297000	Oh, that's too bad.
+3297000	3303000	Yeah, the people who say that water isn't a right, it's a marketable thing.
+3303000	3305000	On the contrary, though, I think they're fully to blame.
+3305000	3306000	I'm sorry.
+3306000	3307000	There's nothing that was all...
+3307000	3308000	And here's why.
+3308000	3315000	Just the way they've reacted to other people doing similar react-type videos, not even calling it that.
+3315000	3319000	And they're fucking like coming out saying, oh, everybody better gang up against these guys,
+3319000	3322000	because they didn't even ask our permission to do this sort of thing.
+3322000	3324000	Fuck them, seriously.
+3324000	3325000	This entire thing just...
+3325000	3326000	They had content claims on them.
+3326000	3331000	Well, I'm talking about like Ellen and fucking Jimmy Kimmel do similar type of things.
+3331000	3332000	And he's having like...
+3332000	3339000	They go out on their social media pages and tell everybody to go let them know how dare they use it without our permission.
+3339000	3342000	But the two of them are sitting there filing all these content claims?
+3342000	3343000	That's my whole thing.
+3343000	3345000	No, they're not filing those content claims.
+3345000	3349000	Their company that they work for or whatever is...
+3349000	3352000	Or they have people that go out and file those type of claims.
+3353000	3356000	But it's their intent.
+3356000	3359000	They thought what they were doing was actually helping everybody.
+3359000	3366000	They thought that this was the greatest thing for these people to get a piece of this react market
+3366000	3371000	and get a piece of their content, because damn, look at what they're doing to the internet.
+3371000	3376000	I mean, that's why they came out with a fucking video that said, in 100 years from now,
+3376000	3379000	people are going to look at this and they're going to be like, whoa, what did people think about this?
+3379000	3381000	And they'll be able to find out because of these react videos.
+3381000	3383000	They literally thought that.
+3383000	3387000	They thought that they were such hot shit with this.
+3387000	3392000	So that's why they thought that, well, why is everybody reacting this way to this?
+3392000	3395000	What the hell? We're doing you guys a favor.
+3395000	3398000	To be fair, they probably only show you extremes.
+3398000	3402000	Whereas the majority of people probably don't react in such an extreme manner.
+3402000	3405000	When you edit it down to a 10-minute video, it's any reality TV.
+3405000	3407000	You show the extremes.
+3407000	3409000	You show all the fights that happen on Survivor.
+3409000	3413000	You don't show the boring stuff about day-to-day surviving. Does that make sense?
+3413000	3415000	Sometimes they do on Survivor.
+3415000	3417000	Do they actually show somebody pooping in the woods?
+3417000	3419000	Because I would think that would be kind of boring.
+3419000	3422000	More interesting if someone didn't survive on that show.
+3422000	3424000	There's lots of downtime they show on that show.
+3424000	3426000	You should watch Survivor again. You would know.
+3426000	3429000	I know. It's been a while. I'm waiting to be honest.
+3429000	3432000	I'm sorry. And here's the thing, too, about it, too.
+3432000	3436000	They went ahead and rescinded all these things.
+3436000	3439000	Not to say that the next time they go to attempt this,
+3439000	3442000	they just won't tell anybody that they're doing it beforehand.
+3442000	3445000	All right. A couple more comments in our chat over at live.vognetwork.com.
+3445000	3449000	SS 2100 Matt says, Blaming in on lawyers would certainly attempt to fix their image.
+3449000	3452000	Still, though, trademark filing is a douchebag move all around.
+3452000	3456000	Dark Tetsuya brings up the whole Tim Langdell had a little trouble getting edge,
+3456000	3458000	although things may be different now.
+3458000	3461000	That was another one along that whole saga and all that stuff.
+3461000	3465000	Dungeon Buster says, It sounds like the Fine Brothers were given bad advice.
+3465000	3467000	If they didn't make such a huge announcement,
+3467000	3469000	they probably would have gotten the mark without anyone knowing
+3469000	3471000	because they had already gotten a few.
+3471000	3474000	Then it would have been harder to challenge the mark if it were given.
+3474000	3476000	That's another interesting perspective on
+3476000	3479000	maybe if the people who were represented them had been a little smoother,
+3479000	3481000	they could have been absolutely evil.
+3481000	3484000	I would have gotten away with it, too, if it hadn't been for you meddling kids.
+3484000	3487000	I also consider that trademark filing is public.
+3487000	3489000	So anyone can find that information.
+3489000	3493000	And SS 2100 Matt points out, fact of the matter is that trademark laws suck and need to be changed.
+3493000	3495000	That is probably also true.
+3495000	3497000	But the public part is important.
+3497000	3499000	All right, let's move on.
+3499000	3501000	We have plenty more to cover about games.
+3501000	3502000	Loki.
+3502000	3505000	All right, so speaking of kind of douchebaggery,
+3505000	3513000	22Cans, they have decided to finally remove microtransactions from Godus Wars.
+3513000	3520000	And I guess this is launched as a single player version of Godus on Steam Early Access.
+3521000	3529000	And I guess because of that, you had to actually pay for microtransactions for different things.
+3529000	3537000	Like, for example, there's a $4.99 microtransaction to add a whole new continent with 40 missions to the game.
+3537000	3541000	And it's just, I don't know, people didn't like it.
+3541000	3546000	Well, I think it's mainly because the game was early access also.
+3546000	3551000	Because of that, though, they have decided to remove the microtransactions.
+3551000	3557000	And they're going to have the extra content that you would normally pay $4.99 for as free.
+3557000	3566000	So basically it said, in the meantime, it's been brought to our attention that the extra content being premium add-on isn't really a popular choice.
+3566000	3574000	While we think it does represent good value, especially considering that Godus Wars has been delivered as a free update to hundreds of thousands of users.
+3575000	3582000	And the lower price of the main game, we understand the previous Godus owner's frustration with this.
+3582000	3587000	Yeah, trying to nickel and dime your earliest adopters may not always be the best idea.
+3587000	3589000	DungeonBuster bringing up an interesting point.
+3589000	3591000	I think you were talking about this a little bit before the show, Loki.
+3591000	3602000	It's interesting to note that with Godus included in Godus Wars, they're retiring the store page for Godus and essentially wiping the negative reviews that were there.
+3602000	3606000	And I really think it's pronounced Godus, but I always think of the showgirls.
+3606000	3608000	Well, and you pronounce a lot of things wrong, so it's okay.
+3608000	3610000	I do. So why not? I'll just stick with Godus.
+3610000	3613000	But I think it's supposed to be God, us.
+3613000	3617000	You should ask PewDiePie what he thinks about Godus.
+3617000	3618000	Shut up.
+3618000	3624000	Anyway, I just like emphasizing the die in his name. Is there anything so wrong with that?
+3624000	3627000	You just can't read. I need to hold up a sign.
+3627000	3634000	Cat. Cat. Cat. Cat.
+3634000	3637000	Not enough spit is coming out of your mouth right now.
+3637000	3643000	And I'm reenacting a scene from Strangers with Candy. If anybody thinks I'm being insensitive, it's actually that show that's insensitive.
+3643000	3644000	Oh, it's so good.
+3644000	3645000	It's so good. Alright, anyway.
+3645000	3647000	There's something that needs to come back.
+3647000	3648000	Yeah.
+3648000	3650000	I think Stephen Colbert might be a little busy now.
+3650000	3651000	I don't care.
+3651000	3653000	He's gonna get cancelled soon enough.
+3653000	3655000	He's not gonna get cancelled. Don't say that.
+3655000	3656000	Not doing well.
+3656000	3659000	If you put it as a sketch on your show, it's perfectly fine.
+3659000	3665000	Mr. Jelly Nick and Jerry were on an episode of that not great show, Difficult People.
+3665000	3667000	Oh, that Hulu one that I never finished.
+3667000	3668000	Yeah, I don't like that show.
+3668000	3669000	I watched like half of it.
+3669000	3670000	Didn't you like it?
+3670000	3671000	You were trying to tell me it was good.
+3671000	3674000	Like the first episode was good and then the rest of it was not.
+3674000	3677000	I tried. I really tried to like it, but I couldn't.
+3677000	3678000	It's just not great.
+3678000	3684000	I couldn't deal with, and this isn't video game, but let's be real. It's probably more interesting than Godus.
+3684000	3685000	Godus.
+3686000	3688000	Now I'm going to say it wrong on purpose.
+3688000	3690000	This made me think of goat.
+3690000	3693000	It's spelled like POTUS, so it's go to.
+3693000	3695000	I know this is a bad tangent.
+3695000	3700000	No, because if it had a T in it, it would be go to us.
+3700000	3704000	All right. I've been drinking and I'm trying to say something, so I'm going to get real belligerent here.
+3704000	3706000	You have something to say?
+3706000	3708000	I got something to say.
+3708000	3710000	Girl, say it.
+3710000	3713000	Now I forgot what I was going to say.
+3715000	3717000	You're dumb and drunk.
+3719000	3720000	Hey, Shane. Hey, Shane.
+3720000	3721000	Yeah.
+3721000	3725000	Do you remember that party like back, back, back in the day when-
+3725000	3726000	The dunk.
+3726000	3727000	The dunk thing.
+3727000	3728000	Yeah.
+3728000	3732000	We were trying to say drunk and nothing but dunk would happen, so dunk means drunk.
+3732000	3735000	Oh, I was going to tell you why I didn't like Difficult People.
+3735000	3739000	Because although the plot lines would be kind of funny and-
+3739000	3740000	I don't get any of the jokes.
+3740000	3743000	What's Her Name That Played Precious was hilarious in that show.
+3743000	3744000	Yeah, she was really good in that.
+3744000	3746000	And it was great to see her in there.
+3746000	3750000	And I like the two actors that are in it. They're funny. What's his name? Billy-
+3750000	3751000	Billy Eichner.
+3751000	3756000	He's funny. But the thing is, they would just be talking and there would be this random obscure-
+3756000	3763000	It was like the Family Guy, but instead of a cutaway that's funny and animated, it would be this random obscure pop culture reference.
+3763000	3768000	Yeah, I understood the Family Guy references more even if they didn't show me the clips.
+3768000	3772000	But Difficult People is like, what? I just don't understand anything.
+3772000	3773000	Yeah.
+3774000	3777000	Dark Tetsuya is saying, has Rob been hitting the wine again?
+3777000	3782000	Yeah, did you miss the- Dark Tetsuya, did you miss the beginning of the show? Were you tardy tonight?
+3782000	3787000	Yes. Shane only shows up to the show now when he hears that wine is involved.
+3787000	3791000	So if you hear Shane's voice, there's probably a bottle of wine open somewhere.
+3791000	3796000	And yes, we're having the same wine that we had last week because Shane is incapable of trying new things.
+3796000	3798000	Yep. It's true.
+3799000	3802000	Why do you think I have had Taco Bells for so many years?
+3802000	3808000	Bobby Blackwolf says, the creator of the GIF format- I'm not going to say it the other way.
+3808000	3809000	So again, you're saying it wrong.
+3809000	3813000	Wants to know why you suddenly care about proper pronunciation.
+3813000	3817000	Well, when you start saying giraffics, I'll start saying GIF.
+3817000	3818000	What's a giraffic?
+3818000	3819000	Exactly.
+3819000	3822000	No, is that like giraffics?
+3824000	3826000	Are you saying giraffics wrong?
+3828000	3831000	That's how they draw the dinosaurs in Jurassic Park.
+3832000	3839000	It's just like when you pronounce, you don't pronounce it guy-ant, you pronounce it giant because it's GI.
+3839000	3841000	But English is a stupid language, period.
+3841000	3844000	But it stands for graphic interface.
+3844000	3848000	Thank you! GIF. It's GIF. It's one letter short of a GIF.
+3848000	3853000	It's fucking grammar. Learn to speak your own language.
+3853000	3859000	Moving on. Next story. God, this shows a hot mess. Oh, it's my turn. I got to do the next story.
+3859000	3860000	Hot mess.
+3862000	3863000	Let's talk about Nintendo.
+3863000	3865000	Of course, I'm over here looking to see who the what lady is.
+3865000	3870000	Why don't we just call them just GIFs then, because it's just a fucking acronym anyways.
+3870000	3872000	It doesn't fucking matter how we pronounce it.
+3872000	3877000	No, because then like ABC will come and be like, you know, we had TGIF, so you can't have GIF.
+3877000	3878000	That's what they used to have.
+3878000	3880000	Oh my god, they found the what lady.
+3881000	3882000	Did she die?
+3882000	3884000	No, no, there's a picture of her right here.
+3884000	3886000	It's the what lady with her granddaughter.
+3886000	3887000	Is that really the what lady?
+3887000	3888000	That's the what lady.
+3888000	3889000	Can we force that in chat?
+3889000	3890000	Sure.
+3890000	3891000	I think this is a...
+3891000	3892000	It's the what lady.
+3892000	3893000	It is her.
+3893000	3897000	And if someone made a meme out of that picture that says what lady is not amused.
+3897000	3899000	Is this from Reddit or something?
+3899000	3901000	Yeah, Bee found her.
+3901000	3902000	Of course they did.
+3902000	3904000	All right, can we move on?
+3904000	3906000	Nintendo!
+3907000	3909000	It's for breakfast!
+3910000	3914000	I remember the fruit snacks commercials, but that's only because of Power Fest.
+3914000	3915000	I'm disabling everybody's mics.
+3915000	3918000	Do you know what's funny is that I've got to like leave in 45 minutes.
+3918000	3920000	No, I don't.
+3920000	3925000	My Nintendo is going to be kicking off next month in 39 countries.
+3925000	3932000	Let me name them all for you right now, starting off with the United States, Canada.
+3932000	3933000	I don't know the rest.
+3933000	3934000	It's 39 countries.
+3934000	3935000	You can't read again apparently.
+3935000	3936000	It's not listed.
+3936000	3938000	I'm just guessing those are two of the countries.
+3938000	3939000	Australia?
+3939000	3940000	I can guess.
+3940000	3946000	Anyway, Nintendo's first goal for the program is to get at least 100 million people registered.
+3946000	3948000	That's a lot of people.
+3948000	3950000	Isn't that like a tenth of Facebook?
+3950000	3951000	How many people are on Facebook?
+3951000	3952000	A lot.
+3952000	3957000	My Nintendo is going to have a points program, coupons for downloads, emails.
+3957000	3964000	I bet you can't wait for all those sweet emails you're going to get from my Nintendo.
+3964000	3965000	I get a lot from the Japanese.
+3965000	3967000	Can I send emails to other people?
+3968000	3971000	Can I get Princess Peach to send Shane an email that says,
+3971000	3974000	you a bitch, sign Princess Peach.
+3974000	3976000	I don't think that's going to work.
+3976000	3978000	Because that I will pay points for.
+3978000	3981000	I don't want your goddamn emails, Nintendo.
+3981000	3983000	All right, digital content and more.
+3983000	3986000	Platinum points get original goods.
+3986000	3988000	Gold points get coupons.
+3988000	3990000	So there you go.
+3990000	3991000	Whoo, coupons.
+3991000	3992000	Hey, you know what?
+3992000	3996000	Considering Nintendo games never go on sale, although there is an eShop sale,
+3996000	3997000	but it's like January, right?
+3997000	3998000	But it's usually not the games you want.
+3998000	4000000	Yeah, and it's not the games you want either.
+4000000	4002000	It's not much of a sale.
+4002000	4003000	1% discount.
+4003000	4005000	All right, so hey, I'll take it.
+4005000	4006000	It's something.
+4006000	4007000	So there is that coming.
+4007000	4011000	I noticed, though, physical goods kind of went away in that whole thing.
+4011000	4013000	Not sure what that's all about.
+4013000	4019000	But anyway, I'll still sign up for it because, I mean,
+4019000	4022000	say what you will about Nintendo, but their games are so fucking good,
+4022000	4024000	I'm going to buy them anyway.
+4024000	4026000	Mario Kart 9, sign me up.
+4026000	4028000	Zelda Wii U, I'll get that.
+4028000	4030000	Whatever Mario stars in.
+4030000	4032000	Mario saves this world.
+4032000	4033000	I'm down with that too.
+4033000	4036000	So whatever.
+4036000	4037000	You're making a face, Shane.
+4037000	4038000	Why are you making a face?
+4038000	4041000	I have all these things to say, but not on this show.
+4041000	4044000	Because it doesn't matter for the show.
+4044000	4046000	What kinds of things?
+4046000	4050000	There's like breaking Super Sentai news that's freaking me out right now that I love.
+4050000	4052000	Well, nothing else has been on topic.
+4052000	4053000	Is the ship real?
+4053000	4054000	You want to blurt it out?
+4054000	4055000	Did Chylee finally get married?
+4055000	4056000	No, no, no.
+4056000	4057000	That's Power Rangers.
+4057000	4058000	This is Super Sentai.
+4058000	4059000	Oh.
+4059000	4060000	So the new one that's coming out.
+4060000	4061000	That's the one Spike watches.
+4061000	4062000	You watch Power Rangers.
+4062000	4063000	No, I watch Super Sentai too.
+4063000	4064000	Oh, okay.
+4064000	4065000	Only when it's a good season, I think.
+4065000	4066000	I got it.
+4066000	4068000	But the one that's coming out with all the animals and Minecraft looking stuff,
+4068000	4071000	they just leaked the sixth ranger.
+4071000	4076000	And for one thing, he's not named, you know, it's Red Ranger or stuff like that.
+4076000	4078000	In this one, it's called Jew-o-ger.
+4078000	4081000	So it's like Jew-o-shark is the blue one.
+4081000	4082000	Did you say his name is Jew Shark?
+4083000	4084000	Jew-o-ger.
+4084000	4085000	Yes.
+4085000	4086000	Okay.
+4086000	4087000	I was going to say, that might be insensitive.
+4087000	4090000	But this one's called Jew-o-the-world.
+4090000	4093000	I don't know why that's just the name of the guy, but he's so cool looking,
+4093000	4095000	and I want all his toys now.
+4095000	4097000	Like all of his toys.
+4097000	4098000	Jew-o-the-world?
+4098000	4101000	That's Dark Sakura.
+4101000	4103000	She just wanted it to be so hard.
+4103000	4105000	Well, maybe if you hold your microphone up to your eyes,
+4105000	4110000	they can hear your eye roll right now because it's pretty much like the loudest thing in this room.
+4113000	4115000	He has three different colors.
+4115000	4117000	He has three different animals.
+4117000	4119000	He has three different helmets.
+4119000	4120000	I am excited.
+4120000	4122000	And three new shows coming to VOG next week.
+4122000	4124000	Does he wear all the three helmets at the same time?
+4124000	4125000	Yes, he actually does.
+4125000	4127000	He just slides different pieces.
+4127000	4129000	Is it like the manticore ranger?
+4129000	4132000	No, it's alligator rhino wolf.
+4132000	4134000	Man bear pig?
+4134000	4135000	They really are under the mask.
+4135000	4137000	It's another mask.
+4137000	4140000	It just keeps sliding up like that.
+4140000	4141000	Back to video games.
+4141000	4143000	Oh my gosh, I'm so excited right now.
+4143000	4144000	I'll give you this.
+4144000	4146000	At least the Super Sentai has the Minecraft-y tie-in.
+4146000	4148000	I just, because of how excited I am,
+4148000	4154000	I just went to this import site and put the megazords that they have coming out in my cart to get later.
+4154000	4159000	How much money in the past 12 months have you spent on Power Rangers toys?
+4159000	4160000	I don't know.
+4160000	4162000	70,000.
+4162000	4164000	You don't even make that much money.
+4164000	4165000	Come on.
+4168000	4169000	I don't know.
+4169000	4171000	Oh, it's just Power Ranger toys.
+4173000	4175000	Oh, it's so hot in here.
+4175000	4179000	Dark Sakura, you want to get to another story?
+4179000	4181000	I guess.
+4181000	4188000	Well, we have a reunion of sorts with Kojima and Del Toro.
+4188000	4189000	Yay!
+4189000	4191000	But they're not doing a game, boo.
+4191000	4195000	They're keynote speakers at the Dice Summit.
+4195000	4203000	This is confirmed by the Academy of Interactive Arts and Sciences that they're going to be there this year.
+4203000	4208000	And that Kojima will be inducted into the Academy's Hall of Fame.
+4208000	4215000	So they are both there to offer their insight into creative vision and artistic pursuits.
+4215000	4221000	Can they stealth announce something at Dice? Is it possible? Have they done that before?
+4221000	4226000	Can we really just hope something gets announced like TP or something?
+4226000	4230000	TP? It's the toilet paper ghost.
+4230000	4234000	She died in the toilet. No immortal's revenge.
+4234000	4238000	Well, that thing in the sink looks like it may have came from the toilet, so...
+4238000	4240000	TP. It'll scare you shitless.
+4240000	4242000	There you go. Tagline right there.
+4242000	4245000	It did come from someone's neither regions.
+4245000	4250000	What if you had a spinoff of that game where you're just taking care of the poor sink baby or something?
+4250000	4253000	Like a Tamagotchi thing.
+4253000	4256000	Meanwhile, it talks to you in a radio announcer voice the entire time.
+4256000	4260000	A Canadian radio announcer voice?
+4260000	4262000	Are we disturbed or what?
+4262000	4264000	We just missed PT.
+4264000	4267000	Let's travel around the world and check out some release dates.
+4267000	4272000	We're going to go to the US first. Sorry, we won't be going to Canada, but we'll go to the US first.
+4272000	4274000	We actually do have a few things coming out this week.
+4274000	4282000	Naruto is shipping in Ultimate Ninja Storm 4 coming out on PlayStation 4 and I believe Xbox One.
+4282000	4287000	And we also have Unravel coming out, also PlayStation 4, Xbox One.
+4287000	4290000	And let's see what else here.
+4290000	4296000	Arslan, The Warrior's Legend. That's on PlayStation 4 as well.
+4296000	4301000	Assassin's Creed Chronicles. That's going to be coming out on PlayStation 4, Xbox One.
+4301000	4305000	Also, it looks like Arslan, The Warrior's Legend, also on Xbox One.
+4305000	4312000	And The Dying Light, the following, coming out on PlayStation 4, Xbox One as well.
+4312000	4317000	And...
+4317000	4318000	That's it.
+4318000	4321000	Alright, going over to Japan.
+4321000	4327000	And on the PlayStation 4 on the 12th of February, Senjou no Valkyria remaster.
+4327000	4329000	Is that Valkyria Chronicles? I think it is.
+4329000	4332000	I didn't even realize they were remastering that for the PlayStation 4. I think that's what that is.
+4332000	4335000	And that's really exciting. Yeah, that's it. This is...
+4335000	4339000	Do you not hear gaming news ever? Because that's been announced for a while.
+4339000	4343000	Well, you know, I have the PC one, so...
+4343000	4347000	Anyway, going to the Wii U and this week.
+4347000	4352000	Nothing. It is still another slow week on the Wii U. You get a lot of those, actually.
+4352000	4361000	On the Vita, however, you have this week Eikoku Tantei Mysteria The Crown in regular and limited edition.
+4361000	4363000	That comes out on the 11th.
+4363000	4369000	And on the 3DS, Eterion... Oops, sorry, that's not this continent.
+4369000	4374000	Shin Megami Tensei IV The Final comes out in a regular and Famitsu pack this week.
+4374000	4376000	So there's that to look forward to.
+4376000	4378000	But that's really it in Japan this week.
+4378000	4382000	In our chat, Bob Coffee says, yes, it's Valkyria and we are getting it in America also.
+4382000	4387000	Yes, Shane, in his usual manner, decided to correct me at as soon as possible opportunity.
+4387000	4393000	Yeah, well, no, I'm just saying, you would have known that there's a PS4 version had you been following the news.
+4393000	4397000	I didn't say it wasn't coming here. I was just saying, learn to read.
+4397000	4399000	Whatever. Dark Sakura, how about Europe?
+4399000	4402000	Yeah, some stuff's coming out.
+4402000	4409000	On the 9th, we have Arslan the Warriors of Legend for PC.
+4409000	4414000	Assassin's Creed Chronicles Russia for PC, Xbox One and PS4.
+4414000	4418000	Lovers in a Dangerous Spacetime for PlayStation 4.
+4418000	4423000	Naruto Shippuden Ultimate Ninja Storm 4.
+4423000	4425000	The series that will never die.
+4425000	4431000	On the 10th, we have Gravity Rush Remastered and on the 12th, Eterion Odyssey 2.
+4431000	4433000	And that's it.
+4433000	4437000	Alright, just a couple more stories for you guys.
+4437000	4441000	And then the classic game of the week, but first, Loki.
+4441000	4451000	Alright, so there's been some reports coming out that people are able to play certain games on the Xbox One backwards compatibility that quite haven't been announced yet.
+4451000	4453000	And some pretty big titles among that as well.
+4453000	4460000	Red Dead Redemption, Tekken Tag Tournament 2, Left 4 Dead 2, Halo Wars and Castlevania Symphony of the Night.
+4461000	4464000	To download those games right now, it's a little bit difficult.
+4464000	4467000	You actually have to have a digital version of the game.
+4467000	4470000	And it won't work with a physical disc for it.
+4470000	4479000	And then basically, you'd have to download it if you have a digital version of the game.
+4479000	4481000	And you have to specifically go to download that.
+4481000	4484000	But nothing's been announced so far.
+4484000	4488000	Maybe we'll get an announcement soon, but Red Dead Redemption is pretty awesome.
+4488000	4489000	Go play it.
+4489000	4491000	Awesome game.
+4491000	4495000	Alright, and lastly, let's talk a little more about Pokemon Go.
+4495000	4498000	Because I don't know about you guys, I'm really excited about that, to try that.
+4498000	4501000	And how did Pokemon Go come to be anyway?
+4501000	4508000	Well, you guys remember a few years ago, there was the April Fool's Day joke where you could actually see the Pokemon on Google Maps.
+4508000	4509000	Guess what?
+4509000	4513000	That was part of the reason why we're getting Pokemon Go.
+4514000	4524000	This was an interview that happened in Famitsu Magazine in Japan with the president of Niantic Japan and Kento Suga, who's the marketing manager of Niantic Japan.
+4524000	4527000	So in this interview, they actually set us apart of it.
+4527000	4532000	That Pokemon challenge was a chance for us to be able to build relations with people at Pokemon.
+4532000	4540000	And then, Pokemon president Suenaku Ishihara and John Hanke, CEO of Niantic, were able to meet and talk.
+4540000	4543000	At that time, both of their thoughts and visions were also very close.
+4543000	4548000	And as a union of their spirit, the talk became, let's do something together in the future.
+4548000	4555000	And then they talked about, in Google, there's a culture where the staff releases ideas for April Fools, then they make their own teams to realize those.
+4555000	4562000	But for the Pokemon challenge, it was a staff member named Tatsuo Nojima who pulled out that idea, and he became the center of development.
+4562000	4570000	So, you never know, if a Google April Fools joke is loved well enough, it just might come true someday.
+4570000	4573000	As Pokemon Go is apparently coming true.
+4573000	4578000	Even though that will be on your smartphones and not Google Maps, but hey, still pretty cool.
+4578000	4583000	Well, let's go to the classic game of the week and take a step into the vault.
+4584000	4592000	And find a game where DarkSakura says, hey, you know what, get off your April Fools Day jokes on the interwebs.
+4592000	4599000	Because this is a game that existed before any of that stuff became games. This is a simpler time.
+4599000	4603000	DarkSakura is going to step in the vault and find a game she thinks you guys should be playing this week.
+4603000	4606000	DarkSakura, what is the classic game of the week?
+4606000	4608000	I have no idea why I've never done this one before.
+4608000	4610000	Me neither, to be honest.
+4610000	4617000	Lunar the Silver Star. It was a role play game that came out by Game Arts and Studio Alex.
+4617000	4623000	It was released on the Sega CD, or as it was in other countries, the Mega CD.
+4623000	4629000	And the first publishing was by Game Arts in Japan in 1992.
+4629000	4635000	And then it was translated and localized for the US by Working Designs.
+4635000	4638000	And it had that crazy ass rock opening song.
+4641000	4646000	The re-release didn't have this, but the soundtrack that came with it had this on it.
+4648000	4657000	So it is one of the greatest RPGs of all time with little argument.
+4657000	4659000	And I'm saying one up.
+4659000	4660000	I disagree.
+4660000	4661000	One up.
+4663000	4668000	And of course it's also one of the games that really cemented things for Working Designs.
+4668000	4674000	As far as being known for its high quality localization of top rate games.
+4674000	4680000	So it had a sequel. It was Lunar Eternal Blue that came out in 1994.
+4680000	4683000	And there have been three enhanced remakes.
+4683000	4689000	There's Lunar Silver Star Story Complete, Lunar Legend, and Lunar Silver Star Harmony.
+4689000	4691000	So all of those versions have been out.
+4691000	4695000	So basically, it's a traditional top down role playing game.
+4695000	4697000	You have the 2D characters and environments.
+4697000	4700000	You have the towns, fields, different places.
+4700000	4705000	And you have NPCs and you do quests and do things.
+4705000	4711000	However, because it was on the Sega CD, you actually had short videos.
+4711000	4715000	You actually had different really good audio segments.
+4717000	4720000	Really great music on top of it too.
+4720000	4723000	And you saved your game to the Sega CD's internal RAM.
+4723000	4727000	Or you could use the RAM cartridge that came with it that you could choose.
+4727000	4728000	So that's pretty good.
+4728000	4731000	It was definitely one of those games that made having the RAM cartridge worthwhile.
+4731000	4735000	Because those lithium batteries, they kind of went after a bit.
+4736000	4746000	So anyway, you also have turn based combat based on which has the higher speed rating.
+4746000	4748000	And then you give them commands.
+4748000	4750000	I mean it's RPG stuff.
+4750000	4764000	But the thing that's about this that was pretty cool is that the characters were designed by a manga artist, Toshiki Kabuka.
+4764000	4774000	And it was really, I think, the stuff that, in fact I'm pulling up the list of some of the other things he's done.
+4774000	4787000	Because looking at the art style, you can probably tell he did, as far as anime, he did Nadia, The Secret of Blue Water, Giant Robo, Time Jam, Berserk, The Golden Age Arc.
+4787000	4791000	For other games he did, he did The Idolmaster.
+4791000	4793000	Of course, Albert Odyssey.
+4793000	4796000	So that's all stuff that sounds familiar, right?
+4797000	4804000	So, um, but moving on, you know you had all of your characters, they're all classic.
+4804000	4807000	But this was the other thing that was really neat about this.
+4807000	4816000	Is that the plot, well most of the plot, was written by a novelist named Kei Shigema.
+4816000	4822000	Who did, um, it was meant to have a different story for high fantasy.
+4822000	4824000	Something a little bit more unique.
+4824000	4833000	And it was such a really rich story, you know, you can really see a lot of the amazing writing that went into it.
+4833000	4843000	And the whole point was that they wanted a role playing game that would focus on having good animation and really good storytelling.
+4843000	4851000	So, um, they didn't want it to be just a hack and slash, they wanted it to have something immersive.
+4851000	4858000	But also, um, really just be something that would keep the characters going on this.
+4858000	4863000	And of course, the Lunar English version was done by Working Designs.
+4863000	4868000	Um, and it was at the time their biggest project.
+4868000	4874000	The whole thing was headed by Victor Ireland, which for the record, we own his Twilight Zone.
+4874000	4880000	Um, we actually bought one of our pinball tables for him.
+4880000	4886000	Um, but yeah, it was just pretty epic. Pretty, pretty epic.
+4886000	4893000	The English script was one of the biggest ones that, you know, had been provided for games at the time.
+4893000	4902000	Um, the music was pretty amazing. Of course, it was CDDA on the desk.
+4902000	4909000	And, um, there was a soundtrack that was released in 1992 that came out two months before the game did.
+4909000	4912000	Which was, of course, all the Japanese versions and karaoke arrangements.
+4912000	4918000	Um, and then with the Lunar Silver Star story complete, it came with that soundtrack.
+4918000	4924000	So, um, it's pretty, pretty amazing.
+4924000	4931000	Yeah, the game itself in Japan sold 100,000 copies in its entire production run.
+4931000	4934000	Which was, uh, pretty, pretty good.
+4934000	4941000	And then the US version, it sold about as well and got pretty excellent ratings across the board.
+4941000	4947000	So, um, of course, it spawned a sequel which gave us Lunar Eternal Blue.
+4947000	4954000	And then there were follow-ups. Like, there was Lunar Walking School and Lunar Dragon Song that were prequels to the game.
+4954000	4962000	So, of course, we also had the remakes Lunar Silver Star story complete, uh, Lunar Legend and Lunar Silver Star Harmony.
+4962000	4965000	So, there you go.
+4965000	4969000	There it is. I'm listening to a little harmony right now.
+4969000	4971000	Lunar the Silver Star.
+4971000	4974000	There it is. Your classic game of the week, Lunar the Silver Star.
+4974000	4978000	Which, I admit, I just never played it. Never got around to playing it.
+4978000	4981000	Sorry. I can't play all the games.
+4981000	4986000	I might loan you a Sega CD. We've got a couple.
+4986000	4989000	Yay, that'll be fine. Do you have six of those, too?
+4989000	4994000	No. No, I do not. So, you'll have to just, I guess, live in the vault for a weekend.
+4994000	4996000	I'm moving in. I'm moving in.
+4996000	4998000	Alright, uh, we're gonna move on to the second half of our show.
+4998000	5001000	My understanding is that the little game that's on TV is now over.
+5001000	5004000	So, we might have some more people start showing up live, which is great.
+5004000	5006000	Apparently, some donkeys won.
+5006000	5009000	Apparently, a bunch of asses won.
+5009000	5011000	But, anyway, you can-
+5011000	5017000	Although, I will say, just because I think it's his retiring year, is Peyton Manning.
+5017000	5020000	It was, like, his last game.
+5020000	5021000	Who?
+5021000	5023000	Big sportsball guy.
+5023000	5024000	Oh, okay.
+5024000	5026000	I know of him just because I know people who have followed-
+5026000	5027000	You heard stories.
+5027000	5028000	His career.
+5028000	5029000	There's folklore.
+5029000	5034000	I'd say winning a Super Bowl right before you retire is pretty remarkable.
+5034000	5037000	Oh, I'm gonna do that. I'm gonna do that, but mine will be in Tecmo Bowl.
+5037000	5038000	Yeah.
+5038000	5039000	Alright.
+5039000	5042000	Uh, you can give us a call. Orange Lounge Radio, all one word on Skype.
+5042000	5045000	1-877-GAME-OLR, the old-fashioned way.
+5045000	5048000	Uh, we're gonna take some calls when we come back, but we also have more news to get to.
+5048000	5051000	Rapid Fire News, Fugu Question of the Week, your emails.
+5051000	5055000	There is plenty more show to come, so don't go anywhere.
+5055000	5059000	We'll be right back, right after this, with more of Orange Lounge Radio.
+5059000	5062000	And yes, maybe some more wine, too. Oh, God.
+5069000	5076000	Welcome back, everybody, to Orange Lounge Radio, live tonight with episode 630 of our show, already in progress.
+5076000	5080000	And, uh, having a good time here tonight with our pal, Shane Alinko, joining us in studio.
+5080000	5084000	And, uh, of course, the, uh, regular cast all assembled tonight.
+5084000	5087000	We're all here, and plus one, we're having a good time.
+5087000	5090000	And, uh, I may have been having a little bit to drink with Shane Alinko.
+5090000	5092000	For some reason, it's hitting me harder.
+5092000	5095000	But probably because I see that Shane still has a full second glass.
+5095000	5097000	I've already drank two glasses.
+5097000	5102000	Well, I had an emergency, so I couldn't drink so much of it right now.
+5102000	5103000	Okay.
+5103000	5106000	My emergency has to do with pre-ordering toys.
+5106000	5109000	Very important. Sorry, I forgot. I forgot.
+5109000	5111000	Toys takes precedence on that whole thing.
+5111000	5114000	Alright, uh, let's get into some rapid-fire news.
+5114000	5118000	And then now we'll get to the FUGL Question of the Week over on Facebook and Google.
+5118000	5119000	Uh, Loki.
+5119000	5127000	So this is sort of back in August, where you can vote on which game you want to be included in the PlayStation Plus lineup as one of the free games.
+5127000	5129000	And now they're doing it again.
+5129000	5135000	So you can vote for three different games to be free among PlayStation Plus for March.
+5135000	5138000	Um, the ones that don't get picked get put on sale.
+5138000	5140000	So that's pretty nice.
+5140000	5142000	And actually, the choices aren't too bad either.
+5142000	5150000	So we've got to choose from, um, Action Henk, which is a racing game.
+5150000	5155000	And then we have Assault Android Cactus, which is a twin-six shooter.
+5155000	5162000	And of course, Broforce, which is just like an all-out side-scroller shooter that's pretty awesome.
+5162000	5167000	So, um, I know at least two of the three of those I want to get.
+5167000	5174000	Um, I will say that, uh, Extifer is a big fan of the Assault Android Cactus.
+5174000	5178000	He'll probably cut somebody that he knows if they don't vote for that one.
+5178000	5179000	Exactly.
+5179000	5180000	So I have to vote for that one.
+5180000	5186000	In full disclosure, I think I have a guy on Twitter who either worked on that game or has a relative who made it or something.
+5186000	5188000	So, um, but I have checked out.
+5188000	5190000	I played that game at last E3. They had it.
+5190000	5192000	So it's been a while.
+5192000	5193000	It's another Unity game.
+5193000	5197000	Yeah, so, um, I hope that one wins, personally.
+5197000	5201000	I would vote for either Broforce or Assault Android Cactus.
+5201000	5203000	I kind of think Broforce has it.
+5203000	5205000	Broforce is pretty awesome.
+5205000	5209000	But either one. Whatever one doesn't win, I'll end up buying the other one.
+5209000	5212000	So that's both winning in my book, I guess.
+5212000	5219000	Speaking of winning, one game that I was super hyped about and for some damn reason still haven't played in a very long time.
+5219000	5221000	I do need to fix that maybe this week.
+5221000	5225000	Grand Theft Auto 5 has sold 60 million copies.
+5225000	5228000	That's ridiculous, the amount of copies that they've sold.
+5228000	5232000	Um, apparently that's down a little bit, though.
+5232000	5236000	It's exceeded expectations, but the revenue has dropped a little bit.
+5236000	5238000	22% in the last quarter.
+5238000	5243000	So, basically, 414.2 million.
+5243000	5249000	And then, of course, they're confirming that Mafia 3 is going to be coming out in 2016.
+5249000	5254000	And, of course, that Battleborn will be launching May 3rd.
+5254000	5260000	So, that's all coming from Take-Two's report earnings meeting that they've got.
+5260000	5264000	Um, I would love some DLC for Grand Theft Auto 5.
+5264000	5267000	That would definitely get me back into playing that game.
+5267000	5269000	Please.
+5269000	5274000	And then, finally, Titanfall 2 is going to have a single player campaign, which probably means I'm going to have to buy it.
+5274000	5277000	Because that's one of the reasons I didn't buy the first one.
+5277000	5280000	But that game was pretty awesome, even though it did melt my last laptop.
+5280000	5284000	But that's just how awesome it is, because it melted my laptop.
+5284000	5289000	And then, on top of that, they're also going to be getting some sort of TV spinoff to that as well.
+5289000	5290000	So, that looks pretty exciting.
+5290000	5296000	If it's anything like the little live action trailer commercial thing that they did, I'd be down to watch that.
+5296000	5299000	And, um, yeah.
+5299000	5302000	So, no set date yet when we can expect it.
+5302000	5304000	Hopefully in some time...
+5304000	5307000	Oh, no, it looks like March 2017.
+5307000	5309000	Sometime before that.
+5309000	5312000	So, before the end of the next fiscal year.
+5312000	5314000	Hopefully holiday.
+5314000	5316000	But maybe not.
+5316000	5319000	I'm sure that'll be a holiday release for sure.
+5319000	5323000	And it's tough, because, you know, they're going to have Battlefield, probably.
+5323000	5325000	So, Titanfall, it's kind of weird.
+5325000	5328000	It's... not sure where that would fall in.
+5328000	5330000	Unless they want to directly compete with Call of Duty.
+5330000	5333000	One will be September, and the other November.
+5333000	5340000	I think they could do it, since Call of Duty had to totally crib a bunch of stuff from Titanfall anyways.
+5340000	5344000	Alright, let's talk a little bit about Guitar Hero.
+5344000	5349000	And one of the most epic songs that was ever in Guitar Hero is coming back for Guitar Hero Live.
+5349000	5352000	And that is Dragon Forces Through the Fire and the Flames.
+5352000	5357000	I think all of us music game people remember playing that song for the first time in Guitar Hero.
+5357000	5359000	No, because I didn't play Guitar Hero.
+5359000	5361000	Really? That song was awesome, though.
+5361000	5364000	It is an awesome song, but yes, I'm with you on that. I never played that song.
+5364000	5365000	Ugh, you guys.
+5365000	5368000	Alright, well anyway, it is coming back to Guitar Hero.
+5368000	5373000	And it's going to be part of a five-track celebration event for the Guitar Hero TV.
+5373000	5376000	Because, you know, it's different than Rock Band.
+5376000	5379000	You don't just download songs, you have this whole kind of, like, live TV element.
+5379000	5383000	So, Through the Fire and the Flames from Dragon Force is going to be part of this.
+5383000	5387000	But then, after this event is over, where some other hard songs will be featured as well.
+5387000	5391000	They're going to put it into the normal rotation on Guitar Hero TV.
+5391000	5395000	But it should be noted that, you know, now the Guitar Heroes are different guitars.
+5395000	5400000	So, they have to basically go back and redo all the key patterns.
+5400000	5403000	Because now you have the whole, like, three up and three down.
+5403000	5405000	It's a little different now than it used to be.
+5405000	5411000	So, I don't own Guitar Hero yet, but I did think it was pretty cool, the little snippet I've played.
+5411000	5413000	So, I really need to get on buying that.
+5413000	5418000	I would like to get it, too, just to support the developers, because it's a DJ Hero developers.
+5418000	5420000	So, I love them. They're so good.
+5420000	5423000	I feel like the public shits on them constantly, too.
+5423000	5425000	Because DJ Hero deserved to do way better than it did.
+5425000	5427000	DJ Hero is goddamn amazing.
+5427000	5429000	Yeah. I'll support that.
+5429000	5434000	Like, immediately it will pre-order DJ Hero 2. Or 3, the amount.
+5434000	5436000	The next DJ Hero game.
+5436000	5437000	If they ever do another one.
+5437000	5439000	Whenever, you know, that happens. If ever.
+5439000	5441000	You know, I'd be totally down for that.
+5441000	5445000	Well, a new trailer was released for Mirror's Edge Catalyst this week.
+5445000	5447000	It's a little story trailer for the game.
+5447000	5453000	But it also, in addition to EA saying they will talk a little more about Faith's story and the world and so forth.
+5453000	5456000	They are saying that a closed beta is going to be coming.
+5456000	5462000	And it will be available for PlayStation 4, Xbox One, and of course, via Origin on PC.
+5462000	5468000	The dates are not announced yet, but they do say you will need an EA Origin account in order to participate.
+5468000	5471000	And I imagine this is true on console as well, because...
+5471000	5475000	Yeah, you have to sign in on games like we did for Mass Effect.
+5475000	5476000	And Dragon Age.
+5476000	5477000	Dragon Age, yeah.
+5477000	5478000	Inquisition, anyway.
+5478000	5482000	And again, Origin, not bad anymore. It's a good service.
+5482000	5486000	Mirror's Edge Catalyst, by the way, this is not something you're waiting for the holidays for.
+5486000	5488000	It is supposed to come out on May 24th.
+5488000	5489000	So, this is a little...
+5489000	5491000	The day after my birthday.
+5491000	5493000	So, if you thought, well, what a great...
+5493000	5497000	No, I don't care about Mirror's Edge. I want Power Rangers stuff.
+5497000	5501000	So, don't pay attention to Mirror's Edge at that time.
+5501000	5504000	All right, well, what about Dark Souls 3? Do you care about that?
+5504000	5505000	Nope.
+5505000	5506000	All right, then plug your ears.
+5506000	5508000	Because our next little snippet here is about Dark Souls 3.
+5508000	5512000	And apparently there was a livestream that From Software did recently about this.
+5512000	5516000	But for some reason, the stream was private.
+5516000	5518000	So, people didn't even really know it was going.
+5518000	5522000	So, I don't know if that was intentional, like maybe it was like a media only.
+5522000	5525000	But it didn't seem to have that type of vibe to it.
+5525000	5528000	Well, of course, you put something on the internet, it's never gonna go away.
+5528000	5531000	So, there was a YouTuber out there who was able to make an archive
+5531000	5534000	of several minutes of the gameplay from Dark Souls 3.
+5534000	5537000	And I gotta say, it looks really good.
+5537000	5540000	Although, I really tried with Bloodborne, you guys.
+5540000	5542000	I tried and it's just...
+5543000	5545000	It's too much. I can't.
+5545000	5546000	So, we'll see. I don't know.
+5546000	5550000	Maybe Dark Souls 3 will do something different to the formula, like make it a little easier.
+5550000	5553000	Something I feel like I actually progress in.
+5553000	5555000	I don't know. I guess I'm that wimp.
+5555000	5557000	That ruined all video games.
+5557000	5559000	Because they're too hard.
+5559000	5562000	Alright, Dark Soccer, what do you have for us?
+5562000	5572000	Well, for fans of Pokemon, you can get the original Pokemon Red and Blue music on vinyl.
+5572000	5579000	There's a record album that is being published with 500 copies.
+5579000	5585000	And it looks like everyone signed up, but you can register to let them know you're interested to see if they'll print more.
+5585000	5587000	But it's about 50 bucks.
+5589000	5591000	I don't really understand the whole...
+5591000	5593000	As a collectible thing, I think that's cool.
+5593000	5599000	But I don't understand releasing records with things anymore.
+5599000	5601000	That's cool. I like Pokemon.
+5601000	5603000	It's got a nice cover.
+5603000	5606000	Yeah, that's awesome. But are you gonna listen to it?
+5606000	5608000	That's not probably what it's for.
+5608000	5613000	I guess. But with Super Beat Zonic, the collector's edition came with two records.
+5613000	5617000	I'm like, cool. Won't be able to do anything with those now.
+5617000	5619000	But thank you for the records.
+5619000	5623000	Well, you can get digital albums.
+5623000	5625000	Sorry, digital record players.
+5625000	5629000	Oh, I think I've seen those at Fry's.
+5629000	5630000	Yeah.
+5630000	5633000	I just even have those at Hot Topic sometimes.
+5633000	5634000	Really?
+5634000	5636000	No, seriously. I've seen USB record players there.
+5636000	5638000	That's hilarious.
+5638000	5639000	Interesting.
+5639000	5643000	Well, my eyes were just open to something I had no idea about.
+5643000	5645000	I'm assuming that's all for mixing, though.
+5645000	5651000	I think the USB ones were mainly for ripping vinyl to digital formats, I guess.
+5651000	5654000	That makes sense. Fair enough.
+5654000	5664000	Also, there is going to be a new arcade game coming out that will be between Nintendo and Capcom.
+5664000	5670000	That will be Mario Party Arcade so you can have your hissy fit in front of everybody.
+5670000	5673000	You can actually punch a kid in the face at the arcade.
+5673000	5675000	I don't know if that would work well as an arcade game.
+5675000	5677000	You'd have to kind of go around to punch them, though.
+5677000	5680000	It looks awesome. Just the setup looks really nice.
+5680000	5685000	I would rather play Animal Crossing, Amiibo Festival, than Mario Party any day.
+5685000	5687000	Oh, those are strong words.
+5687000	5689000	Those are very strong words.
+5689000	5697000	I think if you want a good arcade game experience, Smash Bros. arcade would be perfect and throw more Capcom characters in there.
+5697000	5699000	Nintendo needs to sell more Wii's.
+5699000	5701000	Wii U's. They don't need to sell Wii U's.
+5701000	5703000	Wii U's.
+5703000	5714000	And then last, and definitely the least awesome news ever, is that Warner Bros. actually cancelled the Mac and Linux ports of Batman Arkham Knight.
+5715000	5718000	Is that awful news, though? Because look what happened to the PC one.
+5718000	5720000	It wasn't crap.
+5720000	5723000	I mean, maybe they're just sparing the rest of us from, you know...
+5723000	5725000	I think it was a mercy killing.
+5725000	5733000	I guess so. I mean, dear people on Unix-based systems, we will not subject you to this terror.
+5733000	5739000	You mean we have to actually go through the even worse terror of playing it in boot camp?
+5739000	5747000	Well, there's VMware. Ugh! And that's what every Mac user and Linux user said ever.
+5747000	5749000	Well, thank you for that perspective.
+5749000	5755000	Unfortunately, they just figured how many people game on Mac and Linux, and they're just like, eh, it's not worth it.
+5755000	5758000	Which is actually a pretty big number of people.
+5758000	5763000	Not worth it? You mean by putting it out, then pulling it, and then re-releasing it again?
+5763000	5768000	Yes, in that sense, because they're gonna half-ass put it out, and it's still gonna be all fucked up, and they're like, eh, fuck it.
+5768000	5776000	You guys are funny. Alright, let's move on and get to the FUGL question of the week.
+5776000	5784000	Every week we ask a question of our Facebook and our Google Plus communities, and we read some of our favorite answers here on the show.
+5784000	5790000	Or we'll read them all, as I think I'm gonna... I'm feeling nice, I'm gonna do that tonight.
+5790000	5796000	And this week, we decided to ask in honor of Superb Owl Sunday, we're gonna talk a little bit about...
+5796000	5800000	Well, because most people right now, they're not talking about the game anymore.
+5800000	5805000	They're talking about that halftime show, for better or for worse, with Coldplay, Beyonce, Bruno Mars, right?
+5805000	5812000	So that had us thinking about breaks, because every year when the Superb Owl comes up, we ask a sports game thing.
+5812000	5814000	That sounds like you're saying Super Bowl.
+5814000	5817000	Super Bowl, I kinda like that though, the Super Bowl.
+5817000	5823000	But you know, that's what people say to get around the trademark on Super Bowl, and that the NFL will come after you.
+5823000	5824000	I had no idea.
+5824000	5828000	Yeah, you can't, like if you're a pizza place, you can't have like a Super Bowl discount thing.
+5828000	5831000	That's why everybody does the big game, or...
+5831000	5832000	Oh.
+5832000	5833000	Yeah. Anyway.
+5835000	5836000	Let's talk about breaks.
+5836000	5845000	So we wanted to know, do you regularly take breaks when gaming, or have you ever binged to the point where you ever thought, maybe this is dangerous.
+5845000	5850000	So taking a break from the game, as they do in sports, we need to do it with video games as well.
+5850000	5856000	You know, it is recommended, what, for every two hours of games, you take a fifteen minute break, something like that?
+5856000	5858000	So, let's get to some answers over on Facebook.
+5858000	5865000	Jose Osumuwagawa says, I usually have to, because I'm a smoker, and there's no smoking in the apartment I live in.
+5865000	5869000	Well, that's, I guess, a way to force yourself to take a break, I guess.
+5869000	5874000	Fabrice A says, I once played Sega Rally for twenty-four hours straight.
+5874000	5878000	Other than that, I do take regular breaks, if only to rest my eyes.
+5878000	5881000	Whenever I feel I'm going in the red, I just stop altogether.
+5881000	5887000	William Murderface says, I've played for eight to twelve hours straight a few times, like Final Fantasy 14 around Reborn.
+5887000	5892000	But my eyes usually start bugging me after a few hours, and I have to get up and take a walk.
+5892000	5896000	Generally speaking, I try to get up once an hour and take at least a five minute break.
+5897000	5901000	Retertainment says, I rarely do anything straight, though.
+5901000	5908000	At the very least, I like to get myself another bottle of Heineken about every hour or so while I'm playing Fallout.
+5908000	5917000	Degenerate Johnny says, my gaming sessions end when either I empty the bottle of wine I started with, or when I pass out, whichever comes first.
+5917000	5923000	Winston H says, usually I don't do too many binges of gaming, but when I do, I would take a break to either go to the washroom,
+5923000	5926000	eat, or drink something in two to three hours.
+5926000	5932000	Andy R says, I don't actively seek to take breaks, but usually the bathroom snack breaks do serve some of that role.
+5932000	5935000	I don't think I've ever made it to the dangerous point.
+5935000	5937000	Dark Tetsuya says, depends on the game, of course.
+5937000	5939000	Obviously, I've got to mention the DDR games.
+5939000	5945000	Now, taking breaks is pretty much mandatory, as with any workout, you don't want to over-exert yourself, or you'll be in serious trouble.
+5945000	5951000	Though, usually my breaks come when I've hit a wall in a particular RPG or something, and I don't know what to do or how to beat a particular enemy.
+5951000	5954000	It's nice to walk away and come back refreshed.
+5954000	5958000	Fifth Dream says, I don't specifically take time out for breaks when I game,
+5958000	5964000	but I am such an unintentional multitasker that the amount of time I get up for a drink or something to eat, check email or instant messages,
+5964000	5969000	or generally get distracted by something else, probably adds up to way more than 15 minutes per hour anyway.
+5969000	5974000	But the day I got Skies of Arcadia on Dreamcast, I played it 15 hours straight,
+5974000	5978000	and I probably ate once and took a couple of bathroom breaks.
+5978000	5980000	That was a great day.
+5980000	5988000	Chad B says, I have some problems with one of my legs, so I generally can't sit comfortably for a long period of time anyway,
+5988000	5993000	but instead of a 15 minute break every few hours, it's more like a few minutes of getting up two to three times per hour.
+5993000	5998000	As a kid, however, I never had an issue playing games for hours on end.
+5998000	6002000	And just, I think, one or two more on Google+, just one on Google+.
+6003000	6006000	Act Def says, the longest I played a game was Super Smash Brothers Melee.
+6006000	6010000	My brother, my nephews, and some friends played for like 12 hours straight.
+6010000	6012000	We unlocked all the characters and stuff.
+6012000	6015000	After that, the GameCube got busted and had to be replaced.
+6015000	6018000	Good thing it still had warranty. Not too tiring though.
+6018000	6022000	My second longest was playing the endless set list on Rock Band 2 on Expert.
+6022000	6025000	Now that was tiring as hell.
+6025000	6027000	Those are some good answers. What about you guys?
+6027000	6029000	Do you take breaks when you game?
+6029000	6034000	And has there maybe been a point in the past where maybe you did a little too much binging on a game?
+6034000	6036000	Dark Sakura?
+6036000	6038000	I take a break when I gotta pee.
+6038000	6040000	And your watch pokes you and tells you to get up, doesn't it?
+6040000	6046000	Yeah, now it does. I mean, if it hits like the 50 minute mark and I haven't stood up,
+6046000	6049000	then I get that little tap on the wrist. It's time to stand up.
+6049000	6052000	Shut up, watch. Don't tell me how to live my life.
+6052000	6056000	Actually, I do say that at my desk and Shane can attest to that, I'm sure.
+6057000	6059000	Don't tell me what to do.
+6059000	6062000	I play, you know, I pass out asleep.
+6062000	6069000	I remember though when Final Fantasy III on Super Nintendo, Rob, came out.
+6069000	6076000	I had the quote flew, quote, for a week until I beat it.
+6076000	6082000	So I didn't go to school. I just stayed home and played Final Fantasy the entire time.
+6083000	6088000	I've heard you tell that story before, the binge on Final Fantasy that you had.
+6088000	6092000	I had to re-rent it at the time. I didn't own the copy.
+6092000	6093000	Nice.
+6093000	6100000	I was gonna say I completed Grand Theft Auto 4 100% to try to get the keys of the city
+6100000	6105000	when I first came out and then required me staying up very late at night for a few days.
+6106000	6110000	My friend and I, when I was younger, we stayed up all night beating.
+6110000	6114000	We did it once with Super Mario 3 without warping and we did it again with Star Tropics.
+6114000	6117000	We played Star Tropics like almost all in one sitting.
+6118000	6123000	But as far as, again, I can't do those types of binge sessions.
+6123000	6127000	Maybe I'm just old or whatever and I gotta pee a lot or I gotta eat.
+6127000	6132000	I think the fact that I really like food makes me stop and get up and be like,
+6132000	6134000	ooh, I'm gonna raid the fridge. I want a cookie.
+6134000	6137000	So that helps with those breaks.
+6137000	6138000	Shane?
+6138000	6146000	I'm sure I did it for various MMOs but the one game I remember not getting up until I beat it
+6146000	6149000	was Portal 2 when that came out.
+6149000	6150000	Oh yeah.
+6150000	6156000	Got that on PS3 and at the time I would play in the living room and I'd just lay down on the floor
+6156000	6161000	and look up at the TV and I just kept playing until it was done because it was so good.
+6161000	6165000	And at least that's something you can kind of feasibly, it's like what, a five hour game?
+6165000	6167000	That's like watching the Lord of the Rings trilogy.
+6167000	6171000	I did the same with, oh god, Bioshock Infinite too.
+6171000	6172000	Oh wow.
+6172000	6176000	And Heavy Rain. I did not stop playing Heavy Rain until I finished it.
+6176000	6178000	Alright, there you go.
+6178000	6183000	Some of our answers there over at our Facebook and our Google Plus pages.
+6183000	6186000	And let's see, looking in our chatroom over at live.vognetwork.com.
+6186000	6189000	Oh, Bobby Blackwolf with a great answer here.
+6189000	6193000	Civilization always makes me play for a binge which is why I never play it often
+6193000	6195000	because I never have binge time anymore.
+6195000	6196000	Oh god, that's so true.
+6196000	6201000	I remember playing online matches in Civ Net which was the online Civ one
+6201000	6203000	that would go like all fucking night.
+6203000	6205000	And I think we did this with Civ 4 once too.
+6205000	6212000	Like the Civilization is some serious like, yeah, there's just one more turn.
+6212000	6216000	There would be the hours of me playing Dr. Mario.
+6216000	6218000	No, seriously.
+6218000	6224000	I could play Dr. Mario from level one to whatever level.
+6224000	6227000	Those puzzle games were especially something, especially when they were first coming out
+6227000	6232000	because Dr. Mario was kind of like in a way was the follow up to Tetris and that whole craze.
+6232000	6236000	Except Dr. Mario to me was much easier than Tetris.
+6236000	6237000	Yeah.
+6237000	6244000	Because I mean I don't know what it was but my, I guess my reaction time was a lot faster on Dr. Mario than it was with Tetris.
+6244000	6248000	Sure, but you've heard those stories of people that would play Tetris that usually don't play games.
+6248000	6249000	Like back in that day, right?
+6249000	6256000	Like, oh my gosh, the mom who doesn't play games, I'm being extremely stereotypical of what we saw on the news back then,
+6256000	6260000	is binge playing Tetris and can't put the Game Boy Advance down.
+6260000	6265000	Do you know the first place I ever learned about Pokemon, by the way, on a tangent,
+6265000	6276000	was from a bunch of like mother types at work who got this game for their kids and they couldn't stop playing it.
+6276000	6281000	I just thought, just kind of like a funny aside, that like one of them would talk about Pokemon like non-stop
+6281000	6285000	and she was playing it on her breaks. She had her Game Boy at work and I kind of thought it was cool.
+6285000	6289000	And that, you know, it wasn't really until the anime when I got into it but it was interesting.
+6289000	6291000	I would only play Pokemon at the gym.
+6291000	6301000	Alright. Anyhow, let's see, let's get on to some more gaming news. Loki!
+6301000	6305000	So this is kind of disappointing because I actually follow this guy on YouTube a bit.
+6305000	6312000	So Eric, I'm going to try to not butcher his last name, Tarasinski.
+6312000	6319000	He goes by Etitski, I guess, on YouTube.
+6319000	6322000	He did like a bunch of Unity tutorials and that type of thing.
+6322000	6325000	One of the things he was working on was actually a game called Ant Simulator.
+6326000	6332000	And I believe it had been Kickstarted and he's been working on it for a while now.
+6332000	6337000	Apparently he just put up a YouTube video saying that the game has been cancelled.
+6337000	6346000	And this is because, as he puts it, that his two business partners that he was with have spent the money that was from the backers
+6346000	6352000	to fund the game and they spent it on bar tabs and hookers.
+6352000	6354000	Hookers? Oh for real?
+6354000	6359000	Or not hookers, but strippers and food and that type of stuff.
+6359000	6371000	And so because of this, he's trying to find a way to refund everybody and basically just trying to salvage everything.
+6371000	6380000	It wasn't too much that he had raised, it was $4,459 from 149 backers.
+6380000	6385000	And apparently of that, it's been spent now.
+6385000	6391000	Although, his two business partners also came out to defend themselves and basically saying that,
+6391000	6401000	no, we didn't spend this on unnecessary things, that this was all approved business transactions,
+6401000	6408000	and that actually the developer was separating from the company and actually took control of the funds
+6408000	6411000	and has moved those all into a personal account type of thing.
+6411000	6417000	So a lot of drama, but it kind of sucks to see this guy's hard work.
+6417000	6423000	Basically he's not allowed to release the game now without these guys and he doesn't have the money to release it
+6423000	6428000	because they've used it all. And if he tries to release it without them, they will sue him.
+6428000	6431000	So yeah, that kind of sucks.
+6431000	6433000	What a mess.
+6434000	6438000	But whenever I think of Ant Simulator, I think of SimAnt. That game was so awesome.
+6438000	6440000	Yeah, and the game does look pretty awesome.
+6440000	6445000	I mean, I've seen videos on his channel for a while now regarding that,
+6445000	6448000	and I didn't realize he'd actually had a Kickstarter for it.
+6448000	6450000	I thought it was just kind of like a little project he was working on.
+6450000	6457000	But it looked pretty cool, and fortunately now there's not really much he can do with it.
+6458000	6465000	All right. Well, moving on to, I guess, a bit of an OLR dream game-esque sort of thing,
+6465000	6467000	perhaps being realized a little bit. I don't know.
+6467000	6471000	But you know we've talked about, and it's been a little bit of a long-running joke here on OLR,
+6471000	6475000	that they really should make a video game out of Battle Royale.
+6475000	6478000	That's not what's happening. I'm not trying to get your hopes up,
+6478000	6481000	and it's not that they're making one out of Hunger Games either,
+6481000	6485000	but the whole concept of the fact that 16 people enter one survives.
+6485000	6491000	Now, to be fair, I believe H1Z1, there's a mode like this in that game,
+6491000	6493000	but there's not really been a game where, at least that I can think of,
+6493000	6498000	where that's really kind of been the focus is that sort of storytelling
+6498000	6501000	that you see in a survivor-esque type of narrative.
+6501000	6505000	Anyhow, there is a new game, though, that has come out on Steam Early Access,
+6505000	6509000	or I'm sorry, will be on Steam Early Access early next month called The Culling,
+6509000	6513000	and you're going to be participating as one of 16 contestants,
+6513000	6518000	and you have 20 minutes to explore the surrounding, craft weapons,
+6518000	6523000	and kill the other players. You can scavenge various items, build traps,
+6523000	6526000	and that will allow you to kill the other contestants
+6526000	6531000	and win the right to live before the next round of play begins.
+6531000	6536000	The Culling is going to be a standalone experience with 16-player Battle Royale modes.
+6536000	6540000	March 8th is when the game comes out on Steam Early Access.
+6540000	6544000	Oh, I'm sure there's other games like this that kind of already exist,
+6544000	6546000	but I don't know. When I heard about this, I was like,
+6546000	6549000	oh, remember when we had the Battle Royale live on OLR
+6549000	6552000	and somebody got cut with a paper plate or something? I don't remember.
+6552000	6554000	I was the victor of that one. That was great.
+6554000	6556000	Russ sort of reminds me of DayZ.
+6556000	6560000	It's more of where you just get plopped down into the middle of everything
+6560000	6562000	and you have to survive against other players.
+6562000	6568000	This almost sounds like the Hunger Game mods that they do for Minecraft and stuff
+6568000	6572000	where you basically have a certain set time limit and you have to survive and that type of thing.
+6572000	6575000	But hey, whatever. That's cool. All those concepts are fun.
+6575000	6580000	Dart Tetsuya says, in the description, they do specifically say Battle Royale multiple times,
+6580000	6582000	so it was probably a heavy influence.
+6582000	6587000	And obviously, for obvious reasons, they can't exactly release their game as Battle Royale,
+6587000	6591000	but it probably is where most of their inspiration comes from.
+6591000	6596000	Very cool. I'll have to see if that game looks like something I could actually play
+6596000	6600000	or if it's going to be yet another first-person shooter I'm going to be awful at.
+6600000	6602000	Moving on, DarkSakura.
+6602000	6609000	Well, you know, I love my Neo Geo Pocket color, and this makes me think of it.
+6609000	6614000	It's another early access game called Pocket Rumble,
+6614000	6618000	and basically it looks like old Neo Geo Pocket fighting games,
+6618000	6622000	like Gals Fighters and the KOF games.
+6623000	6629000	I think I have both of the Last Blade games, so it's pretty fun.
+6629000	6632000	This looks very interesting. I watched the trailer for it,
+6632000	6636000	and right now I think they've only got two characters right now,
+6636000	6639000	and they're supposed to be releasing more characters as it goes out,
+6639000	6647000	but it's $9.99, and there is a preview of the upcoming games on their Kickstarter page,
+6647000	6651000	and I'm going to have to go pick this up when I get home.
+6651000	6654000	Yeah, when I heard about that, I definitely thought of you,
+6654000	6657000	because you have a lot of love for those pocket fighting games.
+6657000	6658000	That's pretty cool somebody's making a tribute.
+6658000	6660000	I love the Last Blade ones. Those were always fun.
+6660000	6664000	Yeah. All right, just a couple more stories, and then we'll get to tonight's mailbag,
+6664000	6668000	which DarkSakura may be able to attend to tonight, it looks like.
+6668000	6670000	She won't have to leave studio before then.
+6670000	6671000	Logie.
+6671000	6675000	So Cartoon Network is kind of expanding beyond just cartoons.
+6675000	6678000	They're actually going to get into the...
+6678000	6681000	They've been sort of working on different video games and stuff,
+6681000	6683000	but they're actually creating their own video games now,
+6683000	6685000	aside from just kind of doing licensed stuff.
+6685000	6691000	So one of the first original games that they're putting out is called OK KO, Lakewood Plaza Turbo,
+6691000	6695000	and it's, I guess, some brand new game.
+6695000	6699000	It looks pretty cool. It's kind of a brawler game that's basically an anime world.
+6699000	6706000	So their quote from Chief Content Officer Rob Scorcher, or Sorcher,
+6706000	6709000	is, we're no longer just about creating TV series.
+6709000	6712000	We're really about creating animated worlds,
+6712000	6717000	and we really want the ability to unfold those worlds into any platform,
+6717000	6726000	and ultimately all platforms, including TV and mobile, console, that type of thing.
+6726000	6731000	It looks interesting. I mean, I like the style of it.
+6731000	6734000	All right. Sorry, I got distracted for a minute there.
+6734000	6737000	For our live listeners, it looks like we had a little hiccup in studio,
+6737000	6740000	so we may have lost audio. I got kicked from IRC. I don't know if you guys did.
+6740000	6743000	I was still on, but I got the ops are warning.
+6743000	6746000	Oh, so something weird happened there, so unfortunately...
+6746000	6747000	IP conflict?
+6747000	6750000	Yeah, I think what happened is we all reconnected,
+6750000	6755000	and now it thinks there's too many of us on the net or something, so hopefully...
+6755000	6757000	I didn't get any kind of disconnect notice.
+6757000	6762000	I'm actually showing that our live stream just dropped again, and it's trying to reconnect.
+6762000	6765000	So it looks like we are having some internet issues.
+6765000	6768000	So for the sake of the show, I am going to keep rolling tape.
+6768000	6771000	The show must go on.
+6771000	6773000	Let me try to get to the next story here.
+6773000	6776000	I'm just going to hope that the stream reconnects for our live folks,
+6776000	6779000	but in the interest of the recording, I'm going to keep moving.
+6779000	6782000	Hopefully it was just a little hiccup.
+6782000	6785000	Hopefully everybody can kind of curb their internet activity here in the...
+6785000	6786000	I'm not using the internet.
+6786000	6787000	I know you're not.
+6787000	6789000	I was just looking at pictures of cows.
+6789000	6791000	I'm playing Final Fantasy Explorer.
+6791000	6794000	I'm not sure that Alan is not running any torrents or anything like that.
+6794000	6795000	I don't know.
+6795000	6796000	Anyhow...
+6796000	6798000	That's not what you say on the air, Rab.
+6798000	6799000	Sorry.
+6799000	6800000	All right, moving on.
+6800000	6803000	Let's talk about Star Wars The Force Awakens.
+6803000	6808000	There is going to be a Lego game coming out for Star Wars The Force Awakens,
+6808000	6814000	and there was a teaser that happened with the Lego folks that came out earlier this week,
+6814000	6817000	and it said that, yeah, they're going to be coming together,
+6817000	6820000	which makes sense because there's already Lego Star Wars games.
+6820000	6823000	So we kind of knew a Star Wars Force Awakens was kind of a given,
+6823000	6829000	but it had actually been leaked previously due to an Xbox Store product page
+6829000	6832000	that actually came out a little earlier than it was supposed to.
+6832000	6833000	So, yep.
+6833000	6838000	Lego Star Wars The Force Awakens will have new gameplay mechanics,
+6838000	6841000	building, battling, and flying through the galaxy.
+6841000	6843000	Interesting that they are making a whole separate game for this
+6843000	6846000	and not just adding it into Lego Dimensions,
+6846000	6849000	but at the same time, it's not like they don't make stand-alone Lego games still.
+6849000	6853000	Well, yeah, Dimensions, I don't think they would do that because it's a...
+6853000	6858000	But I would think that, you know, I'm surprised that they're putting it out now
+6858000	6861000	because with the original trilogy and everything,
+6861000	6864000	they had kind of like three games in one or three movies.
+6864000	6870000	I just hope that there's enough content in The Force Awakens to make a game out of,
+6870000	6873000	which I don't know if it might be.
+6873000	6875000	The trailer was super adorable.
+6875000	6879000	Like, even I kind of want to play it just by watching that trailer.
+6882000	6886000	I'll have to check it out whenever, you know, we actually have a game.
+6886000	6888000	Maybe that's a holiday release, I imagine.
+6888000	6889000	June, actually.
+6889000	6890000	Oh, wow.
+6890000	6895000	Oh, maybe timed for the release of, like, the Blu-ray.
+6895000	6896000	Maybe. I don't know.
+6896000	6898000	I don't remember when the Blu-ray's coming out, but, yeah,
+6898000	6900000	June is when it's supposed to be coming out.
+6900000	6901000	Cool.
+6901000	6904000	All right, let's get into the mailbag.
+6904000	6906000	Every week you guys send us emails.
+6906000	6909000	Participate at OrangeLoungeRadio.com.
+6911000	6914000	And DarkSakura will dive into the mailbag and find some emails
+6914000	6916000	that she thinks, hey, these are worthy of reading on the show.
+6916000	6918000	Although I believe there's only one email one night, right?
+6918000	6919000	Unless the late one's here.
+6919000	6920000	It's a big one.
+6920000	6921000	One email.
+6921000	6923000	One. One email.
+6923000	6924000	One email.
+6924000	6925000	Ah, ah, ah.
+6925000	6926000	DarkSakura.
+6926000	6928000	This comes from...
+6928000	6929000	He put his full name on there.
+6929000	6931000	I'm just going to say Andrew.
+6931000	6935000	Very interesting discussion last week about how Shane hates E3,
+6935000	6938000	and I thought I would chime in since I went in 2015.
+6938000	6939000	I don't think Shane's the only one that...
+6939000	6940000	Yeah.
+6940000	6941000	Hate's a strong word.
+6941000	6942000	But, anyway, go ahead.
+6942000	6945000	I get a lot of the complaints Shane and Sky had.
+6945000	6949000	Activision was still a lot of closed-door stuff,
+6949000	6952000	though I recall Skylanders being playable on the floor
+6952000	6955000	with a several-hour wait because they were giving out
+6955000	6957000	an exclusive Skylander.
+6957000	6961000	Konami's presence was a huge boost just for two screens,
+6961000	6965000	one Metal Gear Solid and the other for...
+6965000	6966000	PES?
+6966000	6968000	Pro Evolution Soccer.
+6968000	6969000	Okay.
+6969000	6970000	Game I don't care about.
+6970000	6972000	And nothing playable on the floor.
+6972000	6976000	Plus several games I saw were just demoed to me
+6976000	6979000	in a theater setting as Sky complained about.
+6979000	6983000	For example, I saw Dark Souls 3 but didn't even end up
+6983000	6986000	writing an article about it because by the time
+6986000	6988000	I would have done so, most of what I had seen
+6988000	6990000	was already online.
+6990000	6993000	However, there was also a huge indie presence.
+6993000	6996000	Last year was my first year, so I didn't know how it compares,
+6996000	6999000	but both Sony and Microsoft were lined with demo stations
+6999000	7001000	for all the indies they'd been courting,
+7001000	7003000	and many of the devs were on hand to talk to people
+7003000	7006000	playing their game.
+7006000	7008000	It was easy to simply walk up and start playing
+7008000	7010000	Rocket League or Cuphead.
+7010000	7011000	Oh, man, I want to play Cuphead.
+7011000	7012000	Oh, yeah.
+7012000	7014000	I watched the little gameplay trailer of that recently.
+7014000	7015000	They were showing that.
+7015000	7017000	That looks fantastic.
+7017000	7019000	And several times I had the developer come
+7019000	7021000	and chat me up while I was playing.
+7021000	7023000	On to the news about EA.
+7023000	7028000	I do like that they are opening up of their stuff
+7028000	7029000	to the public.
+7029000	7032000	Like Shane, I really enjoyed the PSX I went to
+7032000	7034000	as a fan and not media.
+7034000	7038000	But as someone who may be going to E3 again this year
+7038000	7042000	as media, can I say fuck you EA for putting their thing
+7042000	7043000	across the street?
+7043000	7047000	It's already a, it's already a betch, B-E-T-C-H,
+7047000	7050000	but when you've got five minutes between appointments
+7050000	7051000	and they're in opposite halls,
+7051000	7053000	but now there's also this to contend with.
+7053000	7055000	That's my F-you of the week.
+7055000	7056000	Wink.
+7056000	7058000	You know, back in my day at E3,
+7058000	7061000	the only thing across the street were like hot dog vendors
+7061000	7062000	and balls.
+7062000	7063000	And balls.
+7063000	7066000	That was what my E3 was like, too.
+7066000	7071000	And then, of course, you had the EEE booth
+7071000	7073000	where you got root beer balls.
+7073000	7076000	I remember the one year I went and I didn't see anything
+7076000	7077000	but the Ouya thing.
+7077000	7079000	I think I was picking up Bobby Black Wolf
+7079000	7080000	and we went to Disneyland.
+7080000	7082000	Oh, and they had the one year where, um,
+7082000	7084000	what's the game called now?
+7084000	7086000	Um, the Rez spiritual successor.
+7086000	7088000	I don't remember what it's called now.
+7088000	7089000	Oh, Child of Light?
+7089000	7093000	No, that's the Ubisoft game, isn't it?
+7093000	7094000	Yeah, but it was by Mizuguchi.
+7094000	7096000	No, no, no, no, no, no, no.
+7096000	7097000	Oh, no, no, no.
+7097000	7098000	You're right.
+7098000	7099000	No, no, no.
+7100000	7102000	It was something like that, yeah.
+7102000	7104000	Yeah, because I was going to say Child of Light,
+7104000	7105000	but it's not that.
+7105000	7106000	Child of Eden.
+7106000	7107000	Child of Eden, yes.
+7107000	7109000	That was across the street one year, too,
+7109000	7110000	and I played that.
+7110000	7112000	I was like, ooh, interesting.
+7114000	7116000	And Bobby is pointing out, though,
+7116000	7119000	that EA is not going to be across the street for media
+7119000	7121000	because the meeting rooms, they will still have upstairs
+7121000	7122000	at the LA Convention Center.
+7122000	7125000	And a lot of people who've even been to E3
+7125000	7127000	don't ever think to walk upstairs,
+7127000	7128000	and that's because I think you actually,
+7128000	7130000	I don't think a general badge gets you up there.
+7130000	7134000	I think you have to have a media badge to get up there.
+7134000	7137000	But we actually, I went up there
+7137000	7139000	when I had some appointments a couple years ago
+7139000	7140000	the last time I was there, and I was like,
+7140000	7144000	wow, there's a lot more you don't even see that's up here
+7144000	7145000	because that's how I played.
+7145000	7148000	I want to say how I played a lot of the Bandai Namco stuff
+7148000	7149000	was actually upstairs.
+7149000	7151000	It wasn't even on the show floor,
+7151000	7154000	but we had an appointment to see the Tails game
+7154000	7155000	that was coming out that year,
+7155000	7157000	and we got to play some of the other stuff.
+7157000	7161000	My first year, I just managed to piggyback into media events,
+7161000	7162000	remember?
+7162000	7163000	Yeah, yeah.
+7163000	7165000	And then my second year, I managed to, again,
+7165000	7168000	piggyback into media events and convince the people
+7168000	7171000	at Capcom to let me in
+7171000	7173000	because that's when they were being really rude to people.
+7173000	7174000	Yeah.
+7174000	7175000	But I got into something.
+7175000	7177000	The best badge you can have was the one year
+7177000	7178000	I had the exhibitor badge,
+7178000	7180000	and I just went everywhere whenever I wanted.
+7180000	7182000	I went there a day early, and it was just playing games
+7182000	7183000	that were already on the floor.
+7183000	7184000	It was so good.
+7184000	7187000	The third year is when we had media passes,
+7187000	7189000	and that was pretty fun.
+7189000	7192000	I just remember hanging out in the Bethesda room for a while
+7192000	7195000	with that Call of Cthulhu game
+7195000	7198000	that I wanted to play so badly.
+7198000	7200000	The reality is times have changed,
+7200000	7204000	and it's a new media now than it was ten years ago
+7204000	7205000	when we were all first going,
+7205000	7208000	so we'll see what happens and what changes in the future.
+7208000	7210000	All right, that is it for our mailbag tonight.
+7210000	7214000	All right, participate at orangeloungeradio.com
+7214000	7218000	if you want to send an email for a future week.
+7218000	7222000	In the meantime, let's get into the FUs of the week
+7222000	7225000	because we get angsty here on the show once in a while,
+7225000	7228000	and so we're going to take it out on all of you.
+7228000	7250000	This is FU2, and it's not like anyone's fault or anything,
+7250000	7253000	so I'll say FU that my friend's cat got out
+7253000	7255000	and has now lost everything.
+7256000	7259000	Poor baby, I hope you can find your baby.
+7259000	7262000	There's a poor little hurt cat too.
+7262000	7264000	There's cold, poor baby.
+7264000	7266000	I hope they come back soon.
+7266000	7270000	And also FU2 having migraines at work.
+7272000	7274000	Um, Loki.
+7274000	7277000	I'm FU2 myself for twisting my ankle
+7277000	7280000	while playing Ingress this week.
+7280000	7282000	It's a dangerous sport.
+7282000	7285000	Yes, dangerous, no, it's more like me being a dumbass
+7285000	7288000	and walking along the edge of a road and stepping on it.
+7288000	7290000	Was it even a dangerous portal?
+7290000	7292000	Were you going into the ditch by the movie theaters?
+7292000	7294000	It wasn't that, or it was just like over?
+7294000	7299000	No, it was the entrance to a park,
+7299000	7303000	and there's no place to park right there by the portal,
+7303000	7306000	so I had to park and walk to it, and I did, and I hit it.
+7306000	7307000	So you tripped over your own two feet?
+7307000	7309000	No, I didn't trip over my own two feet.
+7309000	7312000	I tripped off the curb funny and twisted my ankle,
+7312000	7315000	and I looked like a dumbass because I fell on the ground,
+7315000	7318000	and then had to hobble around for a couple days.
+7318000	7320000	Alright.
+7320000	7323000	My FU of the Week goes to, oh my god,
+7323000	7325000	the sickness that would not go away.
+7325000	7327000	I was waking up for like two weeks.
+7327000	7329000	You remember when I missed a show a couple weeks ago?
+7329000	7334000	Like, I think today is the first day that I woke up feeling symptom-free.
+7334000	7338000	Knock on wood, cross my fingers, all that stuff.
+7338000	7341000	FU did the sickness that would not go away. It was awful.
+7341000	7344000	And FU did the fact that I walked six miles yesterday,
+7344000	7346000	but that's actually a good thing. I needed the exercise.
+7346000	7350000	But I walked six miles for Ingress First Saturday,
+7350000	7353000	and I came in sixth place, but that was out of 72 people,
+7353000	7356000	so it's not too bad actually, so I'm happy.
+7356000	7358000	I really wanted to go to that. I wish I could.
+7358000	7360000	It was fun. There was a lot of people there.
+7360000	7363000	It's fun to meet the people that you only talk to online usually.
+7363000	7366000	So were there a lot of people from the other faction there?
+7366000	7370000	Yeah, but I don't want to say it gets high school,
+7370000	7373000	but people definitely kind of hang with their crew,
+7373000	7376000	and I didn't meet a lot of people. I'm always nice.
+7376000	7379000	There's a couple, but usually they're out of area.
+7379000	7382000	You know, so there was a couple that I met that were nice.
+7382000	7384000	Was Pepper there?
+7384000	7388000	No, she wasn't. I like her. I would have said hi to her if she was there.
+7388000	7393000	See, my thought was if I had been able to go to a park or something like that,
+7393000	7395000	I was like, well, everybody's going into this thing.
+7395000	7398000	I'm just going to go hack your crap while you're away.
+7398000	7402000	Yeah, right, so it was fun, but I did a lot of walking.
+7402000	7406000	It was like I got to come home and take a nap because that was too much walking.
+7406000	7409000	All right, moving on. Shane, do you have any FUs of the week?
+7409000	7417000	FU2, deciding I wanted that Mighty Morphin Power Rangers comic book way too late
+7417000	7419000	because now you can't find it.
+7419000	7423000	I guess I'll have to wait for the third reprint that comes out in March,
+7423000	7427000	but I really wanted the Blue Ranger cover, and I won't be able to find that.
+7427000	7431000	Well, maybe there's a listener that can save the day and cross our fingers and our toes.
+7431000	7433000	Let Shane know. Reach out to him on Twitter.
+7433000	7435000	Yes, I just want the Blue Ranger cover.
+7435000	7437000	If you have one in your area that's not the Blue Ranger,
+7437000	7442000	I'll just get it off of the Internet version or something.
+7442000	7443000	All right.
+7443000	7445000	But thank you in advance.
+7445000	7449000	Tigerclaw in chat wants to know, specifically for you, Shane,
+7449000	7454000	speaking of Power Rangers, what are his thoughts on Elizabeth Banks as Rita Repulsa?
+7454000	7458000	You could go listen to Ranger Pride and find out, but spoiler.
+7458000	7462000	That's how you plug a show. Good job, but spoiler.
+7462000	7464000	I love Elizabeth Banks.
+7464000	7465000	All right.
+7465000	7467000	So that might give you a clue as to how I feel.
+7467000	7473000	All right. Let's do a couple more stories here, and then we're going to open up the phone line.
+7473000	7475000	Gosh, we're running a little ahead of schedule tonight.
+7475000	7481000	It's weird, but I guess when there's less people because the whole football game and so forth,
+7481000	7483000	some nights we're done early, some nights we're not.
+7483000	7485000	Loki, what do you got for us?
+7485000	7486000	All right.
+7486000	7495000	So there was going to be an iOS version of binding of Isaac Rebirth,
+7495000	7500000	but now it's not going to happen because it's been rejected from the App Store.
+7500000	7509000	And I guess this was due to an issue of depictions of violence towards or abuse of children,
+7509000	7512000	which is pretty much the foundation of this game.
+7512000	7516000	And so it's going to be kind of hard to fix that.
+7516000	7521000	I love the response by the actual developer, Tyrone Rotter.
+7521000	7527000	It's like he posted the whole, what was it, the rejection notice thing,
+7527000	7530000	and then he's like, come on, what the fuck, Apple?
+7530000	7532000	So that was very funny.
+7532000	7537000	But yes, usually he's, I guess, had the problems with other games in the past,
+7537000	7545000	but it's going to be hard to kind of censor that to where it'd be acceptable on the store, I guess,
+7545000	7547000	because, I mean, it's the whole foundation of the game.
+7547000	7551000	It is a little dark, let's just put it like that.
+7551000	7555000	I can see when I kind of heard this, I was like, well, it is a bit much,
+7555000	7557000	and it didn't get on Nintendo's platform.
+7557000	7559000	But it's not necessarily, I mean...
+7559000	7561000	It is on Nintendo's platform.
+7561000	7563000	Is it? I thought they ended up...
+7563000	7566000	No, it's on, you have to, you can only play it on new 3DS.
+7566000	7568000	That's right, that's right.
+7568000	7573000	I mean, it's not a realistic depiction of a child.
+7573000	7575000	I mean, it's just a cartoon character.
+7575000	7577000	I mean, come on.
+7577000	7579000	It's hard to just say he's 18.
+7579000	7583000	Just change the graphics.
+7584000	7591000	Alright, well, you know, one game that people would love to see on a Nintendo platform is Undertale.
+7591000	7594000	You know, this game has been a runaway indie success,
+7594000	7601000	and apparently, developer support at Nintendo of America has reached out to Toby Fox,
+7601000	7603000	who is the creator of Undertale.
+7603000	7605000	That's what some outlets are reporting this week.
+7605000	7608000	And this is all through Twitter, for what it's worth.
+7608000	7611000	So, you know, that's why people can see those tweets.
+7611000	7613000	And the tweet actually said,
+7613000	7616000	Hey, are you available for me to reach out to you when you get a chance?
+7616000	7618000	Let me know if that's cool.
+7618000	7620000	So now a lot of people are saying like,
+7620000	7623000	Oh, is Nintendo trying to chase down Undertale for their platforms?
+7623000	7626000	They'll buy it and call it Earthbound 4.
+7626000	7628000	Anything's possible.
+7628000	7631000	But, you know, Undertale isn't on consoles,
+7631000	7634000	and I bet Nintendo would love to have that under their belt.
+7634000	7637000	You know, I don't see why they wouldn't go for that.
+7637000	7639000	So we'll see what happens with that.
+7639000	7641000	I still need to play my copy.
+7641000	7645000	It was, I believe Dar Sakura bought that for me for the holidays,
+7645000	7647000	and I still haven't played it yet, because I'm a bad person.
+7647000	7649000	I've only played the demo partially.
+7649000	7651000	Yeah, I need to get into that.
+7651000	7653000	But what bugs me is that I've already had,
+7653000	7655000	I don't want to say the whole thing's spoiled,
+7655000	7658000	but I kind of know that you're supposed to play a certain way the first time.
+7658000	7661000	And I don't know, I'm kind of irritated that that got ruined for me.
+7661000	7663000	But, oh well.
+7663000	7667000	Anyhow, sg100matt in our chat over at live.vognetwork.com says,
+7667000	7670000	I have to play Undertale at some point.
+7670000	7672000	Sounds like I'm not the only one who's behind,
+7672000	7674000	but that happens with games sometimes.
+7674000	7677000	All right, we're going to open up the Skype line right now for you to call in.
+7677000	7680000	1-877-GAME-OLR is the old school phone number,
+7680000	7684000	but you can also call us on Skype, Orange Lounge Radio.
+7684000	7686000	Skype, of course, is something you can get on your PC,
+7686000	7689000	or it's an app on pretty much every smartphone that's out there.
+7689000	7694000	And you can just call us all one word on Skype, Orange Lounge Radio.
+7694000	7696000	Some comments in our chat over at live.vognetwork.com.
+7696000	7701000	Bob Coffey says, oh shit, Teenage Mutant Ninja Turtles 2 is going to have the Technodrome?
+7701000	7703000	And Krang.
+7703000	7708000	Yeah, it sounds like the second movie gives us a lot of the stuff we remember from the 90s cartoon.
+7708000	7709000	It looks pretty awesome.
+7709000	7711000	Yeah, was the new trailer released today?
+7711000	7712000	Yeah, Super Bowl.
+7712000	7715000	I figured. A lot of movies. Didn't Independence Day get one too, or the new Independence Day?
+7715000	7716000	X-Men Apocalypse.
+7716000	7718000	I don't know, but I'm going to have to go look for those now.
+7718000	7720000	I think there was a new Independence Day one too.
+7720000	7722000	So there's a lot of movie stuff today.
+7722000	7724000	I'm sure YouTube will blow up with all that stuff later.
+7724000	7728000	Don't they compile all the official Super Bowl stuff into one YouTube playlist?
+7728000	7729000	Maybe.
+7729000	7734000	You don't even have to really watch the game, you can just watch the YouTube playlist two hours after the game is over.
+7734000	7735000	I don't know.
+7735000	7740000	Speaking of movies, I do want to give a quick plug to Flaco Jones.
+7740000	7744000	Because his winter movie preview just went up over at vognetwork.com.
+7744000	7747000	And you can check that out and tell us what winter movies you're looking forward to.
+7747000	7751000	Teenage Mutant Ninja Turtles 2 not on that list because it's not a winter movie.
+7751000	7755000	But a little movie, I think it's called Skull Poople or something?
+7755000	7759000	Is coming out next week and has a lot of people very excited about that.
+7759000	7760000	What?
+7760000	7761000	Skull Poople.
+7761000	7763000	What are you trying to say? I don't understand.
+7763000	7766000	Have you heard about the Deadpool movie marketing campaign?
+7766000	7771000	Where they used the emojis and the emojis were the skull, the poop, and the letter L.
+7771000	7773000	Because it's dead poo-le.
+7773000	7776000	But a lot of people were like, what's Skull Poople?
+7777000	7779000	And so they kind of like ran with it.
+7779000	7784000	And I think Ryan Reynolds actually did an interview where he's promoting Skull Poople.
+7784000	7786000	So, I think that's funny.
+7786000	7789000	Obviously, Ryan Reynolds is a great fit for that character.
+7789000	7795000	He's apparently great for that role and just hearing one of the reviews for it today.
+7795000	7797000	It's getting a lot of positive press from what I'm hearing.
+7797000	7799000	Yeah, I'm totally down to see this.
+7799000	7800000	Yeah, I'll see that too.
+7800000	7804000	Dark Soccer though, you're usually the one that jumps at the Deadpool stuff.
+7804000	7806000	Are you going to be seeing Skull Poople or no?
+7806000	7807000	Probably.
+7807000	7808000	Yeah?
+7808000	7809000	I mean, it kind of goes without saying.
+7809000	7810000	Yeah.
+7810000	7812000	I rarely make it out to movies anymore.
+7812000	7815000	Remember, Shane, when we said we were going to go see one movie a week?
+7815000	7816000	You wanted to do that.
+7816000	7817000	How long did that last?
+7817000	7819000	No, because you said you were going to do it too, but then you changed mine.
+7819000	7820000	But it wasn't on me to do it.
+7820000	7821000	It was on you to say something.
+7821000	7823000	And it happened one time.
+7823000	7824000	We went and saw one movie.
+7824000	7826000	Now, granted, we saw Star Wars, which is pretty awesome.
+7826000	7828000	But it happened one time.
+7828000	7829000	I just want to point that out.
+7829000	7830000	Again, that was on you though, not me.
+7830000	7832000	Alright, another plug for calls.
+7832000	7833000	Orange Launch Radio.
+7833000	7835000	Although, again, our live turnout is a little less.
+7835000	7839000	I'm thankful to you guys for being here live, but there are less than there usually are.
+7839000	7841000	Orange Launch Radio on Skype, all one word.
+7841000	7842000	One eight seven seven game over.
+7842000	7845000	Well, this stream did crash, and I think a few people crashed with it.
+7845000	7846000	Yeah, that's true.
+7846000	7848000	The stream did crash, and some people probably thought we were done or something.
+7848000	7852000	So, I hate that, but some things you can't control, and that's one of them.
+7852000	7855000	They apparently had a new TV spot for 10 Cloverfield Lane.
+7855000	7857000	What was that?
+7857000	7860000	There was a TV spot for what?
+7860000	7862000	Ten Cloverfield Lane.
+7862000	7864000	Oh, yeah, the whole...
+7864000	7866000	I'm so excited for that movie.
+7866000	7869000	I kind of thought the original movie was super overrated, but...
+7869000	7870000	I loved it.
+7870000	7872000	Yeah, of course you did.
+7872000	7876000	Let's see, in our chat over at live.vognetwork.com,
+7876000	7879000	Xanos in chat says, and I hope I'm saying that right, sorry if I'm not,
+7879000	7883000	says, looking forward to Deadpool Thursday night on DLX.
+7883000	7887000	Tiger call asking if we've seen the new Jason Bourne spot.
+7887000	7889000	Is that the one where they don't have Matt Damon doing it anymore,
+7889000	7891000	but now it's what, Jeremy Renner?
+7891000	7893000	No, I think Matt Damon's back.
+7893000	7895000	Oh, he's back? Oh, good for him.
+7895000	7898000	I saw, like, the first one of those movies, and never...
+7898000	7902000	We also had the anniversary of Street Fighter II a few days ago.
+7902000	7904000	That did happen this week, didn't it?
+7904000	7905000	It did.
+7905000	7907000	Street Fighter, quickly, since we're not getting any calls,
+7907000	7909000	favorite Street Fighter II memory?
+7912000	7914000	It wasn't Street Fighter II,
+7914000	7916000	but it was X-Men vs. Street Fighter,
+7916000	7921000	of beating Dan's ass with Kami and having him yell about how much he hates Kami.
+7921000	7922000	That was great.
+7922000	7925000	Mine was being at a tournament at Blockbuster,
+7925000	7926000	when they were doing tournaments.
+7926000	7927000	Awesome.
+7927000	7929000	And a guy saying he wanted to pick Guile,
+7929000	7931000	and I was like, who's Guile?
+7932000	7934000	One of the people who is Callum Cooley.
+7934000	7937000	Is he the guy that does the Sanic Boom?
+7937000	7939000	Sanic Bam!
+7939000	7941000	Sanic Bam?
+7941000	7943000	Let's see, my favorite memory was...
+7943000	7946000	I was on a bus trip from...
+7946000	7947000	It's a button willow.
+7947000	7951000	Well, funny enough, it was California to the United Nations in New York City.
+7951000	7953000	I probably told this story on the show at some point.
+7953000	7956000	It was something I did through, like, a youth...
+7956000	7957000	Well, it was actually...
+7957000	7960000	Do you know what the Independent Order Odd Fellows is?
+7960000	7963000	It's kind of like Masons, like one of those types of organizations.
+7963000	7964000	They used to sponsor...
+7964000	7965000	Sounds like a cult.
+7965000	7966000	It's not a cult.
+7966000	7968000	It's an old people organization.
+7969000	7971000	They're all very nice people,
+7971000	7973000	and they paid for me to go to New York City,
+7973000	7975000	so there's not possibly a negative thing I could say.
+7977000	7979000	But I won the speech contest,
+7979000	7982000	so they did this thing where we went on a bus to the United Nations.
+7982000	7984000	The point of the story is, coming back,
+7984000	7986000	our last stop was in...
+7986000	7988000	I want to say it was Ontario.
+7988000	7990000	That's where the airport is, down south, right?
+7990000	7992000	We stopped there the very last night,
+7992000	7997000	and there was some arcade next door to the hotel we were all staying at.
+7997000	7999000	So we went into this little arcade,
+7999000	8001000	and there was a bunch of people playing Street Fighter II,
+8001000	8002000	and I just was like,
+8002000	8003000	Oh, yeah, Street Fighter II, I want to play,
+8003000	8006000	and I got on, and I was playing as Chun-Li,
+8006000	8008000	and that made all the bros who were playing the game
+8008000	8009000	kind of laugh like,
+8009000	8011000	Oh, it's a guy playing Chun-Li or whatever.
+8011000	8013000	I whooped them all.
+8013000	8014000	I was on that machine.
+8014000	8016000	I shit you not for an hour straight,
+8016000	8018000	just playing Chun-Li, kicking all their asses.
+8018000	8020000	That's my favorite Street Fighter II memory.
+8020000	8023000	So thank you, Chun-Li, for showing...
+8023000	8024000	for helping me out.
+8024000	8026000	I had a moment like that with Tekken 3 back in the day.
+8026000	8027000	Oh, yeah?
+8027000	8028000	Playing, uh...
+8028000	8031000	Weren't you kind of known locally as that girl who plays Tekken?
+8031000	8032000	Who plays Tekken, yeah.
+8032000	8038000	Well, the story is that I had gone back into the cyber station
+8038000	8039000	that I used to work at,
+8039000	8041000	because they had the deluxe Tekken 3 cab, so...
+8041000	8042000	Nice.
+8042000	8044000	Well, we do have a call coming in, so let's get to it.
+8044000	8045000	Hi, you're on Orange Launch Radio.
+8045000	8046000	Who's this?
+8046000	8047000	Hello, Rob.
+8047000	8049000	Is this Marissa?
+8049000	8050000	Yes, it is.
+8050000	8052000	Yay, these are my favorite moments.
+8052000	8053000	Hello, everybody.
+8053000	8054000	How are you, Marissa?
+8054000	8055000	Marissa, come on in.
+8056000	8058000	I tried to go outside to talk on the phone,
+8058000	8060000	because I live in a very small space,
+8060000	8062000	and my boyfriend now has to listen to me talk.
+8062000	8064000	There is a wind tunnel outside.
+8064000	8065000	Anyway...
+8065000	8067000	We don't hear it, for what it's worth,
+8067000	8068000	but I'm sorry you're having to put up with it,
+8068000	8070000	but we can hear you just fine.
+8070000	8071000	What's on your mind tonight, hun?
+8071000	8073000	Calling to say hi.
+8073000	8077000	I noticed, you know, you're having a Super Bowl lag, right?
+8077000	8079000	Yeah, I think a lot of people are feeling it.
+8079000	8080000	Like, what can you do?
+8080000	8084000	This is the day where Bravo just plays Real Housewives all day long,
+8084000	8085000	because what can you do?
+8085000	8086000	They already do that.
+8086000	8088000	Yeah, that's a good point.
+8088000	8089000	Chris just said to me, he's like,
+8089000	8091000	you can't say Super Bowl, it's the big game.
+8091000	8093000	We can say it's streaming, honey.
+8093000	8096000	I think, technically, we're talking news,
+8096000	8098000	and Super Bowl is news.
+8098000	8099000	We're not...
+8099000	8101000	If we had promoted tonight's show
+8101000	8103000	as the Super Bowl edition of Orange on Radio,
+8103000	8105000	then that's a problem.
+8105000	8108000	I didn't even know anybody excited about this game in particular,
+8108000	8110000	but we went to the supermarket,
+8110000	8112000	and they were completely out of all chips and beer,
+8112000	8115000	so I guess it was just like, hey, let's eat and drink day.
+8115000	8118000	Yeah, people, even if their teams aren't in it,
+8118000	8120000	people still watch it and get into it.
+8120000	8123000	Like, well, usually, like our pal Bobby,
+8123000	8124000	he's not usually on Super Bowl Sunday,
+8124000	8126000	because it was like the one time a year
+8126000	8127000	he would see a certain group of friends,
+8127000	8128000	and they would hang out.
+8128000	8130000	And for whatever sad reason, unfortunately,
+8130000	8133000	that didn't happen this year, so Bobby was here tonight.
+8133000	8136000	But, you know, it's like one of those cultural things.
+8136000	8138000	Some people do it for the Oscars, right?
+8138000	8141000	You might have a friend that has an Oscar party every year,
+8141000	8143000	and then suddenly one year they'll stop.
+8143000	8144000	They'll get sick of doing it.
+8144000	8145000	That's true.
+8145000	8147000	Well, you know, if I'm down here in L.A., though,
+8147000	8150000	and like we only care, well, we don't have a football team right now,
+8150000	8153000	but we only care if our team is winning anyway.
+8153000	8156000	Well, you're getting a team next year, from what I understand,
+8156000	8158000	so that's going to change a little bit.
+8158000	8159000	Yeah.
+8159000	8162000	Well, even then, the thing is, that's always funny.
+8162000	8163000	It's like, you know, we'll be bagging on,
+8163000	8165000	like we're never like, this is our hometown.
+8165000	8167000	We like support our home team.
+8167000	8169000	You know, it's like Dodgers suck, and then they win.
+8169000	8171000	We love the Dodgers, so that's it.
+8171000	8175000	You know, we never support them unless they're winners,
+8175000	8177000	but we always have our Oscar parties.
+8177000	8182000	And actually, Dark Soccer, I see you asking in chat,
+8182000	8184000	does anyone in here live in or near Denver?
+8184000	8185000	I believe Jason.
+8185000	8189000	Okay, just because my friend's kitten,
+8189000	8191000	she's actually put out a call for him.
+8191000	8192000	He's got a blue cast on.
+8192000	8195000	He's a black kitten, and his name is Logie.
+8196000	8200000	And I don't think, oh, is Denver where the kitty disappeared?
+8200000	8201000	Yeah.
+8201000	8203000	Oh, I don't think Jason is in Denver.
+8203000	8205000	I think he's in like, Colorado Springs,
+8205000	8207000	or like, kind of out, like a suburb.
+8207000	8208000	It'll be easy to see.
+8208000	8211000	He's got like a light blue cast on his back leg.
+8211000	8214000	I'm sure if Jason is still listening to the show,
+8214000	8218000	he's probably had to board up all the windows and doors at this point
+8218000	8222000	from all the rioting that is going on a mile high right now, so stay safe.
+8223000	8225000	You're gonna look up to a scared Tiny Tim of cats.
+8230000	8231000	I hope he gets recovered.
+8232000	8234000	Any gaming going on for you, Marissa?
+8234000	8235000	I don't know if there's anything you're playing?
+8237000	8238000	Not right now.
+8238000	8242000	I actually went through Fallout again.
+8242000	8243000	Oh, nice.
+8244000	8246000	I can't wait to actually play Fallout 4.
+8246000	8247000	We still have a 360.
+8247000	8250000	We're gonna upgrade eventually, but in celebration of that,
+8250000	8252000	I went through Fallout 4.
+8252000	8255000	I mean, through the two previous games,
+8255000	8257000	and it's funny, you were talking about taking breaks in gaming.
+8257000	8259000	When I really get into a game,
+8259000	8264000	my break is finding up with some sort of lame save point excuse,
+8264000	8267000	even when you can save anywhere,
+8267000	8270000	to stall my boyfriend so I can continue to play.
+8271000	8272000	That's my break.
+8272000	8276000	It's like, honey, finish mission two hours later.
+8276000	8278000	Oh, it's really tough.
+8278000	8279000	I'm in a cut scene.
+8280000	8281000	It's still going.
+8283000	8284000	That's my break.
+8284000	8285000	Get a drink.
+8285000	8286000	Make an excuse.
+8287000	8288000	That's a good story.
+8288000	8289000	Use the bathroom.
+8289000	8290000	You know what?
+8290000	8291000	You bring up a really good point, too,
+8291000	8292000	and something that came up this week
+8292000	8294000	when I was talking to somebody else,
+8294000	8296000	unaffiliated with the show or the network,
+8296000	8298000	but I was talking about, you know, like,
+8298000	8299000	oh, yeah, I play a lot of video games,
+8299000	8301000	and I do this podcast, and I'm a big gamer,
+8301000	8303000	and this friend I was talking to said,
+8303000	8304000	well, I'm a gamer, too,
+8304000	8307000	but I don't really own any of the news systems,
+8307000	8309000	so I don't know if you would really consider me a gamer,
+8309000	8311000	and I felt really bad because I was like,
+8311000	8313000	of course you're still a gamer.
+8313000	8314000	There's a lot of people.
+8314000	8317000	I mean, PlayStation 4's only been out, like, two years, right?
+8317000	8318000	Same thing with Xbox One.
+8318000	8322000	Like, if you don't have the cutting-edge stuff, it's okay.
+8322000	8324000	People got their priorities,
+8324000	8327000	and there's a lot of people still loving their 360s
+8327000	8328000	and their PlayStation 3s,
+8328000	8331000	and there's a huge library on both those consoles
+8331000	8333000	to catch up on and the Nintendo Wii, to be fair.
+8333000	8335000	You can't get a lot of games for cheap now, yeah.
+8335000	8337000	Yeah, exactly, and you can get them secondhand,
+8337000	8338000	and they're cheap.
+8338000	8341000	So I absolutely still consider everybody playing,
+8341000	8343000	even if you're a generation behind,
+8343000	8345000	or even two generations behind, screw it.
+8345000	8347000	I want to say, when Raginator was first listening to OLR,
+8347000	8350000	he was like, can I talk about Nintendo 64 games?
+8350000	8351000	Because I'm, like, really behind,
+8351000	8352000	and I'm like, of course you can,
+8352000	8354000	because some people love retro stuff.
+8354000	8355000	Why not?
+8355000	8356000	That's true.
+8356000	8357000	Like, if you get, like, you know,
+8357000	8361000	a Jamie level, you know, massive room of games
+8361000	8363000	and, like, museum type, then you're like,
+8363000	8367000	to music, like, what the vinyl collector is, you know?
+8368000	8371000	But, you know, I still think it's a conspiracy, though,
+8371000	8374000	because my, um, I'm not the only one,
+8374000	8376000	but, you know, our disk drive is starting to go.
+8376000	8378000	I'm like, I swear to God, it's a conspiracy
+8378000	8380000	to make a spot on Xbox One.
+8380000	8381000	Isn't?
+8381000	8382000	Yeah.
+8382000	8384000	All of a sudden, now, it's starting to grind,
+8384000	8387000	and we might go in there and mess with the belt, but, yeah.
+8387000	8389000	And now they're coming out with all this new stuff, too,
+8389000	8392000	where, oh, more games are backwards compatible.
+8392000	8395000	Now the secret backwards compatibility is being added,
+8395000	8396000	and I kind of can't wait
+8396000	8398000	for the Castlevania Symphony of the Night myself,
+8398000	8401000	because I would love to revisit that game again, but, yeah.
+8401000	8402000	Funny.
+8402000	8404000	Talking about cut scenes, I have to say this from chat.
+8404000	8406000	Bobby in our chat room says,
+8406000	8407000	I'm in a cut scene.
+8407000	8408000	Oh, it's still going.
+8408000	8409000	No, it's not.
+8409000	8410000	Yes, it is.
+8410000	8411000	This is Xenosaga.
+8411000	8414000	Yeah, some games really do have, like, two hour cut scenes.
+8414000	8416000	I would say Xenoblade Chronicles almost in that category
+8416000	8417000	with some of those cut scenes.
+8417000	8418000	Good lord.
+8418000	8419000	No.
+8419000	8421000	I tried to, I was like, can I save the game now?
+8421000	8422000	Jesus.
+8422000	8423000	Anyway.
+8423000	8424000	That game is so good.
+8424000	8426000	Yeah, it was pretty fun.
+8426000	8429000	I was giving it a lot of shit in the beginning,
+8429000	8431000	and rightfully so, but once you stick with it,
+8431000	8432000	it gets pretty good.
+8432000	8435000	Anyway, Marisa, always so lovely to hear from you.
+8435000	8436000	Anything else you want to mention
+8436000	8437000	before we let you go tonight?
+8437000	8439000	I don't know if you guys covered the Annie's,
+8439000	8442000	but, you know, that was more animation oriented.
+8442000	8444000	But that's an interesting thing to check out.
+8444000	8445000	That was last night.
+8445000	8446000	Was it last night?
+8446000	8448000	I wonder if our pals at Anime Jam Session
+8448000	8450000	know about that, because that would be
+8450000	8452000	a little probably more up their alley,
+8452000	8454000	even though if it's more, if it's like,
+8454000	8456000	but they talk, they get into the other stuff
+8456000	8457000	just like we do here, too.
+8457000	8459000	Especially since everyone is, you know, involved.
+8459000	8461000	Especially, you know, the actors do both.
+8461000	8462000	Yeah, true.
+8462000	8463000	That's true.
+8463000	8466000	Anybody you know win anything?
+8466000	8471000	Oh, well, I don't have any updates on any of our buddies,
+8471000	8473000	except I think you need to take classes, you know,
+8473000	8476000	with Greg and David, and Greg is a sweetheart.
+8476000	8477000	The most recent game that I know that he's done,
+8477000	8479000	although I do know that he's done things since,
+8479000	8483000	you know, is that he was in one of the loudspeakers
+8483000	8485000	in Dishonored.
+8485000	8490000	But there, you know, that's the luck of being where I live.
+8490000	8492000	You know, I've taken classes with Charlie Adler,
+8492000	8494000	so people could know his work from gaming,
+8494000	8498000	but in animation he's huge, and he's amazing.
+8498000	8502000	So, although I do welcome you to reach out to Andrew
+8502000	8504000	at any time, too, if you ever want to have him
+8504000	8505000	on the show again, or any guests.
+8505000	8507000	Yeah, get some updates, figure out what's going on.
+8507000	8508000	Yeah.
+8508000	8509000	Absolutely.
+8509000	8510000	All right.
+8510000	8511000	Well, Marissa, I'm going to let you go
+8511000	8512000	so we can see if we get any other callers tonight,
+8512000	8513000	but thank you so much.
+8513000	8515000	Always a pleasure to hear from you,
+8515000	8517000	and I really, really hope to make it to L.A. soon.
+8517000	8518000	There's still time.
+8518000	8519000	All right.
+8519000	8520000	Take care, my dear.
+8520000	8521000	My best.
+8521000	8522000	Bye.
+8522000	8523000	All right.
+8523000	8524000	And there goes Marissa.
+8524000	8525000	We love hearing from her, though.
+8525000	8527000	I am going to bow out.
+8527000	8528000	That's right.
+8528000	8529000	It is about that time.
+8529000	8530000	It is.
+8530000	8531000	Have a wonderful week.
+8531000	8532000	How was I going to say?
+8532000	8533000	Rest of your weekend, but there's not much left.
+8533000	8535000	Enjoy the hour or two that's left.
+8535000	8540000	You mean like the 45 minutes I have left before I have to go to bed?
+8540000	8543000	Any final thoughts for our listeners tonight before you go?
+8543000	8546000	I wish I could sleep in tomorrow.
+8546000	8547000	That's really my final thought.
+8547000	8548000	Me too.
+8548000	8552000	My strongest desire is to no longer be on morning shift.
+8552000	8553000	Ah.
+8553000	8556000	Well, hopefully you'll get to switcheroo it up soon.
+8556000	8557000	All right.
+8557000	8558000	Well.
+8558000	8559000	Mid next month.
+8559000	8560000	We will see you next week.
+8560000	8561000	Maybe.
+8561000	8562000	All right.
+8562000	8563000	If I'm not dead.
+8563000	8564000	Next week is a three-day weekend for me.
+8564000	8565000	Lucky you.
+8565000	8566000	I know.
+8566000	8569000	Next Sunday is Valentine's day.
+8569000	8570000	Oh, shit.
+8570000	8572000	Oh, it's Valentine's day.
+8572000	8573000	Are we doing a show?
+8573000	8574000	I guess we're going to have to.
+8574000	8575000	Well, I'll be here.
+8575000	8576000	You'll be here.
+8576000	8577000	I guess.
+8577000	8578000	Will you be here, Loki?
+8578000	8579000	Is life going to let you do a show on Valentine's day?
+8579000	8580000	Probably.
+8580000	8581000	All right.
+8581000	8582000	Cool.
+8582000	8583000	Good.
+8583000	8584000	All right.
+8584000	8586000	Well, because Alan and I always have the perspective of the restaurants are going to be a shit show
+8586000	8587000	on Valentine's day.
+8587000	8588000	So we'll go.
+8588000	8591000	I took the day after off, so I can actually do the whole show.
+8591000	8592000	Exactly.
+8593000	8598000	We'll go the day before two days before two, like we'll do a dinner and call it our Valentine's
+8598000	8599000	dinner.
+8599000	8600000	We are just fine with that.
+8600000	8601000	So that's what we do.
+8601000	8602000	So rock on.
+8602000	8603000	All right.
+8603000	8604000	Well, thank you, dark soccer.
+8604000	8605000	We'll see you in a week.
+8605000	8606000	All right.
+8606000	8607000	Bye.
+8607000	8608000	All right.
+8608000	8609000	And Bobby Black Wolf in chat says, yeah, I'll be here next week.
+8609000	8613000	My girlfriend and I will do stuff Friday and Saturday, and then we're going up to mag fest.
+8613000	8617000	So he's actually, I don't, have you mentioned that you're bringing your, your gal pal?
+8617000	8621000	Uh, but yeah, they're, uh, they're going to be, uh, uh, at mag fest.
+8621000	8624000	So, um, that'll be a, a really fun trip for them.
+8624000	8628000	Sadly, Alan cannot come to mag fest cause it's an election year and his industry involves
+8628000	8631000	selections and he's gonna be very, very, very busy.
+8631000	8632000	So very cool.
+8632000	8634000	Uh, one more shout out for calls.
+8634000	8639000	One eight seven seven game of LR, excuse me, or I use him on Skype, orange lounge radio,
+8639000	8642000	checking in with Loki for any last minute stories possibly while we wait for calls.
+8642000	8643000	Sure thing.
+8643000	8645000	Um, track media turbo has a release date.
+8645000	8650000	Now it's going to be coming out March 22nd on PC, PlayStation four and Xbox one.
+8650000	8653000	And I just caught up on the trailer cause I completely forgot about this game.
+8653000	8654000	And Holy shit.
+8654000	8655000	Does that look amazing?
+8655000	8658000	So I'm going to have to probably pick that up when it comes out.
+8658000	8662000	Um, GameStop is publishing a game.
+8662000	8663000	That's kind of scary.
+8663000	8668000	Um, yes, apparently, um, they're going to be publishing song of the deep.
+8668000	8674000	It's a 2d underwater Metrovania game and it's going to be out on PC, PlayStation four and
+8674000	8675000	Xbox one.
+8675000	8679000	And you saw who it's made by ratchet and clank people.
+8679000	8680000	Yep.
+8680000	8681000	Insomniac.
+8681000	8683000	So that's pretty cool.
+8683000	8688000	Um, not so excited about GameStop being a publisher, but we'll see how that works out.
+8688000	8694000	And last but not least humble, but humble monthly bundle has 70,000 subscribers.
+8694000	8698000	I didn't think there'd be that many people picking random games that are going to be,
+8698000	8701000	you know, in a bundle without being announced prior to that.
+8701000	8705000	But apparently people are excited about that.
+8705000	8710000	And I guess the, let's see, which games do they have actually as part of the bundles?
+8710000	8720000	For example, February, they had alien isolation, Titan souls, broken age volume, um, Panaria
+8720000	8726000	dropsy and elephant in the room, I guess, which is a humble original.
+8726000	8727000	That's kind of cool.
+8727000	8731000	Actually, I'm, I, if I was a fan of alien isolation, that'd be kind of worth it.
+8731000	8735000	But that's it.
+8735000	8740000	Sorry, buy me a little time.
+8740000	8741000	All right.
+8741000	8748000	Um, I'm one of the reasons I was getting unity kind of up and running again was I was going
+8748000	8751000	to be working on another concept game.
+8751000	8755000	Cause like I said, I want to get done with just the whole, it's on the car thing and
+8755000	8757000	it's not quite to the level that I want it to be.
+8757000	8762000	Maybe I might have to redo it in unity five, but I just kind of just want to get something
+8762000	8765000	done at this point so I can move on to something else.
+8765000	8766000	I'm back.
+8766000	8767000	Sorry.
+8767000	8770000	Business things I got to do while the show's going on.
+8770000	8771000	I'm multitasking.
+8771000	8774000	Unfortunately, one of those things is no more calls coming in.
+8774000	8777000	So sadly, uh, that's going to do it for the Skype line tonight.
+8777000	8781000	Uh, but if you, uh, heard this, you know, later, you think of something later on, don't
+8781000	8784000	forget, you can always email us, participate at orange launch radio.com.
+8784000	8787000	You can always send us a tweet as well at OLR.
+8787000	8790000	I do read them all, even if I don't respond to each and every one here on air.
+8790000	8792000	Um, that is going to do it though.
+8792000	8796000	For another episode of orange Laundrio, we say here every week, thank you for checking
+8796000	8797000	out the show.
+8797000	8799000	We really do appreciate you checking it out.
+8799000	8802000	All we ask, tell a friend about the show, help spread the word because that's all we
+8802000	8803000	have is word of mouth.
+8803000	8807000	Um, you know, tell a friend or two about the show that's going to help us get our name
+8807000	8809000	out there and expand our family even more.
+8809000	8810000	We really appreciate it.
+8810000	8815000	A five star review on a site where you found this show, perhaps iTunes or stitcher radio.
+8815000	8817000	Those go a long way as well.
+8817000	8818000	So we really appreciate those.
+8818000	8821000	Um, anyhow, let's go around and get everybody's final thought.
+8821000	8823000	Hey Shane, thanks for being here two weeks in a row.
+8823000	8824000	Appreciate it.
+8824000	8825000	Hope you enjoyed the wine.
+8825000	8826000	I'm starting.
+8826000	8827000	I'm still finish it.
+8827000	8828000	No, I'm still working on it.
+8828000	8829000	I'm grateful.
+8829000	8830000	You're just waiting for spaghetti.
+8830000	8831000	Yeah.
+8831000	8832000	All right.
+8832000	8833000	Alan's making spaghetti tonight.
+8833000	8834000	A late dinner.
+8834000	8835000	So it's exciting.
+8835000	8836000	All right.
+8836000	8840000	Um, like your final thought though, Shane, while you're still here.
+8840000	8841000	Two things.
+8841000	8847240	One, Diablos and Bahamut are jerks in explorers because they're not giving me the ability
+8847240	8849420	to make my scythe in this game.
+8849420	8851480	And two, forget Valentine's day.
+8851480	8855880	That day is also the premiere of the new Super Sentai Ju-o-ger.
+8855880	8858000	There's just too much going on on Valentine's day.
+8858000	8859000	Yes.
+8859000	8860000	New OLR.
+8860000	8861000	Yeah.
+8861000	8862000	Mostly Ju-o-ger.
+8862000	8864540	Which I guess also means, I didn't even think about this, that means the, uh, the three
+8864540	8867220	shows announcements is going to be on Valentine's day, but that's all right.
+8867220	8869820	We'll, we'll have more people there next week than we did tonight.
+8869820	8872980	So, uh, anyway, uh, Loki, your final thought tonight?
+8872980	8876980	Um, I got a lot of time to ingress now.
+8876980	8877980	Good.
+8877980	8879660	Clean up the neighborhood.
+8879660	8880660	There's still some blue.
+8880660	8883180	Uh, I'll get you some, clean up my neighborhood.
+8883180	8884180	I'll get you some bursters.
+8884180	8885180	All right.
+8885180	8887620	Uh, that's going to do it for another episode of Orange Laundry Radio.
+8887620	8890860	Thank you guys so much for downloading the show or listening to it live or however you
+8890860	8891860	consumed it.
+8891860	8894060	Uh, be nice to each other while you play online.
+8894060	8895100	Don't be a jerk.
+8895100	8896540	It's re you're all nerds.
+8896540	8898300	Be nice to the people you're playing with.
+8898300	8903420	We're gonna, uh, see you in seven days and, uh, have a happy and safe Valentine's day.
+8903420	8904420	We'll talk to you though.
+8904420	8907820	And if you're one of those, you know, people that are like, well, I celebrate singles awareness
+8907820	8908820	day.
+8908820	8909820	That's okay.
+8909820	8910820	We'll have a party for you too.
+8910820	8911820	Next week.
+8911820	8912820	Seven days.
+8912820	8913820	See you then.
+8913820	8914820	You've been listening to Orange Lounge Radio.
+8914820	8919500	Orange Lounge Radio is a production of OLR Studios.
+8919500	8927980	To join us for a live show, tune into vognetwork.com Sunday nights at 6 PM Pacific, 9 PM Eastern.
+8927980	8933540	The views and opinions expressed in this program do not necessarily reflect those of the staff
+8933540	8942100	of Orange Lounge Radio or Vognetwork, but you know, they were all still true.
+8942100	8942740	See you next week.

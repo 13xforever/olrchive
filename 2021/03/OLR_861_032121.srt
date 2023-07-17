@@ -1,0 +1,5944 @@
+1
+00:00:00,000 --> 00:00:14,300
+Any act of creation at scale is a strange beast. Businesses often prioritize so much
+
+2
+00:00:14,300 --> 00:00:18,440
+time and effort into quote big wins that they overlook the small fixes that can add up to
+
+3
+00:00:18,440 --> 00:00:23,260
+a more significant win. Toast, a Grand Theft Auto player, not a Rockstar employee, having
+
+4
+00:00:23,260 --> 00:00:27,600
+no access to GTA source code, diagnosed and implemented a change that improved PC load
+
+5
+00:00:27,600 --> 00:00:33,520
+times by 70% of a multiple minutes long process. This wasn't worth the time of Rockstar employees?
+
+6
+00:00:33,520 --> 00:00:37,120
+At least they did write and made it worth Host's time and effort.
+
+7
+00:00:37,120 --> 00:00:41,240
+This is the update to a fantastic story. Join your hosts Rob Roberts, Jamie Summers and
+
+8
+00:00:41,240 --> 00:00:44,200
+Loki for more of this and the rest of the week's gaming news, starting right now in
+
+9
+00:00:44,200 --> 00:00:47,160
+the show where every gamer has a voice.
+
+10
+00:00:47,160 --> 00:00:55,120
+Hello my friends out there on the internet and welcome back to another week of the show
+
+11
+00:00:55,120 --> 00:01:02,200
+where every gamer has a voice. It is Orange Lounge Radio and we are live once again with
+
+12
+00:01:02,200 --> 00:01:10,320
+episode number 861 for this March the 21st of 2021. My name is Rob Roberts and I'm joining
+
+13
+00:01:10,320 --> 00:01:15,200
+you here from the studio where we would usually tape in person, but obviously with everything
+
+14
+00:01:15,200 --> 00:01:19,560
+going on in the world for the past year now, we have been taping thanks to the magic of
+
+15
+00:01:19,560 --> 00:01:23,920
+Discord. So I am joined remotely by the one and only DarkSakura or Jamie Summers.
+
+16
+00:01:23,920 --> 00:01:24,920
+Hello.
+
+17
+00:01:24,920 --> 00:01:25,920
+Hi, how are you?
+
+18
+00:01:25,920 --> 00:01:30,320
+I'm all right. It's, uh, I pulled my shoulder or something.
+
+19
+00:01:30,320 --> 00:01:31,960
+Ouch. I'm sorry to hear that.
+
+20
+00:01:31,960 --> 00:01:35,080
+Yeah, that's okay. That's what drugs are for.
+
+21
+00:01:35,080 --> 00:01:39,840
+And you have a nice new, um, well, it's kind of new setup. I know you got a new...
+
+22
+00:01:39,840 --> 00:01:41,400
+Oh, I have a super new setup.
+
+23
+00:01:41,400 --> 00:01:44,400
+Yeah. And your camera looks a little like it's weird because you didn't change your
+
+24
+00:01:44,400 --> 00:01:46,840
+camera, but it still looks nicer somehow.
+
+25
+00:01:46,840 --> 00:01:53,600
+Yeah. Well, um, my, my old, what, 12 year? No, it was a little bit less than that. Maybe
+
+26
+00:01:53,640 --> 00:02:02,320
+10 year old PC has now been replaced with a shiny new Mac Mini M1 and it is super fast.
+
+27
+00:02:02,320 --> 00:02:10,960
+I was playing in Logic Pro earlier today, making music. Um, I also, uh, got one of those
+
+28
+00:02:10,960 --> 00:02:22,760
+LG, uh, HD, uh, ultrawide monitors with a very lovely refresh rate on it. Um, and, uh,
+
+29
+00:02:22,760 --> 00:02:31,080
+so far I'm really feeling no pain. I love my new machine. Um, I think that it processes
+
+30
+00:02:31,080 --> 00:02:37,760
+now people are saying that I sound a little bit quieter, but, um, I think though that
+
+31
+00:02:37,760 --> 00:02:45,320
+I'm dealing with a system that's going to work better for sound processing. So, and
+
+32
+00:02:45,320 --> 00:02:49,560
+I did do some audio balancing tonight. So those listening either live or on the podcast
+
+33
+00:02:49,560 --> 00:02:53,440
+feed may notice our volume is a little different. Cause even I noticed on some prior episodes,
+
+34
+00:02:53,440 --> 00:02:57,920
+I was way quieter than like Loki. So like I, I tried to balance some things out with
+
+35
+00:02:57,920 --> 00:03:02,320
+you getting the new setup. So it might just take a little bit of adjusting too.
+
+36
+00:03:02,320 --> 00:03:10,280
+I just moved my mic a little bit to where I'm actually speaking into it. So, um, well,
+
+37
+00:03:10,280 --> 00:03:15,600
+and I have the same mold, cheap ring light I got on wish an age ago and which does well
+
+38
+00:03:15,600 --> 00:03:22,280
+enough. Hey, whatever works. But I mean, this is the setup that I wanted from the get go.
+
+39
+00:03:22,280 --> 00:03:29,400
+You know, I, I really like my, my audio technical mic and I finally have my pop filter problem
+
+40
+00:03:29,400 --> 00:03:35,120
+figured out. And you know, I just need, I needed this computer. I still have my PC.
+
+41
+00:03:35,120 --> 00:03:39,280
+I'm just trying to decide what I'm going to do when mass effects comes out. If they don't
+
+42
+00:03:39,280 --> 00:03:45,280
+do a Mac version. Now quickly, before I move on to Loki, I did want to mention you texted
+
+43
+00:03:45,280 --> 00:03:50,360
+me when you got your new setup because you had to send me your background on your new
+
+44
+00:03:50,360 --> 00:03:54,560
+like ultra widescreen monitor and it's perfect. I wish you could show it, but obviously it's
+
+45
+00:03:54,560 --> 00:03:59,120
+going to be hard to do with the camera, but describe your new background for folks.
+
+46
+00:03:59,120 --> 00:04:06,240
+It is, it is, uh, the scene from super Metroid where the, uh, scientists are dead in the
+
+47
+00:04:06,240 --> 00:04:12,400
+Metroid is sitting inside the little tube in the center, but it's a widescreen version
+
+48
+00:04:12,400 --> 00:04:20,320
+of it. So I reckon they just took different screenshots and splice them together. And
+
+49
+00:04:20,320 --> 00:04:24,640
+if you guys remember the title screen to super Metroid, you'll kind of laugh at this because,
+
+50
+00:04:24,640 --> 00:04:28,480
+um, dark soccer called me earlier today so we could do a check and she didn't have a
+
+51
+00:04:28,480 --> 00:04:33,480
+ring light on because you know, when we're not live, we can be like a glance, not glamorous.
+
+52
+00:04:33,480 --> 00:04:38,520
+And I was like, you, you sound fine, but you look blue and it's because her background
+
+53
+00:04:38,520 --> 00:04:42,400
+with that Metroid, you know, it's very blue and super Metroid, if you remember, right.
+
+54
+00:04:42,400 --> 00:04:45,720
+And she's like, if my background is glowing on me, I was like, Oh, that's funny. Cause
+
+55
+00:04:45,720 --> 00:04:51,740
+you look like you just got out of the movie avatar. So I'll turn off my ring light. So,
+
+56
+00:04:51,740 --> 00:04:55,600
+so maybe it'll show. Okay. A little, yeah, it's just, you're a little purple when you
+
+57
+00:04:55,600 --> 00:05:01,720
+do that. Yes. A little bit, girl, look how blue you look. All right. Let's say wearing
+
+58
+00:05:01,720 --> 00:05:06,400
+a blue shirt. Let's say hello to tech master. Loki. Hey, Loki. Hey, how's it going? Good.
+
+59
+00:05:06,400 --> 00:05:11,840
+How are you? I'm doing fine. So, um, apparently, uh, I was talking a little bit last week about
+
+60
+00:05:11,840 --> 00:05:16,920
+getting the first shot of Moderna vaccine because that had happened earlier in the day.
+
+61
+00:05:16,920 --> 00:05:22,620
+And I never really had any side effects besides the sore arm, but I heard that you got your
+
+62
+00:05:22,620 --> 00:05:28,580
+shot in the last couple of days. Yeah. So I got the Johnson and Johnson shot on Friday.
+
+63
+00:05:28,580 --> 00:05:37,740
+So that one, unlike the Moderna and the Pfizer one are it's one and done. So I'm done. Well,
+
+64
+00:05:37,740 --> 00:05:41,880
+tech, technically you have to wait two weeks. So the antibodies to build up, but yes, for
+
+65
+00:05:41,880 --> 00:05:45,700
+all intents and purposes, you're done. So, um, so you're going to be, you're going to
+
+66
+00:05:45,700 --> 00:05:51,740
+be, so I, I did your wife get the same one. Yeah, she did. Cause I know when she saw me
+
+67
+00:05:51,740 --> 00:05:55,100
+getting mine, she was like, I've been trying to get mine for what's going on, you know,
+
+68
+00:05:55,100 --> 00:05:58,860
+that whole type of thing. But now the funny thing is you guys are going to be fully immunized
+
+69
+00:05:58,860 --> 00:06:02,740
+before I am, because I have to wait till April 11th to get the second shot because of the
+
+70
+00:06:02,740 --> 00:06:09,740
+whole Johnson and Johnson thing. So, um, but that's, you know, and again, don't, uh, if
+
+71
+00:06:09,740 --> 00:06:13,980
+you can get vaccinated folks and I see, I'm seeing more people on Facebook talking about
+
+72
+00:06:13,980 --> 00:06:17,420
+it. I'm seeing more people on Twitter talking about it. I'm seeing people in chat talking
+
+73
+00:06:17,420 --> 00:06:21,420
+about it. So it's great that more people are getting their shots. If you're getting frustrated
+
+74
+00:06:21,420 --> 00:06:25,140
+because you can't get a vaccine yet, cause you don't qualify or whatever. I wouldn't
+
+75
+00:06:25,140 --> 00:06:30,140
+keep, keep this in the back of your mind. Every person that gets vaccinated is one more
+
+76
+00:06:30,140 --> 00:06:34,780
+weapon against the virus because that's one less person that the virus can get to. So
+
+77
+00:06:34,780 --> 00:06:38,900
+every person that gets vaccinated is help. So, uh, think of it that way. And it makes
+
+78
+00:06:38,900 --> 00:06:43,540
+it a lot less frustrating and it's, it's nice to see that it is ramping up. That's for sure.
+
+79
+00:06:43,540 --> 00:06:47,540
+Compared to where we were like back in January. Um, and yeah, they opened it up to everybody
+
+80
+00:06:47,620 --> 00:06:52,140
+like literally days after, like they told my wife, no, you can't get it. It was like
+
+81
+00:06:52,140 --> 00:06:57,900
+the next day they're all, Oh, you can't get it, but now you can. So well, it's still officially
+
+82
+00:06:57,900 --> 00:07:05,900
+not open to everybody. It's uh, right now that I think they're on tier one C. So it
+
+83
+00:07:05,900 --> 00:07:12,020
+might also just depend on where you go. That's true. But I got, because I have some preexisting
+
+84
+00:07:12,020 --> 00:07:19,180
+conditions. I got my alert through, uh, your turn, which is the California signup deal
+
+85
+00:07:19,180 --> 00:07:26,060
+for it. And so, um, now I know mine's one of the, the two, two shot ones cause it said
+
+86
+00:07:26,060 --> 00:07:31,460
+so on the website. I just don't know which one. So, well, and I was, I was laughing right
+
+87
+00:07:31,460 --> 00:07:36,260
+before we went on air tonight because if I got Moderna and Loki got Johnson and Johnson,
+
+88
+00:07:36,260 --> 00:07:39,900
+it would be really funny if dark soccer got Pfizer, although at the end of the day she
+
+89
+00:07:39,900 --> 00:07:44,500
+should take whatever they give her. But, uh, okay. It's, it's, it's half, it's half
+
+90
+00:07:44,500 --> 00:07:48,140
+and half now. We know it's, since it's going to be a two shot one, we know it's not J and
+
+91
+00:07:48,140 --> 00:07:52,480
+J so it's going to be one of the others. That would be really funny if each cohost here
+
+92
+00:07:52,480 --> 00:07:56,980
+had a different vaccine. That would be very, very funny. And then we would only allow guests
+
+93
+00:07:56,980 --> 00:08:02,820
+from overseas who got AstraZeneca.
+
+94
+00:08:02,820 --> 00:08:06,820
+It's just fun to say that though. It is. Well, and apparently I guess I heard the thing cause
+
+95
+00:08:06,820 --> 00:08:09,700
+they haven't authorized that one in the U S yet, even though I think they're using it
+
+96
+00:08:09,700 --> 00:08:13,840
+in Europe, but apparently they were like warehousing a bunch of that vaccine here.
+
+97
+00:08:13,840 --> 00:08:17,840
+We will get to video games, I promise. But this stuff is interesting because this stuff
+
+98
+00:08:17,840 --> 00:08:23,340
+is how we get conventions back. The AstraZeneca, I guess we were hoarding it here for when
+
+99
+00:08:23,340 --> 00:08:27,940
+they do authorize it. But they ended up sending a bunch of it, I guess, to Canada and Mexico
+
+100
+00:08:27,940 --> 00:08:33,580
+where it is authorized. So kind of interesting. So helping, helping to get the world vaccinated
+
+101
+00:08:33,580 --> 00:08:38,460
+a little more. So, all right. And some folks in chat are talking about the vaccines they
+
+102
+00:08:38,460 --> 00:08:42,940
+got. So DJ Rama S says, I got Pfizer and Bobby got Pfizer and says, Joe and Matt got
+
+103
+00:08:42,940 --> 00:08:48,420
+Pfizer. All right, fair enough. I mean, our, our chat room, as we often say, is the fourth
+
+104
+00:08:48,420 --> 00:08:53,020
+listener of our show because we do tape live every Sunday night at the voice of geeks network,
+
+105
+00:08:53,020 --> 00:08:57,780
+twitch.tv slash VOG network or VOG network, six o'clock Pacific, nine o'clock Eastern
+
+106
+00:08:57,780 --> 00:09:02,620
+right after the Bobby Black Wolf show. So if a dark soccer ends up getting Moderna too,
+
+107
+00:09:02,620 --> 00:09:07,440
+then fine. Our chat room completes the Trinity there. So there we go. All right. Black and
+
+108
+00:09:07,440 --> 00:09:16,080
+Pat in chat says, I got sheet because Florida fingers because of Dolly. I know, I know.
+
+109
+00:09:16,080 --> 00:09:19,120
+And I think I said this last week, I really wouldn't have cared which of the three they
+
+110
+00:09:19,120 --> 00:09:23,040
+gave me. It was a huge relief just to get the vaccine. But the fact that I did get the
+
+111
+00:09:23,040 --> 00:09:27,520
+Dolly vaccine is like, okay, this does feel correct. Like I'm, I'm more than okay with
+
+112
+00:09:27,520 --> 00:09:32,680
+this. So we've been blessed by St. Dolly. That's right. That's right. All right. I,
+
+113
+00:09:32,680 --> 00:09:36,440
+it is a video game show. So let's talk about some video games. Let's talk about some big
+
+114
+00:09:36,440 --> 00:09:41,800
+news going on in the gaming world. Last week, we had the whole, um, Bethesda, um, getting
+
+115
+00:09:41,800 --> 00:09:47,480
+bought by Microsoft, which honestly it started months before it's just was official last
+
+116
+00:09:47,480 --> 00:09:52,160
+week. And then we saw, uh, quite quickly, some of the, uh, bang for the buck, shall
+
+117
+00:09:52,160 --> 00:09:56,960
+we say with the, you know, 20 Bethesda games on game pass. Uh, and you know, some of the
+
+118
+00:09:56,960 --> 00:10:00,680
+other stuff that we got there, their little fireside chat. So there was a big question
+
+119
+00:10:00,680 --> 00:10:06,400
+last week. All right. Who's Sony gonna buy? Who's Nintendo gonna buy and lo and behold,
+
+120
+00:10:06,760 --> 00:10:12,280
+Sony bought someone this week, but I would bet this was on no one shortlist, right? Loki,
+
+121
+00:10:12,280 --> 00:10:18,560
+what happened? Yeah. So they purchased, uh, Evo or I guess the evolution and championship
+
+122
+00:10:18,560 --> 00:10:26,320
+series known as Evo. So now that is going to be, I guess, under their arm, which doesn't
+
+123
+00:10:26,320 --> 00:10:29,840
+really make sense to me because Sony doesn't really have any first party fighting games.
+
+124
+00:10:29,840 --> 00:10:34,500
+I get it that there's a lot of fighting aids that are exclude. Well, they, you know, maybe
+
+125
+00:10:34,500 --> 00:10:41,460
+either it's timed exclusives or whatever on the platforms, but I guess this is, I don't
+
+126
+00:10:41,460 --> 00:10:48,900
+know how this necessarily works as far as partnerships go, but maybe I, I don't know.
+
+127
+00:10:48,900 --> 00:10:53,460
+But apparently though the original co-founders are going to be staying on as key advisors.
+
+128
+00:10:53,460 --> 00:10:57,820
+Um, doesn't sound like there's going to be too many changes as far as that goes aside
+
+129
+00:10:57,820 --> 00:11:03,100
+from it being under Sony's ownership. So, you know, some folks that were talking about
+
+130
+00:11:03,100 --> 00:11:07,780
+this in our discord, um, over a vog network.com slash discord, if you want to join our community
+
+131
+00:11:07,780 --> 00:11:12,020
+there and get in on some of the discussion, um, outside of just Sundays. And you know,
+
+132
+00:11:12,020 --> 00:11:16,460
+when we're hosting shows and live shows, um, some folks were talking about kind of reminding
+
+133
+00:11:16,460 --> 00:11:22,460
+us cause I know, you know, I'd forgotten it's been a year, but Evo had all those problems,
+
+134
+00:11:22,460 --> 00:11:28,260
+you know, kind of getting pulled into the harassment issues with the, the former CEO
+
+135
+00:11:28,260 --> 00:11:33,340
+or whoever was leading that and so forth. So, um, their brand was kinda, you know, tainted
+
+136
+00:11:33,340 --> 00:11:38,220
+a little bit from all of that last year and what that guy had done. Um, so it was interesting
+
+137
+00:11:38,220 --> 00:11:44,300
+that Sony kind of took that on, although I could also see where that is kind of a positive
+
+138
+00:11:44,300 --> 00:11:50,620
+because now Sony owns it and these problem people or person really from before can quickly
+
+139
+00:11:50,620 --> 00:11:54,900
+be, you know, ceremoniously kind of thrown out of the picture, uh, for Sony to take over.
+
+140
+00:11:54,900 --> 00:11:59,660
+But it does still seem like an interesting thing for Sony to get in on, doesn't it?
+
+141
+00:11:59,660 --> 00:12:05,260
+Yeah, exactly. Cause like I said, they don't really have any first party franchises that
+
+142
+00:12:05,260 --> 00:12:10,340
+would necessarily fit in there unless they're thinking of bringing PlayStation all stars
+
+143
+00:12:10,340 --> 00:12:16,820
+back. Um, but I mean, they did have, like I said, you know, several third party exclusives
+
+144
+00:12:16,820 --> 00:12:20,560
+for awhile. So they mean there's, you know, always been a Tekken series that used to be
+
+145
+00:12:20,560 --> 00:12:24,160
+on the original PlayStation. You've got, you know, street fighter four and five, I think
+
+146
+00:12:24,160 --> 00:12:30,240
+for even on PlayStation exclusively for a little bit. Um, it's the return of air guys
+
+147
+00:12:30,240 --> 00:12:37,160
+confirmed. Yeah. It's, it's, it's all in the cards right there. So, um, I don't know. It'd
+
+148
+00:12:37,160 --> 00:12:40,240
+be interesting to see what they do with this. I thought maybe like maybe as far as like
+
+149
+00:12:40,240 --> 00:12:44,620
+streaming this goes, they may have some sort of rights with that. Um, but they don't really
+
+150
+00:12:44,620 --> 00:12:49,160
+have a streaming service anymore. So I don't know where that's really going with it, but
+
+151
+00:12:49,160 --> 00:12:54,600
+Hey, cool that they're supporting it at least. Um, but I don't know what this means is necessarily
+
+152
+00:12:54,600 --> 00:13:02,120
+any changes for Evo. Um, maybe less killer instincts. I don't know. Um, DJ Rama S in
+
+153
+00:13:02,120 --> 00:13:08,840
+chat says, and it just scrolled off the screen. Sorry guys. I don't see Sony owning Evo as
+
+154
+00:13:08,840 --> 00:13:12,880
+a good thing, but it is what it is. I'd be curious more of your thoughts if you would
+
+155
+00:13:12,880 --> 00:13:17,240
+wouldn't mind elaborating on that. I'm kind of curious. Um, the, the why behind that,
+
+156
+00:13:17,240 --> 00:13:22,080
+um, SG100 Matt says free money. I am actually really fascinated by this acquisition. I can
+
+157
+00:13:22,080 --> 00:13:26,480
+see Sony trying to become the one-stop shop for Esports streaming. Nobody really has the
+
+158
+00:13:26,480 --> 00:13:31,320
+mantle than Twitch in a sense. The Evo move could be the start of something bigger. Well,
+
+159
+00:13:31,320 --> 00:13:35,400
+also I think something to consider is that, you know, maybe, um, PlayStation and Sony
+
+160
+00:13:35,400 --> 00:13:40,600
+is really trying to set it, set it up. Not so much, maybe like the broadcasting side
+
+161
+00:13:40,600 --> 00:13:45,000
+of Esports, but the playing and participation, because certainly when it comes to fighting
+
+162
+00:13:45,000 --> 00:13:50,280
+games, Sony's really got a lock in some ways in the fighting game sense. Like there's,
+
+163
+00:13:50,280 --> 00:13:54,560
+there's, and I'm sure someone in chat will quickly correct me, but I'm going to be honest.
+
+164
+00:13:54,560 --> 00:13:58,900
+When I think of Microsoft, I don't think of a lot of like fighting games that are like
+
+165
+00:13:58,900 --> 00:14:04,520
+huge on Xbox that Sony doesn't already have, you know? Sure. Like I know like Soul Calibur
+
+166
+00:14:04,520 --> 00:14:08,820
+6 is on game pass, but Sony's got that. You know what I mean? Um, and then when you go
+
+167
+00:14:08,820 --> 00:14:14,080
+to the Switch, you know, obviously they have Smash Brothers, but I feel like Smash Brothers
+
+168
+00:14:14,080 --> 00:14:18,940
+kind of lives on this island and Sony is always going to be like, I don't see Smash
+
+169
+00:14:18,940 --> 00:14:24,760
+Brothers leaving Evo anytime soon. Um, I think I feel like it's going to always exist on
+
+170
+00:14:24,760 --> 00:14:30,400
+its own little island and Sony is going to be perfectly okay with that. Oh Nintendo kind
+
+171
+00:14:30,400 --> 00:14:34,640
+of thing, you know, like, Oh, Oh, the kitty, the kitty match going on over there. Don't
+
+172
+00:14:34,640 --> 00:14:39,920
+hate me Smash community. This is like, I just feel like this is the attitude. Okay. From
+
+173
+00:14:39,920 --> 00:14:44,520
+the, you know, cause Nintendo sometimes gets that label and so forth, but I feel like Sony's
+
+174
+00:14:44,520 --> 00:14:47,660
+going to be more than okay with it sitting over there. And Sony really wants to take
+
+175
+00:14:47,660 --> 00:14:53,800
+the reins as, Hey, you want to play one-on-one fighting games. You're going to come to PlayStation
+
+176
+00:14:53,800 --> 00:14:58,440
+because that's where the Tekken is. That's where the Street Fighter is. That's where
+
+177
+00:14:58,440 --> 00:15:04,140
+er guys to it. Okay. Just kidding. But you know, this is the platform for all of that.
+
+178
+00:15:04,140 --> 00:15:08,760
+What do you guys think? Do you think that, you know, maybe Sony is trying to establish
+
+179
+00:15:08,760 --> 00:15:13,760
+itself as we are the fighting game console and trying to get a lock on a popular genre
+
+180
+00:15:13,760 --> 00:15:21,440
+perhaps? I think that they are seeing, Hey, this is going to print us money. That's what
+
+181
+00:15:21,440 --> 00:15:28,280
+I see. Perhaps writing games or money conventions or money. You'd have to spend it to win it.
+
+182
+00:15:28,280 --> 00:15:34,200
+Good point. Why not combine Evo with the PlayStation fan event they used to do in the winter? What
+
+183
+00:15:34,200 --> 00:15:40,400
+the hell was that called? PlayStation Fest or something? Something. Yeah. Why not? Sony
+
+184
+00:15:40,400 --> 00:15:46,100
+Wink Fest. There you go. Fifth Dream in chat says, Rob only speaks truth. Why thank you.
+
+185
+00:15:46,100 --> 00:15:51,920
+I try my best. Let's see. And as she says, no, drag the Smash community. They deserve
+
+186
+00:15:51,920 --> 00:15:56,120
+it. Hey, I know people in there that are pretty cool. I'm trying to be nice to everybody.
+
+187
+00:15:56,120 --> 00:16:01,460
+And I, Hey, I like Smash. All right. Well, and Bobby is saying that what's interesting
+
+188
+00:16:01,460 --> 00:16:06,940
+is Evo's prize pool is much lower than all of the other esports. But I think that if
+
+189
+00:16:06,940 --> 00:16:14,220
+that Evo has this reputation. True. That if you've, if you've made it at Evo, you have
+
+190
+00:16:14,220 --> 00:16:20,180
+really made it. That's true. There is a certain prestige level, but I think that, um, comparison
+
+191
+00:16:20,180 --> 00:16:25,900
+of like, I got it on sale is kind of interesting. You're right. Like the prize at what the international
+
+192
+00:16:25,900 --> 00:16:30,700
+for Dota is a way bigger, I mean, granted, that's not a fighting game either, but I get
+
+193
+00:16:30,700 --> 00:16:35,740
+it. Like that's a very different, uh, and much more expensive thing. Evo's the one everyone
+
+194
+00:16:35,740 --> 00:16:39,220
+knows. Yeah. Thank you, PixelPockets. That's what I was trying to think. A PlayStation
+
+195
+00:16:39,220 --> 00:16:44,580
+experience. That is what it was for sure. Okay. I got an elaborate, elaborated on answer
+
+196
+00:16:44,580 --> 00:16:50,460
+from DJ Roma S who says, the problem is when a corporate entity buys a fan event, this
+
+197
+00:16:50,460 --> 00:16:56,700
+even is, this isn't even fun anymore. It becomes too corporate. The fun behind it is gone.
+
+198
+00:16:56,700 --> 00:17:02,180
+Case in point packs. As I was reading this, my brain was going, packs, packs, packs,
+
+199
+00:17:02,180 --> 00:17:06,860
+case in point packs. Packs isn't what it was because of how it's run now. People are going
+
+200
+00:17:06,860 --> 00:17:13,120
+to mag fest now. I, I will, you know, especially because I know Roma is really well versed
+
+201
+00:17:13,120 --> 00:17:16,920
+in the convention circuit because of anime jam session and the work that him and his
+
+202
+00:17:16,920 --> 00:17:21,220
+co-host have been doing there for a very long time and covering all the different conventions.
+
+203
+00:17:21,220 --> 00:17:30,340
+Public aside, um, I, I think he makes a very good point that sometimes that corporate takeover
+
+204
+00:17:30,340 --> 00:17:35,140
+of a fan event can really drive it into the ground. I think he makes a very excellent
+
+205
+00:17:35,140 --> 00:17:39,780
+point when it comes to packs and I've experienced that firsthand as have some of you, some of
+
+206
+00:17:39,780 --> 00:17:44,240
+you are totally fine with packs the way it is now. And this is not menace, you know,
+
+207
+00:17:44,240 --> 00:17:48,420
+if you're having fun, go have fun. Don't tell, don't let anyone else tell you how you can
+
+208
+00:17:48,420 --> 00:17:55,700
+and can't have fun. Um, but, um, for me, packs isn't really fun anymore than it is than
+
+209
+00:17:55,700 --> 00:18:02,400
+what it was. So maybe I went on a couple of off years. I don't know, but, um, I could
+
+210
+00:18:02,400 --> 00:18:07,820
+see that hesitation about the, the corporate stuff, uh, running into the ground, but PlayStation
+
+211
+00:18:07,820 --> 00:18:11,660
+experience was okay from what I heard. I never went myself, but I heard other people that
+
+212
+00:18:11,660 --> 00:18:17,020
+went and had a good time with that. So, um, and oh, I'm being reminded in chat anime jam
+
+213
+00:18:17,020 --> 00:18:22,180
+session was on a convention today. That's right. They were doing a zenacon. Sorry. I
+
+214
+00:18:22,180 --> 00:18:28,220
+get the name right. Hope I did. So my brain is only so big and can only remember so much.
+
+215
+00:18:28,220 --> 00:18:33,220
+Uh, Jamie, you're chatting in chat and not here. What is this about anime expo? You were
+
+216
+00:18:33,220 --> 00:18:37,740
+mentioning, I was just replying to Ronma. He was saying another, uh, point of corporate
+
+217
+00:18:37,740 --> 00:18:42,980
+run convention, anime expo. Um, FYI, AX isn't a con it's a trade show, but it used to be
+
+218
+00:18:42,980 --> 00:18:48,980
+a convention. Ooh, good point. E3 is the same thing. E3 is a trade show, not a convention,
+
+219
+00:18:48,980 --> 00:18:53,180
+but they've kind of been going the other way. Like they're, they're starting to do more
+
+220
+00:18:53,180 --> 00:18:59,740
+things that a convention would do. Like I went to one of the last few AXs that were
+
+221
+00:18:59,740 --> 00:19:06,580
+still kind of friendly sized, you know, and then they had the one at the Disneyland hotel,
+
+222
+00:19:06,580 --> 00:19:14,320
+which was a clusterfuck, but that's the same one that I played my first physical DDR, which
+
+223
+00:19:14,320 --> 00:19:20,540
+was a third mix. So in a way, anime expo brought you here to orange launch radio and the star
+
+224
+00:19:20,540 --> 00:19:27,580
+of the convention was a chair. Um, if anyone knew is that that AX knows the chair, you
+
+225
+00:19:27,580 --> 00:19:35,260
+better comment. But, um, dragon con, I also cosplayed as a Jill Valentine, that con. I
+
+226
+00:19:35,260 --> 00:19:40,140
+think dragon con in part is very popular because it's not corporate run. It is still
+
+227
+00:19:40,140 --> 00:19:46,460
+very fan run and gets, and I know, and I bet people have wanted to buy it. I mean, I don't
+
+228
+00:19:46,460 --> 00:19:51,160
+know nothing when it comes to that stuff, but I would bet people wanted to buy it. Um,
+
+229
+00:19:51,160 --> 00:19:55,020
+and they've really stuck to their guns and keep it kept at a fan thing. And that's pretty
+
+230
+00:19:55,020 --> 00:19:58,780
+damn impressive. You know what they're pulling off down there in Atlanta. Um, there's a reason
+
+231
+00:19:58,780 --> 00:20:04,760
+I travel out there every year, pandemic exception, you know, so, uh, but I can't, I can't wait
+
+232
+00:20:04,760 --> 00:20:07,880
+for the convention stuff to come back. I really, really hope we do get to the other side of
+
+233
+00:20:07,880 --> 00:20:17,020
+this where we can have conventions again. I'm wondering where they were at the Disneyland
+
+234
+00:20:17,020 --> 00:20:22,900
+hotel again. Cause I've always done the, uh, the, uh, Anaheim convention center, like for
+
+235
+00:20:22,900 --> 00:20:30,160
+the last two decades or something like that. Oh, if we're talking, I'm sorry, you playing
+
+236
+00:20:30,160 --> 00:20:37,000
+DDR. That would have been like, what, like 99, 2000. Yeah. All right. And it was at
+
+237
+00:20:37,000 --> 00:20:42,900
+the Disneyland hotel and they wouldn't let cosplayers into the park unless they had changed
+
+238
+00:20:42,900 --> 00:20:47,240
+out of their costume because they don't want them getting mixed up with the characters.
+
+239
+00:20:47,240 --> 00:20:52,000
+You can't cost them there today. Some cosplayers could, that's how Disney Disney is a Disney
+
+240
+00:20:52,000 --> 00:20:57,120
+binding or Disney bounding bonding, Disney bounding. That's how Disney bounding began.
+
+241
+00:20:57,120 --> 00:21:04,280
+Like I Disney bounded, um, in, uh, 2019 when I went to, um, drag con. And what is, what
+
+242
+00:21:04,280 --> 00:21:08,400
+is Disney bounding? People may not know what that is. Disney bounding is where you wear
+
+243
+00:21:08,400 --> 00:21:14,320
+an outfit that's reminiscent of a Disney character. Now me, I flat out well, and now they're including
+
+244
+00:21:14,320 --> 00:21:22,840
+Marvel and star Wars in it. I flat out just wore my captain Marvel dress and bounced around
+
+245
+00:21:22,840 --> 00:21:30,240
+the, the park. Um, but like I ran into this, uh, this girl who wore, uh, like a yellow
+
+246
+00:21:30,240 --> 00:21:42,280
+top and red leggings and she was, uh, um, uh, Gaston. And it seemed like, it's a hint
+
+247
+00:21:42,280 --> 00:21:47,260
+of cosplay. It's a flavor. It's a dash of flavor. It's salt bay. Some people may call
+
+248
+00:21:47,260 --> 00:21:53,260
+this casual cosplay. I like the casual cosplay. I like that. Yeah. But like I saw another
+
+249
+00:21:53,260 --> 00:21:59,580
+girl who's wearing like a blue sundress with like a white apron on it and she was Alice.
+
+250
+00:21:59,580 --> 00:22:03,220
+We're just going to get a little flavor of that cosplay. Just a little flavor there.
+
+251
+00:22:03,220 --> 00:22:05,900
+All right. Yeah. Just look at that. I mean, there's tons of Disney bounding sites. Just
+
+252
+00:22:05,900 --> 00:22:11,300
+look it up. All right. Yeah. All right. Anyway, uh, we've gone from Sony buying a fighting
+
+253
+00:22:11,300 --> 00:22:17,060
+games show to talking about Disney bounding. Hey, that's the way it goes sometimes. All
+
+254
+00:22:17,060 --> 00:22:20,740
+right. Uh, let's get into our gaming weeks and the types of games that we have been playing
+
+255
+00:22:20,740 --> 00:22:25,220
+this week. How was your gaming week and what video games have you been playing this week?
+
+256
+00:22:25,220 --> 00:22:31,740
+Dark soccer. We'll start with you. I played animal crossing and I played word scapes,
+
+257
+00:22:31,740 --> 00:22:39,020
+which I should play a little bit more simply because I, I want to get higher than a 15th
+
+258
+00:22:39,020 --> 00:22:43,700
+place at the tournament or better because you know, they do that tournament once a week.
+
+259
+00:22:43,700 --> 00:22:48,260
+Yeah. And right now I'm level 16. I haven't played in a couple of weeks, but yeah, generally
+
+260
+00:22:48,260 --> 00:22:55,260
+I know how it works. Oh, I freaking love this game. Like it's, it's literally my, my wake
+
+261
+00:22:55,260 --> 00:23:04,980
+up in the day. And if I, if I don't play, then I actually feel like my brain is like
+
+262
+00:23:04,980 --> 00:23:11,780
+degrading in my head. It's your brain training. So the two things that I do to, um, to wake
+
+263
+00:23:11,780 --> 00:23:20,920
+myself up is I play, um, word scapes and I play, uh, um, I don't play, but I do my
+
+264
+00:23:20,920 --> 00:23:28,960
+Duolingo, which by the way, last week I had number one in diamond league, which is like
+
+265
+00:23:28,960 --> 00:23:32,300
+a big achievement. I don't even know what that means. Okay. A big achievement, diamond
+
+266
+00:23:32,300 --> 00:23:36,800
+league is the highest level of their various leagues and you have to have a certain number
+
+267
+00:23:36,800 --> 00:23:42,660
+of points to be like in the top, whatever. And then like, if you're in the top 10, you
+
+268
+00:23:42,660 --> 00:23:48,900
+advance, if you're the top 25, you stay in your current league. And one of the achievements
+
+269
+00:23:48,900 --> 00:23:57,220
+was to get level, uh, number one in the diamond league. And I stayed on top of it. I think
+
+270
+00:23:57,220 --> 00:24:05,560
+I earned something like 4,000 experience points, which normally I will do like maybe 1200.
+
+271
+00:24:05,560 --> 00:24:12,380
+Okay. So I studied a lot of Japanese and I better know family units very well by now.
+
+272
+00:24:12,380 --> 00:24:16,080
+When are we, when are we finally going to switch on this show where you do the Japanese
+
+273
+00:24:16,080 --> 00:24:22,540
+release dates and I just do the, when are we doing that? Because like, I think this,
+
+274
+00:24:22,540 --> 00:24:27,420
+this joke of, I always mispronounce like it's getting old and, uh, I think maybe we need
+
+275
+00:24:27,420 --> 00:24:34,220
+to switch that up. You're getting better. I'm well, 11 years of fucking up, uh, give
+
+276
+00:24:34,220 --> 00:24:38,040
+a monkey a typewriter. He'll type a novel eventually. Right? Isn't that the whole thing?
+
+277
+00:24:38,040 --> 00:24:42,640
+Remember if it's a Japanese word that ends in an E it's not like tone, it would be Tony.
+
+278
+00:24:42,640 --> 00:24:48,180
+Yeah. Yeah. Uh, you just need to have you do the French releases now and then that way
+
+279
+00:24:48,180 --> 00:24:54,500
+you know, I know some French, I used to be conversational and then I moved to California
+
+280
+00:24:54,500 --> 00:24:59,560
+where no one speaks French. All right, let's move on with our gaming weeks. Loki, how was
+
+281
+00:24:59,560 --> 00:25:05,940
+your game week? Um, I didn't play a whole time. I mainly played Minecraft again. Uh,
+
+282
+00:25:05,940 --> 00:25:12,820
+I've been just kind of, I don't know, still working on the giant tree in our realm. So
+
+283
+00:25:12,820 --> 00:25:20,400
+it's, it's similar to one of the hermits on hermit craft. Um, it's cows, the mega Erie
+
+284
+00:25:20,400 --> 00:25:25,940
+of doom. So it's this giant, huge tree that I'm working on right now. So as such, I've
+
+285
+00:25:25,940 --> 00:25:31,960
+also been bingeing a ton of hermitcraft on YouTube. So I've pretty much caught myself
+
+286
+00:25:31,960 --> 00:25:38,520
+up on a mumbo's is cows and now I'm going through tango tech, but lots of a really fun
+
+287
+00:25:38,520 --> 00:25:44,760
+streamers on there and stuff. Um, haven't worked on my game this week, but next week
+
+288
+00:25:44,760 --> 00:25:49,500
+I am going to be, I actually took a couple of days off, uh, for other things and I'm
+
+289
+00:25:49,500 --> 00:25:56,560
+going to be splitting the audio. Um, so I can cram more music in the game. I'm not looking
+
+290
+00:25:56,560 --> 00:26:04,280
+for to splitting that engine, but I will give it a try and hopefully that'll work. Um, I'm
+
+291
+00:26:04,280 --> 00:26:07,640
+hoping to have the special edition on soon so that I can actually release the physical
+
+292
+00:26:07,640 --> 00:26:12,400
+version of that. Cause I know everybody's been waiting for it. So we'll give it a go
+
+293
+00:26:12,400 --> 00:26:19,120
+this week. All right. Super excited to see the physical addition of that. All right.
+
+294
+00:26:19,540 --> 00:26:23,220
+All right. My gaming week. So, um, I haven't really played a lot of new stuff. I've been,
+
+295
+00:26:23,220 --> 00:26:26,060
+I've been doing a lot of gaming, but it's kind of a lot of the stuff I've talked about
+
+296
+00:26:26,060 --> 00:26:30,780
+on the show before, uh, still playing Final Fantasy 14, uh, trying to make money, right.
+
+297
+00:26:30,780 --> 00:26:35,140
+It got into some crafting and I mean, I've been doing crafting, but like trying to figure
+
+298
+00:26:35,140 --> 00:26:39,100
+out how to play the market board a little more. So, um, and man, there are some, there
+
+299
+00:26:39,100 --> 00:26:43,220
+are some real sniping, you know, when the, cause, uh, the whole thing, like you'll, you'll
+
+300
+00:26:43,220 --> 00:26:47,020
+try to put up an item and you try to kind of put it at the lowest price. Cause that's
+
+301
+00:26:47,020 --> 00:26:50,160
+the one people are going to buy, right? You're, you're going to buy on the lowest price you
+
+302
+00:26:50,160 --> 00:26:53,120
+see on the market board. Well, there's people that'll sit there and like the minute they
+
+303
+00:26:53,120 --> 00:26:57,640
+see that you've listed it lower price, they'll go in and they'll do it one Gil lower. And
+
+304
+00:26:57,640 --> 00:27:00,840
+it just becomes this game of everybody just starting to undercut each other. And that
+
+305
+00:27:00,840 --> 00:27:05,720
+becomes a whole little meta game in and of itself. But I will say that item that I must
+
+306
+00:27:05,720 --> 00:27:10,260
+have had to update the price. I'm not kidding. Like 15 times yesterday finally sold today.
+
+307
+00:27:10,260 --> 00:27:14,020
+So I'm happy about that. Cause I don't have to play that game with that other person anymore
+
+308
+00:27:14,020 --> 00:27:18,820
+about who's going to undercut who more recently. Um, so that's an interesting little meta game
+
+309
+00:27:18,820 --> 00:27:23,280
+I've been getting into with FOMI SE 14. I've been continuing along and dead by daylight,
+
+310
+00:27:23,280 --> 00:27:28,560
+uh, enjoying my time killing. I played my first survivor match. I did not care for it.
+
+311
+00:27:28,560 --> 00:27:34,120
+So I'm definitely a born killer when it comes to dead by daylight. Uh, thanks to, uh, Alan
+
+312
+00:27:34,120 --> 00:27:37,320
+who's been doing, uh, more and more of his own streaming here. I think a lot of you,
+
+313
+00:27:37,320 --> 00:27:42,240
+uh, regulars here have found his channel over at Alan alchemy and watched him play stuff.
+
+314
+00:27:42,240 --> 00:27:47,000
+He's been getting more into killer now. Um, because he found, he played a match randomly,
+
+315
+00:27:47,000 --> 00:27:52,020
+I think as doctor and, uh, found that it was actually a lot of fun and I actually went
+
+316
+00:27:52,020 --> 00:27:56,660
+in and I, I usually play pyramid head. That's my killer of choice. I got my first four kill.
+
+317
+00:27:56,660 --> 00:28:01,520
+So that means like I a hundred percent want one because a dead by daylight, if you don't
+
+318
+00:28:01,520 --> 00:28:07,440
+already know, it's an asymmetrical PVP game. So you play one versus four and I kind of
+
+319
+00:28:07,440 --> 00:28:11,620
+always hesitated on dead by daylight for the longest time. I'm not big on the scary jump
+
+320
+00:28:11,620 --> 00:28:15,580
+scary. Well, I say that, but yet like I love silent Hill and like psychological horror
+
+321
+00:28:15,580 --> 00:28:19,620
+and stuff like that. I don't like the jump scare games like five nights at Freddy's.
+
+322
+00:28:19,620 --> 00:28:23,940
+I'll play that for laughs, but I don't enjoy it. Like I'm just going to be real. I don't
+
+323
+00:28:23,940 --> 00:28:29,740
+enjoy it. Um, so like the jump scare type of things aren't usually my thing. Luckily
+
+324
+00:28:29,740 --> 00:28:33,340
+dead by daylight. Isn't quite like I found out like actually getting in there and playing
+
+325
+00:28:33,340 --> 00:28:38,020
+it more and watching Alan play it. It's not really big on jump scares, but even that heartbeat
+
+326
+00:28:38,020 --> 00:28:42,540
+thing really messes with me because when the killer gets closer to you, the heartbeat
+
+327
+00:28:42,540 --> 00:28:50,140
+gets louder and louder. And so that gets, uh, that gets really scary. Um, so, uh, and
+
+328
+00:28:50,140 --> 00:28:53,380
+then I think if you have Michael Myers as the killer, it actually plays the Halloween
+
+329
+00:28:53,380 --> 00:29:01,260
+piano theme, um, a little bit. So there's that. Um, so anyway, um, I, I, I enjoy playing
+
+330
+00:29:01,260 --> 00:29:06,020
+as killer, um, where you're the one and you're trying to cause, cause there's no scary when
+
+331
+00:29:06,020 --> 00:29:09,700
+you're the killer, you're the one, you're the one causing all the scares. And so it's
+
+332
+00:29:09,700 --> 00:29:14,180
+a lot easier. So I found that I enjoy playing pyramid head and then thanks to Alan playing
+
+333
+00:29:14,180 --> 00:29:18,100
+doctor, I find that, and don't take that to a weird place. I mean, doctor, the killer
+
+334
+00:29:18,100 --> 00:29:22,860
+in dead by daylight, uh, that, um, I actually enjoy playing the doctor and dead by daylight
+
+335
+00:29:22,860 --> 00:29:28,660
+as well, who is kind of, he does like shock therapy basically. Um, so you use these shock
+
+336
+00:29:28,660 --> 00:29:33,540
+waves and uh, when you hit survivors with them, they'll scream out and so they kind
+
+337
+00:29:33,540 --> 00:29:36,140
+of give away their location. So it's kind of interesting. It's an interesting little
+
+338
+00:29:36,140 --> 00:29:41,180
+mechanic and really how he's very good at tracking survivors. Um, so, and that's kind
+
+339
+00:29:41,180 --> 00:29:44,700
+of what I liked about pyramid head too, is that if a survivor runs through one of your
+
+340
+00:29:44,700 --> 00:29:49,660
+little traps that you lie down, then, uh, trenches, then they get revealed. Um, it's
+
+341
+00:29:49,660 --> 00:29:54,380
+just that those, those, the survivors can avoid if they kind of know and they crouch
+
+342
+00:29:54,380 --> 00:29:58,460
+through it. The doctor stuff is much harder to avoid. So that's kinda, yeah. So anyway,
+
+343
+00:29:58,460 --> 00:30:02,420
+yeah, dead by daylight playing the killer. They can't just strip the skin off of them
+
+344
+00:30:02,420 --> 00:30:07,140
+like, you know, in silent Hill. No, only in the movie. That was only in the movie.
+
+345
+00:30:07,140 --> 00:30:13,540
+And uh, they, they, they actually have to balance it for the game. So he can't do like
+
+346
+00:30:13,540 --> 00:30:17,780
+everything he does in the game because right. He's, he's in another universe and the whole
+
+347
+00:30:17,780 --> 00:30:22,060
+like story, if you, cause dead by daylight apparently has this very rich story behind
+
+348
+00:30:22,060 --> 00:30:28,060
+it. If you look for it, um, is that you are not usually the one doing the killing. You
+
+349
+00:30:28,060 --> 00:30:35,120
+are sacrificing survivors to the entity and the entity has summoned these killers to do
+
+350
+00:30:35,120 --> 00:30:41,180
+its bidding. That's but once in a while, if you please the entity, then the entity will
+
+351
+00:30:41,180 --> 00:30:45,300
+let you kill people by your own hand. And that's a Maury. So, and pyramid head does
+
+352
+00:30:45,300 --> 00:30:50,820
+actually have his own built in Maury, but he takes the sword and he just slams it down
+
+353
+00:30:50,820 --> 00:30:56,300
+on the body and effectively cuts them in half, which is really gross. Right. But it's not
+
+354
+00:30:56,340 --> 00:31:00,820
+like the way it's depicted in game. It just, it looks like a, like a mortal combat three
+
+355
+00:31:00,820 --> 00:31:06,500
+blood splatter. It isn't like, it isn't delightful. It isn't gross. Like it is in like mortal
+
+356
+00:31:06,500 --> 00:31:10,900
+combat 10 or 11. I hope that pyramid head moves a little bit faster than he does in
+
+357
+00:31:10,900 --> 00:31:15,420
+the game. So, um, he moves at the same speed as the other, you know, again, they had, they
+
+358
+00:31:15,420 --> 00:31:20,260
+have to balance it a little bit, but that's how they get like Michael Myers, leather face,
+
+359
+00:31:20,260 --> 00:31:25,660
+Freddy Krueger, um, the pig from the saw movies. Um, who am I missing? Ghost face. They're
+
+360
+00:31:25,660 --> 00:31:31,400
+all in this game. Play around as Freddy and let me know what it's like. I Freddy's interesting
+
+361
+00:31:31,400 --> 00:31:36,500
+as far, but I don't want to buy them. They all cost money. The only one I bought, I need
+
+362
+00:31:36,500 --> 00:31:42,300
+like five bucks. I'll buy them for you. Oh, that's sweet. Thank you. Okay. Then I'll text
+
+363
+00:31:42,300 --> 00:31:46,380
+you five bucks. You'd probably get a better bang for your buck. If you get, if you had
+
+364
+00:31:46,380 --> 00:31:53,380
+Alan by Freddy, I can't Apple pay Alan. Okay. Five bucks for Freddy. Sweet. Dark soccer
+
+365
+00:31:53,380 --> 00:32:00,380
+just tapped into my dead by daylight edition. I love it. Addiction. I love it. Um, I'm seriously,
+
+366
+00:32:00,380 --> 00:32:06,500
+I'm going to give you five bucks right now. Okay. Yeah. Then I will buy Freddy and I'll,
+
+367
+00:32:06,500 --> 00:32:11,580
+I think he's a very hard killer to play though, but I'll try it. I'll try anything. Whatever.
+
+368
+00:32:11,580 --> 00:32:17,860
+Uh, for five bucks. I'll try it. So yeah, I have been playing more dead by daylight.
+
+369
+00:32:17,860 --> 00:32:22,340
+That's that's fine. I will do a stream at some point. It's just that Alan now wears
+
+370
+00:32:22,340 --> 00:32:26,460
+the streaming pants in this house outside of Sunday night. So there's no room for me
+
+371
+00:32:26,460 --> 00:32:32,020
+anymore. No, he's much more disciplined with it than I am. That's for sure. Um, let's see.
+
+372
+00:32:32,020 --> 00:32:37,420
+Oh, I also want to talk about, cause I've been playing more bravely default to my relationship
+
+373
+00:32:37,420 --> 00:32:42,700
+with this game is so interesting because there are things about this game that annoy the
+
+374
+00:32:42,700 --> 00:32:48,060
+fucking shit out of me. I am like, I don't know if I've ever been more annoyed by a game
+
+375
+00:32:48,060 --> 00:32:53,260
+in recent years than I have been with bravely default too, because I talked about this last
+
+376
+00:32:53,260 --> 00:32:59,220
+week on the show, the, the frame rate and the performance issues, they, they bug me.
+
+377
+00:32:59,220 --> 00:33:05,820
+Um, I'm finding that I am getting bugged now by, if you try to like auto equip characters,
+
+378
+00:33:05,820 --> 00:33:11,700
+the auto equip thing is not very smart because it will start equipping armor to your healers
+
+379
+00:33:11,700 --> 00:33:16,080
+that are good armor, but it will also draw the most amount of hate. So why did they put
+
+380
+00:33:16,080 --> 00:33:21,120
+that into some mechanic that armor draws hate? I don't know, but that's the thing. Uh, speaking
+
+381
+00:33:21,120 --> 00:33:25,200
+of mechanics that annoy the shit out of me, the weight mechanic, they haven't bravely
+
+382
+00:33:25,200 --> 00:33:30,200
+default to fucking annoys me. So there's a, there's a, and I was talking on discord with
+
+383
+00:33:30,200 --> 00:33:33,100
+some of my friends about this the other night. I'm like, this game annoys me so much with
+
+384
+00:33:33,100 --> 00:33:41,220
+all these little things that all being said, I can't stop playing it because at its core,
+
+385
+00:33:41,220 --> 00:33:46,280
+that very final fantasy five esque build up your characters in the different types
+
+386
+00:33:46,280 --> 00:33:51,820
+of jobs and the jobs that are offered in the game and the battle system that's there is
+
+387
+00:33:51,820 --> 00:33:57,640
+actually a very satisfying system. The battle system is, and the whole like defaulting and,
+
+388
+00:33:57,640 --> 00:34:02,460
+and braving to spend extra points and the whole like doing four turns at a time, if
+
+389
+00:34:02,460 --> 00:34:08,700
+you're willing to sit out for three turns and that whole stuff. Um, like that, that
+
+390
+00:34:08,700 --> 00:34:12,340
+is all very interesting to me and that's kind of what's keeping me with the game despite
+
+391
+00:34:12,340 --> 00:34:17,140
+the fact that I'm very annoyed by some of these other things. I'm going to be honest.
+
+392
+00:34:17,140 --> 00:34:22,920
+Um, when I saw that Octopath Traveler is coming to Xbox game pass, I was actually very excited
+
+393
+00:34:22,920 --> 00:34:27,220
+because I was like, I hope that means bravely default will come to those systems too because
+
+394
+00:34:27,220 --> 00:34:30,660
+that means the performance issue thing will no longer be an issue. Maybe we'll get the
+
+395
+00:34:30,660 --> 00:34:35,020
+switch pro too and that'll work out too. Uh, I'll still be annoyed by the weight and the
+
+396
+00:34:35,020 --> 00:34:39,780
+auto equip thing where I have to do everything by hand and when you're switching jobs a lot,
+
+397
+00:34:39,780 --> 00:34:46,700
+that's very annoying, but eh, I guess I'll take it. It's Hey, nothing can be worse than
+
+398
+00:34:46,700 --> 00:34:53,300
+the drawing junctioning system from Final Fantasy eight. So there is that. That's terrible.
+
+399
+00:34:53,300 --> 00:34:58,260
+Exactly. I think it puts a lot of stuff in perspective. It's like, Hey, nothing can ever
+
+400
+00:34:58,260 --> 00:35:05,780
+be that bad. Wow. I just got five bucks on Apple pay. How about that? I put the text
+
+401
+00:35:05,780 --> 00:35:15,540
+message up on the cam. I love it. All right. Anyway, that's enough for my gaming week.
+
+402
+00:35:15,540 --> 00:35:20,340
+I don't think I have a lot of extra to add. All right, let's get into some gaming news
+
+403
+00:35:20,340 --> 00:35:24,140
+actually real quick before we get into gaming news on a serious note because I need to make
+
+404
+00:35:24,140 --> 00:35:30,340
+sure we say this at some point in tonight's show. Um, obviously there's been, uh, there's
+
+405
+00:35:30,340 --> 00:35:35,640
+been a lot of bullshit in the world in the past year and, uh, we, um, have seen a lot
+
+406
+00:35:35,640 --> 00:35:39,660
+of bullshit in this past week. And yes, I'm referring to what happened, um, in Atlanta
+
+407
+00:35:39,660 --> 00:35:44,000
+with those, um, horrific shootings, um, done, you know, the terrorist act that was done
+
+408
+00:35:44,000 --> 00:35:48,000
+in Atlanta. Let's just call it what it is. Let's not call it what that Sheriff had the
+
+409
+00:35:48,000 --> 00:35:53,760
+audacity to call it on, on TV. That was somebody's bad day. It was a terrorist attack. Um, shit
+
+410
+00:35:53,760 --> 00:36:00,480
+is what it was racism. And it was very, it was very hurtful too, that it happened in
+
+411
+00:36:00,480 --> 00:36:04,840
+a place like Atlanta, which I, you know, it's my Atlanta is my home for one week out of
+
+412
+00:36:04,840 --> 00:36:09,680
+the year, um, outside of pandemics, you know, and obviously Bobby and dragon con have had
+
+413
+00:36:09,680 --> 00:36:15,060
+a huge influence in that whole thing. So certainly I, I, I felt a certain kind of connection
+
+414
+00:36:15,060 --> 00:36:19,720
+when I heard about this horrible thing, um, that happened in Atlanta that, um, you know,
+
+415
+00:36:19,720 --> 00:36:23,960
+could have, could have happened anywhere, unfortunately. And that's the disgusting thing.
+
+416
+00:36:23,960 --> 00:36:29,400
+And that's why we all need to, you know, take a promise that we're going to do what we can,
+
+417
+00:36:29,400 --> 00:36:36,360
+um, to stop Asian American and Pacific Islander hate, um, and, uh, stop that culture and stop
+
+418
+00:36:36,360 --> 00:36:42,640
+that racism, um, that's happening in our culture. And you can say that, and also at the same
+
+419
+00:36:42,640 --> 00:36:47,860
+time, still recognize black lives matter and the black lives matter movement and all the
+
+420
+00:36:47,860 --> 00:36:53,340
+bullshit that the black and African American and, and, uh, people of color community that
+
+421
+00:36:53,340 --> 00:36:58,660
+they face all of the time. Um, and I was talking a little bit about this on Twitter this week.
+
+422
+00:36:58,660 --> 00:37:02,320
+And I think a lot of this, and this does tie into video gaming. So if you're about to tune
+
+423
+00:37:02,320 --> 00:37:06,740
+out of the show, cause, Oh God, Rob's on another one of his rants. I really need you to listen
+
+424
+00:37:06,740 --> 00:37:11,840
+to this because when we talk about like stopping the hate and all this and stopping it when
+
+425
+00:37:11,840 --> 00:37:17,680
+it comes to Asian Americans and Pacific Islanders and stopping it when it comes to other casual
+
+426
+00:37:17,680 --> 00:37:24,520
+racism that happens, I think we all know gaming and that culture is all too often a
+
+427
+00:37:24,520 --> 00:37:31,560
+hotbed for that sort of casual racism, casual misogyny, casual homophobia, and transphobia.
+
+428
+00:37:31,560 --> 00:37:37,600
+If we want to talk about the LGBTQ and so forth community. Um, I'm, I know when I'm
+
+429
+00:37:37,600 --> 00:37:41,560
+talking to the OLR audience, I'm talking to folks that are here, you know, that join us
+
+430
+00:37:41,560 --> 00:37:45,840
+on VOG network every week. I'm, I'm pretty much preaching to the choir. I don't think
+
+431
+00:37:45,840 --> 00:37:51,080
+there's people around here that really actively participate in this, but what can you do if
+
+432
+00:37:51,080 --> 00:37:56,480
+you want to be an ally and you want to be an ally for things like stop AAPI hate and,
+
+433
+00:37:56,480 --> 00:38:01,360
+and BLM, what can you do if you want to be an ally? You've got to, you are in a unique
+
+434
+00:38:01,360 --> 00:38:06,840
+position. I'm in a unique position where we can call this out when we see it. And that's
+
+435
+00:38:06,840 --> 00:38:12,400
+what we have to do because think about it. Have you heard a racist joke in your life?
+
+436
+00:38:12,400 --> 00:38:22,480
+I know I have. Did you, did you maybe let that racist joke go by without doing anything
+
+437
+00:38:22,480 --> 00:38:25,960
+to stop it because you didn't want to create an awkward situation between you and your
+
+438
+00:38:25,960 --> 00:38:33,040
+friend. That is maybe the attitude we as allies have to change because a hashtag is not going
+
+439
+00:38:33,040 --> 00:38:39,200
+to do it. A picture of a square on your Instagram account is not going to do it. Calling that
+
+440
+00:38:39,200 --> 00:38:44,840
+out when it happens, that's going to do it. And that's going to be the shift in our culture.
+
+441
+00:38:44,840 --> 00:38:49,520
+And I can tell you from all of the Black people that I've talked to, all of the Asian American
+
+442
+00:38:49,520 --> 00:38:55,240
+people that I've talked to, they don't want to be doing this educating. They are tired
+
+443
+00:38:55,240 --> 00:39:00,760
+of always having to be the ones to do the educating, you know, and you see this happen
+
+444
+00:39:00,760 --> 00:39:05,280
+on Twitter, right? Somebody Black or somebody Asian American tweets a certain way that they're
+
+445
+00:39:05,280 --> 00:39:10,320
+feeling. And always the first and second reply is something like, well, you should
+
+446
+00:39:10,320 --> 00:39:16,400
+do this or explain to me why, you know, why don't we have white pride? Why don't you tell
+
+447
+00:39:16,400 --> 00:39:24,520
+me why we don't have that? Or, you know, whatever. You have Google use it. Exactly. Like, stop
+
+448
+00:39:24,520 --> 00:39:32,040
+making oppressed people explain it to you. Open your eyes because it's there. And if
+
+449
+00:39:32,040 --> 00:39:37,200
+you want to be a better ally, you've got to be the one. I think I made this comparison
+
+450
+00:39:37,200 --> 00:39:42,860
+on Twitter as I was like, this whole like locker room joke culture and this whole thing.
+
+451
+00:39:42,860 --> 00:39:49,140
+This is oftentimes when those locker room jokes are happening, the oppressed community
+
+452
+00:39:49,140 --> 00:39:53,760
+is not there in the locker room because most people don't have the balls to say that kind
+
+453
+00:39:53,760 --> 00:39:58,920
+of things to someone someone's face. When we had the President of the United States
+
+454
+00:39:58,920 --> 00:40:03,480
+getting up there calling coronavirus some really shitty things. Unfortunately, that
+
+455
+00:40:03,480 --> 00:40:08,560
+was an exception where that guy didn't give a fuck and he would say, you know, whatever,
+
+456
+00:40:08,560 --> 00:40:14,760
+which is a whole other issue. But for the most part, when these other aggressions happen,
+
+457
+00:40:14,760 --> 00:40:20,520
+the oppressed is not in the room. That's why we have to be the ones to speak up and say
+
+458
+00:40:20,520 --> 00:40:27,480
+something. So and I think that we we have this unique position where we know firsthand
+
+459
+00:40:27,480 --> 00:40:36,720
+what it's like to be the one talked about, you know, or deal with with having our own
+
+460
+00:40:36,720 --> 00:40:43,660
+issues have been sources of public mockery, you know, like, do you know how many times
+
+461
+00:40:43,660 --> 00:40:50,240
+I want to scream every time I see someone type autistic screaming? It's and the thing
+
+462
+00:40:50,240 --> 00:40:55,220
+is, is that we don't stop and think about, oh, well, it's not affecting us. We have our
+
+463
+00:40:55,220 --> 00:41:00,060
+own issues to deal with. But the moment that we stop and we call out others, we can also
+
+464
+00:41:00,060 --> 00:41:05,460
+expect to have them called out on our behalf, too. And everyone should be doing it.
+
+465
+00:41:05,460 --> 00:41:11,880
+So next time you're playing a game online with friends, and somebody casually drops
+
+466
+00:41:11,880 --> 00:41:16,460
+the N word, heaven forbid, I mean, I hope that isn't happening with your friends. But
+
+467
+00:41:16,460 --> 00:41:20,720
+I'm also realistic. And I know there is people in the world that feel like they can just
+
+468
+00:41:20,720 --> 00:41:26,560
+say that wherever they want. Or somebody decides to do their own voice of an Asian
+
+469
+00:41:26,560 --> 00:41:32,040
+character in the game that is extremely stereotypical and in poor taste. You have a responsibility
+
+470
+00:41:32,040 --> 00:41:36,740
+as an ally to call that out. Is it going to be awkward with your friend? Yes. But that's
+
+471
+00:41:36,740 --> 00:41:40,640
+the only way this shit is going to change is when we call out this behavior when we
+
+472
+00:41:40,640 --> 00:41:46,400
+see it. And we have to stop the hate. We have to stop the hate with Asian American Pacific
+
+473
+00:41:46,400 --> 00:41:51,400
+Islanders. We have to stop casual racism. We have to stop misogyny. We have to stop
+
+474
+00:41:51,400 --> 00:41:58,960
+homophobia, transphobia, all of it. All of it. All of it. And gaming culture, unfortunately,
+
+475
+00:41:58,960 --> 00:42:05,300
+as we know, is a hotbed for it. So what are you going to do to make it a better place?
+
+476
+00:42:05,300 --> 00:42:09,720
+Because putting a hashtag on social media, that's cute. But that's not going to change
+
+477
+00:42:09,720 --> 00:42:17,440
+anything. Educating somebody on why they should stop doing what they're doing and how
+
+478
+00:42:17,440 --> 00:42:24,080
+that can be hurtful. That's going to be the start of it. Just some food for thought. All
+
+479
+00:42:24,080 --> 00:42:30,160
+right. I got on my soapbox, but it needed to happen. So there you go. All right. Let's
+
+480
+00:42:30,160 --> 00:42:34,560
+move on. Let's get into some gaming news and talk about what else is going on in the gaming
+
+481
+00:42:34,560 --> 00:42:38,520
+world. Besides what we talked about at the beginning of the show with Evo. So Loki, why
+
+482
+00:42:38,520 --> 00:42:40,640
+don't you start us off with our first topic tonight?
+
+483
+00:42:40,640 --> 00:42:44,960
+Yeah. So there was a presentation, which I actually missed because I didn't even know
+
+484
+00:42:44,960 --> 00:42:52,840
+it was happening. But Square Enix did a kind of a Nintendo Direct type event called Square
+
+485
+00:42:52,840 --> 00:42:59,640
+Enix Presents. And they showed off a bunch of different things, new game trailers and
+
+486
+00:42:59,640 --> 00:43:04,840
+different announcements. So for example, one of those being the announcement of the brand
+
+487
+00:43:04,840 --> 00:43:11,240
+new entry into the Life is Strange series, which looked interesting. So that's Life is
+
+488
+00:43:11,240 --> 00:43:20,160
+Strange True Colors. That's going to be coming out later this year on, I think most platforms
+
+489
+00:43:20,160 --> 00:43:26,480
+maybe. Yeah. Looks like on all the other platforms that normally came on. They did show off,
+
+490
+00:43:26,480 --> 00:43:32,800
+which is, I don't even remember the original trailer for this. It was Project Atheia, which
+
+491
+00:43:32,800 --> 00:43:37,320
+is now being called Force Spoken. But it's this brand new exclusive game that's coming
+
+492
+00:43:37,320 --> 00:43:44,240
+out for PlayStation 5 and PC, which looks amazing. So brand new IP for them. So very
+
+493
+00:43:44,240 --> 00:43:45,320
+interested in that.
+
+494
+00:43:45,320 --> 00:43:50,840
+I have to say that is probably the biggest thing I'm excited for on PlayStation 5 right
+
+495
+00:43:50,840 --> 00:43:55,680
+now. I got to say, like even above like the Horizon sequel and some of the other stuff
+
+496
+00:43:55,680 --> 00:43:58,920
+that Sony shown, that is probably the thing I'm most excited about right now. And that
+
+497
+00:43:58,920 --> 00:44:02,800
+trailer was really badass, like how they had the actress kind of introducing it. And
+
+498
+00:44:02,800 --> 00:44:10,280
+then you see her in the game and it's like, it's her. It's her. It's like, no, it's digital
+
+499
+00:44:10,280 --> 00:44:14,440
+her, but it's her, you know? And then of course the whole like, is that a fucking dragon?
+
+500
+00:44:14,440 --> 00:44:18,680
+Like that's the one line of dialogue and the whole thing. But it was a very sharp looking
+
+501
+00:44:18,680 --> 00:44:20,320
+trailer, I got to say.
+
+502
+00:44:20,320 --> 00:44:24,100
+So yeah, so they showed that off. They had a new trailer for Balan Wonderland, which
+
+503
+00:44:24,100 --> 00:44:29,100
+I think is coming out later this month. They announced that Black Panther is going to be
+
+504
+00:44:29,100 --> 00:44:37,040
+coming to Marvel Avengers. They showed off this Hitman Sniper Assassins, which is a mobile
+
+505
+00:44:37,040 --> 00:44:45,460
+game. Also Just Cause mobile, which I'm a huge Just Cause fan, but nope. I think that
+
+506
+00:44:45,460 --> 00:44:52,120
+was, it was certainly more a game trailer than gameplay. They're talking about the 25th
+
+507
+00:44:52,160 --> 00:44:58,320
+anniversary of Tomb Raider. And to celebrate that that's coming to Fortnite. So that's
+
+508
+00:44:58,320 --> 00:45:05,920
+interesting. Outriders, they showed a little bit more for that as well. And then some other
+
+509
+00:45:05,920 --> 00:45:12,400
+smaller things that they mentioned. Space Invaders is getting an AR game. So add that to
+
+510
+00:45:12,400 --> 00:45:18,580
+the list of AR games you got to try. Darius is coming to Switch and PlayStation 4 is an
+
+511
+00:45:18,580 --> 00:45:25,720
+HD remaster called Darius Cosmic Revelation. Bubble Bobble, four friends coming to Steam
+
+512
+00:45:25,720 --> 00:45:34,260
+and the second story pack for Toho Spell Bubble is coming through the Switch as well. Yeah,
+
+513
+00:45:34,260 --> 00:45:40,120
+pretty cool. Again, very interested about the four spoken, although that, God, like
+
+514
+00:45:40,120 --> 00:45:44,300
+I have a feeling that's a 2022 game. Yeah, it is a 2022 game.
+
+515
+00:45:44,300 --> 00:45:46,300
+Yeah, I think they said it is. Yeah.
+
+516
+00:45:46,300 --> 00:45:52,660
+Yeah. Oh, well it gives me time. But that, that one looked really good. And yeah, there
+
+517
+00:45:52,660 --> 00:45:57,060
+was a lot of, it was interesting because we got a lot more updates than I was expecting.
+
+518
+00:45:57,060 --> 00:46:01,940
+I think that, you know, the whole four spoken showing up was certainly unexpected. We went
+
+519
+00:46:01,940 --> 00:46:05,700
+in knowing it was going to be about Life is Strange. And certainly it's, you know, nice
+
+520
+00:46:05,700 --> 00:46:10,300
+that that series is continuing to go on and they're kind of bringing the older ones back
+
+521
+00:46:10,300 --> 00:46:14,780
+for the newer platforms. That's cool remasters for those as well. So that, that'd be interesting.
+
+522
+00:46:14,780 --> 00:46:19,300
+Honestly, that's what I kind of would have expected this event to be and kind of end
+
+523
+00:46:19,300 --> 00:46:23,160
+there, you know? Um, but they, they really went on and detailed more titles than I kind
+
+524
+00:46:23,160 --> 00:46:27,040
+of thought they would. So that was pretty cool. I mean, some people might be going,
+
+525
+00:46:27,040 --> 00:46:30,980
+where was Final Fantasy? But I think you set the bar way too high if you were going into
+
+526
+00:46:30,980 --> 00:46:36,820
+a Life is Strange event expecting Final Fantasy a couple of weeks ago. So like that, why bring
+
+527
+00:46:36,820 --> 00:46:42,340
+Final Fantasy back again? Right. I know, but you know, you know, people are like, where's,
+
+528
+00:46:42,340 --> 00:46:47,260
+chapter 16? Let's show me another screenshot. Give me another hit on what's going on there.
+
+529
+00:46:47,260 --> 00:46:52,220
+So Questbuster in chat is saying I really enjoyed the Outriders demo. Yeah, that has
+
+530
+00:46:52,220 --> 00:46:57,980
+my attention too. I can't believe that's coming to Game Pass. That's so exciting. The Outriders
+
+531
+00:46:57,980 --> 00:47:02,500
+demo was also notoriously farmed for the legendaries it drops because any progress you make in
+
+532
+00:47:02,500 --> 00:47:07,900
+it is carried over to the full game. That again from Questbuster in our chat, who also
+
+533
+00:47:07,900 --> 00:47:11,980
+mentioned that four spoken is by Luminous Productions, which is made up of the staff
+
+534
+00:47:11,980 --> 00:47:17,380
+that created Final Fantasy 15. Well, good. This will probably be a title that really
+
+535
+00:47:17,380 --> 00:47:22,820
+suits that. You know, I didn't love Final Fantasy 15 as a Final Fantasy title, but there
+
+536
+00:47:22,820 --> 00:47:27,840
+was some interesting stuff in there. I think also I didn't like that it was really kind
+
+537
+00:47:27,840 --> 00:47:32,580
+of rushed. Yes, I know that game was in development for 10 years, but let's be real, only the
+
+538
+00:47:32,580 --> 00:47:39,380
+last two years mattered. So there is that, but I'm excited to see what they do with kind
+
+539
+00:47:39,380 --> 00:47:43,140
+of like their own thing. I think that could be very, very interesting. That's for sure.
+
+540
+00:47:43,140 --> 00:47:49,020
+Bobby Black Wolf, I'm assuming a tongue in cheek, firmly planted saying I'm just disappointed
+
+541
+00:47:49,020 --> 00:47:55,060
+that Square Enix didn't show me a new Breath of the Wild 2 trailer. Yes, I know. I'm always
+
+542
+00:47:55,060 --> 00:47:59,120
+disappointed when that doesn't show up in an event too. DJ Roma S saying still waiting
+
+543
+00:47:59,120 --> 00:48:05,260
+on that Rad Racer 3 trailer. Wouldn't that be a hoot? That would be pretty awesome to
+
+544
+00:48:05,260 --> 00:48:10,060
+bring that back. Oh my God. Can you imagine if one day out of the blue Square brought
+
+545
+00:48:10,060 --> 00:48:16,280
+back Rad Racer? Why haven't they? Can we explore that for a minute? Can we look under
+
+546
+00:48:16,280 --> 00:48:22,060
+that rock? Why hasn't Square Enix? I mean, because Square is much more than just Final
+
+547
+00:48:22,060 --> 00:48:28,900
+Fantasy. Square now owns studios that develop things like Tomb Raider, the Avengers game,
+
+548
+00:48:28,900 --> 00:48:33,140
+you know, Forspoke, you know, they have a lot of different studios. Why haven't they
+
+549
+00:48:33,140 --> 00:48:37,420
+tasked one of them with doing a new Rad Racer? Do they think there's too many racing games
+
+550
+00:48:37,420 --> 00:48:42,540
+out there or something? It would be like, honestly, it would fit really well with like
+
+551
+00:48:42,540 --> 00:48:48,020
+an arcade racer, like kind of like a Ridge Racer or something like that. But I don't
+
+552
+00:48:48,020 --> 00:48:55,540
+know if Rad Racer know where it would fit like within the different racing. But honestly,
+
+553
+00:48:55,540 --> 00:49:02,980
+the racing games out there tend to heavily stick to the simulation racing. There's a
+
+554
+00:49:02,980 --> 00:49:08,200
+lot more simulation racing used versus arcade. The only two I can only think of a couple
+
+555
+00:49:08,200 --> 00:49:14,020
+arcade racing titles out there that have been pretty big recently, that hotshots racing
+
+556
+00:49:14,020 --> 00:49:21,160
+and of course, you know, you've got the Forza Horizon series as well. But you know, we haven't
+
+557
+00:49:21,160 --> 00:49:26,100
+had a new Burnout game, I guess Need for Speed also is kind of on the arcade racing side
+
+558
+00:49:26,100 --> 00:49:33,940
+as well. But I don't know, like if Need for Speed is just very...
+
+559
+00:49:33,940 --> 00:49:34,940
+Rad Racer could fight...
+
+560
+00:49:34,940 --> 00:49:39,820
+It's just too complicated. It's like give me a good racing, arcade racing game.
+
+561
+00:49:39,820 --> 00:49:43,760
+All here's the thing, Rad Racer could find a niche in the space because when it comes
+
+562
+00:49:43,760 --> 00:49:49,700
+to racing games, the games that have dared to step up and kind of go try to like break
+
+563
+00:49:49,700 --> 00:49:56,220
+into that space have oftentimes been criminally underrated. Case in point, Blur. That game
+
+564
+00:49:56,220 --> 00:50:02,840
+was fucking rad and it really got, you know, kind of shafted all things considered. The
+
+565
+00:50:02,840 --> 00:50:06,700
+gaming's, you know, history. Like if they had gone so far as to make a Blur sequel,
+
+566
+00:50:06,700 --> 00:50:12,780
+I think it would have been amazing. Case in point, again, split second. When Disney did
+
+567
+00:50:12,780 --> 00:50:18,020
+their whole thing on the Xbox 360, that game was pretty sweet too. Unfortunately, it didn't
+
+568
+00:50:18,020 --> 00:50:21,780
+make enough money and it never continued past that point either.
+
+569
+00:50:21,780 --> 00:50:22,780
+So I mean...
+
+570
+00:50:22,780 --> 00:50:27,020
+That was a pretty fun game though. I don't know why they tried, but didn't they have
+
+571
+00:50:27,020 --> 00:50:31,900
+like, um, God, I can't remember which one, if it was split second or Blur that had, it
+
+572
+00:50:31,900 --> 00:50:37,900
+had, oh, no, it was split second too. That's right. Um, cause that game looked amazing.
+
+573
+00:50:37,900 --> 00:50:41,180
+The screenshots or video of that.
+
+574
+00:50:41,180 --> 00:50:46,260
+Honestly, I really wanted a sequel to that. It's been what, like 10 years since Blur?
+
+575
+00:50:46,260 --> 00:50:51,120
+It's been a long time. I think Rad Racer could fill that space of Mario Kart meets
+
+576
+00:50:51,120 --> 00:50:57,940
+Arcade Racer that I think we want. Do we want that? I want that. So Square, if you're out
+
+577
+00:50:57,940 --> 00:51:06,820
+there, Rad Racer, make it happen. All right. All right. Let's move on. Hey, Rad Racer could
+
+578
+00:51:06,820 --> 00:51:12,980
+be a VR thing. Who knows? You know, the original Rad Racer was 3D with the 3D glasses, right?
+
+579
+00:51:12,980 --> 00:51:19,500
+Does anyone ever play Rad Racer in 3D? I did. It was, it was, um, it's, it's, it's gimmicky.
+
+580
+00:51:19,500 --> 00:51:22,940
+Like all you, it's, it, because the graphics are so basic, especially when you're playing
+
+581
+00:51:22,940 --> 00:51:28,780
+in 3D, like all you're really seeing is added depth. That's all you're really seeing. Um,
+
+582
+00:51:28,780 --> 00:51:35,420
+but it's, you know, obviously like 3DS technology and so forth really puts it to shame. Bobby
+
+583
+00:51:35,420 --> 00:51:40,580
+Black Wolf says, I did try it with my power glove. It's so bad. SHO 100 Matt says, has
+
+584
+00:51:40,580 --> 00:51:45,600
+to come with the red and blue 3D glasses. That was special. Look in the Rad Racer reboot,
+
+585
+00:51:45,600 --> 00:51:51,260
+the main character could sport those red and blue glasses. Look at it here. I'm designing
+
+586
+00:51:51,260 --> 00:51:57,540
+the game, you guys. All right. Anyway, moving on. Let's talk about VR for the PlayStation
+
+587
+00:51:57,540 --> 00:52:02,440
+five, because we have more news about VR coming to the PlayStation five. No, we don't have
+
+588
+00:52:02,440 --> 00:52:07,120
+a date. No, we don't have a price, but we do know what the controllers are going to
+
+589
+00:52:07,120 --> 00:52:12,820
+look like. Uh, there was an update, uh, from Sony's PlayStation blog this week, uh, that
+
+590
+00:52:12,820 --> 00:52:17,840
+shows what the controllers are going to look like for the PlayStation VR for PlayStation
+
+591
+00:52:17,840 --> 00:52:24,360
+five. Gone are the, uh, PlayStation move controllers and the little colored balls on the tips of
+
+592
+00:52:24,360 --> 00:52:29,600
+them. Uh, they are gone and these new controllers really look nothing like them. Um, they look
+
+593
+00:52:29,600 --> 00:52:35,720
+more like, I think there is a VR out there that uses Oculus two Oculus quest two or something.
+
+594
+00:52:35,720 --> 00:52:40,920
+They, they use these controllers and they, they look like, um, imagine like the outline
+
+595
+00:52:40,920 --> 00:52:45,000
+and I'm trying to describe this for the folks listening on the podcast. Imagine like the
+
+596
+00:52:45,000 --> 00:52:52,120
+outline of a boxing glove, kind of like on your hand that, and you grip like half a controller
+
+597
+00:52:52,120 --> 00:52:59,640
+that's on the inside. That's kind of what these look like. Um, so it does kind of, it
+
+598
+00:52:59,640 --> 00:53:03,880
+looks a little bit like a, yeah, I think it is Oculus that, uh, uses that there. Uh, or
+
+599
+00:53:03,880 --> 00:53:07,860
+as some people have noticed, uh, it looks a little bit like the orb that Jodie Foster
+
+600
+00:53:07,860 --> 00:53:13,480
+uses in contact. I would have never found that out, but who knows? Anyway, some of the
+
+601
+00:53:13,480 --> 00:53:19,440
+features, some of the features in here, adaptive triggers. So that means that when you press
+
+602
+00:53:19,440 --> 00:53:23,400
+it, it'll be, you know, adapt. It's kind of like the harder you press it, the harder it
+
+603
+00:53:23,400 --> 00:53:27,620
+goes and so forth. Um, that is very similar to what's already in the dual sense controller.
+
+604
+00:53:27,620 --> 00:53:31,960
+There will be haptic feedback, no real surprise there. Again, another kind of perk of the,
+
+605
+00:53:31,960 --> 00:53:37,680
+uh, existing dual sense controller, finger touch detection. So even if you don't like
+
+606
+00:53:37,680 --> 00:53:43,540
+press in areas where you like, there is a button, it will actually see like gestures
+
+607
+00:53:43,540 --> 00:53:48,040
+that your fingers and stuff are doing. And basically, yeah, it sounds just like a rift
+
+608
+00:53:48,040 --> 00:53:55,520
+controller with the dual sense triggers and the dual sense, uh, hap, it's not really haptic
+
+609
+00:53:55,520 --> 00:54:00,160
+gremble, whatever they've got there. It's basically those two combined together. Basically.
+
+610
+00:54:00,160 --> 00:54:05,400
+Yes. All right. It just says the point cause like I had envisioned when they were talking
+
+611
+00:54:05,400 --> 00:54:10,400
+about haptics and stuff like actual gloves or something like that, but it's fine. I mean
+
+612
+00:54:10,400 --> 00:54:14,760
+those could work for like PC and stuff. Bobby is saying in chat, I'm getting it backwards.
+
+613
+00:54:14,760 --> 00:54:18,560
+So the adaptive triggers, it's actually the other way around. So they don't want you to
+
+614
+00:54:18,560 --> 00:54:24,580
+push the triggers down all the way sometimes. Uh, and so it's more like resistance on the
+
+615
+00:54:24,620 --> 00:54:30,980
+triggers as opposed to, um, what I was saying. So thank you, Bobby. Um, yeah. I mean, if
+
+616
+00:54:30,980 --> 00:54:35,780
+I could actually find a PlayStation five and I've decided I'm not buying a PlayStation
+
+617
+00:54:35,780 --> 00:54:39,420
+five until I can just walk into target and get one. And I realized I might be waiting
+
+618
+00:54:39,420 --> 00:54:46,140
+a while, but I, I'm not having it with 2022 for when this comes out and probably the other,
+
+619
+00:54:46,140 --> 00:54:50,920
+you know, uh, square index game, honestly. Yes, there's time. And so there's that. So
+
+620
+00:54:50,920 --> 00:54:56,760
+yeah, like I, I, I can't explain to you what a PlayStation five is like because they're
+
+621
+00:54:56,760 --> 00:55:01,840
+pretty hard to get and uh, I'm not willing to fight a lot of that. Go onto Walmart and
+
+622
+00:55:01,840 --> 00:55:08,520
+get the 3pm drop that's going to be gone in five seconds. And I'm just, I'm, I don't know
+
+623
+00:55:08,520 --> 00:55:12,560
+if it's this my age, I'm just not willing to subject myself to that stress. And I've,
+
+624
+00:55:12,560 --> 00:55:16,860
+I've said this with other products before, when I can walk into the store, pick one up
+
+625
+00:55:16,860 --> 00:55:22,000
+off the shelf, then it will be meant to be, but I'm not, I'm too old and too tired to
+
+626
+00:55:22,000 --> 00:55:28,300
+fight for a gaming console. I just am. So I'll get one when I can walk into a fries
+
+627
+00:55:28,300 --> 00:55:37,080
+and pick it up. You might have to time travel. You might have to check the dumpster out back.
+
+628
+00:55:37,080 --> 00:55:41,820
+I'm sure that'll be a thing. Yes, I can. I can do that. Uh, Bobby black woven chat says,
+
+629
+00:55:41,820 --> 00:55:47,020
+well episode Eufy is PlayStation five only in June. Then you know what? She's going to
+
+630
+00:55:47,020 --> 00:55:53,820
+have to wait. She's going to have to wait. Sorry. All right. Uh, also very important.
+
+631
+00:55:53,820 --> 00:55:59,280
+One other feature of the new VR, the tracking, the VR controller is tracked by, uh, by the
+
+632
+00:55:59,280 --> 00:56:04,100
+headset through a tracking ring across the bottom of the controller. So that's also very
+
+633
+00:56:04,100 --> 00:56:08,500
+interesting because that means it's not going to be the whole like camera looking at you
+
+634
+00:56:08,500 --> 00:56:13,540
+type of thing. It's actually in the VR headsets. That's kind of neat. I like that. So, uh,
+
+635
+00:56:13,540 --> 00:56:19,260
+cool. Of course, again, we don't know when we don't know how much we don't know what
+
+636
+00:56:19,260 --> 00:56:23,360
+the headset looks like. We're just getting, we don't know games. It's all we know. Sony
+
+637
+00:56:23,360 --> 00:56:29,900
+is working on it. Just, just announced a brand new, uh, until Dawn, uh, Russia blood game.
+
+638
+00:56:29,900 --> 00:56:33,540
+And I'm there just, that's all you need to do is say, Hey, we're putting them one of
+
+639
+00:56:33,540 --> 00:56:38,820
+those out and like, Oh, all right. I'm sure, I'm sure there'll be some good games for it.
+
+640
+00:56:38,820 --> 00:56:43,180
+I'm uh, I'm excited. I'm still thinking back to last week when we had that whole fan wank
+
+641
+00:56:43,180 --> 00:56:47,380
+about Sony buying Konami so that they can start putting Bemani games out again. And
+
+642
+00:56:47,380 --> 00:56:52,000
+now we had that story last week about the first Bemani VR game. Hey, there's a game
+
+643
+00:56:52,000 --> 00:56:57,060
+for PlayStation five. All right. I'm stretching a little bit, but, um, yeah, it'll be a little
+
+644
+00:56:57,060 --> 00:57:02,600
+bit, a lot. Okay. A lot of it. Um, but I'm sure that, you know, again, it's about getting
+
+645
+00:57:02,600 --> 00:57:08,240
+that must have app. So whether that is the Russia blood until Dawn for PlayStation five,
+
+646
+00:57:08,240 --> 00:57:12,280
+or maybe a new type of Beat Saber or one of those types of games or something we haven't
+
+647
+00:57:12,280 --> 00:57:16,080
+thought of yet, most likely. Um, I think that is really going to be the thing that pushes
+
+648
+00:57:16,080 --> 00:57:22,840
+VR forward, but PlayStation certainly did a great job of making quality VR accessible.
+
+649
+00:57:22,840 --> 00:57:28,360
+I'm using that word quality and some folks may feel differently about this, but I think
+
+650
+00:57:28,360 --> 00:57:33,040
+those like, um, that thing that you plop your cell phone into and it does VR through
+
+651
+00:57:33,040 --> 00:57:40,760
+that. I think PlayStation brought quality VR and VR experiences and made them very accessible.
+
+652
+00:57:40,760 --> 00:57:48,880
+So there's that. All right, let's move on dark Sakura. So, um, one thing I've been keeping
+
+653
+00:57:48,880 --> 00:57:53,680
+my eyes on is the stuff for the new resident evil stuff. And it could, there is a lot of
+
+654
+00:57:53,680 --> 00:57:59,560
+stuff. Oh yeah. So basically, um, the new movie has a title. Now it's resident evil,
+
+655
+00:57:59,560 --> 00:58:04,200
+welcome to raccoon city, and it's going to follow the first two games. So we'll have
+
+656
+00:58:04,200 --> 00:58:12,800
+Chris, Joe, Leon and Claire. Um, they've already done quite a bit of casting for it. Um, and
+
+657
+00:58:12,800 --> 00:58:19,800
+then, uh, there's going to definitely be some very interesting things as though that the,
+
+658
+00:58:20,400 --> 00:58:25,400
+the, the film franchise and this movie series have nothing to do with each other. They're
+
+659
+00:58:25,400 --> 00:58:32,600
+completely separate. It's not a remake. It's going to be a little bit more with the base
+
+660
+00:58:32,600 --> 00:58:39,520
+universe. Um, so there you go. Um, I'm actually kind of relieved for that because the one
+
+661
+00:58:39,520 --> 00:58:42,920
+thing I didn't really care for in the movie universes is that they didn't quite follow
+
+662
+00:58:42,920 --> 00:58:49,560
+the game universe. And I would rather dig more into the game universe. So I think that's
+
+663
+00:58:49,560 --> 00:58:58,240
+going to be, be awesome. So they got a good cast so far. Yeah. Um, and that's, uh, that
+
+664
+00:58:58,240 --> 00:59:03,320
+whole, uh, revival of stuff on Netflix. It's just like Netflix trying to become the video
+
+665
+00:59:03,320 --> 00:59:09,280
+game home of all this stuff. So yeah, it's going to be, yeah, they sure do. Uh, looking
+
+666
+00:59:09,280 --> 00:59:13,660
+in our chat over twitch.tv slash vog network, dark Tetsuya says, as long as it's better
+
+667
+00:59:13,660 --> 00:59:17,600
+than the original movie released, it's interesting though. Cause the original resident evil movie
+
+668
+00:59:17,600 --> 00:59:22,560
+certainly has its fans. Um, and it, yeah, I would say the original is probably better
+
+669
+00:59:22,560 --> 00:59:27,640
+than any of the sequels. Any of the many, how many seals they made me like 20 sequels
+
+670
+00:59:27,640 --> 00:59:31,480
+or something like that. I don't know. I think finally knew what I liked is I liked some
+
+671
+00:59:31,480 --> 00:59:36,760
+of the CG ones that they came out with. So like the, um, degeneration and the only reason
+
+672
+00:59:36,760 --> 00:59:42,960
+I bought degeneration is because it had, uh, a song on there. Gosh, why can't I remember
+
+673
+00:59:42,960 --> 00:59:48,280
+her name now? Cause I really like her and it's Chia. Um, she did like the closing song
+
+674
+00:59:48,280 --> 00:59:52,440
+on it and that's why I bought the movie, but the movie was actually really good. Yeah.
+
+675
+00:59:52,440 --> 00:59:56,960
+Um, and, uh, as she 100, Matt says, I haven't seen the cast yet. Are there any like highly
+
+676
+00:59:56,960 --> 01:00:03,320
+recognizable folks in the cast or is it a lot of, um, Robbie ML? Um, I'm trying to think
+
+677
+01:00:03,320 --> 01:00:10,680
+of other ones I've seen. Um, not too many people I know of. I mean, it's just, I've,
+
+678
+01:00:10,680 --> 01:00:17,240
+you know, I checked some of these people on IMDB, um, and they looked like they had,
+
+679
+01:00:17,240 --> 01:00:21,160
+you know, done some good work, but the only name I really recognized was Robbie ML who's
+
+680
+01:00:21,160 --> 01:00:26,760
+playing Chris. Uh, fifth dream is giving a shout out to Anna. Sushiya is amazing. So
+
+681
+01:00:26,760 --> 01:00:32,960
+yeah. Oh, sorry. Yeah. She's, there's a movie that she did. It's one of my favorite movies
+
+682
+01:00:32,960 --> 01:00:43,840
+ever called, um, uh, uh, where, um, she becomes a, uh, a courtesan, uh, an Iran or she's trying
+
+683
+01:00:43,840 --> 01:00:49,880
+to become the later on. It's really, really good movie. She's got a great voice. All right.
+
+684
+01:00:49,880 --> 01:00:55,120
+So, uh, we'll, we'll see that soon whenever this movie finally comes out. All right, let's
+
+685
+01:00:55,120 --> 01:01:01,360
+move on to our next story. Loki. It's like, we've heard this story before. So Activision
+
+686
+01:01:01,440 --> 01:01:08,080
+is laying off some employees. So, uh, they're going to be laying off the Blizzard esports,
+
+687
+01:01:08,080 --> 01:01:14,000
+uh, which is going to be about 50 employees. Actually, it says the total figure is around
+
+688
+01:01:14,000 --> 01:01:22,000
+190 instead. Um, this is also coming after that they've just, uh, closed the European
+
+689
+01:01:22,000 --> 01:01:29,360
+publishing offices as well, uh, which laid off, you know, quite a few people, um, on top of that.
+
+690
+01:01:29,920 --> 01:01:36,720
+Um, and of course, you know, much like we saw last time, uh, during our investor call,
+
+691
+01:01:36,720 --> 01:01:43,680
+I think it was about a year or so ago from November, um, Bobby Kotick, Activision Blizzard
+
+692
+01:01:43,680 --> 01:01:50,160
+CEO is going to get even bigger bonuses because of that. Um, he's supposed to get more than,
+
+693
+01:01:50,160 --> 01:01:57,440
+I guess, a total payout, nearly $200 million. It's fucking terrible. So, you know, $200 million,
+
+694
+01:01:57,520 --> 01:02:02,640
+which I'm sure probably could have paid for a lot of those employees to work there. Um,
+
+695
+01:02:03,920 --> 01:02:08,240
+but you know, he needs more money even though he's a multi-billionaire.
+
+696
+01:02:08,240 --> 01:02:15,360
+It's that is a problem with this. Yeah. It's, um, it's extraordinarily frustrating to, you know,
+
+697
+01:02:15,360 --> 01:02:21,520
+to hear of that bonus that he's making, um, and how, I guess a lot of this staff was, uh, as I,
+
+698
+01:02:21,520 --> 01:02:26,400
+as I understand it in the, in the live events creation stuff. Am I right? Are we talking
+
+699
+01:02:26,400 --> 01:02:31,200
+about things like BlizzCon and things like that? Yeah. And that's, I don't quite understand. It
+
+700
+01:02:31,200 --> 01:02:36,880
+seems very shortsighted to me because even though that space is, you know, having a hard time right
+
+701
+01:02:36,880 --> 01:02:41,760
+now in the past year with everything going on, um, everybody really desires it to come back.
+
+702
+01:02:41,760 --> 01:02:46,720
+And once the convention space to come back and we see other companies that are certainly valuing
+
+703
+01:02:46,720 --> 01:02:51,600
+that convention space, like Sony, um, is certainly trying to get back into that space too. So to see
+
+704
+01:02:51,600 --> 01:02:58,960
+Activision kind of let that go is shocking or I should say, cut it back. I shouldn't say,
+
+705
+01:02:58,960 --> 01:03:03,680
+let it go. Cause I don't see that like, there's not going to be a BlizzCon again, hardly,
+
+706
+01:03:03,680 --> 01:03:08,240
+but it's just, I would have thought Blizzard would instead try to grow that, or sorry, I keep saying
+
+707
+01:03:08,240 --> 01:03:13,680
+Blizzard by me, Activision, Activision would try to grow that space and not try to, um, scale that
+
+708
+01:03:13,680 --> 01:03:18,880
+back. So that's just, it's shocking to me. I do have that with like everything they'll just leave
+
+709
+01:03:18,880 --> 01:03:25,440
+people off and then hire back later. Um, but I mean, a lot of these developers, like, especially
+
+710
+01:03:25,440 --> 01:03:31,040
+like we had, I think the last set of layoffs was around, you know, like teams working on like the
+
+711
+01:03:31,040 --> 01:03:34,960
+latest Call of Duty and stuff like that. They just lay people off and like, they'll hire back
+
+712
+01:03:35,520 --> 01:03:40,480
+people or hire different people back for less money or something. Um, but yeah, it does suck
+
+713
+01:03:40,480 --> 01:03:46,640
+that, you know, they're laying off all these people. Um, and their CEO who I don't know how
+
+714
+01:03:46,640 --> 01:03:51,680
+he contributes to the company is continuing to make millions and millions of dollars.
+
+715
+01:03:52,400 --> 01:03:57,600
+The system is built to help the rich. Uh, reading some comments in chat,
+
+716
+01:03:57,600 --> 01:04:04,080
+Black Compat says money gonna money, heavy sigh. Yeah. Heavy, heavy sigh. Uh, Bobby Black Wolf says
+
+717
+01:04:04,080 --> 01:04:09,040
+he's not welcome in the club of Bobby. Um, Tiger Claw says, here's the thing. We heard these kinds
+
+718
+01:04:09,040 --> 01:04:13,760
+of stories before CEO's getting bonuses while employees were being laid off. Look. And here's
+
+719
+01:04:13,760 --> 01:04:20,880
+the other thing is that like, if, okay, if truly because of the pandemic, there's just no work
+
+720
+01:04:20,880 --> 01:04:27,200
+right now in the live event space, and this is a decision that has to be made then, okay, but,
+
+721
+01:04:27,760 --> 01:04:36,560
+but underlined bolded, but give them the severance that they deserve. Help them get certifications
+
+722
+01:04:36,560 --> 01:04:42,560
+so that they can stay current, help them in job seeking and finding other stuff in the industry.
+
+723
+01:04:42,560 --> 01:04:47,040
+Because the part of this story that's most insulting is what SJ 100 Matt just reminded
+
+724
+01:04:47,040 --> 01:04:53,440
+me of there in chat. To me that $200 battle net gift card was a massive slap in the face.
+
+725
+01:04:53,440 --> 01:05:02,720
+Um, yeah, that is the part where Bobby Kotak like needs to fucking go. Even if he didn't make that
+
+726
+01:05:02,720 --> 01:05:07,920
+call himself, which I doubt he did. At the end of the day, he's still ultimately responsible for it
+
+727
+01:05:07,920 --> 01:05:11,760
+to give these employees that had given so much of their time and effort into this. And again,
+
+728
+01:05:11,760 --> 01:05:17,920
+I want to stress this enough, because I know people that work at Blizzard. I believe I know
+
+729
+01:05:17,920 --> 01:05:23,440
+people that work to Activision as well or worked at least I know as well and the staff and the
+
+730
+01:05:23,440 --> 01:05:29,040
+people working in the front lines are all wonderful, fam fabulous people that work very hard and love
+
+731
+01:05:29,040 --> 01:05:34,320
+video games. The grievances I am airing have nothing to do with them. And I certainly would
+
+732
+01:05:34,320 --> 01:05:39,040
+never attack them on social media. And if I see you attacking them, I'm going to come at you with
+
+733
+01:05:39,120 --> 01:05:44,640
+my claws out because these people don't deserve it. Who deserves it? The senior management and
+
+734
+01:05:44,640 --> 01:05:53,040
+Bobby Kotak. That my grievances are for that right now. And that $200 battle net gift card
+
+735
+01:05:53,040 --> 01:05:58,960
+or whatever the hell it was terrible. That's that is the thing where I'm like that. Like if
+
+736
+01:05:58,960 --> 01:06:05,280
+we are to put down the list of reasons why Bobby Kotak needs to be ceremoniously thrown out of
+
+737
+01:06:05,280 --> 01:06:08,880
+office or whatever you want his office, whatever you want to call it. And I mean,
+
+738
+01:06:09,600 --> 01:06:15,840
+I want people to walk in there, grab him by the shoulders like you see in an old movie and throw
+
+739
+01:06:15,840 --> 01:06:20,480
+him out the front door. I don't care if he lands on pillows to be humane, whatever. There's a
+
+740
+01:06:20,480 --> 01:06:29,360
+better word. What? Finestrated. I'm trying to do a show. That is when people are thrown out of the
+
+741
+01:06:29,360 --> 01:06:38,560
+window. Yes, that. Okay. And it was a big thing too like going on in Europe. A big accident. We
+
+742
+01:06:38,560 --> 01:06:42,880
+need to bring back fenestration. So, here's it. So, I do not violate tWitch's terms of service
+
+743
+01:06:42,880 --> 01:06:48,000
+right there. He can land on a nice soft one of those fluffy mats that gymnasts use, okay?
+
+744
+01:06:48,960 --> 01:06:55,840
+But I still want the ceremonious throwing to happen. And that is the reason the $200
+
+745
+01:06:55,840 --> 01:07:02,240
+gift cards. You know what? If you really felt bad, how about six months of insurance covered?
+
+746
+01:07:02,240 --> 01:07:07,120
+How about certifications to keep them current in their industry while they job hunt? How about
+
+747
+01:07:07,120 --> 01:07:10,800
+signing them up for, you know, headhunter services and things like that to help them find them?
+
+748
+01:07:10,800 --> 01:07:15,040
+Three months severance. So, three months severance and the gift card.
+
+749
+01:07:15,040 --> 01:07:21,040
+The word is defenestration. Sorry. Oh, okay. Anyway. Yeah. And Questbuster,
+
+750
+01:07:21,040 --> 01:07:25,920
+great point. Questbuster in chat says, meanwhile, years ago, Iwata and Nintendo's board of
+
+751
+01:07:25,920 --> 01:07:32,080
+directors took a massive pay cut over poor financial results. And that is why we miss
+
+752
+01:07:32,080 --> 01:07:40,080
+Iwata in this industry every single day. It also though has to do a little bit more,
+
+753
+01:07:40,080 --> 01:07:45,360
+I think, with the nature of work ethic in groups in America versus Japan.
+
+754
+01:07:45,360 --> 01:07:53,920
+Mm-hmm. That a manager is gonna say the failing of the company is the failing of the manager,
+
+755
+01:07:53,920 --> 01:08:00,480
+and the employees should be protected. Whereas- And in America, the CEOs are like,
+
+756
+01:08:00,480 --> 01:08:05,920
+I can't hear you. I'm in the money pit. Yeah. Anyway.
+
+757
+01:08:05,920 --> 01:08:10,000
+The employees are nothing but a stepping stone for more money in their pocket.
+
+758
+01:08:10,000 --> 01:08:14,640
+That's the danger of capitalism. All right. Let's move on. Let's move
+
+759
+01:08:14,640 --> 01:08:22,000
+on to another story. Let's talk about Microsoft. As far as the Xbox gaming division goes and that
+
+760
+01:08:22,000 --> 01:08:26,640
+whole stuff, has a pretty decent guy at the helm right now, I'd say. So, Phil Spencer hasn't pissed
+
+761
+01:08:26,640 --> 01:08:32,800
+me off this week. He's usually one of the more impressive folks in the industry. So, a pat on
+
+762
+01:08:32,800 --> 01:08:37,920
+the back and a cookie for Phil Spencer. Literal pillows for Phil Spencer. A nice new pillow for
+
+763
+01:08:37,920 --> 01:08:44,000
+his couch. Okay? Phil Spencer can have that. Microsoft, Xbox getting a new feature this
+
+764
+01:08:44,000 --> 01:08:50,480
+week, a suspend feature to help with the download speeds. Because download speeds on console aren't
+
+765
+01:08:50,480 --> 01:08:57,120
+always great, but what this new feature will do is that you can suspend a game while you're trying
+
+766
+01:08:57,120 --> 01:09:03,920
+to download a new one to help the system download faster. So, suspend in the queue will let you
+
+767
+01:09:03,920 --> 01:09:09,600
+download at full speed while making sure your game remains resumable or quick resumable even
+
+768
+01:09:09,600 --> 01:09:15,680
+if you're on the series X or S. And this was all on a Twitter post by engineering lead Eden Marie
+
+769
+01:09:16,320 --> 01:09:21,280
+over at Xbox. And there's a screenshot of that new suspend functionality if you want to look at that
+
+770
+01:09:21,280 --> 01:09:28,640
+over on Twitter on her account, Neon Epiphany. And then right now, downloads I guess are pretty slow
+
+771
+01:09:29,200 --> 01:09:33,760
+when the games are open because some of the connection capacity has to be for the game,
+
+772
+01:09:33,760 --> 01:09:37,680
+which kind of makes sense. Like I get that because a lot of games have some type of like
+
+773
+01:09:37,680 --> 01:09:41,920
+online talking functionality there. So, you can't dedicate it to downloading the game.
+
+774
+01:09:41,920 --> 01:09:46,240
+But if you suspend it, then you're basically saying, okay, pause this game, put it on hold
+
+775
+01:09:46,240 --> 01:09:51,600
+and give more of the priority over to downloading the game there. So, I think that's kind of neat,
+
+776
+01:09:51,600 --> 01:09:57,520
+especially since Xbox Game Pass oftentimes is like the hometown buffet of gaming.
+
+777
+01:09:57,520 --> 01:10:02,000
+And it's like, I'm going to load me up a little bit with that. Oh, Doom 64. Yeah, put some of
+
+778
+01:10:02,000 --> 01:10:06,640
+that on my plate. Oh, oh, we got Outriders coming. Yep. Save room for that at the end.
+
+779
+01:10:07,200 --> 01:10:12,000
+And now people are downloading games to sample them and everything. I think this is a very
+
+780
+01:10:12,000 --> 01:10:16,880
+welcome sort of thing. If you have the bandwidth for it is a very welcome sort of thing. And I know
+
+781
+01:10:16,880 --> 01:10:21,520
+I keep saying that if you have the bandwidth for it, but I'm really trying to look forward
+
+782
+01:10:22,480 --> 01:10:30,080
+three or four years when 5G becomes more and more of a thing. I can't wait for the day.
+
+783
+01:10:30,080 --> 01:10:36,160
+I can bypass my cable connection and hook up my Xbox to 5G and download things that way. Now,
+
+784
+01:10:36,160 --> 01:10:41,120
+of course, 5G might have data limitations, but at least it's going to introduce competition into
+
+785
+01:10:41,120 --> 01:10:45,440
+that space where these whole bandwidth caps and this whole thing is going to get needled a little
+
+786
+01:10:45,440 --> 01:10:51,200
+bit. Let's hope. Let's hope the industry doesn't try to kind of artificially cap that, but we'll
+
+787
+01:10:51,200 --> 01:10:58,960
+see. All right, let's move on and let's get to Dark Sakura. Oh, some exciting news in your world
+
+788
+01:10:58,960 --> 01:11:06,720
+for sure, right? Yeah. How about something happy? Yes, please. So, there was a new update to Animal
+
+789
+01:11:06,720 --> 01:11:12,160
+Crossing that came out on the 18th and you know, I was on that shit the moment it happened. So,
+
+790
+01:11:13,200 --> 01:11:19,600
+basically the March 18th update came with lots of new stuff. Can I just say you're tweeting,
+
+791
+01:11:19,600 --> 01:11:24,560
+you're tweeting the equivalent of are we there yet? Are we there yet? Are we there yet?
+
+792
+01:11:24,560 --> 01:11:34,800
+Pretty much. Pretty much. Sorry. But the cool thing is that number one is that if you have
+
+793
+01:11:34,800 --> 01:11:47,360
+the Sanrio cards that were part of Animal Crossing, what was it for New Leaf?
+
+794
+01:11:47,360 --> 01:11:55,440
+Welcome amiibo. There were some Sanrio cards that came out with six characters.
+
+795
+01:11:56,720 --> 01:12:03,200
+And if you have those cards, you can actually now invite them into your village and just for
+
+796
+01:12:03,200 --> 01:12:10,400
+scanning them, it unlocks permanent items that you can buy, including furniture sets and clothes
+
+797
+01:12:10,400 --> 01:12:15,600
+and all kinds of stuff. And for people who've played Pocket Camp, they probably are going
+
+798
+01:12:15,600 --> 01:12:21,040
+to look familiar because the characters are available in Pocket Camp. On top of that,
+
+799
+01:12:22,560 --> 01:12:30,000
+you can invite those animals to your village. So, you have Rila, who's the Hello Kitty one.
+
+800
+01:12:30,000 --> 01:12:37,920
+You have Etoile, who is a little twin stars sheep who is definitely on her way to my village. I
+
+801
+01:12:37,920 --> 01:12:46,880
+kicked out Shevra, finally. You have, now I forgot everybody's name, but you have a
+
+802
+01:12:46,880 --> 01:12:55,040
+Kero Kero Kero Pi character. You have a Pompompurin. You have My Melody, Little Twin Stars, Hello Kitty
+
+803
+01:12:55,760 --> 01:13:07,200
+and Cinema Roll as the other character. And now before all you could get though was their posters,
+
+804
+01:13:07,200 --> 01:13:12,560
+which all of my friends should have their posters by now because I have scanned them in.
+
+805
+01:13:14,480 --> 01:13:19,600
+But the other things that you will get from this is that you are going to get a cake for
+
+806
+01:13:19,600 --> 01:13:25,760
+the anniversary. And the cake is actually really cute. And I honestly think it could be remade in
+
+807
+01:13:25,760 --> 01:13:31,440
+person. And not a lie. Yeah, not a lie. It looks like it's like some sort of strawberry shortcake
+
+808
+01:13:31,440 --> 01:13:37,040
+that's done like the land in Animal Crossing with a big red one on it. Like a Christmas cake?
+
+809
+01:13:38,160 --> 01:13:42,160
+No. Well, kind of like a Christmas cake. Some Christmas cakes are traditionally that circular
+
+810
+01:13:42,160 --> 01:13:46,800
+with all the strawberries on top. This is more like a square. Okay. I gotcha. I gotcha. Okay.
+
+811
+01:13:47,360 --> 01:13:56,000
+Yeah. But then again, the really other big things that you're going to get are the Custom Design Pro
+
+812
+01:13:56,080 --> 01:14:05,120
+Plus Editor. That is pretty cool. What you're going to get with that is that it will let you
+
+813
+01:14:05,760 --> 01:14:11,680
+bring in new designing features. So you're going to get access to 50 more design storage slots,
+
+814
+01:14:11,680 --> 01:14:16,240
+which is great because I completely ran out. And that's not just for normal, but that's for
+
+815
+01:14:16,240 --> 01:14:21,680
+both normal and pro. And it also gives you different things you can design like umbrellas.
+
+816
+01:14:22,480 --> 01:14:27,680
+Um, I saw the cutest design where someone took advantage of the shape of the umbrella to make
+
+817
+01:14:27,680 --> 01:14:33,040
+it look like a cat house. And those designs, by the way, are no fucking joke for the serious
+
+818
+01:14:33,040 --> 01:14:37,440
+Animal Crossing players, because that's how you get the things that look totally different than
+
+819
+01:14:37,440 --> 01:14:43,040
+what they're supposed to be. So to give a user 50 more of those is like that is the most exciting
+
+820
+01:14:43,040 --> 01:14:48,480
+thing about this whole patch for many people. But before I unlocked paths, I had my own custom
+
+821
+01:14:48,480 --> 01:14:55,680
+paths on the ground. The other things you can do, you can also purchase a custom design portal,
+
+822
+01:14:58,080 --> 01:15:06,800
+which basically will let you upload things directly from your in-game phone. You also
+
+823
+01:15:07,600 --> 01:15:11,840
+are going to get April Fool's Day whoopee cushions and prom decorations
+
+824
+01:15:13,040 --> 01:15:18,160
+available from the 1st to the 30th. The Mario stuff is still up, by the way. I think that's
+
+825
+01:15:18,160 --> 01:15:27,200
+permanent. Or until the 31st because, you know, Nintendo be Nintendo. At any rate, well, I have
+
+826
+01:15:27,200 --> 01:15:34,560
+all of them and I can forever now. So the thing about those, going back to the Sanrio cards,
+
+827
+01:15:34,560 --> 01:15:40,720
+is that they're only going to be available at Target starting on March 26th. For the,
+
+828
+01:15:41,440 --> 01:15:47,840
+you know, for the American ones, I have special acquisitions of them.
+
+829
+01:15:49,680 --> 01:15:56,560
+But, you know, the outfits are not ugly. They're actually kind of cute, you know. I had one of my
+
+830
+01:15:56,560 --> 01:16:00,080
+characters running around in the pom-pom portal and one which gives you like a blonde pig-tailed
+
+831
+01:16:00,080 --> 01:16:06,800
+wig with a beret on it. It's really cute. And I've already got a room done up in Keto-Keto-Ketopi.
+
+832
+01:16:07,200 --> 01:16:11,280
+We need Batsmaru in this, but I don't see that happening anytime soon.
+
+833
+01:16:12,000 --> 01:16:16,480
+I know. That's what's missing for me, but it still looks really cool.
+
+834
+01:16:16,480 --> 01:16:21,280
+Yeah. You know what Sanrio character I miss that I don't think is around anymore?
+
+835
+01:16:22,400 --> 01:16:26,560
+Robo-One. Oh, yeah. I don't think I've seen that one in a long time.
+
+836
+01:16:26,560 --> 01:16:34,800
+Yeah. I still have, and I'll put it on cam, I have a Robo-One paper binder and I still
+
+837
+01:16:34,800 --> 01:16:38,800
+use it for all my old artwork. I found my Batsmaru lunchbox the other day.
+
+838
+01:16:40,320 --> 01:16:46,960
+Well, you remember when I moved out here and I had this keychain on forever, but I have a
+
+839
+01:16:46,960 --> 01:16:50,640
+25-year-old Batsmaru keychain. That's awesome.
+
+840
+01:16:51,280 --> 01:16:55,920
+And my Bento box. But yeah.
+
+841
+01:16:55,920 --> 01:16:59,280
+All right. Well, lots to- We love Sanrio.
+
+842
+01:16:59,280 --> 01:17:03,600
+Lots to love in Animal Crossing one year later. It's nice to see the updates are still happening
+
+843
+01:17:03,600 --> 01:17:08,320
+and I imagine it's still going to keep going for a while, even though we've hit a full year
+
+844
+01:17:08,320 --> 01:17:12,480
+of Animal Crossing now, so they have done their events for the calendar year and everything.
+
+845
+01:17:12,480 --> 01:17:15,680
+I would imagine they're still going to grow the game in the coming months and continue
+
+846
+01:17:15,680 --> 01:17:18,800
+to add value to that. I'll tell you what, the warp
+
+847
+01:17:18,800 --> 01:17:21,440
+pipes are a fucking game changer. Oh, I bet.
+
+848
+01:17:22,240 --> 01:17:27,760
+Because I have one at my house, there's one at Dan's house, and there's one in front of the
+
+849
+01:17:27,760 --> 01:17:34,960
+alt house. And so I can just portal my way, you know, we're pretty much on any side of the island
+
+850
+01:17:34,960 --> 01:17:37,600
+I need to go because I'm lazy as fuck. So you can only have two.
+
+851
+01:17:38,480 --> 01:17:44,480
+No, you can have three and more, I think. But the other fun thing is that for a while,
+
+852
+01:17:44,480 --> 01:17:51,040
+Dan had a pipe in his house and I would find myself in Dan's house just randomly.
+
+853
+01:17:51,040 --> 01:17:53,840
+Like, I don't want to work my way to their house.
+
+854
+01:17:53,840 --> 01:17:55,280
+To their houses. That's funny.
+
+855
+01:17:55,280 --> 01:17:58,320
+That's kind of cool. So you know, if you were like
+
+856
+01:17:58,320 --> 01:18:02,080
+the ultimate and lazy or you wanted to avoid people, you put a pipe in front of like
+
+857
+01:18:02,800 --> 01:18:07,200
+nooks and then you put a pipe in your living room and then you just go to the store.
+
+858
+01:18:08,160 --> 01:18:14,080
+I could put a warp pipe in front of, you know, nooks that says fun, like a little sign pointing
+
+859
+01:18:14,080 --> 01:18:18,400
+at it says fun, and then they go down the warp pipe and then they end up in my basement that
+
+860
+01:18:18,400 --> 01:18:22,320
+looks like the murder dungeon. I could do that. Yes, you could do that.
+
+861
+01:18:22,320 --> 01:18:25,600
+Fun. That might be I might have to go back to Animal Crossing.
+
+862
+01:18:26,400 --> 01:18:32,560
+I have a little like Mario area set up with coins and the mushroom platforms and everything.
+
+863
+01:18:32,560 --> 01:18:38,160
+So it's really cute stuff. I also have way more lilies of the valley than I know what to do with.
+
+864
+01:18:40,160 --> 01:18:42,560
+I mean, I wish I was joking. I am not.
+
+865
+01:18:43,760 --> 01:18:48,880
+S2100 Matt in chat says Rob just made this dark. Can't help it. It's a gift.
+
+866
+01:18:48,880 --> 01:18:57,440
+Bobby says five nights at Rob's. If you don't want a permanent like murder basement at your
+
+867
+01:18:57,440 --> 01:19:03,840
+house, you can always decorate what's his face is Harv's basement to be a murder basement.
+
+868
+01:19:03,840 --> 01:19:08,480
+Oh, good thinking. But then you can create your own murder scenes,
+
+869
+01:19:08,480 --> 01:19:13,280
+but you can't put the warp pipe to Harv's basement. You can't. No,
+
+870
+01:19:13,280 --> 01:19:17,360
+but it's only a plane right away. Remember, what would Dodo's do?
+
+871
+01:19:17,360 --> 01:19:19,760
+That's true. All right. That's true. And it probably
+
+872
+01:19:19,760 --> 01:19:24,960
+putting the body as a plane right away is probably a better idea. All right. Moving on.
+
+873
+01:19:24,960 --> 01:19:28,480
+And then you get to see all the ridiculous stuff. What's his what's his face says.
+
+874
+01:19:29,360 --> 01:19:33,760
+All right. Let's go to this story is very interesting that Jason referenced
+
+875
+01:19:33,760 --> 01:19:36,240
+in the intro tonight there. Loki, tell us about this.
+
+876
+01:19:37,440 --> 01:19:41,760
+Yeah. So one thing Grand Theft Auto five and Grand Theft Auto online is known for is
+
+877
+01:19:41,760 --> 01:19:49,840
+extremely long load times. So thankfully, you know, one player who was quite a fan of the game
+
+878
+01:19:50,480 --> 01:19:57,840
+managed to modify it in a way that reduced load times by 70 percent. And so he had put out
+
+879
+01:19:59,280 --> 01:20:06,400
+a kind of a workaround to do that and then let Rockstar know that you found this way to do it.
+
+880
+01:20:06,400 --> 01:20:12,400
+And they actually went ahead and made it official and actually released it as a patch for the game.
+
+881
+01:20:13,600 --> 01:20:19,280
+So that is actually out now. You can check it out. But on top of that, not only did they
+
+882
+01:20:20,000 --> 01:20:26,000
+put it as an official update, but they also gave him a bug bounty reward of ten thousand dollars,
+
+883
+01:20:26,000 --> 01:20:32,080
+which normally they would only pay out for, say, finding security flaws or stuff like that.
+
+884
+01:20:32,080 --> 01:20:36,560
+But being that this improved load times by such a significant amount, I mean,
+
+885
+01:20:36,560 --> 01:20:41,920
+they thought that they'd make an exception to the rule and go ahead and give tossed or toast
+
+886
+01:20:42,480 --> 01:20:49,280
+his money, which is pretty awesome. But that's cool. Yeah. That is very interesting. I have to
+
+887
+01:20:49,280 --> 01:20:53,840
+go check it out because, I mean, the load times, it's been a while since I played Grand Theft Auto
+
+888
+01:20:53,840 --> 01:20:58,400
+five, but load times are like in the minutes. It's it's a very long load time.
+
+889
+01:20:59,360 --> 01:21:05,120
+I'm just kind of shocked that this was found by somebody outside of Take-Two.
+
+890
+01:21:05,120 --> 01:21:09,360
+You know, that's the surprising thing about it. Yeah, without the source code and stuff. So
+
+891
+01:21:11,440 --> 01:21:19,520
+basically just released a fix that you could check it out. But, you know, after they did some more
+
+892
+01:21:19,520 --> 01:21:24,960
+analysis and stuff, you know, they were able to implement it. So it was pretty awesome.
+
+893
+01:21:24,960 --> 01:21:32,080
+This is why we need the modding community. Exactly. Well, I mean, modding community has
+
+894
+01:21:32,080 --> 01:21:37,920
+been fixing games for a long time. I mean, look at anything Bethesda makes. Certainly not the first
+
+895
+01:21:37,920 --> 01:21:43,040
+time that they fixed something like this, but it is nice to see some of these become official
+
+896
+01:21:43,040 --> 01:21:49,680
+releases. I want to say, like, we've had other games do this before. I don't know if it was like
+
+897
+01:21:50,080 --> 01:21:54,320
+Cyberpunk or something like that, but like they had a few games where they've actually, you know,
+
+898
+01:21:54,320 --> 01:22:01,440
+put out, you know, fan made mods or whatever, or incorporate that stuff into a game to be able to
+
+899
+01:22:01,440 --> 01:22:06,480
+make it, you know, actually run better. So that's pretty nice. As Joe and Hunter Matt says, this
+
+900
+01:22:06,480 --> 01:22:13,600
+saved the months of development time, I'm sure. Oh, I'm sure. For sure. Yeah. All right. All right.
+
+901
+01:22:14,080 --> 01:22:20,480
+All right. Well, let's move on and talk about a pretty cool discovery in this past week of some
+
+902
+01:22:20,480 --> 01:22:26,000
+prototypes and some demos for the PlayStation 2. It's very interesting when these kind of like
+
+903
+01:22:26,000 --> 01:22:32,240
+old gaming things kind of come up again. That website is the cutting room floor,
+
+904
+01:22:32,240 --> 01:22:35,120
+something like that, that shows all the stuff that was removed from games.
+
+905
+01:22:35,840 --> 01:22:41,760
+That site is really awesome. Anyway, another type of game preservation group called the
+
+906
+01:22:41,760 --> 01:22:48,800
+Hidden Palace over hidden palace.org has released 700 PlayStation 2 early builds,
+
+907
+01:22:48,800 --> 01:22:55,920
+prototypes, E3 and press release demos. They did a whole Twitch stream over six hours where they
+
+908
+01:22:55,920 --> 01:23:01,040
+show different PS2 pre-release builds for things like Crash Bandicoot, The Wrath of Cortex,
+
+909
+01:23:01,040 --> 01:23:07,360
+Final Fantasy X-2, Lego Star Wars, the video game and Crazy Taxi. Some of those builds were
+
+910
+01:23:07,360 --> 01:23:11,840
+only at places like E3 or they were built specifically for the preview end of things.
+
+911
+01:23:12,400 --> 01:23:19,520
+Some were debug builds, some were betas, but they were all found and they worked with this online
+
+912
+01:23:19,520 --> 01:23:29,200
+group to restore them, I guess. Over 850 gigabytes of stuff. So that's pretty cool. And I guess
+
+913
+01:23:29,200 --> 01:23:33,760
+the other part of this is that they're not done. Apparently there are more prototypes that they're
+
+914
+01:23:33,760 --> 01:23:39,600
+going to dig through and release. And certainly this gets into a whole bunch of like, well,
+
+915
+01:23:39,600 --> 01:23:44,240
+what is ethical? What is not? But when you consider these are all the way back in the
+
+916
+01:23:44,240 --> 01:23:51,440
+PlayStation 2 era, these are games that are not being sold as new anymore. I think it's a fine
+
+917
+01:23:51,440 --> 01:23:57,520
+thing. Especially because these were things that were, a lot of them were out there in the public
+
+918
+01:23:57,520 --> 01:24:02,640
+eye at things like E3 and stuff like that. People just want to preserve gaming history and this is
+
+919
+01:24:02,640 --> 01:24:08,160
+all a part of that and gave us the console and the games that we remember. So I think that's
+
+920
+01:24:08,160 --> 01:24:12,880
+pretty neat. Dartitsuya says, I saw a bit of that stream yesterday and then says the website I'm
+
+921
+01:24:12,880 --> 01:24:18,640
+trying to think of Cutting Room Floor, TCRF.net. And then Hidden Palace is the group that did this.
+
+922
+01:24:18,640 --> 01:24:24,880
+They were showing a Simpsons skateboarding game. Yeah, pretty cool. So I like when we get the whole
+
+923
+01:24:26,240 --> 01:24:30,800
+stuff from the past and the, ooh, we almost had this instead of this and the differences.
+
+924
+01:24:30,800 --> 01:24:34,720
+There's also Twitter called, I think like Forest of Illusion or Land of Illusion,
+
+925
+01:24:34,720 --> 01:24:37,680
+something like that. Oh yeah. I think I've heard of that. Yeah, yeah, yeah. And they link back to
+
+926
+01:24:37,680 --> 01:24:44,800
+some of this too. Nice. All right. Well, what a nice segue into our segment called the Classic
+
+927
+01:24:44,800 --> 01:24:49,440
+Game of the Week where Dark Soccer is going to step into the gaming vault and find a game that
+
+928
+01:24:49,440 --> 01:24:55,600
+she thinks, Hey, you should check this game out. This wasn't a cut game. This was actually released
+
+929
+01:24:55,600 --> 01:24:59,280
+and actually the game she picked tonight, A, I can't believe she didn't pick before because this
+
+930
+01:24:59,280 --> 01:25:03,120
+is a game that I would have picked as Classic Game of the Week because I played a lot of this,
+
+931
+01:25:03,120 --> 01:25:09,760
+believe it or not. I love this game. Um, but, uh, I love the logo for this game. I love a lot about
+
+932
+01:25:09,760 --> 01:25:14,160
+this game. I love the music in this game. I love the characters, but anyway, uh, and I think it's
+
+933
+01:25:14,160 --> 01:25:22,720
+a great, uh, it's also great show off of the system that it's on. Anyway, uh, Dark Sakura,
+
+934
+01:25:22,720 --> 01:25:27,600
+Classic Game of the Week. What are we talking about? So the Classic Game of the Week is UN
+
+935
+01:25:27,600 --> 01:25:32,640
+Squadron, which in Japan was called Area 88. And we are looking at the Japanese version of the game
+
+936
+01:25:32,640 --> 01:25:38,800
+tonight. Yeah. Um, just, you know, I, I, the big, it was just happened to be like the, the better
+
+937
+01:25:38,800 --> 01:25:45,360
+quality one that I found, but I freaking love the, the logo for the unicorn with the main on fire.
+
+938
+01:25:45,360 --> 01:25:53,200
+I mean, I would have a tattoo of that if I could, you know, um, if it wasn't like so like niche
+
+939
+01:25:53,200 --> 01:25:59,440
+there, but to go into a little bit of detail, Area 88 was a manga. Um, and the characters in
+
+940
+01:25:59,440 --> 01:26:05,840
+the game are from the manga. There was also, uh, uh, an anime that actually had some really
+
+941
+01:26:05,840 --> 01:26:15,040
+good music in it. Um, I just, I actually watched the OAV last night. Um, but at any rate, um, they,
+
+942
+01:26:15,680 --> 01:26:22,720
+the, their goal is to stop a terrorist group that's called Project 4. So, um, this game, uh,
+
+943
+01:26:22,720 --> 01:26:31,520
+came out, uh, in the arcade. Um, it was, uh, public, it was done by Capcom. It came out,
+
+944
+01:26:31,520 --> 01:26:36,720
+actually, there were, there were various different releases of it. So the, um, the arcade release was
+
+945
+01:26:36,720 --> 01:26:45,520
+on, uh, in August, 1989. And then on the Super Nintendo, July 26th, uh, 1991 in Japan, September
+
+946
+01:26:45,520 --> 01:26:53,200
+91 in North America and December 92 in, uh, Europe. So it is a side scrolling shooter,
+
+947
+01:26:53,200 --> 01:27:00,160
+which was actually against kind of Capcom's established style because they, you know,
+
+948
+01:27:00,160 --> 01:27:06,720
+1942, 1943, the battle of Midway, they were, um, were vertical, uh, scrolling shooters. This was
+
+949
+01:27:06,720 --> 01:27:11,520
+a side scrolling shooter, but very similar to a lot of their other ones. Um, you start,
+
+950
+01:27:11,520 --> 01:27:17,120
+you have an energy bar that's consumed over the course of your single life when you sustain damage.
+
+951
+01:27:17,920 --> 01:27:24,240
+Um, now one of the things that, um, that it has is, um,
+
+952
+01:27:24,240 --> 01:27:30,640
+um, that, you know, a lot of the games are like, when you get hit, you, you know,
+
+953
+01:27:30,640 --> 01:27:38,320
+your ship blows up and a new ship blows in until you're out of lives. So before you enter a level,
+
+954
+01:27:38,320 --> 01:27:44,320
+you can also purchase special weapons, um, or defense in the shop. It was just funny, the shop,
+
+955
+01:27:44,320 --> 01:27:50,640
+you know, everybody in this game is from the manga or anime. Um, but you earn money to buy
+
+956
+01:27:50,640 --> 01:27:54,640
+your weapons by destroying enemy planes and vehicles during the level. And then when you're
+
+957
+01:27:54,640 --> 01:28:01,680
+finished, any unused weapons are converted back into money. So you can play as one of
+
+958
+01:28:01,680 --> 01:28:08,400
+three main characters. You have Shin Kazama, you have Mickey Simon and you have Greg Gates.
+
+959
+01:28:08,400 --> 01:28:14,560
+And each pilot has their own plane and their own specialty in the supernest version,
+
+960
+01:28:14,640 --> 01:28:20,560
+you can get a different range of planes. So you start off with 300, uh, with the,
+
+961
+01:28:20,560 --> 01:28:25,920
+sorry, $3,000 and the F8 Crusader, and you can buy other aircraft and weapon as you progress.
+
+962
+01:28:27,040 --> 01:28:33,200
+Um, and one of the things that was mentioned in the development of this game is that this is one
+
+963
+01:28:33,200 --> 01:28:40,400
+of the games that was a part of Capcom strategy to appeal to a wider audience by using characters
+
+964
+01:28:40,400 --> 01:28:45,760
+that were established in other media because they thought their own characters were too niche.
+
+965
+01:28:46,400 --> 01:28:54,400
+So, um, other games that were in this category was Willow, which I talked about in another session
+
+966
+01:28:54,400 --> 01:29:01,920
+and Destiny of an Emperor. Um, the area area 88 was, uh, ported to, um, super Nintendo,
+
+967
+01:29:02,160 --> 01:29:10,560
+super Famicom. Um, and then of course, retitled as UN squadron, um, in, uh, US and Europe. Um,
+
+968
+01:29:10,560 --> 01:29:17,760
+and the poster that was created for it, for the Western audiences was actually done by
+
+969
+01:29:17,760 --> 01:29:22,960
+an illustrator named Mark Erickson, who was also the illustrator of the Mega Man 2 and
+
+970
+01:29:22,960 --> 01:29:31,360
+Strider covers. Um, there was a version that was also for the Capcom power system changer.
+
+971
+01:29:31,360 --> 01:29:40,480
+It was planned, but it was never released. Um, in Japan, uh, Game Machine was, uh, the, uh,
+
+972
+01:29:40,480 --> 01:29:49,520
+sixth most successful, uh, arcade unit of 1989. Um, Famitsu gave it a 28 out of 40 for the
+
+973
+01:29:49,520 --> 01:29:57,040
+super Nintendo. IGN ranked, uh, the game as 37th on the top 100 super Nintendo games list,
+
+974
+01:29:57,040 --> 01:30:01,840
+which was the highest ranking side scrolling shooter on the list. And EGM gave this NES
+
+975
+01:30:01,840 --> 01:30:10,800
+version an A and picked it as the 12th greatest game available in 1991. So, I mean, this game,
+
+976
+01:30:10,800 --> 01:30:16,480
+it gets nuts as you go through it too. I mean, it's not, I would say one of the super easiest
+
+977
+01:30:16,480 --> 01:30:21,840
+games and I've seen people beat this on the hardest mode. So kudos to them. And then of
+
+978
+01:30:21,840 --> 01:30:28,480
+course there was, um, while there wasn't a true sequel, there was a spiritual successor called
+
+979
+01:30:28,480 --> 01:30:35,120
+Carrier Air Wing. And I may go over this game a little bit later. It came out in 1990 and it
+
+980
+01:30:35,120 --> 01:30:42,560
+was also, um, it was a CP, uh, system arcade, uh, machine that only had an arcade release.
+
+981
+01:30:43,280 --> 01:30:51,200
+But, um, but the thing that's notable more about Area 88 is because it's port to super Nintendo
+
+982
+01:30:52,560 --> 01:30:58,960
+really, I think boosted the knowledge of this game outside of Japan and really boosted its
+
+983
+01:30:58,960 --> 01:31:04,320
+popularity in general. It made it accessible to audiences that might not have seen it otherwise.
+
+984
+01:31:05,040 --> 01:31:14,880
+So, um, that is the classic game. It is UN squadron or, uh, area 88, which, um, has a cool
+
+985
+01:31:14,880 --> 01:31:21,040
+logo because it's a unicorn on fire. Great pick. Um, like I said, you know, before we went into the
+
+986
+01:31:21,040 --> 01:31:24,720
+game tonight, um, this is a game I remember playing a lot on the super Nintendo. I didn't
+
+987
+01:31:24,720 --> 01:31:30,160
+own it. I think I rented it at least three or four times. So, uh, cause I really enjoy this game. Um,
+
+988
+01:31:30,160 --> 01:31:35,920
+but, um, interesting about the review scores when you were going over that, how Famitsu, I mean,
+
+989
+01:31:35,920 --> 01:31:40,960
+I realized the Famitsu criteria, especially in the older days was really tough. Like, you know,
+
+990
+01:31:40,960 --> 01:31:46,960
+very few games used to get forties, fairly decent score for me too. I guess, but it just seems so
+
+991
+01:31:46,960 --> 01:31:52,240
+different than what the rest of the world. Then you talk about these U S based, uh, publications
+
+992
+01:31:52,240 --> 01:31:56,320
+are giving it much higher scores and putting it in their top games of the year. It just seems like
+
+993
+01:31:56,320 --> 01:32:01,520
+such a, like maybe this game wasn't as well, and correct me if I'm wrong, maybe this game just
+
+994
+01:32:01,520 --> 01:32:07,280
+wasn't as well received into culture in Japan, the way it was here, even though it was based off
+
+995
+01:32:07,280 --> 01:32:13,760
+a Japanese manga. It's really not a bad score for Famitsu. Yeah. For that era of Famitsu. It's really,
+
+996
+01:32:13,760 --> 01:32:20,000
+they are so stingy with good scores. I guess that's true. Yeah. Um, and you know,
+
+997
+01:32:20,000 --> 01:32:29,120
+keep in mind too, that, you know, this is a timeframe in Japan where, you know, we have so
+
+998
+01:32:29,120 --> 01:32:35,280
+many other, you know, a lot of the great shooters were actually on the mega drive and a PC engine.
+
+999
+01:32:35,840 --> 01:32:47,920
+Mm. So I mean, there was definitely better out, but you know, this game by no extension was a bad
+
+1000
+01:32:47,920 --> 01:32:54,160
+game. A 28, you know, keep in mind, this is 28 out of 40. So it's almost 30. I thought you said
+
+1001
+01:32:54,160 --> 01:32:59,840
+20. Oh, no, I said 28. Oh, okay. Well, 28 is a little better. Yeah. Oh God. I thought you
+
+1002
+01:32:59,840 --> 01:33:04,960
+said 20 and I was like, that's not a great score. All right. 28 would just be like average. Okay.
+
+1003
+01:33:04,960 --> 01:33:10,160
+28. Yeah. Okay. Okay. That's a little, that's a little more reasonable. Okay. Cool. Yeah. All
+
+1004
+01:33:10,160 --> 01:33:15,040
+right. There it is. Your classic game of the week. UN squadron area, area 88, depending on where you
+
+1005
+01:33:15,040 --> 01:33:22,560
+live. I think area 88 was a better name. Yeah. Well, I knew, I knew it was better. Yeah, true.
+
+1006
+01:33:22,560 --> 01:33:26,640
+There is that. I mean, not just, well, I mean, the unicorn was in both of them, but I think that the
+
+1007
+01:33:26,640 --> 01:33:35,120
+text, even like if you find the, the anime, the US releases, even the logo for area 88 in English
+
+1008
+01:33:35,120 --> 01:33:40,400
+looked better than the one for UN squadron. UN squadron was kind of dull. All right. Well,
+
+1009
+01:33:40,400 --> 01:33:46,240
+let's check out some other news going on in the gaming world with some rapid fire news. Um, let's
+
+1010
+01:33:46,240 --> 01:33:50,880
+go to, uh, why did I type games in the sidebar tonight on Twitch TV? It should be rapid fire
+
+1011
+01:33:50,880 --> 01:33:55,360
+news. That's all right. We'll talk about some games in rapid fire news. I guess that's what
+
+1012
+01:33:55,360 --> 01:34:00,720
+happens when I type too fast, rapid fire type the stuff up tonight. I mush words together.
+
+1013
+01:34:00,720 --> 01:34:07,600
+All right. Logie. All right. Um, so we've got some more announcements regarding fixes coming to
+
+1014
+01:34:08,240 --> 01:34:15,360
+cyberpunk 2077. So the next fix that they have planned is going to be fixing the cop AI, which
+
+1015
+01:34:16,080 --> 01:34:25,280
+it's severely needed and also the way the cars handle. So this is, um, patch 1.2 and they said
+
+1016
+01:34:25,280 --> 01:34:31,680
+fewer cops are going to randomly spawn directly behind you. The second you pull, you step out,
+
+1017
+01:34:31,680 --> 01:34:38,160
+um, they have adjustments for speed and steering, make driving easier and sensitivity slider
+
+1018
+01:34:38,160 --> 01:34:45,040
+tweaks. They cars control even better, even when the frame rate dips down the new unstuck feature
+
+1019
+01:34:45,040 --> 01:34:51,360
+that activates when you accelerate, but don't move because you're stuck on something and, uh,
+
+1020
+01:34:51,360 --> 01:34:58,160
+more options for the wise bindings on keyboard and option to turn off double tapping, um,
+
+1021
+01:34:58,160 --> 01:35:03,840
+the movement key to dodge. So, uh, that's supposed to be coming out here pretty soon,
+
+1022
+01:35:04,640 --> 01:35:09,520
+but they haven't really announced yet when it's going to be coming. At least we know what it's
+
+1023
+01:35:09,520 --> 01:35:16,480
+going to fix. And the copy, I mean, I've seen videos where they've spawned into walls and stuff
+
+1024
+01:35:16,480 --> 01:35:20,800
+or you're up on a top of a building and you shoot somebody and also there's a cop like right behind
+
+1025
+01:35:20,800 --> 01:35:27,600
+you. Like how, how did you get there? So, um, very cool to see that happening. Um, and then also
+
+1026
+01:35:28,800 --> 01:35:36,240
+game that I'm not too excited about, but it is, uh, something that was shown off during the,
+
+1027
+01:35:36,240 --> 01:35:42,320
+uh, you know, like kind of the E3 period last year. So Gotham Knights was the brand new
+
+1028
+01:35:42,320 --> 01:35:48,960
+Warner brothers Montreal game. Well, it's been delayed to 2022, which is not surprising because
+
+1029
+01:35:48,960 --> 01:35:56,560
+I know a lot of folks are, a lot of teams are behind with, um, just development because of
+
+1030
+01:35:56,560 --> 01:36:04,480
+COVID. And of course, you know, the trend nowadays thankfully has been to give the developers a little
+
+1031
+01:36:04,480 --> 01:36:11,360
+bit more time. So the game doesn't release as a buggy mess. So, um, yeah, glad to see that they're
+
+1032
+01:36:11,360 --> 01:36:16,960
+giving it more time before we get to dark soccer's rapid fire news. I'm, I'm giggling here because,
+
+1033
+01:36:17,440 --> 01:36:22,160
+we could hear Stella in the background or you're at Loki and dark soccer and chat,
+
+1034
+01:36:22,160 --> 01:36:25,040
+but hi smush. And I was like, Oh no, that's not smush. That's Stella.
+
+1035
+01:36:25,600 --> 01:36:30,960
+I should recognize the voice. She's across from, she's on the entire other side of the house.
+
+1036
+01:36:30,960 --> 01:36:34,480
+She's not even in the same room as I am in right now. That's how loud she is.
+
+1037
+01:36:34,480 --> 01:36:41,040
+But we have vaulted ceilings in there. No, we don't have vaulted ceilings. We just have a
+
+1038
+01:36:41,040 --> 01:36:45,760
+cheap house. I've got a vaulted ceiling in mine just because they didn't build a, you know,
+
+1039
+01:36:46,320 --> 01:36:50,800
+a ceiling. Yeah. It's a vaulted ceiling here too. Yeah. But, but, but what I was going to say is
+
+1040
+01:36:50,800 --> 01:36:57,760
+that smush walked in here after that, because I think he heard Stella because there's also the
+
+1041
+01:36:57,760 --> 01:37:01,680
+play through on the TV here. So I think here, cause I was like, well now smush is here cause
+
+1042
+01:37:01,680 --> 01:37:06,000
+he's meowing at something. He probably heard Stella. That's just cracking me up. So no,
+
+1043
+01:37:06,000 --> 01:37:11,840
+I think she's being kicked. See, she likes laying down in my oldest son's room and sleeps on his
+
+1044
+01:37:11,840 --> 01:37:16,320
+bed. And so since they're going to bed, she probably got kicked out of there. And so now
+
+1045
+01:37:16,320 --> 01:37:20,640
+she's screaming at everybody for attention. Oh no, smush is here because other daddy is
+
+1046
+01:37:20,640 --> 01:37:27,280
+feeding him right now. That's why smushes. Yes. See, I, I lock Midna out of this room and I wear
+
+1047
+01:37:27,280 --> 01:37:34,480
+headphones. So I wear headphones too, but this, this mic picks everything up. It's crazy. So,
+
+1048
+01:37:35,120 --> 01:37:42,400
+all right. Anyhow, uh, let's mail, mail, mail, mail. Yes. And now a lot of folks in our chat
+
+1049
+01:37:42,400 --> 01:37:49,200
+over twitch.tv slash VOG network are spanning the smush emote because Alan got a smush emote
+
+1050
+01:37:49,200 --> 01:37:54,960
+because he's allowed, he's also smushes dad. So, uh, he took a smush emote for his channel,
+
+1051
+01:37:54,960 --> 01:38:00,000
+which if you go to his channel, he always has a little, like instead of the NBC or CBS logo in
+
+1052
+01:38:00,000 --> 01:38:05,440
+the corner all the time, he has a smush logo in the corner all the time. So, uh, he, he took that
+
+1053
+01:38:05,440 --> 01:38:10,480
+emote, but people that are subbing to his channel are now spamming that emote here. So you might be
+
+1054
+01:38:10,480 --> 01:38:14,720
+wondering, is VOG network going to get a smush emote? I don't know. We might. I mean, it's not
+
+1055
+01:38:14,720 --> 01:38:21,600
+like we can't have more smush emotes. Um, but we maybe want a Midna emote or a Stella emote,
+
+1056
+01:38:21,600 --> 01:38:28,640
+and maybe that'll be a thing. So we'll see. All right. Dark Tetsuya says my wife's cat heard all
+
+1057
+01:38:28,640 --> 01:38:33,760
+the cat talk apparently. And then, uh, to which bonds double 06, uh, followed up with
+
+1058
+01:38:37,600 --> 01:38:42,880
+instead of ASMR, it's going to be cat talk. Ready? ASMR needs to go away forever.
+
+1059
+01:38:45,120 --> 01:38:48,800
+All right. Moving on, but cat talk, cat talk and stay, right?
+
+1060
+01:38:49,600 --> 01:38:54,160
+Cat talk stays forever. ASMR dies. It's so terrible. It makes me so uncomfortable.
+
+1061
+01:38:54,720 --> 01:38:58,080
+All right. Well, hopefully, uh, some rapid fire news won't make you uncomfortable.
+
+1062
+01:38:58,080 --> 01:39:00,160
+Stark soccer. What do you have for us in rapid fire news tonight?
+
+1063
+01:39:01,360 --> 01:39:07,440
+Well, um, super bomber man are, is going to be coming to PS4, Xbox one switch and PC is a free
+
+1064
+01:39:07,440 --> 01:39:12,960
+to play title. Um, the PC one will be through steam. Um, and of course it was first announced
+
+1065
+01:39:12,960 --> 01:39:19,200
+for Stadia, um, September, 2020. So now we're getting it everywhere else because Stadia is
+
+1066
+01:39:19,200 --> 01:39:27,120
+dying, I think. And then technically no, but realistically, yeah.
+
+1067
+01:39:28,080 --> 01:39:32,720
+Realistically it's looking like Deadpool right about now. Um, anyway, and then, uh,
+
+1068
+01:39:33,440 --> 01:39:40,480
+there is a new owner for Toys R Us and they plan on reopening stores. Um, the quote says we're
+
+1069
+01:39:40,480 --> 01:39:45,600
+coming off a year where toys are on fire and for Toys R Us, the U S is really a blank canvas.
+
+1070
+01:39:46,320 --> 01:39:54,640
+So, uh, they've actually tried a couple of pop-up locations, um, that closed due to poor traffic.
+
+1071
+01:39:54,640 --> 01:40:01,600
+Um, you know, that just had to do from COVID, but, um, they are looking like they're coming
+
+1072
+01:40:01,600 --> 01:40:05,040
+back and meeting that's purchased on the Toys R Us website right now, those still being routed
+
+1073
+01:40:05,040 --> 01:40:10,640
+through Amazon, just saying so cool. We can still be Toys R Us kidlets.
+
+1074
+01:40:13,280 --> 01:40:18,640
+That'll be nice to go to stores again, to go to the mall again. I mean, I guess technically
+
+1075
+01:40:18,640 --> 01:40:22,800
+I could go now, but I just haven't really, I haven't really had the desire to go to, uh, you
+
+1076
+01:40:22,800 --> 01:40:29,840
+know, uh, bed bath and beyond that strongly, you know, to brave them all. So, but now, now that the
+
+1077
+01:40:29,840 --> 01:40:34,000
+jabs are here, I'm feeling a little better. I'll feel a lot better in about a month.
+
+1078
+01:40:35,040 --> 01:40:42,160
+I am not going until that two weeks after I've had my shot. Yeah. I'm then I'm going to fucking San
+
+1079
+01:40:42,160 --> 01:40:47,520
+Francisco. I know I'm trying to be a good boy too. And, uh, wait, but I'm, I'm, uh, very happy
+
+1080
+01:40:47,520 --> 01:40:51,760
+thinking ahead to may, you know, even if we can't have the big conventions yet, we don't know. We
+
+1081
+01:40:51,760 --> 01:40:56,320
+don't know the status of some of these. The nice thing will be, is that like, I can go see a movie
+
+1082
+01:40:56,960 --> 01:41:02,480
+and not feel like it's going to be, you know, a horrific experience. It'll be nice to have some
+
+1083
+01:41:02,480 --> 01:41:09,600
+normal things back. Uh, COVID living hasn't been any different. Well, except working from home and,
+
+1084
+01:41:09,600 --> 01:41:14,560
+and having to leave the house even less for me, it's been very different. So, all right. Anyhow,
+
+1085
+01:41:14,560 --> 01:41:19,360
+let's travel around the world and check out some release dates. Uh, let's start with Loki. What
+
+1086
+01:41:19,360 --> 01:41:24,320
+video games are coming out in the U S this week? Uh, we've got vaporium lockdown on
+
+1087
+01:41:24,320 --> 01:41:30,240
+Nintendo switch, overcooked all you can eat on PC, Nintendo switch PlayStation four and Xbox one
+
+1088
+01:41:30,880 --> 01:41:38,320
+Puyo Puyo Tetris two on PC story of seasons pioneers of all of town on Nintendo switch
+
+1089
+01:41:39,200 --> 01:41:47,120
+paradise lost on PC and a PlayStation four and Xbox one, uh, love live school idol festival
+
+1090
+01:41:47,120 --> 01:41:53,920
+afterschool activity. Why, why home meeting? Why is that a name? Uh, that's on PlayStation four,
+
+1091
+01:41:53,920 --> 01:42:00,960
+believe it or not a rhythm game from Square Enix, uh, tales from the borderlands on Nintendo switch
+
+1092
+01:42:01,920 --> 01:42:06,400
+black legend on PC, Nintendo switch PlayStation four PlayStation five,
+
+1093
+01:42:06,400 --> 01:42:13,920
+Xbox one and Xbox series X evil inside on PC, Nintendo switch PlayStation four PlayStation five
+
+1094
+01:42:13,920 --> 01:42:23,120
+Xbox one and Xbox series X, uh, dandy ACE on PC. We've got dark complete edition on PlayStation
+
+1095
+01:42:23,120 --> 01:42:33,520
+five and Xbox series X Yakuza six, the song of life on PC and Xbox one, uh, ballon wonderland
+
+1096
+01:42:33,520 --> 01:42:39,120
+on PC, Nintendo switch PlayStation four PlayStation five, Xbox one and Xbox series X
+
+1097
+01:42:39,120 --> 01:42:47,600
+crash bandicoot. It's about time on PC. It takes two on PC PlayStation four PlayStation five Xbox
+
+1098
+01:42:47,600 --> 01:42:56,480
+one Xbox series X monster Hunter rise on intended switch subverse on PC, Tony Hawk's pro skater one
+
+1099
+01:42:56,480 --> 01:43:04,880
+and two on PlayStation five and Xbox series X. And finally record of lotus wars deed it in wonder
+
+1100
+01:43:05,200 --> 01:43:11,600
+in wonder labyrinth. I bought that game and that's on PC. I need to play that game. I love
+
+1101
+01:43:11,600 --> 01:43:17,200
+load us where I even have, uh, the first book. All right. Traveling to Japan and checking out
+
+1102
+01:43:17,200 --> 01:43:22,880
+the releases there on the Nintendo switch. We have a game, uh, called memories off Historia.
+
+1103
+01:43:22,880 --> 01:43:26,880
+That's not, uh, it's off, uh, volume one and volume two. And then there's a limited edition.
+
+1104
+01:43:26,880 --> 01:43:31,760
+I imagine that's kind of a bundle of both of them, uh, coming out on the switch this week. Also the
+
+1105
+01:43:31,760 --> 01:43:36,880
+house in Fata Morgana dreams of the revenants edition comes out on the switch this week as
+
+1106
+01:43:36,880 --> 01:43:43,760
+well. AI kiss two in regular and limited edition and a sea of saltitude. The director's cut comes
+
+1107
+01:43:43,760 --> 01:43:50,800
+out in Japan as well. A busy week in Japan, my heavens, uh, a clockwork lay line, uh, Kageiro
+
+1108
+01:43:50,800 --> 01:43:56,880
+no Samayo Majo comes out this week and the quintessential quintuplets summer memories also
+
+1109
+01:43:56,880 --> 01:44:02,960
+come in five. That is the name of the game comes out this week. Uh, SD Gundam G generation Genesis
+
+1110
+01:44:02,960 --> 01:44:09,200
+for Nintendo switch also out this week, busy week. And there's lastly a game called lover pretend,
+
+1111
+01:44:09,200 --> 01:44:13,680
+which I thought was kind of an interesting name. I was like lover pretend. Is that like a one night
+
+1112
+01:44:13,680 --> 01:44:17,760
+lover? Like what is that? Uh, but it turns out it looks like it's based on a manga as you know,
+
+1113
+01:44:17,760 --> 01:44:22,320
+some of these games are, uh, often, uh, doing that. And I was kind of like reading up on what
+
+1114
+01:44:22,320 --> 01:44:27,280
+this is and I guess it's about a main character and, uh, she is studying for university and
+
+1115
+01:44:27,280 --> 01:44:33,600
+doing part-time work and she wants to become a script writer, uh, which was also her mom's dream.
+
+1116
+01:44:33,600 --> 01:44:40,240
+And then she wants to find her father who she never met. So she goes to talk to people that
+
+1117
+01:44:40,240 --> 01:44:51,280
+were involved in the drama and as such becomes cast in the, the drama itself as the love interest.
+
+1118
+01:44:51,280 --> 01:44:56,560
+So it's a fake. So lover pretend is because she's the fake love interest in the, I don't know.
+
+1119
+01:44:56,560 --> 01:45:00,240
+I was like, this is some drama for a Nintendo switch game. This is some drama
+
+1120
+01:45:01,280 --> 01:45:07,600
+anyway, uh, on the PlayStation five this week, uh, ballon wonderland. And that's really about it.
+
+1121
+01:45:07,600 --> 01:45:12,240
+It's a much slower week in the PlayStation universe. All right. Uh, let's move on dark
+
+1122
+01:45:12,240 --> 01:45:18,080
+soccer. How about the UK? Just a little bit. We have, um, uh, uh, basically all of this is
+
+1123
+01:45:18,080 --> 01:45:23,840
+on the 26th. We have over overcooked, all you can eat, uh, samurai showdown. Oh wait,
+
+1124
+01:45:23,840 --> 01:45:29,600
+that's the 23rd. Sorry. The 25th we have hunting simulator to tennis world tour to, um,
+
+1125
+01:45:30,480 --> 01:45:37,520
+monster truck championship. Um, on the 26th, we have, uh, the monster Hunter, uh,
+
+1126
+01:45:37,520 --> 01:45:44,160
+Nintendo switch edition plus the pro controller, um, hot shot racing. We have a story of seasons,
+
+1127
+01:45:44,160 --> 01:45:51,200
+pioneers of all of town. We have monster Hunter rise ballon, wonder world space-based star topia.
+
+1128
+01:45:51,200 --> 01:45:57,200
+That's just a cool sounding name. Isn't it? And it takes two. All right. Pretty busy week for games,
+
+1129
+01:45:57,200 --> 01:46:01,120
+all things considered all around the world. All right. We have some more news stories for you
+
+1130
+01:46:01,120 --> 01:46:05,680
+guys, and then we're going to take more of your comments and questions and discussion items,
+
+1131
+01:46:05,680 --> 01:46:10,160
+um, in our listener round table segment. So, um, joining the fun over at twitch.tv slash
+
+1132
+01:46:10,160 --> 01:46:14,800
+VOG network, or you can always send the show an email participate at orange lounge radio.com.
+
+1133
+01:46:14,800 --> 01:46:19,040
+I think we have a couple of those tonight, but we'll get to those later for now. We have some
+
+1134
+01:46:19,040 --> 01:46:26,080
+news Loki. Yeah. So Google has announced that they're going to be dropping the service fees
+
+1135
+01:46:26,640 --> 01:46:32,960
+on the first million that developers make off of their apps on the Google play store,
+
+1136
+01:46:33,760 --> 01:46:41,200
+from 15% to 30 or from 30 to 15%. So that's going to start July 1st. And that's for the
+
+1137
+01:46:41,200 --> 01:46:45,840
+first million dollars that they make on their app. Um, they said that of course,
+
+1138
+01:46:45,840 --> 01:46:50,560
+that's helping developers build sustainable business is part of the core part of Google
+
+1139
+01:46:50,560 --> 01:46:54,960
+plays mission. We're working with partners every day to understand their challenges that they face
+
+1140
+01:46:54,960 --> 01:47:00,400
+and bring them innovative ideas. Um, I think this probably is directly related to the whole
+
+1141
+01:47:00,400 --> 01:47:07,360
+Epic games, uh, lawsuit thing that they had with Google play and over the app store
+
+1142
+01:47:07,360 --> 01:47:13,920
+on the Apple side of things. Um, I mean, it's a good move that they are dropping that fee down,
+
+1143
+01:47:13,920 --> 01:47:19,040
+but I have a feeling it's somewhat related to that. So I guess we'll see what, what happens
+
+1144
+01:47:19,040 --> 01:47:24,320
+with this. Well, it's also kind of reminiscent of what, um, some of the stores on PC have been
+
+1145
+01:47:24,320 --> 01:47:30,480
+doing, right? Cause, uh, didn't Epic games start a thing there that kind of had waves where, you
+
+1146
+01:47:30,480 --> 01:47:34,800
+know, folks are taking smaller cuts, at least for that first little chunk of money. Well, yeah,
+
+1147
+01:47:34,800 --> 01:47:41,200
+Epic games had always had like smaller fees. Um, I think, you know, steam was still the one that
+
+1148
+01:47:41,200 --> 01:47:47,440
+was kind of like, you know, uh, charging more. I want to say though that steam has a deal in place
+
+1149
+01:47:47,440 --> 01:47:52,400
+too for certain things, but I can't remember the details on that. And I want to say that was
+
+1150
+01:47:52,400 --> 01:47:56,720
+something more for like almost larger developers, like after a certain period of time, they'd take
+
+1151
+01:47:56,720 --> 01:48:02,480
+less, but I don't remember. It's been a while, but yeah, I'm sure this is directly related to
+
+1152
+01:48:02,480 --> 01:48:09,440
+their lawsuits. Hmm. We'll have to see what develops with the lawsuits. All right, moving on.
+
+1153
+01:48:09,440 --> 01:48:15,760
+So whereas there's a smaller cut from Google there, uh, if you are a G force now, uh, person,
+
+1154
+01:48:15,760 --> 01:48:18,880
+there's going to be a larger cut in the future. Well, actually, no, not if you're, if you're
+
+1155
+01:48:18,880 --> 01:48:23,040
+using it today, nothing's going to change for you. But if you were thinking about getting on
+
+1156
+01:48:23,040 --> 01:48:28,000
+G force now, uh, it's going to cost you a little more money at this point. So here's what happened.
+
+1157
+01:48:28,000 --> 01:48:34,160
+Uh, Nvidia doubled the price of G force now up to $10 a month. So it was $5 a month before
+
+1158
+01:48:34,160 --> 01:48:38,320
+now it's $10 a month. Uh, if you want an annual plan, it's going to be a hundred dollars a year.
+
+1159
+01:48:38,320 --> 01:48:43,200
+The good news is though, if you are already subscribing to this, you're now locked into
+
+1160
+01:48:43,200 --> 01:48:48,400
+the founder's plan, all the same perks as priority, only $5 a month. So that's pretty
+
+1161
+01:48:48,400 --> 01:48:53,680
+cool. I wish Netflix would do that. Uh, instead of the price going up every, every couple months,
+
+1162
+01:48:53,680 --> 01:48:58,880
+um, you're locked in at $5, essentially for life, as long as you don't cancel,
+
+1163
+01:48:58,880 --> 01:49:02,320
+pause, you know, as long as your subscription stays in good standing, you're locked in at that
+
+1164
+01:49:02,320 --> 01:49:07,680
+$5 rate. So, um, that's pretty cool. But yeah, if you've been waiting to get in on G force now,
+
+1165
+01:49:07,680 --> 01:49:13,040
+whoops, you waited too long. Now it's going to cost $10 a month. Um, Nvidia, uh, in an interview
+
+1166
+01:49:13,040 --> 01:49:18,480
+with a games beat, uh, was talking about the $10 a month is the target price. They were really
+
+1167
+01:49:18,480 --> 01:49:22,560
+wanting to go for this whole time. They were subsidizing the cost to make the service more
+
+1168
+01:49:22,560 --> 01:49:26,960
+appealing. If you haven't used G force now, it kind of came around at the same time as say
+
+1169
+01:49:26,960 --> 01:49:32,000
+things like stadia. And it's somewhat the same concept. It's cloud gaming. However,
+
+1170
+01:49:32,000 --> 01:49:37,920
+uh, it's cloud gaming based on titles you already own. So if you bought a game on steam,
+
+1171
+01:49:37,920 --> 01:49:44,720
+you can essentially play that game in the cloud with a G force. Now, if the studio has allowed
+
+1172
+01:49:44,720 --> 01:49:49,440
+it, because this, uh, service was in the news a lot in the early days, because they put a lot
+
+1173
+01:49:49,440 --> 01:49:55,120
+of games on it that, uh, developers didn't want it on it because they saw it as kind of infringing
+
+1174
+01:49:55,120 --> 01:50:00,080
+on their rights and the money that they're entitled to. So only so many games have really
+
+1175
+01:50:00,080 --> 01:50:04,800
+allowed themselves to be on this platform. Um, I know I've, I've played because they have a free
+
+1176
+01:50:04,800 --> 01:50:08,720
+version. If you want to try it, you're limited to like an hour and you have to wait a little
+
+1177
+01:50:08,720 --> 01:50:12,800
+bit, a couple of minutes to get into your game session. But I played around with no man's sky,
+
+1178
+01:50:12,800 --> 01:50:17,840
+of course, love that game. I played around with that in the G force now. And it was, uh, it was,
+
+1179
+01:50:17,840 --> 01:50:24,320
+you know, it was similar to stadia, you know, uh, it was like I was playing a YouTube live. Um,
+
+1180
+01:50:24,320 --> 01:50:29,120
+but, uh, it's nice for especially computers that maybe are having a hard time, uh, struggling with
+
+1181
+01:50:29,120 --> 01:50:35,200
+a game that you bought that really demands high-end hardware there. So also an update,
+
+1182
+01:50:35,200 --> 01:50:40,000
+apparently coming out to G force now, um, that will, uh, improve streaming quality through an
+
+1183
+01:50:40,000 --> 01:50:46,560
+adaptive V sync technology. This will sync frame rates at either 60 Hertz or 59.94 Hertz on the
+
+1184
+01:50:46,560 --> 01:50:50,720
+server side to match how the games are displayed in the client that they are looking to cut down
+
+1185
+01:50:50,720 --> 01:50:56,960
+stutter and latency with this. So that's kind of interesting. Um, I'm curious, especially for the
+
+1186
+01:50:56,960 --> 01:51:02,800
+chat, what do you all think about this G force now? Do any of you use it? Do any of you find
+
+1187
+01:51:02,800 --> 01:51:07,520
+it to be the preferable alternative to stadia? I do like that. Essentially, if you buy a game,
+
+1188
+01:51:08,400 --> 01:51:14,320
+you have it on both services. Now it's the whole, you got to pony up money to use somebody else's
+
+1189
+01:51:14,320 --> 01:51:20,080
+computer, but I suppose that's not much different than say using a VPN or something like that.
+
+1190
+01:51:20,080 --> 01:51:23,760
+So I don't know, Loki, any interest from you for, uh, G force now?
+
+1191
+01:51:24,960 --> 01:51:31,520
+No, not really. Cause I'm not going to stream more games considering that, uh, I have so many
+
+1192
+01:51:31,520 --> 01:51:37,600
+of my games already that I don't play. So I just don't have a real need to stream stuff with G
+
+1193
+01:51:37,600 --> 01:51:43,360
+force. Now I'll just install them and play them if I need to. But yeah, probably not.
+
+1194
+01:51:44,160 --> 01:51:50,720
+Ice P in chat says G force now. I'm sorry. It's ice P one in chat says G force. Now I can't take
+
+1195
+01:51:50,720 --> 01:51:54,880
+the latency. I don't remember having latency issues. I'll have to try it again. To be fair.
+
+1196
+01:51:54,880 --> 01:51:58,720
+I played it like months ago and it was first in the headlines. I never bothered paying for it.
+
+1197
+01:51:58,720 --> 01:52:02,720
+I just played the free version just because I was curious, wanting to check it out. Um,
+
+1198
+01:52:02,720 --> 01:52:08,400
+tiger law does say you need good internet for G force now, however. Um, and, uh,
+
+1199
+01:52:08,480 --> 01:52:13,360
+as a 200, Matt says, how about getting one of those G force RTX cards?
+
+1200
+01:52:13,360 --> 01:52:19,840
+Now talk about things. You're just going to give up on buying until it's actually on the store
+
+1201
+01:52:19,840 --> 01:52:25,600
+shell for those high-end graphics cards. My God, that's a whole other, I'm scared for the day.
+
+1202
+01:52:25,600 --> 01:52:29,760
+I finally need to update my graphics card cause games won't run on my PC anymore. I might have
+
+1203
+01:52:29,760 --> 01:52:33,520
+to use cloud gaming cause I'm not going to be able to find a fucking graphics card because people
+
+1204
+01:52:33,520 --> 01:52:40,880
+need their doge coin, I guess. Ugh. All right. Anyhow, hopefully the pandemic will solve some,
+
+1205
+01:52:40,880 --> 01:52:46,160
+one or sorry, is the pandemic being over or I shouldn't say over, but, um, behind us,
+
+1206
+01:52:46,160 --> 01:52:51,440
+let's say, uh, will be, uh, help some of these issues, but we'll see. Moving on.
+
+1207
+01:52:51,440 --> 01:52:54,160
+How about a subject that I know dark saga is very interested in.
+
+1208
+01:52:55,120 --> 01:53:02,400
+Yay. Dragon age. Um, so, uh, BioWare, um, you know, basically threw us a bone,
+
+1209
+01:53:02,400 --> 01:53:08,520
+all of us who have been waiting for dragon age four. We hadn't had any news in a while. Um,
+
+1210
+01:53:10,160 --> 01:53:15,600
+so it is going, you know, they did, uh, basically have a report that they're going to be dropping
+
+1211
+01:53:15,600 --> 01:53:19,360
+all of the multiplayer features that they were going to put in it just to keep it as a single
+
+1212
+01:53:19,360 --> 01:53:29,040
+player RPG. Um, but they did release some concept art, um, for, it looks like a, a mage character.
+
+1213
+01:53:29,040 --> 01:53:34,000
+Um, really cool looking. I like the, the style of it. I've always actually liked the,
+
+1214
+01:53:35,120 --> 01:53:40,560
+ever since dragon age two, I think that they've really found their styles for the various parts,
+
+1215
+01:53:40,560 --> 01:53:48,560
+you know, areas in, in their world. Um, but yeah, they put this Twitter up and saying that
+
+1216
+01:53:48,560 --> 01:53:52,880
+we could use a little pick me up. So it was awfully nice of them. And of course, uh,
+
+1217
+01:53:53,840 --> 01:54:00,720
+we're not going to really get the game until probably, uh, April, 2022. So it'll be next
+
+1218
+01:54:00,720 --> 01:54:06,080
+year's birthday present, but Hey, at least you have that mass effect trilogy coming up.
+
+1219
+01:54:07,120 --> 01:54:12,240
+I got to decide if, if, if they don't do a Mac version, then I got to get a new card for
+
+1220
+01:54:12,240 --> 01:54:19,600
+my, my poor dying PC. So we'll see no interest in trying console just to kind of bridge it.
+
+1221
+01:54:19,600 --> 01:54:26,160
+I thought I'd try. I'm going to, I'm going to get it for my series X,
+
+1222
+01:54:26,160 --> 01:54:32,000
+but I played the series the first time. What I mod. Oh yeah. There is that true, true.
+
+1223
+01:54:32,960 --> 01:54:38,080
+All right. Yeah. Let's move on to, uh, games in the future. We might be able to mod Loki.
+
+1224
+01:54:39,040 --> 01:54:45,600
+Well, uh, Jade Raymond has announced that she is going to be formatting or forming a new,
+
+1225
+01:54:46,240 --> 01:54:52,240
+uh, independent studio called Haven. And that they're going to be working on a brand new IP
+
+1226
+01:54:52,240 --> 01:55:00,720
+developed for PlayStation better luck. Wasn't she in the news like two weeks ago for leaving stadia?
+
+1227
+01:55:01,840 --> 01:55:10,000
+Yeah. So, well, first party development. So, uh, she says, I'm proud to, uh, proud of the
+
+1228
+01:55:10,000 --> 01:55:15,760
+team we built at stadia, um, games, entertainment, and the ground breaking work on exclusive games
+
+1229
+01:55:15,760 --> 01:55:20,000
+for that platform. It was difficult decision to take a new opportunity and I will be forever
+
+1230
+01:55:20,000 --> 01:55:27,440
+grateful for this team for everything we learned at chief together, Google. Yeah. She didn't put
+
+1231
+01:55:27,440 --> 01:55:33,920
+that in there, but, um, but yeah, so they're apparently, uh, I mean, working on new IP,
+
+1232
+01:55:33,920 --> 01:55:40,640
+so we'll have to see what that is, but that sounds pretty exciting. Yeah. Like I said,
+
+1233
+01:55:40,640 --> 01:55:45,120
+good for her. And I liked the fact that it's an original IP. And so it's something that Sony's
+
+1234
+01:55:45,120 --> 01:55:50,240
+trying to use to kind of add to their side of things. So, um, we'll have to see what they come
+
+1235
+01:55:50,240 --> 01:55:55,200
+up with. Obviously this is, this ain't something you're going to be playing until like 2024.
+
+1236
+01:55:56,000 --> 01:56:01,920
+It's just going to be a ways out, but, um, it's, it's, it's in progress, I guess. All right.
+
+1237
+01:56:01,920 --> 01:56:08,720
+That'd be interesting. Well, if you want to play some games a lot sooner on the PlayStation, uh,
+
+1238
+01:56:08,720 --> 01:56:15,120
+boy, oh boy, they're coming through with 10 free games. That's right. Not, not PlayStation plus
+
+1239
+01:56:15,120 --> 01:56:20,240
+games. Those are still a thing that happened every month, but this is under the, um, uh,
+
+1240
+01:56:21,040 --> 01:56:27,040
+PlayStation play at home promo, uh, is that they're actually giving away 10 free games. However,
+
+1241
+01:56:27,040 --> 01:56:31,360
+you only have about a month to grab them. So from March 25th at eight in the evening,
+
+1242
+01:56:31,360 --> 01:56:35,920
+and I wouldn't try to grab it right when they go live, till April 22nd at eight in the evening,
+
+1243
+01:56:35,920 --> 01:56:42,960
+you can grab Abzu, Enter the Gungeon, Rez Infinite, Subnautica, The Witness,
+
+1244
+01:56:43,600 --> 01:56:51,360
+Astro Bot Rescue Mission, Moss, Thumper, and Paper Beast, all for free. It should be pointed out,
+
+1245
+01:56:51,360 --> 01:56:57,600
+the Astro Bot Rescue Mission, Moss, and Paper Beast. Those are PlayStation VR titles. Otherwise
+
+1246
+01:56:57,600 --> 01:57:03,040
+two of them are VR optional titles. The music games are as infinite and thumper. Um, but still,
+
+1247
+01:57:03,040 --> 01:57:08,560
+uh, yeah, that's pretty amazing. Now I only named nine games. That's because the 10th game,
+
+1248
+01:57:08,560 --> 01:57:15,600
+Horizon Zero Dawn, the complete edition will be free from April 19th until May 14th. That's my
+
+1249
+01:57:15,600 --> 01:57:21,360
+birthday. So that will happy birthday. Here's a free game. Um, right now for some people, I mean,
+
+1250
+01:57:21,360 --> 01:57:29,600
+it's, it's, I gotta say, if you're on PlayStation Plus, I think at least one, two, three, four of
+
+1251
+01:57:29,600 --> 01:57:37,200
+these have been PlayStation Plus titles in the past. However, um, free is free. Uh, and that is
+
+1252
+01:57:37,200 --> 01:57:42,080
+sometimes the price you pay of being an early adopter, right? You buy Final Fantasy 7 remake
+
+1253
+01:57:42,080 --> 01:57:46,640
+for 60 bucks and then a year later they're giving it away, but they, they have some nice perks for
+
+1254
+01:57:46,960 --> 01:57:51,600
+the folks that were in there originally. And I bet, well, I was going to say, I bet with
+
+1255
+01:57:51,600 --> 01:57:55,440
+Horizon Zero Dawn, they're not giving away the DLC, but then it's staring me right there in the
+
+1256
+01:57:55,440 --> 01:58:00,720
+face. Complete edition. So how about that? But of course, they're trying to stir up a lot of buzz
+
+1257
+01:58:00,720 --> 01:58:07,600
+for the sequel. I'm sure. Ain't nothing real free in this world. Anyway, uh, this is Play at Home
+
+1258
+01:58:07,600 --> 01:58:13,680
+2021. There is also a 90 day trial that is an extended trial for Funimation. If you're, uh,
+
+1259
+01:58:13,680 --> 01:58:18,800
+wanting to get in on that, you have from March 25th to April 22nd to get in on that.
+
+1260
+01:58:18,800 --> 01:58:23,360
+So again, you do not need PlayStation Plus for these free games. This is outside of that.
+
+1261
+01:58:23,360 --> 01:58:29,680
+All you need is a PlayStation device to play them on. And I would imagine a PS5 would work for all
+
+1262
+01:58:29,680 --> 01:58:35,120
+these PS4 games with your backwards compatibility. Uh, just the VR titles, you know, unless you have
+
+1263
+01:58:35,120 --> 01:58:39,920
+that adapter are going to be a little, little trickier, but pretty cool. Uh, anything in that
+
+1264
+01:58:39,920 --> 01:58:45,760
+list you guys are going to be grabbing? I'll grab everything. I haven't, I don't think I've
+
+1265
+01:58:45,760 --> 01:58:51,120
+Astrobot yet, but yeah, I was gonna say I have everything except the VR only titles. So the
+
+1266
+01:58:51,120 --> 01:58:55,200
+Astrobot and Moss are like the only things that I literally have every other game that they're
+
+1267
+01:58:55,200 --> 01:59:00,480
+giving away, but I'm not mad because I realized for other people, it's going to be a chance that,
+
+1268
+01:59:00,480 --> 01:59:05,760
+you know, they're getting to play the games for the first time. So pretty cool. Uh, good point
+
+1269
+01:59:05,760 --> 01:59:12,400
+from bonds, double 06. I have four of those games in Epic platform. So on PC and the Epic store,
+
+1270
+01:59:12,400 --> 01:59:16,880
+sometimes they do giveaways and some of those games will actually a lot like every week. So
+
+1271
+01:59:16,880 --> 01:59:21,200
+some of those games have been in the Epic, uh, free stuff too. Uh, and pixel pockets is
+
+1272
+01:59:21,200 --> 01:59:25,120
+recommending Moss. It's a great game. Highly recommended if you have PlayStation VR. Yeah.
+
+1273
+01:59:25,120 --> 01:59:29,600
+I've heard of that one before. And I, you know, a lot of times with these games, there's probably
+
+1274
+01:59:29,600 --> 01:59:34,560
+a reason they're giving them away too, is that they really kind of show off the platform. Um,
+
+1275
+01:59:34,560 --> 01:59:39,760
+and it's, you know, especially with a lot of the rabble rabble in the last week being game pass,
+
+1276
+01:59:39,760 --> 01:59:44,800
+game pass, game pass. Maybe this isn't Sony's answer to game pass, but this is definitely
+
+1277
+01:59:44,800 --> 01:59:50,320
+Sony's like, here's how we treat our PlayStation crowd. You know, here's just 10 free games on the
+
+1278
+01:59:50,320 --> 01:59:56,640
+house. Enjoy. So something for everyone. It's interesting. All right. I thought, I thought
+
+1279
+01:59:56,640 --> 02:00:02,560
+free games was a nice thing to end things on tonight. All right. Uh, let's get into the Lister
+
+1280
+02:00:02,560 --> 02:00:08,640
+round table every week. We invite you guys to, um, add things to the show, uh, whether it be in
+
+1281
+02:00:08,640 --> 02:00:14,240
+our chat room or through our mailbag participate at orange lounge radio.com. And I think dark
+
+1282
+02:00:14,240 --> 02:00:22,080
+Sakura is going to open up the mailbag right now. Yep. We, um, we have two emails, so I'll go ahead
+
+1283
+02:00:22,080 --> 02:00:27,680
+and read the first. Um, this one comes from Ranma greetings, everyone. I hope that everyone had a
+
+1284
+02:00:27,680 --> 02:00:31,920
+great week, Rob, and the last couple of episodes, you mentioned a couple of things I wanted to
+
+1285
+02:00:31,920 --> 02:00:36,720
+discuss when you mentioned how conventions are going virtual with events and panels,
+
+1286
+02:00:36,720 --> 02:00:40,880
+and that when we return to some sense of normalcy, that streaming will still be a part of the
+
+1287
+02:00:40,880 --> 02:00:46,160
+convention. That is something that I wish for as well. The problem is most hotels and convention
+
+1288
+02:00:46,160 --> 02:00:50,480
+centers may not have the bandwidth for it from working with other Twitch streamers,
+
+1289
+02:00:50,480 --> 02:00:56,960
+having a connection up to 10 megs up and down is perfect for a 10 ADP stream. Most hotels and
+
+1290
+02:00:56,960 --> 02:01:02,160
+convention centers will have a two megabit connection. If that I can vouch for this and
+
+1291
+02:01:02,160 --> 02:01:06,400
+they charge an arm and a leg for higher speed connections. If it is available because of that,
+
+1292
+02:01:06,400 --> 02:01:11,040
+I have a feeling that the conventions will drop that and rely on recording panels and events to
+
+1293
+02:01:11,040 --> 02:01:18,320
+post on their YouTube page at a later date. On top of that, uh, these conventions would need to set
+
+1294
+02:01:18,320 --> 02:01:23,600
+up cameras and streaming equipment in each room. Some conventions may have the finances to do this.
+
+1295
+02:01:23,600 --> 02:01:29,760
+Others may not be so lucky, but I am one of the few geek media outlets that have come prepared
+
+1296
+02:01:29,760 --> 02:01:35,040
+and will help to the best of my abilities. So let's hope, I think it means that this can be
+
+1297
+02:01:35,040 --> 02:01:39,920
+a part of the new norm. You're at home dude. Um, uh, I also think when it comes to like the
+
+1298
+02:01:39,920 --> 02:01:46,080
+hotel thing and their shitty internet as the joke, this is going to be something that I think is
+
+1299
+02:01:46,080 --> 02:01:51,440
+going to be like the convention centers of, of the world and the hotels. This is something that
+
+1300
+02:01:51,440 --> 02:01:55,680
+they're going to need to up their game on because if they see this coming where there's going to be
+
+1301
+02:01:55,680 --> 02:02:00,720
+more of a demand for virtual events, then they need to stop being the laughing stock of internet.
+
+1302
+02:02:00,720 --> 02:02:06,960
+And I understand a convention with thousands of nerds places a huge demand on bad bandwidth.
+
+1303
+02:02:06,960 --> 02:02:12,240
+It's very challenging to me. I get that. But I think this is a challenge that the hotel and
+
+1304
+02:02:12,240 --> 02:02:16,880
+the convention center industry kind of needs to meet in that new normal. I think if we're talking
+
+1305
+02:02:16,880 --> 02:02:24,240
+about the, the industry is changing, then all parts of that industry, not just the convention
+
+1306
+02:02:24,240 --> 02:02:28,880
+itself, but the venues that are charging the conventions money to host them are going to
+
+1307
+02:02:28,880 --> 02:02:32,800
+have to change. If I were going to put on a convention and I knew this place had shitty
+
+1308
+02:02:32,800 --> 02:02:36,480
+internet and this place had decent internet, I'd want to go to the place of decent internet.
+
+1309
+02:02:36,480 --> 02:02:41,840
+So I think this is something we might see. Maybe that reputation may evolve a little bit, but again,
+
+1310
+02:02:42,800 --> 02:02:48,960
+it's, it's tough for these hotels and stuff because they're just not prepared for a convention
+
+1311
+02:02:48,960 --> 02:02:54,960
+that draws thousands of nerds when most of the year they don't have those types of conventions.
+
+1312
+02:02:54,960 --> 02:02:58,560
+So it'll be, it'll, it'll really, I mean, when we're talking about the convention scene,
+
+1313
+02:02:58,560 --> 02:03:05,280
+we have to talk about business conventions, you know, conventions about bridal expos and car
+
+1314
+02:03:05,280 --> 02:03:11,120
+shows that also, if they're not evolving to some more virtual stuff, then these venues are not
+
+1315
+02:03:11,120 --> 02:03:15,360
+going to see the need. So something to think about anyway, sorry, Jamie, but wanted to respond
+
+1316
+02:03:15,360 --> 02:03:21,520
+to that before we move on to another bullet. Okay. The next point, number two, you also
+
+1317
+02:03:21,520 --> 02:03:26,240
+mentioned that OLR is about gaming, even though it was all the other hosts have taken time out
+
+1318
+02:03:26,240 --> 02:03:30,240
+to talk about other important matters last week. I don't fully remember if you said that was a good
+
+1319
+02:03:30,240 --> 02:03:35,200
+thing or not and apologizing for going off topic, but to be honest, most of us are here for that.
+
+1320
+02:03:35,200 --> 02:03:42,240
+I love how you, Jamie and Matt bring up important topics here for, sorry, I got lost,
+
+1321
+02:03:42,240 --> 02:03:47,840
+that us gamers need to know. So many people listen to podcasts and why not? And I do know that we
+
+1322
+02:03:47,840 --> 02:03:53,040
+lost a listener when you spoke about BLM. I was touched and moved by that. That was something I
+
+1323
+02:03:53,040 --> 02:03:58,240
+truly appreciated. And if anyone else has a problem with that, then they can stop listening. OLR is
+
+1324
+02:03:58,240 --> 02:04:04,800
+family and we take care of family and no one gets left behind. Amen. I guess ironic considering the
+
+1325
+02:04:04,800 --> 02:04:08,560
+topic, I didn't know this was a thing so ironic considering the topic we were talking about
+
+1326
+02:04:08,560 --> 02:04:14,640
+earlier, but from the heart, that's all I can say. And honestly, I have learned a lot from the
+
+1327
+02:04:14,640 --> 02:04:21,680
+audience. I think that's something you guys need to keep in mind. I am so thankful that we have
+
+1328
+02:04:21,680 --> 02:04:27,520
+such a diverse group of people willing to waste three to four hours on a Sunday night to listen
+
+1329
+02:04:27,520 --> 02:04:32,720
+to this because I learned from you guys too. And that's an important part of this. So thank you.
+
+1330
+02:04:33,360 --> 02:04:39,440
+Number three. And lastly, today we at Anime Jam Session did a virtual convention. We did a 60
+
+1331
+02:04:39,440 --> 02:04:44,960
+minute version of our podcast. That went quite well. And for this, I pulled out my vog polo and
+
+1332
+02:04:44,960 --> 02:04:49,840
+wore it. I then realized how much I missed wearing that shirt at conventions. And I do look forward
+
+1333
+02:04:49,840 --> 02:04:53,760
+to the day when my whole staff can rock our vog polos at the next convention that is safe.
+
+1334
+02:04:54,560 --> 02:04:59,120
+Well, that's all on my mind for now. I must go seeing how I haven't had lunch yet and I'm
+
+1335
+02:04:59,760 --> 02:05:04,880
+starving. Take care, everyone. And I will see you all on the flip side, Ranma.
+
+1336
+02:05:06,000 --> 02:05:10,240
+I miss wearing the shirts to conventions too. Although I'm going to be honest, my polo has
+
+1337
+02:05:10,240 --> 02:05:15,360
+seen better days at this point. But that's why I'm sporting one of the new shirts. I bought two of
+
+1338
+02:05:15,360 --> 02:05:21,200
+these. Well, two different types. We have some different stuff over at vognetwork.com slash shop
+
+1339
+02:05:21,200 --> 02:05:26,800
+if you want to pick up a shirt. And when the convention- Which we still need V-neck ladies
+
+1340
+02:05:26,800 --> 02:05:30,080
+shirts. Get on me about that during the week and not during the middle of the live show and
+
+1341
+02:05:30,080 --> 02:05:37,120
+I'll go in there and add it. So all right. And we need more designs for shirts, so I'll trade you.
+
+1342
+02:05:37,760 --> 02:05:43,680
+All right. Well, I've been making music, so. I guess that works too. But anyway, yeah,
+
+1343
+02:05:43,680 --> 02:05:47,200
+check out the shop and we'll be adding to that. And especially when the convention scene comes
+
+1344
+02:05:47,200 --> 02:05:52,960
+back, we'll want people to have shirts they can wear and have our name on it because that's free
+
+1345
+02:05:52,960 --> 02:06:00,080
+advertising for us. So thanks. Awesome. Next email. Next email. Thank you, Ranma, for that email.
+
+1346
+02:06:01,200 --> 02:06:08,560
+Hello, LR. Do we all miss going to conventions and festivals? Hey, this is Deja Vu. I sure do.
+
+1347
+02:06:08,560 --> 02:06:13,120
+And so do the folks who have been running the MAGFest Indie Video Game Showcase for over the
+
+1348
+02:06:13,120 --> 02:06:18,400
+last several years. Now, under the new title, Indie Maker Syndicate, they're running their
+
+1349
+02:06:18,400 --> 02:06:23,120
+first virtual indie game showcase. It's called Maker's Play and it's taking place this weekend
+
+1350
+02:06:23,120 --> 02:06:28,400
+from Friday, March 26th to Sunday, March 28th. I guess that's this upcoming weekend. Yeah,
+
+1351
+02:06:28,400 --> 02:06:32,560
+this upcoming weekend. Yeah. Forty five games are being featured during this event, which will be
+
+1352
+02:06:32,560 --> 02:06:37,520
+taking place across Twitch and Discord. On the Discord server, each game has its own set of
+
+1353
+02:06:37,520 --> 02:06:43,680
+channels where you'll be able to chat with the developers, watch the games be streamed and even
+
+1354
+02:06:43,680 --> 02:06:49,360
+play them remotely using the Parsec app. On Twitch stream, you'll be able to watch special
+
+1355
+02:06:49,360 --> 02:06:54,800
+guest streamers try a selection of featured games. And if that wasn't enough, there's even a VR chat
+
+1356
+02:06:54,800 --> 02:06:59,680
+virtual expo hall featuring all of the developers games. You might be wondering why I'm bringing
+
+1357
+02:06:59,680 --> 02:07:04,400
+this up. Well, it's because Super Multitasking will be one of the featured games. And to celebrate
+
+1358
+02:07:04,400 --> 02:07:08,720
+Super Multitasking is getting a free weekend on Steam. That's right. If you haven't yet taken the
+
+1359
+02:07:08,800 --> 02:07:14,320
+plunge, you'll be able to try the full game for free this weekend. And it'll be discounted 25%
+
+1360
+02:07:14,320 --> 02:07:17,760
+too if you want to pick it up. If you're interested in checking out Maker's Play,
+
+1361
+02:07:17,760 --> 02:07:24,960
+you can check yyrgames.com, the Super Multitasking page on Steam, the Vug Network Discord,
+
+1362
+02:07:24,960 --> 02:07:31,440
+or indymakerssyndicate.com for more information. I hope to see you all virtually next weekend.
+
+1363
+02:07:31,440 --> 02:07:35,680
+Thanks again for the show and have a great week. Keep on playing. Aaron, yyr.
+
+1364
+02:07:35,920 --> 02:07:43,760
+Aaron Congrats on that convention, yyr. That's a very clever way to do it in this day and age.
+
+1365
+02:07:43,760 --> 02:07:51,120
+So you know, obviously, I'm hopeful we can have a magfest by February. But I love this idea. It's
+
+1366
+02:07:51,120 --> 02:07:55,520
+like a bandaid to kind of hold I'm sorry, but I guess it's I guess it's a January thing. The
+
+1367
+02:07:55,520 --> 02:08:02,880
+February one was my favorite, though. Sorry. But the the fact that you have this whole virtual
+
+1368
+02:08:02,960 --> 02:08:07,760
+thing is pretty cool. So that sounds like a really clever way to do it. I like the idea of like,
+
+1369
+02:08:07,760 --> 02:08:12,080
+you go into the different Discord channels and you can actually play the game and talk with the
+
+1370
+02:08:12,080 --> 02:08:15,920
+developer there. That's that's pretty rad. I love that. You guys thought that went through.
+
+1371
+02:08:17,600 --> 02:08:23,120
+And I'm all for Super Multitasking, getting more exposure. Good for you. All right.
+
+1372
+02:08:23,120 --> 02:08:24,320
+We like exposure.
+
+1373
+02:08:25,280 --> 02:08:33,600
+For sure. All right. Let's see. SJ 100 Matt in chat says most folks like the February magfest.
+
+1374
+02:08:33,600 --> 02:08:38,560
+Bobby Blackwell says except for magfest. Look, I actually and the January thing like it's the
+
+1375
+02:08:38,560 --> 02:08:44,400
+January thing is not a deal breaker for me. Like I think it was for Bobby. I'm open to coming back
+
+1376
+02:08:44,400 --> 02:08:51,520
+to magfest, especially now. The the upside of this pandemic. I mean, I have to look real hard to find
+
+1377
+02:08:51,520 --> 02:08:57,040
+one. But the upside is that I have a lot like I don't have the time off issues I had at my last
+
+1378
+02:08:57,040 --> 02:09:00,480
+employer. I had to stop going to as many conventions because my last employer didn't
+
+1379
+02:09:00,480 --> 02:09:05,760
+give as much time off as I was used to at the job I was at for 14 years. So I was a job for 14 years.
+
+1380
+02:09:05,760 --> 02:09:09,760
+And having been there so long, I had a lot of time off to go out to a lot of conventions. I went to a
+
+1381
+02:09:09,760 --> 02:09:14,880
+new employer. They were fine. I have nothing bad to say about them. The only downside was that I
+
+1382
+02:09:14,880 --> 02:09:18,000
+because I was new, I didn't really have time off. I couldn't go to all the conventions I used to
+
+1383
+02:09:18,000 --> 02:09:24,720
+once I took my week for Dragon Con and only left me with so much. Now I'm at a third employer. And
+
+1384
+02:09:25,680 --> 02:09:31,120
+the thing is with all this going on right now in the world, I'm not taking time off,
+
+1385
+02:09:31,120 --> 02:09:35,760
+even though I probably should be. But I will not have those same issues I was having last employer.
+
+1386
+02:09:35,760 --> 02:09:40,000
+It's a little more generous in that department. So without giving away all, you know, I don't
+
+1387
+02:09:40,000 --> 02:09:44,400
+like to talk about my day job. You guys know I like to keep that separate. But like now it's
+
+1388
+02:09:44,400 --> 02:09:48,720
+just a money thing. Can I afford the flight out to DC? And, you know, I have to be mindful of
+
+1389
+02:09:48,720 --> 02:09:55,040
+those sorts of things. But if the money is there, it's a possibility. So I don't want to promise yet.
+
+1390
+02:09:55,040 --> 02:09:59,760
+And obviously we have to see how COVID changes everything. But is going to MAGFest on the table?
+
+1391
+02:09:59,760 --> 02:10:05,040
+Yes. Going back to MAGFest is absolutely on the table. Even if I don't end up going to MAGFest,
+
+1392
+02:10:05,040 --> 02:10:10,160
+is going out to a different convention on the East Coast, such as New York Comic Con on the table?
+
+1393
+02:10:10,160 --> 02:10:18,320
+Yes, absolutely. I'm going to be open to new and interesting ideas. What's that other one?
+
+1394
+02:10:19,200 --> 02:10:24,800
+Is it FlameCon? There's some LGBTQ thing in New York I've always wanted to go to. And that's
+
+1395
+02:10:24,800 --> 02:10:33,680
+going to be on the table for me as well. So we will see. All right. And Bobby Bockel says,
+
+1396
+02:10:33,680 --> 02:10:39,280
+hell, I'm open to going to California to a con. Yeah. I mean, anything's possible. Oh,
+
+1397
+02:10:39,280 --> 02:10:43,280
+like California Xtreme. Oh, that's a fun one. Next summer, you'd enjoy that.
+
+1398
+02:10:43,280 --> 02:10:46,320
+Yeah. I'm looking forward to California Xtreme returning.
+
+1399
+02:10:46,320 --> 02:10:50,720
+Oh, Bobby, you should think about that. And the Golden State Pinball Expo,
+
+1400
+02:10:52,800 --> 02:10:56,800
+which we usually take our tables to. Because Bobby, if you come out here for California
+
+1401
+02:10:56,800 --> 02:11:03,280
+Xtreme, we can do a day. Like, again, I'm daydreaming of a back to normal world. But,
+
+1402
+02:11:03,280 --> 02:11:08,720
+you know, we can, you know, go to, I guess you've done a lot of the San Francisco stuff probably,
+
+1403
+02:11:08,720 --> 02:11:11,200
+but there's probably other stuff up and down the Bay Area we can think of going
+
+1404
+02:11:11,760 --> 02:11:15,040
+and do that stuff. So it'd be fun. All right. And DJ Rama S says, yes,
+
+1405
+02:11:15,040 --> 02:11:21,520
+it's FlameCon is what I'm thinking of. Yes. So, all right. There was no other emails, right?
+
+1406
+02:11:21,520 --> 02:11:23,200
+That was it? That was it.
+
+1407
+02:11:23,200 --> 02:11:27,840
+All right. Participate at orangelandrater.com if you have an email for a future week.
+
+1408
+02:11:28,640 --> 02:11:32,480
+I do want to open up, if you guys have any questions or comments in chat,
+
+1409
+02:11:32,480 --> 02:11:36,080
+things you want us to discuss, please make sure you get that out there in chat so we can
+
+1410
+02:11:36,080 --> 02:11:39,600
+talk about that. If there's been something, I think I've missed it. So you might want to post
+
+1411
+02:11:39,600 --> 02:11:45,120
+that again. Meanwhile, while we wait on that, Loki, do we have any last minute stories tonight?
+
+1412
+02:11:45,920 --> 02:11:50,960
+Just one thing I was going to mention. So we talked a few weeks ago how Microsoft was adding
+
+1413
+02:11:50,960 --> 02:11:58,400
+some FPS boosts to certain games to allow them to run at a higher frame rate. Well, because of the
+
+1414
+02:11:58,400 --> 02:12:04,400
+recent acquisition of Bethesda titles, there were some Bethesda games that also got that treatment.
+
+1415
+02:12:04,400 --> 02:12:08,960
+So Dishonored Definitive Edition, Elder Scrolls V Skyrim Special Edition,
+
+1416
+02:12:10,000 --> 02:12:18,160
+Fallout 4, Fallout 76, and Prey are now part of that FPS boost program. So that's pretty awesome.
+
+1417
+02:12:19,360 --> 02:12:27,840
+Looks like that most of those are going to be increasing from 30 to 60 FPS. So, cool.
+
+1418
+02:12:27,840 --> 02:12:35,440
+All right. And yeah, to clarify, because Bobby was like, I don't know if I would fly
+
+1419
+02:12:35,440 --> 02:12:39,520
+out to California this summer. No, no, I'm sorry. My frame of reference was 2022.
+
+1420
+02:12:41,040 --> 02:12:45,760
+So yeah, I'm not, pretty much at this point, I'm not considering anything until 2022
+
+1421
+02:12:45,760 --> 02:12:51,760
+with the exception of Dragon Con, because I know they're only going to hold it if it's safe.
+
+1422
+02:12:52,160 --> 02:12:59,200
+Um, and that's, that's that. So, um, yeah, Bobby says, I'm going to stick with road trips in late
+
+1423
+02:12:59,200 --> 02:13:04,000
+2021. Then that's, that's fine. You know, we'll, we'll see how things change, but, um, just
+
+1424
+02:13:04,000 --> 02:13:07,280
+encourage those, you know, to get the vaccine. That's how we're going to, and, you know,
+
+1425
+02:13:07,280 --> 02:13:12,160
+when it comes to variants and things like that, well, one way to stop the virus from mutating
+
+1426
+02:13:12,160 --> 02:13:16,160
+is to stop it from spreading. And you can do that through a vaccine and the vaccines have been
+
+1427
+02:13:16,160 --> 02:13:20,720
+pretty effective so far, it seems like against the variants, maybe even if not as effective,
+
+1428
+02:13:20,720 --> 02:13:27,120
+but even if a vaccine will stop you from being hospitalized, um, it's, it's probably
+
+1429
+02:13:27,120 --> 02:13:31,760
+worth taking. So please look into that. All right. Um, I don't really see a lot of other
+
+1430
+02:13:31,760 --> 02:13:36,720
+topics in chat to talk about. So I think we are towards the end of the program tonight.
+
+1431
+02:13:36,720 --> 02:13:40,080
+Um, I know it's a little early, but some weeks are faster than others. That's just the way it
+
+1432
+02:13:40,080 --> 02:13:44,240
+goes sometimes. Uh, I want to thank you guys for listening to Orange Lawns Radio tonight and
+
+1433
+02:13:44,240 --> 02:13:47,680
+spending some time with us here at the Voice of Geeks Network. If you enjoyed what you heard
+
+1434
+02:13:47,680 --> 02:13:52,080
+here at Orange Lawns Radio, help us spread the word, uh, because we are the show where every
+
+1435
+02:13:52,080 --> 02:13:57,040
+gamer has a voice, but if the voices aren't here to put out on air, then, uh, we don't have them.
+
+1436
+02:13:57,040 --> 02:14:03,360
+So, um, uh, please help us spread the word. An auto host on Twitch goes a long way. I know I find
+
+1437
+02:14:03,360 --> 02:14:07,360
+a lot of new channels through what my friends are hosting. So, uh, please consider an auto host of
+
+1438
+02:14:07,360 --> 02:14:10,960
+VOG Network. That really, really helps us. And thank you for that. Um, I want to give a quick
+
+1439
+02:14:10,960 --> 02:14:16,160
+plug. Speaking of the VOG Network channel, Bobby Black Wolf is going to be live on Wednesday nights.
+
+1440
+02:14:16,240 --> 02:14:20,800
+I know it moved. So Bobby, please correct me if I'm wrong, but Wednesday night, um, at OLR time.
+
+1441
+02:14:20,800 --> 02:14:26,320
+So six Pacific, nine Eastern. Um, and he's going to be, uh, streaming, uh, the, the channel point
+
+1442
+02:14:26,320 --> 02:14:30,960
+rewards. You all raised the points for, uh, those of you that watch live, he's going to be doing
+
+1443
+02:14:30,960 --> 02:14:37,600
+his old VHS stream. So if you want to see like E3 in the Atlanta years, which was what, like 98,
+
+1444
+02:14:37,600 --> 02:14:43,200
+uh, he's going to be doing that stuff, uh, live on Wednesday night. So that's going to be fun.
+
+1445
+02:14:43,840 --> 02:14:49,360
+Uh, so check that out. And that also means that starting next weekend,
+
+1446
+02:14:49,360 --> 02:14:54,400
+we're going to open up the pool for the second VOG reward stream, which will be
+
+1447
+02:14:54,400 --> 02:15:00,240
+that, uh, Shane's definitive Pokemon rankings. That will be the next one. Hey,
+
+1448
+02:15:00,240 --> 02:15:04,800
+so here's a funny thing I want to talk about real quick. My, my kids were watching. Uh,
+
+1449
+02:15:04,800 --> 02:15:10,320
+they have a new Pokemon series that's on, um, Netflix. I guess it's something that they're
+
+1450
+02:15:10,320 --> 02:15:16,800
+doing. And, um, I don't know which series it is. I don't remember, but they had a character named
+
+1451
+02:15:17,840 --> 02:15:24,560
+shame. Um, and he, he collected shinies and it immediately reminded me of Shane. I thought that
+
+1452
+02:15:24,560 --> 02:15:30,080
+was hilarious that they have a character that's all he's doing is collecting shinies. Well,
+
+1453
+02:15:30,080 --> 02:15:36,080
+obviously they listened to pokey stop podcasts. Clearly they did. It was just, it was pretty
+
+1454
+02:15:36,080 --> 02:15:41,280
+funny. But, um, yeah, so that was just, I just saw that the other day when they were watching,
+
+1455
+02:15:41,280 --> 02:15:47,280
+I was like, wait, that's totally Shane right there. So God, I wish he was listening right
+
+1456
+02:15:47,280 --> 02:15:53,200
+now. I'll have to send him this clip. All right. That's funny. Um, all right. So, um, I think,
+
+1457
+02:15:53,200 --> 02:15:57,680
+I think that's it. Where was I was, I was in the middle of, uh, giving my, uh, uh, plugs here at
+
+1458
+02:15:57,680 --> 02:16:02,960
+the end. Uh, Oh yes. I was going to say the store vog network.com. Sorry. His name was not Shane.
+
+1459
+02:16:02,960 --> 02:16:05,760
+His name is literally Shane. It's Shane seeker.
+
+1460
+02:16:08,240 --> 02:16:15,920
+Hold on. He, he, he literally, um, he collects Pokemon, shiny Pokemon. So Shane seeker,
+
+1461
+02:16:17,920 --> 02:16:24,320
+did you know they put you in the Pokemon anime?
+
+1462
+02:16:26,320 --> 02:16:29,040
+Okay. I just said it. I'll see what I get back. All right.
+
+1463
+02:16:29,760 --> 02:16:34,640
+Orange. Right. Put a link in the chat. Oh, that's, that's awfully convenient.
+
+1464
+02:16:36,960 --> 02:16:42,480
+How about that? Oh, it looks nothing like him though. Right. I understand that. But the
+
+1465
+02:16:42,480 --> 02:16:50,000
+character, I mean, it's just funny, Shane. And he also, you know, collects, uh, shiny Pokemon.
+
+1466
+02:16:50,000 --> 02:16:54,960
+I just thought it was quite the convenient or the coincidence that is quite, quite the coincidence.
+
+1467
+02:16:55,200 --> 02:17:00,080
+That's quinky dinkle. All right. Uh, where was I and all the plugs? I don't know.
+
+1468
+02:17:00,080 --> 02:17:04,160
+Thank you for listening and, uh, please continue to support the show. You all are wonderful for
+
+1469
+02:17:04,160 --> 02:17:08,320
+being here every week. Thank you. Thank you. All right. Uh, let's go around and get everybody's
+
+1470
+02:17:08,320 --> 02:17:13,600
+final thoughts. So, um, I'll start with my final thought. Cause I already kind of got into it
+
+1471
+02:17:13,600 --> 02:17:19,200
+earlier in the show, but, um, we all need to do our part to, um, stop, uh, the hate in our society
+
+1472
+02:17:19,200 --> 02:17:24,320
+and, uh, ask yourself what you're going to do beyond a social media, uh, performative posts
+
+1473
+02:17:24,320 --> 02:17:28,720
+and what you're really going to do to, um, you know, make things better in the world.
+
+1474
+02:17:29,280 --> 02:17:32,560
+Uh, that's my final thought. Uh, we'll go to Loki. Your final thought.
+
+1475
+02:17:33,680 --> 02:17:37,760
+Uh, my final thought is I'm hoping to get a lot done on my game this week. So,
+
+1476
+02:17:37,760 --> 02:17:44,080
+um, I'll keep you updated. All right. Good luck. And last but not least star soccer,
+
+1477
+02:17:44,080 --> 02:17:49,280
+your final thought. Nothing changes until you make it change. Reject false icons.
+
+1478
+02:17:49,280 --> 02:17:54,960
+Ooh, a classic. I've missed that one. All right. Have a wonderful week. Everybody
+
+1479
+02:17:54,960 --> 02:18:00,320
+we'll see you in seven days for another March episode. Eight 62. Happy gaming.
+
+1480
+02:18:00,960 --> 02:18:07,040
+We'll see you next week. Bye everyone. You've been listening to orange lounge radio. Orange
+
+1481
+02:18:07,040 --> 02:18:15,200
+lounge radio is a production of OLR studios to join us for a live show. Tune into fog network.com
+
+1482
+02:18:15,200 --> 02:18:22,400
+Sunday nights at 6 PM. Pacific 9 PM. Eastern the views and opinions expressed in this program
+
+1483
+02:18:22,400 --> 02:18:26,560
+do not necessarily reflect those of the staff of orange lounge radio
+
+1484
+02:18:26,560 --> 02:18:30,240
+or fog network, but you know, they were all still true.
+
+1485
+02:18:33,280 --> 02:18:33,920
+See you next.
+
+1486
+02:18:45,200 --> 02:18:56,400
+Okay.
+

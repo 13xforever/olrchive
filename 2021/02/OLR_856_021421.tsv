@@ -1,0 +1,2694 @@
+start	end	text
+0	13280	It feels like the PC gaming world has been having a resurgence of variety.
+13280	16340	Games that felt like they would have always been console exclusives are coming or already
+16340	17340	on the PC.
+17340	20840	I suppose that has to do with the fact that consoles are even more PC like now, similar
+20840	24480	CPU, specs and technologies, Wi-Fi, Bluetooth, USB, etc.
+24480	27700	No matter the cause, it's a win for gamers to have to buy into fewer silos to play the
+27700	28880	games they love.
+28880	30560	This is my 33 second commentary.
+30560	33800	It's time for the details with your hosts, Rob Roberts, Jamie Summers, and Loki starting
+33800	36400	right now on the show where every gamer has a voice.
+36400	44720	Hello, my friends out there on the internet, and welcome back to another week of the show
+44720	52700	where every gamer has a voice, it is Orange Lounge Radio, and we are live once again tonight
+52700	58100	on Valentine's Day, February the 14th of 2021.
+58100	65040	My name is Rob Roberts, and it's episode number 856 of our show, and not joining us
+65040	68820	at the moment, but will be here shortly is Dark Sakura or Jamie Summers.
+68820	73620	Unfortunately, she had a little, she had a computer crash right before we went live.
+73620	77020	And so she's a little frustrated, but she's making her way back.
+77020	78860	So she'll be joining us here shortly.
+78860	82500	But who we do have here live with us is Techmaster Loki.
+82500	84580	Hey, Loki.
+84580	85780	And you're muted.
+85780	88860	We're having all sorts of errors and problems tonight.
+88860	89860	What is going on?
+89860	93060	I just wanted to be muted when the intro is going.
+93060	94060	It's fine.
+94060	95060	It's fine.
+95060	98540	I'm editing and voila while I, you know, do the show.
+98540	99540	Yeah, right.
+99540	104060	Pixel Pacas in chat because we do tape live every Sunday night at the Voice of Geeks Network,
+104060	108980	twitch.tv slash VOG Network, six o'clock Pacific, nine o'clock Eastern, right after the Bobby
+108980	113540	Blackwell show, Pixel Pacas in chat says, amazing start tonight, right?
+113540	116140	This is the one I'm going to submit to the award show reel.
+116140	117140	That's for sure.
+117140	118140	Definitely.
+118140	119140	Right.
+119140	123980	Anyway, the podcast folks won't realize, but we had like two fault starts on Twitch as
+123980	128180	well, just because either I hit the wrong button or I started choking while I was trying
+128180	129180	to do the intro.
+129180	131060	So it's just, it's just one of those nights.
+131060	139660	Well, at least there's some success story this week because Loki, you released a game.
+139660	144940	I feel like there should be streamers and balloons and you know, dude, dude, like, yay,
+144940	145940	you do.
+145940	146940	We are the champions.
+146940	147940	Okay.
+147940	149620	I don't want to get muted, but you did it.
+149620	152380	So yeah, finally, congratulations.
+152380	153700	So all right.
+153700	156940	So since I know you're going to have to do a lot of promo now to actually sell copies
+156940	159820	of your game, let's hear the elevator pitch.
+159820	161820	Tell us all about Loki.
+161820	167180	Loki's here on my wacky gaming podcast and I want to know you've got this new game, Pixel
+167180	171260	Poops, number two, who makes games for Nintendo anymore?
+171260	173660	Tell us about Pixel Poops, number two.
+173660	180820	Well, it's a puzzle action game that features eating lots of tacos and making large amounts
+180820	184060	of poop to trap joggers and other things.
+184060	189820	And so it got 40 levels over the course of five different worlds, two player co-op and
+189820	190820	great music.
+190820	191820	Good.
+191820	192820	Well done.
+192820	193820	Good.
+193820	197340	Tell us where we can play this game.
+197340	201300	It's available on itch.io and Steam right now.
+201300	202780	So yeah, you can check it out there.
+202780	204020	Physical release is coming soon.
+204020	205900	I had my cartridge around here somewhere.
+205900	209460	I think it's actually in the Nintendo because the kids are playing it, but I'll get that
+209460	210460	later.
+210460	212900	I had the box art mocked up already.
+212900	215540	So oh, the box art's amazing.
+215540	216540	It's on your Twitter.
+216540	217540	If people...
+217540	218540	I saw the mock up of the cartridge.
+218540	219540	Yeah.
+219540	220540	Yeah, it is.
+221260	230780	Actually, right now I'm working on putting together box art for that IGDB page so that
+230780	232580	we can put that on Twitch as well.
+232580	238540	So I'm working on that right now because apparently my box art is not of the ratio three by four.
+238540	245060	So I need to redo it, which is fine because my box originally had this like kind of a
+245060	250580	paper texture on it that the guy that made it had put on there, but I just turned that
+250580	252780	off and it's much clearer now.
+252780	255980	So it'll look nicer when I put it on there.
+255980	256980	I also want to make sure...
+256980	257980	That'll be done tonight.
+257980	263660	I also want to make sure I give a shout out to Yyr without whom Pixel Poops number anything
+263660	264660	would be...
+264660	270460	If we didn't have him, that wouldn't be possible because he also had basically the main Pixel
+270460	274060	Poops game, the one that's playing behind you on stream tonight for those watching live
+274060	278840	on Twitch, the Atari 2600 influence version, that is free to play on Steam.
+278840	283180	So even if you don't want to spend the money on Loki's version or you don't want to spend
+283180	288180	other money on a Commodore 64 version that Yyr also did, you can at least play the base
+288180	290060	Atari 2600 game for free.
+290060	293140	Although I would encourage you, it's not that expensive.
+293140	294140	Throw the extra coin.
+294140	298420	I played all three of them this week and I had fun.
+298420	299640	They're all different too.
+299640	303780	That's the kind of interesting part about it is that the Atari 2600 version is very
+303780	310400	Atari 2600, simple kind of game, but has that replayability kind of charm and high score
+310400	311620	chase potential.
+311620	316980	And then the Commodore 64 is almost more, you have to really think because the joggers
+316980	320440	only go left and right, but there's no taco stand.
+320440	324420	They drop food that you have to refill your meter with and you kind of have to think through
+324420	328780	it carefully because you might not...
+328780	332300	There's only certain joggers that actually create the food and you want to make sure
+332300	335700	you don't eliminate them from the screen before they make food or yeah.
+335700	338420	So you have to do a little more thinking in the Commodore 64 version.
+338420	343100	And then yours is very like, it's a lot more like fast paced, like it plays like an NES
+343100	344780	game and it's a little bit different.
+344780	347100	Well let me ask you that wacky DJ question.
+347100	351740	How is your game different from the other two Pixel Poops games?
+351740	356340	So it's more of like, I was trying to be a little bit more faster paced.
+356340	361340	It is different in the sense that there's a lot more challenges that you may face.
+361380	365860	So instead of just joggers walking across the screen and slowly getting faster, there's
+365860	368480	kind of twists to each of the different enemies of the game.
+368480	372420	So the joggers will walk across the screen, but then if they hit a wall, they'll randomly
+372420	373420	turn.
+373420	380120	And then also there's ghosts that will, if you make smaller poops and they disappear,
+380120	382500	the ghosts do, they will float over them.
+382500	384600	And so they won't actually get caught by them.
+384600	387880	There's dogs that will eat the smaller poops.
+387880	392520	And so they will just chew through the whole thing.
+392520	397540	There was, there's a Yeti that runs a little bit faster than the other joggers.
+397540	402600	And then there's, there's other like special things towards the last few levels as well
+402600	407720	that it gets weird, but it's fun.
+407720	410560	I want to ask you a little bit about this because, you know, we've talked about Pixel
+410560	414600	Poops at length on this show, and if people aren't going to try it out by this point,
+414600	417840	they're just not going to, and that's fine, you know, spend your time how you want.
+417840	421360	But I'm kind of curious because this could apply for a lot of games or a lot of people
+421360	423360	that are thinking about making a game.
+423360	427840	How did it go from, okay, so you made what you used NES Maker or something like that?
+427840	430680	You used a tool called that?
+430680	437520	So Nest Maker is basically, it's not something, you can make games completely out of that,
+437520	445340	but it's more of just a front end for setting up your code and setting up sprites and everything.
+445340	451620	So normally if you're making an NES game from scratch, you would have to create your
+451620	456300	CHR files or the basically the tile files that you use in the game.
+456300	460740	And so this kind of simplifies it where you can set up your animations, you can set up
+460740	463060	some sort of scripting and everything.
+463060	468220	But when it gets down to it though, that'll just get you the, the bare minimum basics.
+468220	474080	Like you could barely cobble together a game with that, the simplest of simple things.
+474120	480080	So it just came down to straight up learning how to write assemblers.
+480080	485440	So I had to learn how to program an assembly language and being able to rewrite code and
+485440	488680	everything to do what I wanted it to do.
+488680	494500	So I had to create a random spawn system, which was interesting to try to do that.
+494500	501080	I had to rewrite the, right now, like with NES Maker, there's not really two player modules
+501080	502240	at all.
+502600	507400	There used to be, and it was some basic stuff, but like there isn't anything right now that
+507400	508800	supports two players.
+508800	510280	So I had to write that from scratch.
+512400	516160	And then just like, you know, the animations, everything I had to kind of come up with that,
+516160	519720	but it gives you the framework, like to be able to set up, okay, I want this enemy to
+519720	524960	have, you know, two frames of animation and I'm going to select the tiles from my tile
+524960	530080	set, you know, that are going to go to make up one of the enemies or something.
+530080	535240	So it does ease you through that, but basically it just links to different program files and
+535240	537520	then you have to like code everything.
+537520	538520	So it's not like...
+538520	543040	So how do you, I was just going to say, how do you go from that, like, okay, so you coded
+543040	544880	everything and you got your game together.
+544880	548200	How do you go from that to, I'm selling it on Steam?
+548200	549640	That's kind of the part I'm curious about.
+549640	552280	Like how did you, how does that part happen?
+552280	555600	Like how did you get listed on Steam and all that?
+555600	558480	Well thanks to YYR for that.
+558480	564160	So basically it's, it's just kind of trying to polish it, put it all together and get
+564160	565560	like a complete game.
+565560	571320	So this time around, the whole reason why I made an NES game in the first place with
+571320	577040	Nest Makers, because I know, I know with the NES, it's very limited on what you can do.
+577040	580320	Like artwork, it's very limited to space.
+580320	587440	You're limited on what you can do with processing and just in general what you can do with it.
+587440	592740	And so I knew because I have a problem with scope creep and I can't possibly like under
+592740	598480	scope stuff, that this is the only way that I can do it right now is so something that
+598480	602880	actually forced my scope down to the point where I could finish something.
+602880	607680	And so that's kind of what it ended up being is, you know, I took that and I had to come
+607680	611920	up with, you know, what do I want to do to, what do I want to make in this?
+611920	614920	You know, there's a lot of different things I could make.
+614920	619840	And so one of the first like kind of tutorials I went through on there, they have like these
+619840	623920	different modules you can do and one of them is called this like maze tutorial.
+623920	630240	So it's like a kind of collect things and like shoot enemies and stuff, but it's basically
+630240	635600	just a one screen game and you can teleport from screen to screen.
+635600	637000	So I was like, Oh, okay, that's kind of cool.
+637000	639160	I'm like, Hey, you know what?
+639160	643800	I bet I can make something like Pixel Poops with this.
+643800	646160	And you know, that kind of just, it went from there.
+646160	649920	So like that's, I saw that and I was like, okay, I probably could make a game like Pixel
+649920	650920	Poops with that.
+650920	655480	And then it just fun off into like all these crazy directions.
+655480	661120	Like I tried to figure out like a storyline for it, which I never ended up doing.
+661120	666200	Like I just got too far into it and I was like, I don't know, you know, it is what it
+666200	667200	is.
+667200	672400	It's like, I could come up with a storyline for it.
+672400	677760	Like, I don't know why they're doing what they're doing, but like, and I was like, well,
+677760	679000	why do I have to do that?
+679000	681640	Like, you know, you have like games like Pac-Man and stuff like that.
+681640	687440	It's like, it's this, it's this thing getting like chased by, you know, it's like there,
+687440	691240	there is no story, but the, but the part I'm curious about is like, how did you get it
+691240	694800	listed on steam or is that, is that because YYR was already there?
+694800	698240	So it was just kind of like you send it to him and he kind of helped you out.
+698240	699240	Okay.
+699240	701400	So yeah, he, he did the publishing on that and he got it.
+701400	705520	I mean, I don't know how they feel about like having NES games on steam.
+705520	709400	But since he did like DLC and stuff, so that's how he got it on there.
+709400	714040	And then itch, you know, I was able to publish that myself, but like he got it on steam because
+714040	715280	he's already on there.
+715280	720880	I probably could have gone on steam, but like they have like ways to actually publish a
+720880	721880	NES games.
+721880	725600	There's a thing called NES tech that it can actually use that it's kind of like its own
+725600	728180	built-in emulator.
+728180	730040	So I could have done that.
+730040	733360	That's how this one game flea has done it.
+733360	737240	So they've used that, that software before, but I don't know.
+737240	741200	It was just that it was, you know, when I told him about it, he's like, Oh yeah, I'm
+741200	742480	working on this version as well.
+742480	746480	And so we just kind of decided to work together as far as releasing the games towards the
+746480	747480	same time.
+747480	752480	And then he helped out a lot on last week with testing as well, because, you know, it
+752480	758120	was kind of getting down to the end of the wire there and there was a lot of tests.
+758120	759120	Yeah.
+759200	762560	So it worked out a matter of time, like lots of balancing, you know, difficulties and everything
+762560	763560	like that.
+763560	765680	And so he was a great help with that.
+765680	769080	Now Bobby Blackwolf and Chad is asking how much is YYR's take?
+769080	770080	Now that's none of your business.
+770080	772600	That's always, I'm not going to make you answer that because that's nobody's business.
+772600	774560	I mean, I don't think he's taking anything.
+774560	776820	I mean, he can, I don't care, but yeah.
+776820	778740	What a nice guy.
+778740	781280	So how much does steam's take?
+781280	783760	I think that's a legit, cause that's for everybody's the same.
+783760	784760	There's that.
+784760	785760	Do they take 30%?
+785760	786760	30% I think.
+786760	787760	Yeah.
+788400	789400	Itch is 10.
+789400	790400	So that's not bad.
+790400	791400	Yeah.
+791400	792400	Okay.
+792400	793400	So yeah.
+793400	794400	And yes, thank you for reminding me.
+794400	797240	We want to make sure it's promoted on itch.io as well, but I kind of, I know itch.io is
+797240	801220	way easier to self publish on because it is very much for the indie crowd.
+801220	805660	So I kind of like, I'm not as curious about how you do it on that site, but I certainly
+805660	810240	don't want to ignore the fact that the game is on itch.io and you get a bigger cut if
+810240	811900	they buy it there.
+811900	814520	So that is, it is there as well.
+815280	818560	At the end of the day, like somewhat like it was ridiculous cause I've been trying to
+818560	819560	promote it like crazy.
+819560	824240	So I've been trying to like post wherever, like in Reddit and stuff like that.
+824240	828000	And there's someone that said, I remember when homebrew used to be free.
+828000	831120	I'm like, dude, it's like, then don't buy it.
+831120	832120	Like I don't know.
+832120	833120	Okay.
+833120	837000	So I remember when people used to just do it for fun and not for profit.
+837000	840520	I'm like, you think I'm going to make a profit on this?
+840520	844440	Well, that that's funny, but like, it's, it's like, honestly, like,
+844440	848240	But isn't there an interesting kind of, I don't know if you call it Shez and Freud
+848240	853760	or whatever going on here where now you're on the other side of this because, you know,
+853760	858120	not that I'm saying you've ever been like anti-developer or whatever, but you do talk
+858120	862520	a lot about hacking and modding and like that whole scene and everything.
+862520	866480	But now you're on the other side of this, having to bear some of these comments.
+866480	871240	So I'm kind of curious, like, has this whole, has reading a comment like that.
+871240	872880	And obviously internet comments are trash.
+872880	873880	You know that.
+874160	879440	Don't read too much into it, but did you, did you, did you think about maybe past things
+879440	881200	that you've said in a different light now?
+881200	884560	No, cause I've never said something stupid like that.
+884560	889760	So you know what I did, all I did was I just, I just took it like, okay, you know, Hey,
+889760	890760	that's understandable.
+890760	894640	I just joke, like kind of said, yeah, I'm never, I'm not really expecting to make any
+894640	896440	money off this and like, well, Hey, you know what?
+896440	897440	I get it.
+897440	898440	If you don't want to pay for it, that's fine.
+898440	902720	I'm like, Hey, I put out a free demo, you know, a few, a couple months ago, if you want
+902720	904280	to check that out instead, that's free.
+904280	905920	So you can go do that.
+905920	908360	And I mean, it seemed kind of positive about that.
+908360	909360	Yeah.
+909360	910800	Oh, that's right.
+910800	912400	You put out a demo as well.
+912400	913400	I remember.
+913400	918120	So there is a way to play a free version of it and get a sense of the game.
+918120	922280	And I do also kind of like that answer is this is kind of like, okay, well then, you
+922280	923800	know, don't play.
+923800	928800	You know, it's kind of like one of those, like I don't know, but I can't help, but think
+928800	934240	of like, when I see these Twitter threads where like artists who do drawings, get people
+934240	938720	going into their DMS asking for a sale cut and the artist is like, no.
+938720	941200	And you know, the person will be like throwing a fit or whatever.
+941200	943960	And the artist is like, okay, then don't do it.
+943960	947160	You know, like they're, they're hashtag unbothered.
+947160	948160	By that whole thing.
+948160	949160	Oh, hi Jamie.
+949160	950160	You're here.
+950160	951160	Hi.
+951160	952160	I'll be right back.
+952160	953160	Okay.
+953160	954160	You can die of exposure.
+954160	955160	What's that?
+955160	956160	Say that again.
+956520	957960	People, artists die of exposure.
+957960	958960	Uh, anyway.
+958960	959960	Okay.
+959960	963760	Well then while Loki stepped away, let me say hello to dark soccer or Jamie Summers
+963760	970720	who made it through the whole crappy tech issues on that end, but you're here.
+970720	972480	This computer is ancient.
+972480	975400	You're here and this is a day of love and we love you.
+975400	976840	We're glad you're back this week.
+976840	977840	Can you hear me?
+977840	978840	Yeah, I can hear you.
+978840	979840	Okay.
+979840	982800	Cause I've been saying stuff and there was, you didn't say anything.
+982800	983800	Oh, sorry.
+984440	985440	Sorry.
+985440	989040	I was trying to get a certain thought out, but anyway, um, what, uh, we were talking
+989040	993760	before the show about your do tonight, your getup, your, we're wearing a new wig for the
+993760	994760	show tonight.
+994760	995760	Well, the wig.
+995760	996760	Yeah.
+996760	997760	But it's the makeup.
+997760	998760	That's the important thing.
+998760	999760	Yes.
+999760	1000760	So let's talk about that makeup.
+1000760	1006040	I wish I actually, I should go get it, but, um, I was only able to get two of the pieces,
+1006040	1013920	but, um, ColourPop and Animal Crossing had a, uh, a collaboration.
+1013920	1018080	So today I am wearing the, the Tom Nook eyeshadow collection.
+1018080	1024640	I also have, uh, the, uh, Celeste and Blathers one.
+1024640	1030560	That's the, the more earthy golden reddish tones.
+1030560	1036520	So for those who are watching, I will lean forward and show off my shadow.
+1036520	1040880	So now we're not just indie game development, but we're makeup tutorial blogs.
+1040880	1044280	So we've, we're covering all the bases here on our website.
+1044280	1049320	Actually your, your face looks great, which is a weird compliment, but I'm sorry.
+1049320	1050320	It's true.
+1050320	1051320	Your face looks great.
+1051320	1058560	Well, I kind of did a little bit of that half daytime drag look, you know, I, I, I contorted
+1058800	1061880	I busted out some of my sister makeup, actually, it was kind of funny.
+1061880	1066440	Um, but because I don't have any lipstick that matches, I actually found an eyeshadow,
+1066440	1072520	an eyeliner that was the Pantone color from like four years ago that actually goes quite
+1072520	1077720	well with the rest of the, it's like the Pantone Emerald that, uh, Sephora had a few years
+1077720	1083840	ago and it fits very well with the rest of the, uh, the, um, Animal Crossing colors.
+1083840	1088080	But, um, I, yeah, I, they were way sold out by the time I got to it.
+1088080	1090320	But I, those were the two palettes that I wanted.
+1090320	1096960	Um, there's another like Isabelle one and they have like some, you know, some other
+1096960	1102200	like a lip pencils or something, but really what I wanted was, were these two eyeshadows
+1102200	1107600	cause I wanted the nice greens and I wanted the earth tones and they're supposed to have
+1107600	1110840	them out, I think again on the 17th.
+1110840	1114600	So in two days, three days from today.
+1114600	1119560	Um, but I mean, it was, I don't know.
+1119560	1122120	I'm usually not one like for collabs like that.
+1122120	1123120	I'm like, Oh, okay.
+1123120	1124120	Hello Kitty.
+1124120	1125120	Kind of cute.
+1125120	1126520	I did get the Hello Kitty sugar pill one.
+1126520	1127520	Nope.
+1127520	1128520	Not sugar pill.
+1128520	1129840	Was it, was it sugar pill?
+1129840	1131400	It was the little twin stars one.
+1131400	1133760	I think it was sugar pill cause I got it at a drag con.
+1133760	1137760	You can, there's always that thing though where you're like, not you specifically, but
+1137760	1141060	we as people are always like, I'm not really into that.
+1141060	1145800	But then that certain like team up happens and you're like, Ugh, I might have to get
+1145800	1146860	into this.
+1146860	1149820	Like big example, Fortnite and Tron.
+1149820	1151300	That was news this week.
+1151300	1153020	So I don't like Fortnite really.
+1153020	1156660	Um, but now it's got a Tron thing and I'm like, Ugh, I guess I'm going to have to try
+1156660	1157660	it again.
+1157660	1158660	Oh yeah.
+1158660	1164140	I, I saw that, but I mean, it's just like, I, and normally I'll, I'll even put it this
+1164140	1165140	way.
+1165140	1170140	I haven't in the past been happy with ColourPop's eyeshadows.
+1170180	1173980	But since these pallets are just really, they're, they're kind of even tiny.
+1173980	1177020	I figured they wouldn't dry out by the time I've used them up.
+1177020	1180260	Um, cause that's kind of what happens with some of their stuff is that they dry up a
+1180260	1182140	little bit and lose pigment.
+1182140	1186140	Um, but, uh, but I really actually like these.
+1186140	1187140	The pigmenting is good.
+1187140	1191820	I mean, I do have to work it a little harder cause I mean, like I said, ColourPop's eyeshadows
+1191820	1196020	are really not the best, but I do really enjoy the colors.
+1196020	1197500	I was able to blend it nicely.
+1197500	1199260	The glitters actually stay in place.
+1199260	1203940	So, um, it's, it's, it's not very expensive either.
+1203940	1208380	ColourPop has, um, uh, kind of a reputation for some of their stuff not being too expensive.
+1208380	1213100	So these little four color, um, pallets are like 12 bucks a pop, I think.
+1213100	1214100	Hmm.
+1214100	1215100	Nice.
+1215100	1218620	I'll have to check your website again, but, um, I'll, I'll find it and link it in chat.
+1218620	1221660	But if you just go to ColourPop and look up their Animal Crossing collab, it's like one
+1221660	1223020	of the first things on there.
+1223020	1225000	So, and it's color with a U.
+1225000	1226000	ColourPop.
+1226000	1227000	ColourPop.
+1227000	1229000	Very Canadian or British.
+1229000	1230880	Well, I, I love it.
+1230880	1234400	So dark soccer really worked hard on her hair and makeup tonight.
+1234400	1237240	Logie worked hard releasing a game on steam this week.
+1237240	1239680	I shook this wig out of the bag really nicely.
+1239680	1242800	I'm wearing pajama bottoms tonight.
+1242800	1243800	So am I.
+1243800	1245800	Which you can't see on TV.
+1245800	1250760	So I just ruined the illusion because for all you know, I'm wearing normal bottoms,
+1250760	1252800	but tonight I'm lazy.
+1253600	1257320	Well, I put on a bra for y'all.
+1257320	1259360	I will, I will tell you, thank you.
+1259360	1264120	I will tell you this from, uh, the, the short time I was interning at the, the nightly news,
+1264120	1269400	uh, at one of our local stations is that most of the anchors you see on TV, they are wearing
+1269400	1270400	pants.
+1270400	1273760	That's not the gag, but many of them are not wearing like suit pants.
+1273760	1276920	A lot of them wear jeans underneath, like there'll be really dressed.
+1276920	1279320	You know how like news anchors always like suit and tie.
+1279360	1283720	They're almost all wearing jeans underneath, unless it's like a lady who's wearing a dress
+1283720	1288360	and you know, you can't really, you know, there's no other bot, but, um, if chances
+1288360	1293520	are if they can wear some type of comfortable bottom, they are so, and that's, that's probably
+1293520	1295840	true of a lot of things you see on Twitch.
+1295840	1296840	I see.
+1296840	1301640	I'm, I'm kind of annoyed that guys don't wear kilts and skirt long skirts more often.
+1301640	1305640	Cause that seems to me like it would be a lot more comfortable on, you know, the crotch
+1305640	1306640	region.
+1306640	1311080	Well, buy me one for my birthday and I will.
+1311080	1315320	I wasn't meaning you in particular, I was just meaning a bunch of dudes.
+1315320	1321200	I think, and, uh, some folks in chat saying, uh, Bobby Blackwell saying, I'm always wearing
+1321200	1322960	sweat pants in the winter time.
+1322960	1328240	Uh, and fifth dream says at least you guys are wearing pants, why I can't afford a Twitch
+1328240	1329240	screw up.
+1329240	1333600	So I have to make sure, you know, we're, we're all covered in that aspect.
+1333600	1340320	But, um, I really think my pajama top to one of my sports bras in a nicer tank top.
+1340320	1347200	I think in this zoom culture that we're in now, I think a lot of like, I think that whole,
+1347200	1350960	you know, thing I kind of told you about most people don't wear pants on TV or they're wearing
+1350960	1351960	jeans.
+1351960	1356260	Um, like people that might've shocked people a couple of years ago, but now that zoom culture
+1356260	1358680	is like such a thing, I think we all do it.
+1358680	1363720	I think we've all done that work or even school call where we're wearing pajama bottoms, you
+1363720	1369320	know, or, you know, gym shorts is another one for me, onesie to work meetings and they
+1369320	1374120	don't care cause no one sees us, but you know, but my boss laughs at it.
+1374120	1376960	He thinks it's hilarious that I wear a red Panda onesie.
+1376960	1382840	Um, I mean, I was actually reading, um, you know, cause I would just like to look at,
+1382840	1387080	I read Forbes and I read a few, you know, of the financial things and they, um, I think
+1387080	1390880	it was Forbes that had, uh, a fashion industry report.
+1390880	1399680	It talks about the declining sales of a high heels and, um, and the change in women's professional
+1399680	1400680	wear.
+1400680	1401680	Interesting.
+1401680	1410520	They're going more toward, uh, casual classy, I guess casual classy was, I thought what
+1410520	1417040	the term that they used was, um, but just something, something more, you know,
+1417040	1421320	comfortable, something that's easier for staying in the house, you know, nice looking,
+1421320	1427820	but not slouchy, not like pajamas, but comfortable like that, like, uh, investing in more linens
+1427820	1434280	and softer materials and wide legs and no heels because heels are the devil.
+1434280	1439040	Um, I want to get into the kickoff topic here in a moment, but I do want to, uh, address
+1439040	1443400	a kind of going back to pixel poops for a minute, uh, Loki Bobby Blackwolf in chat over
+1443400	1448320	twitch.tv slash vog network says, by the way, I will say that I just put my money where
+1448320	1453920	my mouth was and double dipped on pixel poops number two to support Loki since I gave him
+1453920	1455840	so much shit for years.
+1455840	1456920	So I appreciate it.
+1456920	1457920	There you go.
+1457920	1460320	I bought a copy for Gwen and myself.
+1460320	1461320	Nice.
+1461320	1462320	Yeah.
+1462320	1463680	I might, I might give some copies too.
+1463680	1464680	We'll see.
+1464680	1467920	So Loki, I hope you make a little bit of coin off of it.
+1467920	1473240	Obviously it's none of our business, but I would be curious if you do end up selling,
+1473240	1480040	you know, enough to, I don't know, like just pay the mortgage for one month maybe.
+1480040	1481040	We'll see.
+1481040	1482040	I don't know.
+1482040	1483040	I'd be, I'd be curious.
+1483040	1484040	I'm going to use to hold my breath.
+1484040	1485040	Yeah, that's fair.
+1485040	1486040	That's fair.
+1486040	1489120	I mean, I don't know what, I don't know what it's selling on steam, but on itch, I'm not
+1489120	1490560	holding my breath.
+1490560	1491560	That's fine.
+1491560	1492560	That's fine.
+1492560	1493560	I owe you a pizza.
+1493560	1495160	Oh, that's right.
+1495160	1499080	The monumental challenge has come to a conclusion.
+1499080	1501400	I'll tell you what, I'll make it from scratch.
+1502400	1504520	I have a pizza oven now.
+1504520	1505520	I'll make it calzone.
+1505520	1506520	Yes.
+1506520	1508360	Look, Loki has won a pizza.
+1508360	1510320	Ding, ding, ding, ding, ding.
+1510320	1513400	You win because you made a game.
+1513400	1514400	I promised.
+1514400	1515400	That's right.
+1515400	1516400	I forgot about that bet.
+1516400	1517400	That was like a year ago.
+1517400	1518400	I love it.
+1518400	1521400	Maybe I'll just deliver it, have it delivered and then I'll, I'll make pizzas when we can
+1521400	1522400	all get together again.
+1522400	1523400	There you go.
+1523400	1524400	I like that.
+1524400	1525400	Okay.
+1525400	1529080	That's even better if I get pizza because Loki made a game, that's the best and I'll,
+1529080	1532000	I'll continue to wear sweatpants.
+1532000	1534040	You're getting something else tomorrow, Rob.
+1534040	1535040	Oh, okay.
+1535040	1539480	Remember, I'm baking and I'm stealing your ring fit.
+1539480	1544360	All right, let's get into, we were like 30 minutes in and we have yet to talk about the
+1544360	1545360	news.
+1545360	1546360	We got to get into our kickoff topic tonight.
+1546360	1547360	Hey, I just got here.
+1547360	1548360	That's fine.
+1548360	1550160	The show doesn't start until I get here.
+1550160	1554380	We had like three false starts tonight, so I swear we did everything possible to delay
+1554380	1556800	the start tonight, but oh well.
+1556800	1557800	Okay.
+1557800	1559440	Let's get into our kickoff topic tonight.
+1559440	1563760	We have some conventions that are making a digital transition.
+1563760	1566280	One of them is coming up this weekend.
+1566280	1572640	This is a convention that's usually in the fall and that's Blizzcon, excuse me, I actually
+1572640	1574200	went to Blizzcon one fall.
+1574200	1575200	Oh, golly.
+1575200	1578440	It was probably like a good five years ago at this point, but I'm, I had a lot of fun
+1578440	1584480	when I went, obviously they didn't have the event in person in the fall because you know,
+1584480	1588120	it's not going to let them do that, but they didn't even really have a virtual event at
+1588120	1589120	that point.
+1589120	1592920	So what happened is that they kind of took a little time to get together the virtual
+1592920	1599020	event that they wanted and Blizzcon 2021 is going to be happening online later this week.
+1599020	1603800	So the schedule has gone up and they're going to be running multiple channels basically
+1603800	1605480	over on Twitch.
+1605480	1608780	They're not going to run all day long, but a good chunk of the day.
+1608780	1613140	It's going to kick off on Friday at 5 PM Eastern, that would be 2 PM Pacific.
+1613140	1616580	And that's going to be basically their keynote type of presentation, where they're going
+1616580	1621460	to tell us all the latest and greatest what's going on with Blizzard games.
+1621460	1625860	Co-streaming is allowed and I would have loved to have done a co-stream, but unfortunately
+1625860	1630740	that time during the day, I'm still working, I'm not going to be able to make that work.
+1630740	1635300	But I'm sure many folks will be watching at 2 PM Pacific, 5 PM Eastern, and we're going
+1635300	1639880	to get updates on Diablo 4 and Overwatch 2, although we know neither of those games are
+1639880	1642300	releasing this year.
+1642300	1643780	Maybe there will be some surprises.
+1643780	1648500	I would imagine we're getting a lot closer to that Diablo mobile phone game launching,
+1648500	1652460	although I'm sure Blizzard is going to be very cautious at how much time and focus they
+1652460	1657020	give that game after what happened to them a couple Blizzcons ago.
+1657020	1661820	If the rumors are true about a Diablo 2 remaster, I think a lot of people are going to be happy
+1661820	1663260	about that.
+1663260	1670260	And this might be a real kind of pie in the sky kind of idea, but Blizzard has kind of
+1670260	1674780	been hinting that they might be working on some new things and new IPs.
+1674780	1680100	I don't want to set the bar too high, but maybe, especially because they're doing this
+1680100	1685280	whole virtual convention at this time, maybe we're going to hear about something new.
+1685280	1687840	And that would be very exciting, I think.
+1687840	1689180	So we'll see.
+1689180	1695220	Otherwise we're going to see some other, they're kind of doing like one kind of, excuse me,
+1695820	1701100	they're going to do like one game kind of focused on each channel that they're running
+1701100	1705740	through the weekend, or Friday and Saturday really, just they're not doing Sunday programming.
+1705740	1710080	So they'll give updates on all sorts of things and you know what's going to be coming to
+1710080	1712100	a Warcraft patch and things like that.
+1712100	1715380	I doubt they'll announce an expansion, but you never know.
+1715380	1720740	So we will bring you all the updates we hear about on next Sunday's show.
+1720740	1724340	I'm curious if any of you guys out there in chat are going to be checking this out this
+1724340	1725340	weekend.
+1725340	1729220	The nice thing about it being all virtual is that it's going to be free.
+1729220	1734380	So that's going to be easy.
+1734380	1737940	Any of you guys interested in watching the virtual BlizzCon at all?
+1737940	1738940	No.
+1738940	1741340	And that's fair to me.
+1741340	1745180	I'm really interested in a lot of the Blizzard products.
+1745180	1751740	I mean, I'm curious to see what Overwatch 2 does, but I don't know.
+1751740	1756060	I quit playing WoW and that was really all I played, you know?
+1756060	1764280	So I don't know, I mean, they just really haven't been doing many interesting things
+1764280	1765280	to me.
+1765280	1768560	So I haven't really felt like paying attention to them.
+1768560	1773340	They haven't really done a lot in the past couple of years, to be honest.
+1773340	1778340	They did release that Warcraft 3 remaster, which didn't go over that well.
+1778340	1781700	They released Warcraft Classic, or World of Warcraft Classic, which went over a little
+1781700	1782700	bit better.
+1782700	1783700	I think there's some people that are into that.
+1783700	1785980	I played it for a hot minute, it was cool.
+1785980	1789620	And then I know some people that love the Warcraft expansion, I know some people that
+1789620	1791220	don't love the Warcraft expansion.
+1791220	1794540	So just kind of, you know, it's a matter of taste at that point.
+1794540	1800140	I'm curious enough though about, I think especially when it comes to like Overwatch 2, I'm kind
+1800140	1804200	of curious if we're going to get a look at the game that maybe distances it a little
+1804200	1805880	more from Overwatch 1.
+1805880	1809280	I'm kind of curious, even though I know they didn't want to dilute things too much when
+1809280	1813380	it comes to Overwatch League, I'm kind of curious what other kind of change, I'm kind
+1813380	1820640	of curious why Overwatch 2 is taking so long, if it's just like an Overwatch 1 plus kind
+1820640	1821640	of thing.
+1821640	1826400	So I really want to see like, what is that plus that really takes us further.
+1826400	1829900	And I imagine that's going to be, you know, things that play into PlayStation 5 and Xbox
+1829900	1832160	Series X and all that stuff.
+1832160	1834160	So I'll be curious.
+1835160	1839860	SSG100Matt says, I hope they take some steps to resort their image.
+1839860	1843120	I think maybe like rehab their images is what he means there.
+1843120	1846760	Because you know, they've had a rough couple of years ever since Mike Morheim left.
+1846760	1851480	So it'll be interesting to see what happens with that.
+1851480	1856680	Let's talk about another convention that was confirmed going digital this week.
+1856680	1859480	Loki, do you want to talk about this one?
+1859480	1860480	You want me to talk about it?
+1860480	1861480	Sure.
+1861800	1867240	So E3, because E3 is just not knowing what E3 is going to be anymore, I think so.
+1867240	1870280	The ESA says that they're transforming the gaming showcase.
+1870280	1873880	It sounds like though, it's going to be kind of similar to what it was last year.
+1873880	1877840	Actually, did they really, is it even considered E3 last year?
+1877840	1882280	I don't know what the Jeff Keighley thing was, but I guess it was the IGM thing they
+1882280	1883280	did last year.
+1883280	1886140	Yeah, there really wasn't an E3 last year.
+1886140	1889200	There was just kind of like substitute teach 3.
+1889200	1892400	Yeah, the Summer Games Fest thing.
+1892400	1900160	So basically, they said that right now that they're looking at doing some broadcast events,
+1900160	1904720	it sounds like kind of similar what they did with the Summer Games Fest last year.
+1904720	1909100	And I don't even know if necessarily, I think that's probably still happening.
+1909100	1917320	So no word exactly, nothing set in stone of what it is exactly going to be.
+1917320	1922280	But right now that they are changing what they're doing, obviously, I mean, COVID and
+1922280	1925520	the fact that I don't think anything's going to be opened up, they're not going to want
+1925520	1929060	to have large events like that, you know, even come June.
+1929060	1931940	So they'll still be vaccinating people in June.
+1931940	1937360	So we'll be getting closer, hopefully, like, you know, maybe like, like in California,
+1937360	1941080	we have that tier system with closure, we might be getting closer to like yellow tier
+1941080	1944000	type of stuff, because more people are getting vaccinated.
+1944000	1947880	But these huge shows that draw thousands of people, those are gonna be the last things
+1947880	1948940	to come back.
+1948940	1953480	We'll be lucky if there's a dragon con this year, I'm still holding out hope, though,
+1953480	1957120	you know, especially for people who have been vaccinated, at least, but we'll see.
+1957120	1959580	I mean, we just don't know.
+1959580	1965000	Their plan is to hold multiple two hour keynote sessions from games partners and award show
+1965000	1967240	a preview night on June 14.
+1967240	1972360	And smaller streams of various games publishers, influencers and media partners.
+1972400	1975680	So basically, what they did last year for summer's game, Summer Games Fest, they're
+1975680	1978040	like, okay, I'm gonna copy exactly that.
+1978040	1983560	So whatever, as long as I get my information, I don't care who it comes from.
+1983560	1987640	You just want the information.
+1987640	1988640	You don't care.
+1988640	1989640	I just don't care.
+1989640	1993220	I don't care if he's putting on the event, I don't care if IGN is putting on the event
+1993220	1999200	or if it's Jeff Keeley or, or whoever, you know, I just want to see the information.
+1999200	2000200	That's it.
+2000360	2001360	I don't care.
+2003360	2004360	All right.
+2004360	2005360	Yeah.
+2005360	2006360	Um, how do you feel?
+2006360	2009840	Well, so I was gonna ask, how do you feel about E3 going virtual?
+2009840	2012040	But I guess you kind of answered it.
+2012040	2017000	And I got to admit, I'm kind of with you on that is it's more like, you know, honestly,
+2017000	2023600	like what if what has been one of my biggest criticisms, excuse me, I'm coughing choking
+2023600	2024600	tonight.
+2024600	2028200	Um, what has been one of my biggest criticisms about E3?
+2028200	2033840	The last time I actually went was that everything I was experiencing in person, I could just
+2033840	2035320	go get online.
+2035320	2040200	You know, I was waiting in line to see things that I would just end up watching on YouTube.
+2040200	2045280	And there was a lot less stuff to really get your hands on and play and a lot more where
+2045280	2051080	it was like, here is a rendered conception thing or here is a somebody else is going
+2051080	2054280	to play through it and you can watch type of video and it's all the stuff that was just
+2054280	2056840	on YouTube and whatever else.
+2057480	2061160	So in a way, I'm kind of like a digital transition.
+2061160	2066560	For me and for a lot of us, isn't that just what E3 was anyway?
+2066560	2070520	The only people this really affects are the people that were going in person.
+2070520	2076080	And as someone who used to go in person, I kind of started to prefer the digital version.
+2076080	2077080	So maybe...
+2077080	2078080	Exactly.
+2078080	2083240	It's like, I don't know, it's not a big deal that whatever they're doing, I just think
+2083240	2087480	we'll see what it comes, what they actually do, if it's anything unique.
+2087480	2088480	Yeah.
+2088480	2091280	Dr. Sakra, I'm curious about your thoughts on E3.
+2091280	2092680	You've gone to E3 before.
+2092680	2093840	What do you think about the whole digital?
+2093840	2097040	I mean, not the part about the decision to go digital.
+2097040	2100920	We all know why they're doing it, but how do you think digital is going to compare to
+2100920	2101920	being in person?
+2101920	2106680	I think people are going to make it work one way or another.
+2106680	2116380	You know, honestly enough, I really like a digital option, even if there wasn't a big
+2116380	2122320	thing going on right now, a pandemic, because it gives people who can't easily get out there
+2122320	2125160	a chance to attend.
+2125160	2130560	So I think that what they would lack for the in-person, they would make up for in other
+2130560	2132360	virtual attendees.
+2132360	2139120	You know, you bring up a great idea on how E3 can kind of be a big deal again.
+2139120	2142200	You know, E3's lost a lot of, even before the pandemic.
+2142200	2146360	I think a lot of us had kind of had it with a lot of the ESA decisions, weren't thrilled
+2146360	2148400	with the direction ESA is going.
+2148400	2155240	But this idea of maybe even once the pandemic is over, that there's maybe like a digital
+2155240	2158480	access kind of E3.
+2158640	2163200	I think this is a thing post-pandemic, a lot of like conventions and big things are going
+2163200	2164200	to be thinking of.
+2164200	2165200	Go ahead.
+2165200	2168160	So I need to point out one thing actually.
+2168160	2175520	It has actually been released just like within recent weeks that this disease is going nowhere.
+2175520	2180080	And they're even saying that there will be seasonal mutations that are going to be going
+2180080	2184960	on for pretty much the rest of forever.
+2184960	2187440	So the pandemic is going nowhere.
+2187920	2190560	Well, it may turn endemic, but yes.
+2190560	2191560	Exactly.
+2191560	2192560	Yeah.
+2192560	2201600	But I'm saying that I think people need to start putting more investment into virtual
+2201600	2202600	gatherings instead.
+2202600	2203600	Right.
+2203600	2210960	Because I think that, I think it's way too premature to think that this year it's going
+2210960	2212960	to be over.
+2212960	2213960	Yeah.
+2214360	2219080	Well, I mean, this starts to delve into another issue because I really do see like what's
+2219080	2222760	going to happen is that even and you're already seeing it happening.
+2222760	2228520	Even if the disease is not gone, people have hit their limit with it and they're just going
+2228520	2232640	to act like everything's OK, whether that's a good idea or a bad idea.
+2232640	2235800	It doesn't matter because, again, it's people's perception that really dictates what's going
+2235800	2237840	to happen.
+2237840	2244880	And I think even if we're looking at an endemic type of COVID in 2022, there's going to be
+2244880	2248040	a push to have all these cons in person again, because there's going to be a lot of people
+2248040	2250280	that are just like, I've had it.
+2250280	2252720	I'm not like I'm not able to live my life.
+2252720	2254280	So people are idiots.
+2254280	2255400	I'm going to say it right now.
+2255400	2257880	Those people are stupid.
+2257880	2262280	Selfish and stupid.
+2262280	2265160	I think you know a lot of people like that.
+2265160	2267040	I think we all do.
+2267040	2268040	I do.
+2268040	2269620	And I told them to their face.
+2269620	2275160	So the but the reality is it's so what I'm saying is that they're still going to be these
+2275160	2277680	types of conventions and things that happen.
+2277680	2280700	So whether there's a pandemic endemic or not.
+2280700	2287880	So I think a virtual option is something that kind of has to be there after, you know, it
+2287880	2293240	goes endemic, I guess we'll say, because there are still going to be plenty of people.
+2293240	2295400	I think you're going to see there's going to be people that are comfortable doing that
+2295400	2296400	type of stuff.
+2296400	2298840	There's going to be people that are not comfortable doing that type of stuff.
+2298840	2303360	And I think the virtual option is the only way you're going to cater to a crowd that
+2303360	2308680	doesn't necessarily feel comfortable attending in-person events for a long time.
+2308680	2309680	That makes sense.
+2309680	2314320	The only people who are going to be safe at any of these are going to be the vaccinated.
+2314320	2315320	Yeah.
+2315320	2325480	So, you know, I, I do not feel like I would feel like I would be completely irresponsible
+2325480	2331480	if I went out and put somebody else at risk.
+2331480	2336520	So maybe I'm not, okay, so stupid is not the best word for it, but I'm going to say irresponsible
+2336520	2337960	and I'm going to die on that mountain.
+2337960	2340000	I think it's irresponsible.
+2340000	2345120	I'm waiting to see what the CDC has to say after the vaccine rolls out more and all this
+2345120	2346120	stuff.
+2346120	2351560	You know, I think, I think it's just too early to predict either way, but we'll see.
+2351560	2355000	I'm choosing to believe in science and the science right now tells me that gatherings
+2355000	2356480	are still irresponsible.
+2356480	2357480	Right.
+2357480	2361720	Now, but we don't know what it's going to look like in six to nine months.
+2361720	2367200	So, but I think, again, I think some people's perception of big gatherings is going to be
+2367200	2370800	kind of like permanently kind of changed.
+2370800	2374260	So a virtual option like what's happening with E3.
+2374260	2383480	And I think just to keep E3 something that, you know, is of the importance that it is,
+2383480	2386240	you know, E3 has always kind of been that, oh, it's gamer Christmas and all that.
+2386240	2389640	I think like a virtual option is a good way to kind of keep that relevancy.
+2389640	2390640	There's the word I'm looking for.
+2390640	2392500	I think it's a good way for them to do that.
+2392500	2396640	So anyway, all right.
+2396640	2402520	Let's move on and talk about our gaming weeks and the types of video games that we have
+2402520	2403660	been playing this week.
+2403660	2405060	So Dark Soccer, I'll start with you.
+2405060	2406560	How was your gaming week?
+2406560	2407960	I did play Animal Crossing.
+2407960	2411880	I played pinball today.
+2411880	2415880	I played actually a little bit of Twilight Zone.
+2415880	2426500	I also played Kirby's Dreamland 3 on Super Nintendo and I forgot how slow that game is.
+2426500	2429280	So it was pretty slow.
+2429280	2435540	I've also played, well, I started playing Mark of the Ninja.
+2435540	2441060	I got through it a little bit and then I had to stop playing, so I actually lost my progress
+2441060	2444100	in it and I played some Scott Pilgrim vs. the World.
+2444100	2445780	So that was pretty fun.
+2445780	2448600	Just tried to play some different stuff.
+2448600	2451100	So that's all.
+2451100	2452980	All right.
+2452980	2458020	Did that event with the fancy bird start today?
+2458020	2460020	Was that a Valentine's thing in Animal Crossing?
+2460020	2461020	I can't remember his name.
+2461020	2462020	No, it's tomorrow.
+2462020	2463020	I'm sorry.
+2463020	2464020	Oh, it's tomorrow.
+2464020	2465020	Pave for Festivale.
+2465020	2466020	Pave, that's it.
+2466020	2467020	So, okay.
+2467020	2469740	Because I knew it was like really closely aligned with Valentine's Day.
+2469740	2470740	Okay.
+2471420	2472420	All right.
+2472420	2477020	Loki, I mean, I know you released a game this week, but maybe finally after getting your
+2477020	2480740	game on Steam and Itch, you got to play your own game.
+2480740	2483420	So how was your gaming week?
+2483420	2484960	I did play my own game actually.
+2484960	2494060	So we had, I bought an NES a couple weeks ago in anticipation of having to test my cartridges
+2494060	2500300	when I burned them, which I must say scared me a little bit.
+2500300	2502260	The burning process is actually pretty fast.
+2502260	2504500	24 seconds it takes to actually burn a cartridge.
+2504500	2505500	It's pretty great.
+2505500	2506500	Wow.
+2506500	2507500	That's awesome.
+2507500	2513700	But the thing is that they have these special security chips inside of them that it's for
+2513700	2516700	all regions because you may remember the original Nintendo.
+2516700	2523820	You can't play games from other regions without having that appropriate NES because they have
+2523820	2524820	lockout chips.
+2524820	2529760	Well, there's a special lockout chips in these where you can.
+2529760	2535280	But what happens is if you don't, if they're in a different region, if it's set up in a
+2535280	2538640	different region, it doesn't work right away.
+2538640	2543520	So I burned one of them and I put it in my NES and it just kept flashing the red light
+2543520	2546500	and like, Oh, that's not good.
+2546500	2550080	So I burned it a couple more times and tried a few different boards and it kept doing the
+2550080	2551080	same thing.
+2551080	2555520	Come to find out you have to hit reset a few times and it automatically switches the chip
+2555520	2556860	to your region.
+2556860	2562460	So it'll be something I'll have to like preface when people do end up purchasing physical
+2562460	2563540	versions of it.
+2563540	2566360	But thankfully all of the boards have worked, so it's great.
+2566360	2571280	So with that said, I actually did get to play my game on a TV with actual NES hardware and
+2571280	2572280	it's awesome.
+2572280	2574080	My kids played it for a long time too.
+2574080	2575240	They had a really great time.
+2575240	2579700	So you know, that's pretty cool to see.
+2579700	2586140	Aside from the Pixel Poop stuff, even though that was the, I did end up playing some Minecraft.
+2586140	2592320	We have one of our friends, a member of her punk night, uh, his daughter Hazel, she's
+2592320	2596060	been looking for some people to play Minecraft.
+2596060	2599360	I've seen this really cute exchange on, it was either Twitch or Facebook.
+2599360	2601020	I kind of saw you guys talking about this.
+2601020	2602020	Sorry.
+2602020	2603020	Go ahead.
+2603020	2604020	Yeah.
+2604020	2607220	So she's been looking for people to play Minecraft with and I said, well, you know, you can just
+2607220	2611040	come to our realm and you know, the kids will play with you.
+2611040	2615580	So that's why I did, we invited her in there and she, she created her house up on a hill
+2615780	2620140	and she, she was going to create a shop to sell dogs, but then she didn't realize that
+2620140	2622700	all the dogs that she tamed are all hers.
+2622700	2626420	So now she has like 13 dogs, but it's kind of funny.
+2626420	2628380	So you have the puppy cafe.
+2628380	2629380	Exactly.
+2629380	2633660	So I was like, well, now you have all these, all these dogs, uh, the ranch, but the good
+2633660	2634660	guys.
+2634660	2635660	The good kind.
+2635660	2636660	Yeah.
+2636660	2637660	So she's just building, you know, a bunch of stuff.
+2637660	2638660	She's having a good time with that.
+2638660	2639660	So I played a little bit of that.
+2639660	2641700	I probably used some more Minecraft this week.
+2641700	2645540	My kids have been bugging me for a while to, uh, well, I should say my youngest son's been
+2645540	2650740	bugging me a while at my oldest son's doing Roblox stuff now, but, um, so that's what
+2650740	2652100	I've really been kind of doing.
+2652100	2653100	I didn't play too much.
+2653100	2659220	I've worn a little bit, um, yeah, it's mainly just been, you know, cramming this week to
+2659220	2660480	get the release out.
+2660480	2664340	So now that that's done, I can kind of relax a little bit cause they, Oh my God is some
+2664340	2667360	stress nights, 1am for three days straight.
+2667360	2673840	So during the work week, uh, um, but yeah, it was a lot of work and it's not over either
+2673840	2679640	because, um, I still want to do an updated demo, so I got to, I've got to put one of
+2679640	2680920	those together.
+2680920	2685920	And then, um, eventually when we get to the physical release, I'm going to do be doing
+2685920	2687480	like a special edition.
+2687480	2691080	So I still have room on the cart to put more things.
+2691080	2696240	And I did have some stuff I was trying to implement at the 11th hour, but I didn't get
+2696240	2702000	a chance to, um, so one of the things I was actually going to implement was the option
+2702000	2705200	to choose between male and female characters.
+2705200	2710520	Um, I have the sprites in there already and it's pretty much hooked up.
+2710520	2717360	It's just, it, there's something, I don't know, um, what's bugged out about it, but
+2717360	2721800	there's something that's not exactly the same as I set up the second player.
+2721800	2727800	And so you, when you push a direction, it moves a block or it moves one tile and it
+2727800	2731300	stops and you have to keep pushing the button in order to do that.
+2731300	2736060	So I think it's something in one of my physics scripts or something that's looking specifically
+2736060	2739240	for the, uh, characters that are player one and player two.
+2739240	2741080	And so I just need to alter those.
+2741080	2746200	So eventually you'll be able to select gender sort of, or at least one has a ponytail.
+2746200	2751760	One has another hairstyle that's as far as you get, you know, with, uh, you know, gender
+2751800	2754280	options and so whatever.
+2754280	2759640	Um, so that'll be something that'll be in the, and you, you did commit that, that you're
+2759640	2762360	not going to charge again for special edition, right?
+2762360	2763360	Right.
+2763360	2764360	Yeah, no, no, no.
+2764360	2767080	It'll be just a free up update to the game.
+2767080	2772360	Whenever we do that, it'll be, that'll be good guy, Loki.
+2772360	2775080	It'll be the only version that's available on cartridge.
+2775080	2779840	So once they get to the cartridges, um, they it'll be, cause I want to pack those things
+2779840	2780840	full ever.
+2780840	2782560	You have 40 levels in there.
+2782560	2784520	Um, I don't know.
+2784520	2786000	I could add more, I guess.
+2786000	2787000	We'll, we'll see.
+2787000	2788000	I don't know.
+2788000	2789000	It's, it's long as it is.
+2789000	2794280	And I mean, we had people beat it in one day, so apparently it's not hard enough.
+2794280	2796520	Always going to be that there's always going to be that.
+2796520	2799240	Um, Bobby black was asking what about the physical edition?
+2799240	2803400	So to be clear, this definitive edition, when you are going to be done, done, that is the
+2803400	2804760	one that's going to the cartridge.
+2804760	2809000	So there will be no, like you're missing out cause you got the cartridge version.
+2809000	2812000	Once you put, once you've put a version on cartridge, you're done.
+2812000	2817680	Everybody that bought the game on steam itch IO gets the free, uh, director's cut directors
+2817680	2819600	for whatever you're calling it.
+2819600	2820600	Yeah.
+2820600	2821600	Fair.
+2821600	2822600	All right.
+2822600	2823600	Awesome.
+2823600	2824600	I like that.
+2824600	2825600	All right.
+2825600	2826600	I don't know.
+2826600	2830200	We'll, we'll have to workshop that Loki, my, my rates for think tanking are very low.
+2830200	2831200	All right.
+2831200	2832200	Anyway.
+2832200	2833860	Um, let's talk about, uh, my gaming week.
+2833860	2835360	So I don't have a lot to talk about.
+2835360	2840160	I played a lot of the usual stuff, Ingress, Orna, Pokemon go.
+2840160	2845240	Uh, I did, I just barely finished that lunar new year event today because you have to like
+2845240	2846360	catch all the fire types.
+2846360	2850960	I like went downtown and did it earlier today because I was having a hard time finding fire
+2850960	2851960	types.
+2851960	2854280	But once I went downtown and started driving around, it was really easy.
+2854280	2858000	I think I like did a raid to finish one and now they just started the Valentine's event
+2858000	2861480	today and the collection challenge is kind of a beast.
+2861480	2865160	Like there's like five Pokemon in there you have to get in raids or no four of them are
+2865160	2869160	raids and one of them is like field tasks or something like that.
+2869160	2870160	I don't remember.
+2870160	2871160	Maybe it's also a raid.
+2871160	2872160	I don't remember.
+2872160	2874160	Um, so there's a lot to do in that game.
+2874160	2879000	So, uh, working on that, but, uh, also still playing Final Fantasy 14 cause I play that
+2879000	2884720	game a lot, but I also did play some other games this week, including namely another
+2884720	2886080	Final Fantasy game.
+2886080	2890600	I played quite a bit of Final Fantasy 12, um, because as I'm sure some of you have been
+2890600	2894900	following Final Fantasy 12 just hit Xbox game pass this week.
+2894900	2901340	So, you know, even though I already own the game on PlayStation four, three question mark,
+2901340	2905140	whichever I think it was on four only, uh, zodiac age, of course.
+2905140	2909300	Uh, even though I already bought it there, you know, it's kind of nice because it's basically
+2909300	2912940	like free and I'm using my quotey fingers cause you know, nothing's free.
+2912940	2919940	Um, but because I pay for Xbox game pass, um, I, you know, I'm able to play it without
+2919940	2921680	an additional charge we'll say.
+2921680	2923340	And so I've been kind of playing through it again.
+2923340	2928540	Obviously loading times great, uh, and nothing is really suffering kind of like in Dragon
+2928540	2932820	Quest 11, you can't read some things in the loading screens cause it's too fast.
+2932820	2938060	Um, but there really is like Final Fantasy 12 just use a regular stuff in the cut scenes.
+2938060	2941940	This time I'm playing almost exclusively at double speed.
+2941940	2943460	Technically you could go up to quad speed.
+2943460	2946620	That's a bit much for me, but I'm playing almost exclusively in double speed and it
+2946620	2949060	is such a nice quality of life increase.
+2949060	2953020	And I always, I just always forget until I go back and visit what a great, um, you know,
+2953020	2954660	story, especially in the opening moments.
+2954660	2959060	I know later in the game it starts to drag a little, but like Final Fantasy 12, I think
+2959060	2963460	Final Fantasy 12 is aged better than most Final Fantasy games do.
+2963460	2964460	I don't know.
+2964460	2967860	Maybe I'm wrong in that, but I think 12 is really aged well compared to the other Final
+2967860	2968860	Fantasy games.
+2968860	2970300	So I think it's a fun one to play.
+2970300	2975980	So, um, uh, yeah, so that's one way I've been sinking lots of hours this week.
+2975980	2981420	Um, I mentioned that I'm paying for game pass, which I am, but, um, if you didn't know
+2981420	2989540	about this, there's an app on your, uh, Xbox one, the Microsoft or your Xbox one X, whatever
+2989540	2993620	there's a series X there's a Microsoft rewards app.
+2993620	2999260	Um, and again, you know, when you're opting into the rewards program, you're usually kind
+2999260	3001820	of opting into data collection and things like that.
+3001820	3005660	So you may not be comfortable with this whole thing, you know, read the fine print.
+3005660	3009180	I figure Microsoft knows all about me anyway, so whatever.
+3009180	3010900	So I do the Microsoft rewards thing.
+3010900	3015420	And honestly, if you use game pass and have that, you really start to rack up points.
+3015420	3020180	And if you pay attention to that rewards app, when you earn an achievement, once a day,
+3020180	3022100	you can turn that into 50 points.
+3022100	3026260	Um, there's usually like things you can do to get like a thousand points, or I think
+3026260	3030980	it's like even 2000 points and you donate a thousand of it to charity and all this stuff.
+3030980	3035000	So my point is, if you really pay attention to that stuff and the rewards, um, your points
+3035040	3036080	can start to add up.
+3036080	3040280	And what I did this week, I had 12,000 points or something like that.
+3040280	3043800	So I turned that into one month of game pass ultimate.
+3043800	3048400	So there's going to be this, this upcoming, cause I think my, I was paid through March
+3048400	3049400	3rd.
+3049400	3053860	So March I will have game pass and I didn't pay any extra for it.
+3053860	3055080	So that's kind of neat.
+3055080	3058220	So I just really, if you didn't know that that's a thing, the Microsoft has all those
+3058220	3062360	quests and stuff and you get points and you can actually being as well, I think you can,
+3062360	3065560	yeah, you can like, they do, it's all tied together.
+3065560	3070480	Like if you have the, the edge browser and you're using that with the rewards plugin
+3070480	3072440	and all that, it all adds up.
+3072440	3076440	But again, I completely understand why not everybody is comfortable with this.
+3076440	3079280	So I don't want to just jump out there and say, Oh, you should be using this.
+3079280	3081440	I'm just saying this is an option.
+3081440	3085440	And if you're comfortable with it, I just redeemed a month of free game pass ultimate.
+3085440	3086720	So I don't have to pay for it.
+3086720	3089200	So um, you decide what's best for you.
+3089200	3092600	But I feel like there's a lot of people that don't even know it's a thing.
+3092600	3096200	Um, and especially if you're already playing games on game pass, even just turning those
+3096200	3101240	into points, you can get like a dollar in Xbox live credit.
+3101240	3106400	It's just a dollar, but that's a dollar off whatever you buy digitally next.
+3106400	3110440	It's a free and it, you know what, if you can do it three times in a month, that's $3.
+3110440	3112720	If you buy a $10 game, that's 30% off.
+3112720	3115640	So it's, um, it's something to look into.
+3115640	3118480	So anyway, um, that was my gaming week.
+3118480	3123680	So let's get into some news, shall we, and we'll start off with a story from Loki.
+3123680	3124680	Yeah.
+3124680	3130080	So EA has acquired glue mobile for $2.1 billion.
+3130080	3134000	So you could say they're huffing glue.
+3134000	3135920	Sure.
+3135920	3145880	Um, they, they have done such games as diner dash cooking dash restaurant dash Gordon Ramsey
+3145880	3154320	and Kim Kardashian, Hollywood dashed, um, they've also, I guess they're doing some other
+3154320	3161360	games including Disney sorcerers arena and a deer Hunter.
+3161360	3166600	So so yes, Kim Kardashian is now an EA license.
+3166600	3167600	Yeah.
+3167600	3168600	Yay.
+3168600	3169600	Yay.
+3169600	3173240	Likes that, you know, mobile, uh, format for even their name.
+3173240	3174240	Yeah.
+3174600	3175600	Yeah.
+3175600	3176600	It's another thing with dash in the name.
+3176600	3178120	You're right.
+3178120	3180120	Do they have rainbow dash too?
+3180120	3181800	No, they do not.
+3181800	3187480	But uh, should we expect Madden dash pretty soon or, uh, who knows?
+3187480	3188480	Or FIFA dash?
+3188480	3189480	Well, man, I'm curious.
+3189480	3190480	What do you think?
+3190480	3193880	I mean, we can make all the Kim Kardashian jokes and we will, but what do you think EA
+3193880	3194880	is trying to do with this?
+3194880	3200120	Do you think that maybe that is actually you joke, but maybe a casual Madden type of thing
+3200120	3201840	on mobiles in the mobile space?
+3201840	3203920	I think they already have a casual Madden game on mobile.
+3204600	3212000	I guess it's just money they, they got, they've got money to buy developers and mobiles still
+3212000	3213000	hot.
+3213000	3215360	I mean, why not?
+3215360	3216400	They want all the money.
+3216400	3218480	So it makes sense.
+3218480	3222760	Do you think we can get Kim Kardashian Hollywood on switch?
+3222760	3227680	I actually played that game for a hot minute when it was first EA doesn't know what switch
+3227680	3228680	is.
+3228920	3233800	They're only, they're only willing to put old versions of, uh, their, you know, soccer
+3233800	3234800	games on there.
+3234800	3237120	They, they don't put anything new on there.
+3237120	3242840	Um, did you play that Kim Kardashian Hollywood ever dark soccer, like when it was first out?
+3242840	3244960	Cause we've played some dumb games online.
+3244960	3247200	I thought that was one of them, but maybe not.
+3247200	3248200	No.
+3248200	3249200	No.
+3249200	3250200	All right.
+3250200	3255220	I will say, okay, do you want to know a really dumb mobile phone game I'm playing right now?
+3255220	3258940	And I'm actually going to expressly tell you guys, do not download this game.
+3258940	3264820	It is full of ads and it's very annoying, but like, yes, it's the one with the high
+3264820	3267520	heels for the five seconds that you're playing.
+3267520	3268520	It's actually really fun.
+3268520	3269520	It's a Zynga game.
+3269520	3270520	Did you know that?
+3270520	3273900	Um, for the five seconds that you're playing, it's actually really funny and it's actually
+3273900	3275520	just called high heels.
+3275520	3279940	And all you're doing is you're, it's like you're walking down and you're strutting in
+3279940	3283500	high heels and you're trying to avoid obstacles.
+3283500	3287960	And at the very end, if your heels are tall enough, um, you actually get to strut the
+3287960	3291420	runway and your, your little character sashay is down the runway.
+3291420	3294020	It's really, and the great thing is there's all these different characters.
+3294020	3297940	Um, there's actually, they actually have like a plus size character.
+3297940	3302580	They have, you know, lots of, you know, women that you would expect would be parading around
+3302580	3303580	in high heels.
+3303580	3308080	They have a, actually two dude characters in high heels that I've seen so far.
+3308080	3309980	So high heels are for everyone.
+3309980	3312060	And I think, uh, the game cracks me up.
+3312060	3316140	But again, please do not download this game because it is full of spammy ads.
+3316140	3322340	It's it's a lot like, it's a lot like I played it for a little bit and I got, they do, they
+3322340	3327700	have an ad free version and maybe I just need to suck it up and pay the three, but I feel
+3327700	3330540	like I still won't get around some ads with that though.
+3330540	3333660	Cause like you can watch ads to unlock characters and stuff.
+3333660	3336100	I'm telling you ads are everywhere in that game.
+3336100	3340700	And if you, if you pay for it, then a lot of those will just give you the unlocks or
+3340700	3346380	you can pay like, like, uh, an in-app purchase or something.
+3346380	3347380	Yeah.
+3347380	3350700	Um, pixel pockets and chat says I played that high heels game.
+3350700	3355140	It amuses me how the chick claps her hands over her head when she does the splits.
+3355140	3356420	The guys do it too.
+3356420	3364040	When they're going down the ramps, they go, it's so ridiculous.
+3364040	3365040	I love it.
+3365040	3369460	Like, you know, who would love this game is your wife, Loki.
+3369460	3375980	I feel like she'd crack up maybe just show her the part where the guy's going down the
+3375980	3381140	ramp and the splits going, she might, yeah, she might check it out.
+3381140	3383140	I don't know.
+3383140	3387620	Uh, pixel pocket says I didn't unlock any guys yet.
+3387620	3392700	There's one in the, um, the, the guy wearing the suit is three videos.
+3392700	3394060	You have to look in the little shot.
+3394060	3395940	I can't believe, wow.
+3395940	3396940	Orange orange radio.
+3396940	3398220	We give tips on high heels.
+3398220	3399220	The game.
+3399220	3400220	Anyway.
+3400220	3401220	That's what it is.
+3401220	3406580	It's a high heel game podcast now.
+3406580	3407580	I quit.
+3407580	3408580	All right.
+3408580	3416060	Get all your, get all your high heel hacks and tips right here.
+3416060	3418300	Just wait until we get to our games of the year.
+3418300	3419660	All right.
+3419660	3425620	Anyway, how we got from EA and glue to that, who knows, but anyway, let's talk about another
+3425620	3430460	game that gets me excited where I go, whoa, a crash bandicoot crash bandicoot.
+3430460	3431660	That series is a lot of fun.
+3431660	3434940	And of course, crash bandicoot part four recently came out.
+3434940	3440800	It came out on PlayStation and Xbox anyway, but it's also going to be coming to the switch
+3440800	3443660	and at some point the PC.
+3443660	3450660	So a Activision said this week that crash four will be coming to switch on March 12th
+3450660	3455300	as well as PlayStation five and Xbox series X.
+3455300	3458520	There will be a PC version in the future.
+3458520	3463620	So you know, you can get your mods, which user generated levels, I bet will show up
+3463620	3464620	too.
+3464620	3465620	So that'll be a lot of fun.
+3465620	3467080	So that's pretty cool.
+3467080	3470300	Can't wait for all the nude mods.
+3470300	3471300	Let's not.
+3471300	3476980	So anyway, the PS five and Xbox series X versions will be 60 bucks.
+3476980	3480740	The switch and the PC versions only 40 bucks.
+3480740	3483580	So I guess it costs money to print them disks.
+3483580	3484580	I don't know.
+3484580	3485940	Or maybe it's the higher graphics.
+3485940	3490340	I would imagine the switch version is more of a port of the existing PlayStation four
+3490340	3491940	and Xbox one versions.
+3491940	3500180	And then the PlayStation five and series X and S versions will be more refined.
+3500180	3503140	They don't really say exactly what the whole thing.
+3503140	3504140	Oh, well.
+3504140	3505140	Oh, yeah.
+3505140	3506140	I'm sorry.
+3506140	3515020	The 60 frame a second visual is what you'd expect with the upgrade to PlayStation five
+3515020	3520780	and the series X and S. So, all right.
+3520780	3521780	Let's move on.
+3521780	3524580	Dark Sakura.
+3524580	3531580	There's a company that's basically telling Sony, fuck you, sue us.
+3531580	3534260	It's a Canadian company called dbrand.
+3534260	3539060	They're doing replacement PS five plates that they've called dark plates.
+3539060	3542060	And they're just basically like, we're going to sell them.
+3542060	3543060	Don't worry.
+3543060	3550300	They're forty nine dollars, I guess, forty nine US without the cost of shipping.
+3550300	3554420	And on their website, I'm just going to read the quote with the release of dark plates.
+3554420	3555900	The unthinkable has happened.
+3555900	3560860	We've taken Sony's monumental achievement in bad design and fixed it.
+3560860	3565900	We can only assume that our prizes are in the mail.
+3565900	3569140	So it's.
+3569140	3570140	It's interesting.
+3570140	3574060	I mean, especially since, you know, there's other companies that try to do it and one
+3574060	3579260	of them, which is PlayStation five dot com, had to change their name and remove the imagery
+3579260	3583860	when Sony threatened them.
+3583860	3590620	And I mean, and basically the plates are actually a little bit difficult to get off and it looks
+3590620	3594540	like Sony was actually going to try to be doing their own, even though they haven't
+3594540	3596220	made an announcement on it.
+3596220	3601300	But I mean, the the dbrand ones look cool, I mean, but they are what they are.
+3601300	3602900	And they're right on the top of the website.
+3602900	3606100	It says, go ahead, sue us.
+3606100	3613580	Why are they so I mean, maybe someone will like why are they so confident that there's
+3613580	3614580	lawsuit proof?
+3614580	3618340	Are they in another country or something where they're in Canada?
+3618340	3619860	Well.
+3619860	3624340	I don't think I mean, I feel like there's been Canadian companies and things that have
+3624340	3629660	been shut down, like that's not usually distance enough, I think, from the US, I guess.
+3629660	3633300	You know, usually you have to you have to go somewhere that gets a little more competitive
+3633300	3638300	with the US sometimes, things like China or Russia or things like that to have a website
+3638300	3644020	that can really just, you know, not give a hoot about trademarks and things like that.
+3644020	3648300	So it's interesting to me that they're being so bold about come for us, Sony.
+3648300	3651140	But I mean, could they potentially be right?
+3651140	3653400	Like what what are they really selling?
+3653400	3656020	They're selling some plastic, right?
+3656020	3661880	That just so conveniently copyrighted, though the shape of the plastic is is a copyrighted
+3661880	3662880	thing.
+3662880	3664420	That actual shape is wow.
+3664420	3665420	Okay.
+3665420	3670020	I mean, I guess I mean, that's what I thought when the initial lawsuit was that they're
+3670020	3672800	saying that, listen, that's intellectual property.
+3672800	3674460	You can't do that.
+3675460	3680620	More like, I don't know, like, there's lots of things that they've had that like, people
+3680620	3686740	have made designs for remember when we used to have like faceplates for the Xbox 360?
+3686740	3691100	I don't know if those were necessarily licensed from Microsoft.
+3691100	3692660	I don't know.
+3692660	3698580	It seems silly, but there's a little bit more for that they they have a different texture
+3698580	3701580	on it than the official ones.
+3701580	3704440	And their face button designs are a little different.
+3704440	3711400	So I think that they're relying on that 50 percent difference thing to bypass the copyright.
+3711400	3712400	I see.
+3712400	3713400	So we'll see.
+3713400	3714400	Interesting.
+3714400	3715400	Yeah.
+3715400	3719960	S.J. 100 Matt in our chat at Twitch.TV slash Vogue Network says doesn't seem very friendly
+3719960	3721160	reaction by them.
+3721160	3722600	Not really Canadian.
+3722600	3723600	That's true.
+3723600	3726880	This is a very this is a very this is very aggressive for Canadians.
+3726880	3731200	I'm just pointing out, you know, I think it's very clearly Canadian.
+3731200	3733640	Yeah, I get it.
+3733640	3734640	I get it.
+3734640	3736320	This pandemic has clearly changed us all.
+3736320	3737320	All right.
+3737320	3739320	I've been watching way too much Fuzzy Bear.
+3739320	3740320	Waka waka.
+3740320	3741320	All right.
+3741320	3742320	Next story, Loki.
+3742320	3743320	All right.
+3743320	3750840	So I don't remember if we talked about this last week, but CG product red had been hacked
+3750840	3758000	and hackers had stolen the source code for several games, including Witcher three, Cyberpunk
+3758000	3759160	2077.
+3759160	3763240	There is also a Witcher three.
+3763240	3767080	I think an RTX version of Witcher three or something like that that hasn't been released
+3767080	3770720	yet and some other stuff.
+3770720	3777840	So yeah, along with that, there was also investor information, H.R. information, stuff like
+3777840	3778840	that.
+3778840	3783480	They had originally made the threat that to see your product read that if you don't pay
+3783480	3790160	us the money that we're asking for, we're going to sell it the black market basically.
+3790160	3793440	And CG product red said, nope, we're not paying you.
+3793440	3796640	And so they went ahead and sold it on the black market.
+3796640	3804800	So apparently through this exploit forum posts, they were asking for a starting bid of $1
+3804800	3811480	million and a otherwise a kind of a bite now price of 7 million.
+3811480	3817560	But apparently, though, based on some of the posts there, they have a buyer that they found.
+3817560	3826120	And so someone did purchase the information for apparently a decent price, according to
+3826120	3827960	the person that posted it on there.
+3827960	3836080	So we'll see what that was one of the Project Red people that did it like in disguise or
+3836080	3837080	something.
+3837080	3838080	One of the CEOs.
+3838080	3839080	I don't know that.
+3839680	3843800	So they basically said that they're not going to be posting, they're not going to be leaking
+3843800	3845560	out any of the source code or anything.
+3845560	3851360	Whoever bought it is going to be the one that basically gets the source code.
+3851360	3855320	I don't know what they're going to do with it or who would have bought it, but I don't
+3855320	3856320	know.
+3856320	3863760	Well, I'm saying if they had an employee or something with their funds earmarked for it,
+3863760	3874520	they could in theory make the purchase, retain their information and still have stuck to
+3874520	3875520	their guns.
+3875520	3876520	Make sense?
+3876520	3877520	Yeah, maybe.
+3877520	3882720	But it'd be weird, though, if they did purchase it and then but said that they weren't going
+3882720	3883720	to deal with them.
+3883720	3884720	I don't know.
+3884720	3885720	It's kind of weird.
+3885720	3888680	Technically, the company is not dealing with them.
+3888680	3893520	Somebody for them is dealing with them, just to think of it.
+3893520	3896840	There's actually an Internet conspiracy theory that goes even further.
+3896840	3899720	Bobby Blackwilven's chat says, read the ransom note, lol.
+3899720	3903180	You did such a good job, Bobby, on your show tonight that I don't feel the need to try
+3903180	3904180	to one up it.
+3904180	3906000	Go check out the clip.
+3906000	3910240	But one kind of like Internet conspiracy theory that Bobby kind of went into on his show a
+3910240	3916080	little bit is the thought that CD Projekt Red may have made this whole thing up.
+3916080	3922960	Now this meaning that they essentially never lost their code and that they set this whole
+3922960	3924640	thing up start to finish.
+3924640	3929860	Now this gets a little bit dicey because if law enforcement is involved and they made
+3929860	3936600	it up, then they're probably breaking a much bigger law by doing that than having their
+3936600	3939440	source code out there.
+3939440	3944480	But I don't think I mean, kind of like where Dark Soccer was going, where like an employee
+3944480	3948440	could kind of do it and then it's not actually CD Projekt Red.
+3948440	3951360	I really don't think that's outside the realm of possibility at all.
+3951360	3956400	I think one of the CEOs could have done it if it's legit.
+3956400	3958960	But there's there's the Internet conspiracy theory that the whole thing's alive.
+3958960	3964920	Just like make us like, oh, we'll forgive Cyberpunk being, you know, the way it is right
+3964920	3968720	now because you had your stuff, you know, stolen.
+3968720	3970880	Oh, we feel bad for you.
+3970880	3972880	All is forgiven.
+3972880	3974800	No, no.
+3974800	3979300	It could be one of those you have to go down to go up sort of things.
+3979300	3983460	And if the hacking or whatever, the stealing of the source code caused the stock price
+3983460	3989340	to go down, then the news that somebody has saved the source code and prevented it from
+3989340	3993300	being leaked is going to cause the stock to go up.
+3993300	3994460	Just a thought.
+3994460	3995580	I kind of agree.
+3995580	3998860	I don't know what the angle really is to make the whole thing up.
+3998860	4002380	Wall Street Bets is behind it the whole time.
+4002380	4004800	Except I don't think CD Projekt Red is on Wall Street.
+4004800	4006580	It's a different stock market.
+4006580	4011760	They're using their GameStop tendies to buy black market source code.
+4011760	4014180	How much have you lost on the GameStop game, Loki?
+4014180	4015180	50 bucks.
+4015180	4016820	No, that's not too bad.
+4016820	4018140	I only bought one share.
+4018140	4019140	It's fine.
+4019140	4021580	I haven't lost anything because I haven't sold it yet.
+4021580	4026100	So it's all theoretical losses at the moment.
+4026100	4029540	Hopefully you'll make that money back on Pixel Poop's number two sales.
+4029540	4033380	Well, I made that money back on Bitcoin.
+4033380	4036420	No, not Bitcoin, but Dogecoin.
+4036420	4039420	I've already made that money back on Dogecoin, so it's fine.
+4039420	4044340	But I wasn't playing it to make, I mean, I was playing the stock market to make some
+4044340	4048580	money, but I wasn't like, if I lose this money, it's like, oh, whatever, you know, gambling
+4048580	4049580	basically.
+4049580	4050580	Yeah.
+4050580	4051580	All right.
+4051580	4053140	Well, moving on.
+4053140	4058420	We talked earlier in the show about how Crash Bandicoot number four is coming to PC at
+4058420	4059420	some point.
+4059460	4063940	Well, there was a pretty big announcement about another big franchise coming to PC,
+4063940	4066140	and I'm not sure a lot of people saw this coming.
+4066140	4071100	I don't think people really expected that this was a series that was kind of targeting
+4071100	4072820	PC, but it's going to happen.
+4072820	4076600	And that is Kingdom Hearts is coming to PC.
+4076600	4078220	Which Kingdom Hearts?
+4078220	4085100	Pretty much all of them are coming to PC, meaning Kingdom Hearts, the HD 1.5 and 2.5
+4085100	4090340	remix, that jumbo collection that has like all the early Kingdom Hearts games, Kingdom
+4090340	4098300	Hearts HD 2.8 final chapter prologue, the Kingdom Hearts 3 and the Remind DLC also coming
+4098300	4103780	to PC, and the recent Kingdom Hearts Melody of Memory also, I'm sorry, not Steam, coming
+4103780	4106180	to PC, actually very different.
+4106180	4111740	They are going to be Epic Game Store exclusives when they come out, and that's the other big
+4111740	4118220	surprise behind this, is that they are going to be exclusive on the Epic Store March 30th
+4118220	4120820	when they all come out.
+4120820	4127700	The 1.5 and 2.5 remix will cost 50 bucks, the rest will cost 60 bucks, and of course
+4127700	4133300	due to the needs on the PC of some of these games, they will vary in what they're going
+4133300	4138100	to require graphically in order for them to work, especially when you consider the older
+4138100	4147620	games were out a couple years ago, and Kingdom Hearts 3 is as recent as 2019, so yeah, big
+4147620	4148620	surprise there.
+4148620	4153980	I don't know if anyone's interested in playing that on PC again, but I think it's interesting
+4153980	4160620	that, again, we joke about the mods and how people kind of rip into the PC games that
+4160620	4166620	way, but we now have Kingdom Hearts, a Disney property that is going to, I mean it's not
+4166660	4171580	like it's the first Disney thing to ever be on PC, but I think of something at this level,
+4171580	4177260	it's kind of surprising a little bit, but I think it also just goes to show that there's
+4177260	4179660	a lot of money to be made on PC game sales.
+4179660	4185340	I think especially in, and I think this is always something important to consider, especially
+4185340	4193340	in territories outside the big ones we usually talk about, the US, Canada, and the big countries
+4193380	4197740	in Europe that are big video game countries, I think outside of that, especially when you
+4197740	4203500	get into countries like South America and so forth, you get a lot of PC gamers because
+4203500	4209220	consoles may not be as readily available, so I think that's, I think it's interesting
+4209220	4211900	because it allows the game to reach a wider audience.
+4211900	4215060	I'm curious what you think about that, Loki.
+4215060	4220360	I think it's exciting that they're coming to PC, mainly because I, well, I have a lot
+4220400	4225360	of these, at least I have Kingdom Hearts 3, I think I have the other ones as well on PlayStation
+4225360	4231720	right now, but I just haven't gotten around to playing them, but maybe I'll play them
+4231720	4237180	on PC if I buy them again, or maybe I won't because I'll just own another copy, it'll
+4237180	4242080	rot away in your library, go into my library, hey, maybe I can use this free time to play
+4242080	4244080	all these games I haven't played yet.
+4244080	4245080	What?
+4245080	4248160	You haven't thought about your next game?
+4248160	4252560	I have so many next games, it's not even funny.
+4252560	4258520	Phoenix7726 in chat says, 60 bucks was way too much for 2.8 on PS4 and it still is on
+4258520	4259520	PC.
+4259520	4261240	I'm kind of of that mindset.
+4261240	4265200	These games have been on sale, I don't know how many times at this point, I'm not gonna
+4265200	4271840	pay full price for these games on PC, but by the time, you know, the holidays come around,
+4271840	4276600	they'll all be half off, so I might dip into one of them at that point.
+4276600	4281440	I don't know, I need to spend some money on upgrading my PC, I think, just because it's
+4281440	4284720	a few years old at this point and I don't see something like Kingdom Hearts 3 running
+4284720	4288140	very well on it at all, so we'll see.
+4288140	4291680	But I find the news fascinating, because it's one of those things where it's like, I don't
+4291680	4295120	think there were a lot of people asking for this, but then again, maybe I'm just spoiled
+4295120	4300360	because okay, I have Xbox, I have PlayStation, maybe there were gamers in other places that
+4300360	4305120	were asking for this that only game on PC and they got it.
+4305160	4307400	It was just a surprise that it actually happened, I think.
+4307400	4311320	So anyway, that'll be in March.
+4311320	4313800	Let's move on to our next story, Dark Sakura.
+4313800	4319720	There have been some interesting trademarks that have shown up recently.
+4319720	4324320	It was actually earlier this week, there is a trademark for The Legend of Zelda Phantom
+4324320	4333880	Hourglass, and then we also have for Ocarina of Time and Wind Waker.
+4333880	4339640	So maybe we are getting updated versions of those games, especially for the 35th anniversary
+4339640	4341840	of The Legend of Zelda.
+4341840	4345160	They're going to do the same thing they did with All-Stars on the Switch, but just do
+4345160	4346680	it with Zelda.
+4346680	4347680	They better not.
+4347680	4349320	That's going to be terrible.
+4349320	4353440	They are, because I totally get it called up they are, because they already have the
+4353440	4356440	emulators built for those other systems.
+4356440	4359520	That's why you have All-Stars the way it is right now.
+4359520	4362080	I think it was emulating those older games.
+4362080	4366040	So now we just pop some Zelda games in there, run them off the same emulators.
+4366040	4368000	Makes perfect sense to me.
+4368000	4370920	And they're going to do the limited time thing again, you think?
+4370920	4371920	Yes.
+4371920	4375600	That would be foolish.
+4375600	4381920	It would be foolish, but it would be the Nintendo way, because when something can't have a shortage
+4381920	4385320	or an artificial shortage, create an artificial shortage.
+4385320	4389680	In the case of digital goods, where there literally isn't infinite supply, but we're
+4389680	4394800	going to make it short for some reason.
+4394800	4397800	That Mario 3D is in the top selling list.
+4397800	4398960	I don't like it either.
+4398960	4406640	I don't think it's in the top selling because of the fact that it's not artificially scarce.
+4406640	4411320	I think people are going to buy it anyways, but it's stupid.
+4411320	4412320	It really is.
+4412320	4417720	If they think that's just going to drive the price up, I mean, I guess, but it's not like
+4417720	4419320	it's going to come down in price anyways.
+4419320	4422760	They don't drop the price of any of their games, like hardly ever.
+4422760	4426960	So that's why they're pulling it.
+4426960	4430360	We'd rather pull it than see it go on sale.
+4430360	4434080	It doesn't go on sale, even if they weren't going to pull it.
+4434080	4443200	I think just recently, Splatoon 2 had come down to $49.99, and I think that was just
+4443200	4444560	a limited time sale.
+4444560	4448680	I mean, they never put their games on sale anyways.
+4448680	4453280	I don't think that there would be any risk of this, whatever.
+4453280	4458480	I'm not even going to try to guess what Nintendo's thinking because it's going to hurt my brain.
+4458480	4463000	Dr. Tetsuya in chat says, my theory is that the Mario stuff ends in March, right?
+4463000	4466520	Maybe they'll move on to Zelda after it's all done, and there might be another collection
+4466520	4469920	involved.
+4469920	4471280	It would make sense.
+4471280	4475640	Again, as much as I also hate the limited time thing, it just seems like a very Nintendo
+4475640	4476640	thing to do.
+4476640	4483640	And I think the story Dark Soccer just reported on, it's one of those where there's smoke,
+4483640	4486120	there's fire type of things, but we'll see.
+4486120	4489000	We haven't really had any updates from Nintendo in quite some time.
+4489000	4492560	So I think most of us are just looking forward to some type of official Nintendo update.
+4492560	4499160	I mean, we haven't had a legitimate Nintendo Direct since the pandemic began.
+4499160	4500160	Am I right?
+4500160	4503840	We've had some minis, we've had some indie showcases.
+4503840	4507520	I don't think we've had a full-on Nintendo Direct since the pandemic began.
+4507520	4512160	It's been a long time.
+4512160	4519000	We had one since the pandemic because we had one during their E3 time.
+4519000	4521640	Didn't we have something around that time, I thought?
+4521640	4525120	I thought we didn't even get that, to be honest, but I think you're right.
+4525120	4528040	I think we did get some type of little mini showcase right around in there.
+4528040	4529040	You're right.
+4529040	4530040	You're right.
+4530080	4532080	Still, even then, that's like six months ago.
+4532080	4533920	I don't think there's been anything since then.
+4533920	4539000	Well, they dropped, I remember that was one of the things where they dropped Paper Mario
+4539000	4540000	on us.
+4540000	4544880	Like, hey, by the way, it's coming out next month type of thing.
+4544880	4548000	I don't know why they don't do a Direct.
+4548000	4549000	All right.
+4549000	4555080	Well, moving on, let's talk about not a Direct, but a Drift.
+4555080	4561600	Yeah, you know, I don't understand why these companies can't get their hardware right.
+4561600	4570120	Like if you're a company like Sony and you saw that, hey, Nintendo released these Joy-Cons
+4570120	4573680	and they're having issues with their analog sticks drifting.
+4573680	4574680	Let's use the same parts.
+4574680	4576440	That'd be a great idea.
+4576440	4581520	So like apparently now they're having the same issue with drifting.
+4581560	4587840	I'm assuming it's coming from the analog sticks, the same parts with that.
+4587840	4593760	It's just beyond stupid at this point and I'm sure they're going to play it down.
+4593760	4598920	But apparently people complained and you can get it fixed, but it is a pain in the ass
+4598920	4603080	to do it.
+4603080	4606620	I just wish that they would just do some damn research.
+4606620	4609300	What is wrong with the analog sticks we used to have?
+4609300	4612220	Like the ones from like the Xbox 360.
+4612220	4614220	Never had really drifting issues with that.
+4614220	4620260	I had a couple die, but they never got to the point where like it was drifting or we
+4620260	4625660	had it, was it with the PlayStation 4 where the rubber on them would just disintegrate.
+4625660	4630060	Like stop using cheap shit in your expensive consoles.
+4630060	4633820	I mean, come on, just fix this shit.
+4633820	4639940	If I'm paying like, what is this, controllers probably like at least like $60, $70, if I'm
+4639940	4648100	paying $70 for this crap, put some damn analog sticks in it that are actually going to last.
+4648100	4653260	Or is this on purpose so I have to buy more of your damn controllers?
+4653260	4654660	Absolutely on purpose.
+4654660	4659820	Well, that's how you get class action lawsuits and then nobody wins.
+4659820	4665540	But seriously, you don't want to be known as a company that puts out like fucking cheap
+4665540	4666540	shit.
+4666540	4671580	I mean, seriously, this is annoying.
+4671580	4675340	It's hard for me to comment because I still don't have a PlayStation 5.
+4675340	4679460	When I hear kind of news like this, I kind of go, oh, maybe it's a good thing I waited.
+4679460	4683060	Maybe they'll be able to work this out before I decide to jump on board with the PlayStation
+4683060	4685060	5 finally.
+4685060	4687700	The chat is lighting up about this a little bit.
+4687700	4691780	Sia Tabiri in chat says, didn't it take almost a year for Joy-Con Drift to be a thing?
+4691780	4694620	I think maybe for people to discover that.
+4694620	4699540	I don't think it took a year, but it's a similar kind of length of time, I think.
+4699540	4700540	S.G.O.
+4700540	4704820	and Hunter Matt says they cut corners to save as much as they can on the console or controller.
+4704820	4707620	Quest Buster says two words, cost savings.
+4707620	4711020	So a lot of people saying that even though it's an expensive console, it doesn't mean
+4711020	4715800	they still don't nickel and dime where they can to produce it cheaply so they don't lose
+4715800	4720040	as much money with every console that they sell.
+4720040	4721680	All right.
+4721680	4724560	Let's move on to a follow up from something last week.
+4724560	4729760	So we talked a little bit about Google Stadia last week and how they were no longer going
+4729760	4731840	to be making first party games or exclusives.
+4731840	4737000	And a lot of people, including us to an extent, were kind of saying, well, this is the beginning
+4737000	4741300	of the end for Stadia because a system is only as good as the games that are on it.
+4741300	4745280	And if Google is not going to make their own games anymore to push their own console or
+4745280	4748960	you know, cloud console, whatever you want to call it, then the idea is pretty much dead
+4748960	4749960	in the water.
+4749960	4755320	Well, I think Google is seeing the way that people online are reacting to this.
+4755320	4760240	So they decided to put out a statement this week, an announcement that said there are
+4760240	4763900	over 100 games coming to Stadia this year.
+4763900	4766720	So that's what they said in their post.
+4766720	4769380	They even dated some of the games.
+4769380	4776060	FIFA 21 on March 17th, an action RPG title called Judgment on April 23rd by the folks
+4776060	4781540	behind Yakuza, Shantae Half Genie Hero Ultimate Edition, as well as Grisky Revenge.
+4781540	4787340	Anyway, obviously I can't read all 100 games on air, but Google is kind of going out there
+4787340	4792220	to say, hey, you know, there's still all of this that is coming to Stadia.
+4792220	4800100	So it was interesting that they kind of put that out there after they see again, I don't
+4800100	4804660	know if I were managing the company, I would have put this out at the same time as the
+4804660	4805980	prior announcement.
+4805980	4809700	I don't know why the way that they announced that they have 100 games coming out because
+4809700	4814760	even still, you're going to have who cares if you still have to purchase those games
+4814760	4815760	on those platforms.
+4815760	4820060	And it's not that I don't trust that there's going to be games on time script.
+4820060	4822020	First off, none of those are exclusive to Stadia.
+4822020	4823020	None of them are exclusive.
+4823020	4824020	Yeah.
+4824020	4825020	Like, why do I even bother?
+4825020	4826900	And second, it's Google is the one running it.
+4826900	4831980	So you know that if they're not backing it up, then that's it.
+4831980	4833220	They can pull the plug in any time.
+4833220	4836640	It doesn't matter how many games they have on the platform.
+4836640	4840820	If Google themselves isn't interested in it and they go to something else that's shiny
+4840820	4843820	instead, then it's gone.
+4843820	4847700	All those games you purchased, well, too bad.
+4847700	4849980	I mean, like, I don't know.
+4849980	4851540	Like it's, it's silly.
+4851540	4855380	So like, I would think if I'm going to purchase those games in particular, and especially
+4855380	4860620	some of those I've already been on other platforms, um, I'm just going to purchase those on PC
+4860620	4866100	or another platform that has those because I know that those platforms aren't going away.
+4866100	4867860	It just seems very risky.
+4867860	4870540	I'll tell you one game that's not coming to Stadia.
+4870540	4872820	Some of you may have heard about this as well.
+4872820	4878200	So the game Terraria, which is kind of like a 2D version of Minecraft, uh, this game's
+4878200	4879200	pretty old.
+4879400	4881400	It's been out a long time.
+4881400	4882400	Yeah.
+4882400	4883400	Yeah.
+4883400	4884400	Oh yeah.
+4884400	4885400	It's very popular.
+4885400	4887720	It's on a lot of console at pretty much every console out there, but it will not be going
+4887720	4888720	to Stadia.
+4888720	4890440	And why is that happening?
+4890440	4897200	Because the, uh, CEO behind, uh, re logic, who is the Terraria co-creator Andrew Spinks
+4897200	4900000	went up, popped off as they say on Twitter.
+4900000	4904200	But honestly, I, you know, hearing this side of the story, I get where he's coming from,
+4904200	4906780	uh, apparently, and I'll just read the tweets.
+4906780	4910460	My phone has lost access to thousands of dollars in apps on Google play.
+4910460	4914660	I had just bought LOTR Lord of the rings 4k and I can't finish it.
+4914660	4916420	My Google drive data is completely gone.
+4916420	4918320	I can't access my YouTube channel.
+4918320	4922100	The worst of all is losing access to my Gmail address of over 15 years.
+4922100	4926860	I absolutely have not done anything to violate your terms of service so I can take this no
+4926860	4929700	other way than you deciding to burn this bridge.
+4929700	4933140	Consider it burned Terraria for Google Stadia is canceled.
+4933140	4936760	My company will no longer support any of your platforms moving forward.
+4936760	4944220	So essentially this guy got some type of ban on a Google product, which I think they're
+4944220	4946360	saying was a YouTube thing.
+4946360	4953080	Uh, demi logic, which is the, uh, parent account for re logic, got a notice from YouTube saying
+4953080	4955760	it was in violation of the site's policies.
+4955760	4960120	But of course they don't know what it is and they hadn't uploaded anything in three months
+4960120	4965480	and it's not like they're producing, you know, R rated content and things like this.
+4965480	4968480	Like there really is no explanation for the ban.
+4968480	4973520	And this plays into the scary reality, you know, and I'm one of those people that I have
+4973520	4974880	a lot invested in Google.
+4974880	4980240	I've been using Gmail as, as one of my main emails for a very long time.
+4980240	4985560	And you know, it is scary if I were to, you know, put up a YouTube that got myself banned
+4985560	4987580	or something, I would lose access to all this stuff.
+4987580	4988760	And it's kind of scary.
+4988760	4993240	And what's really scary about it is that there's no fucking human being at Google.
+4993240	4995120	That's willing to answer these questions.
+4995120	4999680	Or if there is a fucking human being, it's not one that has any fucking compassion or
+4999680	5002880	one that can go off of a script whatsoever.
+5002880	5011240	It is a, all you, I guarantee it an outsourced, lower than minimum wage person that is paid
+5011240	5016920	to stick to a script and can't do anything outside of that script.
+5016920	5022940	And that is the behavior from Google that I really should change.
+5022940	5027140	You know, these whole like, well, you got banned, can't do anything about it.
+5027140	5032060	Like there needs to be real people to talk through these issues with.
+5032060	5037640	It's horrible customer service to do the alternative.
+5037640	5039580	And that's what's happening.
+5039580	5041740	And it's, it's kind of not just Google.
+5041740	5046560	And again, I'm deferring to something that came up on Bobby's show because he gets to
+5046560	5047560	go before us.
+5047560	5049900	So sometimes he beats us to some points.
+5050380	5055280	He talks about Facebook and Oculus and why a lot of people are turned off from the new
+5055280	5060780	Oculus Rift devices, because in order to use them, you have to have a Facebook account.
+5060780	5063580	And if your Facebook account gets banned, guess what?
+5063580	5069860	And Dark Sakura, I saw you playing around on Facebook earlier, kind of trying to get
+5069860	5072180	banned doing stuff.
+5072180	5074020	So I'm trying to see where the limit is.
+5074020	5079880	So basically you're trying to challenge the bot on Facebook that bans things for just
+5079880	5081360	saying certain phrases.
+5081360	5082360	Yeah.
+5082360	5085240	I went to, cause I tried whore.
+5085240	5090400	One of my friends got a ban for saying, for saying that they were a whore for something.
+5090400	5091400	So I did whore.
+5091400	5092400	I did slut.
+5092400	5093560	I did man slut.
+5093560	5101080	I'm not going to do child porn just because that makes me feel disgusting, but, hold on.
+5101080	5102080	I did another one.
+5102080	5103080	Let me see.
+5103080	5106680	Well, and you should stick to things that have legitimate reasons for talking about
+5106680	5107680	them.
+5107680	5109680	Like whore, you know, there might be a little bit.
+5110680	5117600	You know, and honest, you know, and, and the, the phrase die bitch, while it might sound
+5117600	5122040	harsh, you know, if I'm talking to my friend or something, if we're being catty, if we've
+5122040	5123040	had a company.
+5123040	5124040	No, bye.
+5124040	5125040	B-Y-E.
+5125040	5126040	Oh, bye bitch.
+5126040	5127040	Oh, I'm sorry.
+5127040	5128040	I thought you said die bitch.
+5128040	5129040	Well.
+5129040	5130040	No.
+5130040	5131040	I mean, I tell people that.
+5131040	5133240	I don't tell people that because I take like suicide stuff.
+5133240	5134440	I don't joke about that.
+5134440	5135440	Yeah.
+5135440	5139080	But you know, if it, but I could see other people like that are friends and if they're
+5139080	5144000	just being catty with each other, you know, and somebody says like, you know, oh, I get
+5144000	5149560	the whole week off work because die bitch, you know, like I'm so jealous, you know, like
+5149560	5153240	that's between them and that shouldn't get them banned from Facebook for doing something
+5153240	5154520	like that.
+5154520	5159240	Especially not bye bitch because I probably said that myself on January 20th.
+5159240	5165800	But anyway, I'm going to chat for some other comments.
+5165800	5169480	Tiger Claw says, Google does not have a good track record when they create new services.
+5169480	5171920	They ultimately, at some point, get shut down.
+5171920	5174860	As 200 Matt says, my work uses a lot of Google workspace stuff.
+5174860	5177940	We use it for two-factor auth, sheets, doc, drive, email.
+5177940	5183040	If we were to lose that, then we would, they'd be very challenged to do their work.
+5183040	5187320	Unfortunately, it's a corporate decision, but we're forever beholden to Google.
+5187320	5192920	So I think this, if nothing else, this Terraria news should really make a lot of people kind
+5192920	5198320	of go like, maybe I need to reevaluate this Google thing.
+5198320	5203680	You know, Google's done a lot of great stuff, but as we're starting to peel back some of
+5203680	5208040	the layers here, especially with how they've botched Stadia, and now we have this news
+5208040	5213720	and everything, like you find that Google is not always a well-run company.
+5213720	5218360	And there's very, I mean, there's lots of people that work at Google, very few who can
+5218360	5220520	help you out with these types of issues.
+5220520	5221880	And that's a problem.
+5221880	5225840	You know, and they lost the guy who made Terraria as a result.
+5225840	5230240	So yeah, and Bobby Blackwell for the great point, Google used to have the motto, don't
+5230240	5231240	be evil.
+5231240	5233760	They removed that motto about 10 years ago.
+5233760	5235280	So evil is okay.
+5235280	5242920	Yeah, I remember that they did that because they were a lot of staff contesting some of
+5242920	5245960	the military contracts that they were taking or not taking.
+5245960	5249760	I don't remember what exactly, I think they denied taking some of those.
+5249760	5250840	Yeah.
+5250840	5254960	So anyway, they lost Terraria.
+5254960	5258520	I mean, I don't think there were a lot of people lining up to play Terraria on Stadia
+5258520	5263160	and that's no disrespect to Terraria, but I just think that game is on so many other
+5263160	5264160	platforms.
+5264160	5266280	You can very easily play it.
+5266280	5268040	It's on Android devices already.
+5268040	5269040	It's on mobile.
+5269040	5270040	It's on iOS.
+5270040	5277080	I mean like, I would never like even like on like, say like a Chromebook or something
+5277080	5281360	like that, like let's just take the least powerful thing.
+5281360	5284360	I think those could still run Terraria.
+5284360	5288960	Like there's literally no reason to play it on Stadia and a lot of these, like even Shantae
+5288960	5293760	and stuff, there's no reason for me to buy it on that platform, like, cause that I don't
+5293760	5296800	think you're going to need a very powerful PC to run that.
+5296800	5301440	It just doesn't make sense as an offering on that platform.
+5301440	5305520	Cyberpunk makes sense cause you need a beefy PC to be able to run that good.
+5305520	5310080	And that's a good use case for it, but all this other stuff makes no sense.
+5310080	5314480	And the fact that they've pulled their own internal support so there's no exclusive content
+5314480	5319160	on those platforms, that shows me how much faith they have in that platform.
+5319160	5320160	Not very much.
+5320160	5324280	And so I would not be wanting to throw my money behind it.
+5324280	5328840	Bobby in chat says a Chromecast Ultra is still cheaper than a low-end PC to run Terraria.
+5328840	5329840	True.
+5329840	5334120	And this could be about, you know, gaming in other places where the electronics are
+5334120	5339640	harder to come by sometimes, but we could talk all sorts of ways about this, like who
+5339640	5341280	really wanted to play this or not.
+5341280	5346280	The point is it's not happening and it's because Google is not well run as a company in some
+5346280	5347280	areas.
+5347280	5348280	And Bobby also says...
+5348280	5355540	You can get an Xbox 360 for less than, I get better, Chromecast Ultra, that can run Terraria.
+5355540	5359960	And Bobby says a point I agree with in chat, as much shit as I give Apple, at least you
+5359960	5362280	can get in touch with an actual human there.
+5362280	5365640	So Apple is greater than Google ecosystem in that regard.
+5365640	5371400	And yes, and Google should probably take some notes that if they want to stop burning bridges
+5371400	5376760	with very important people by letting bots do that, they should take some notes here
+5376760	5381560	and consider setting up some type of customer service and they would create some jobs in
+5381560	5382560	the process.
+5382560	5386120	So, but I mean, it's all about pension pennies.
+5386120	5391560	And into what Bobby was saying about being available in areas where they may not have
+5391560	5393340	access to that stuff.
+5393340	5397100	I don't think it's available in very many countries that begin with.
+5397100	5399640	So like, I don't know.
+5399640	5400640	That's right.
+5400640	5401640	Stadia isn't available everywhere.
+5401640	5402640	You're right.
+5402640	5403640	You're right.
+5403640	5404640	It's limited.
+5404640	5405640	It doesn't have a point to me.
+5405640	5406640	I don't know.
+5406640	5410520	Let's move on to a much simpler time when we weren't...
+5410520	5412000	We didn't game in the cloud.
+5412000	5413000	All right.
+5413000	5414280	We gamed on cartridge.
+5414280	5415280	All right.
+5415280	5416880	Or maybe a CD.
+5416880	5417880	I don't know.
+5417880	5418920	It's a classic game of the week.
+5418920	5423160	And dark soccer is going to step into the gaming vault and find a game that she thinks,
+5423160	5425800	Hey, nerds, check this game out.
+5425800	5429400	You don't need, you don't need to be playing those newfangled Terraria games, even though
+5429400	5432960	it's actually probably eligible for classic game of the week at this point, but I digress
+5432960	5438520	because once a month dark soccer says, Oh, Oh, you get, you were getting comfortable
+5438520	5440280	with games every week, huh?
+5440280	5447120	Well, in a 2021 twist, dark soccer decides to find a flag.
+5447120	5454480	I said, F W A G a fucking weird arcade, a flag and a fucking weird arcade game to highlight.
+5454480	5459160	I'm excited because we've only had one of these so far this year, but now we're in February
+5459160	5461640	and we get to have our second flag.
+5461640	5468800	Well, our second flag, if you're ready for it, um, comes from Namco.
+5468800	5473400	So we're now getting into some of our, uh, popular vendors here.
+5473520	5478360	Um, so there's a game called, um, it's call me, you'll say gets nice.
+5478360	5479640	It's call me.
+5479640	5486440	Um, and the game is actually based off of Monzai, which is a kind of comedy routine.
+5486440	5492440	Um, and Monzai has existed in Japan since the Haeon period.
+5492440	5497560	Um, so, I mean, I'm sorry to interrupt, but I just want to state for the podcast listeners,
+5497560	5502720	there is no audio on the video this week because this is like the, the, it's very hard to find
+5502720	5504840	a video of some of these flags.
+5504840	5508440	So this is like some dude who has a ton of these games in a warehouse somewhere and he's
+5508440	5510320	showing this off and he's doing a lot of chatting.
+5510320	5514080	So just wanted to make sure you understand why you're not hearing this one, but Twitch
+5514080	5515080	can see it.
+5515080	5519840	Sorry, Jamie, but important to note, well, to put this into perspective, the Haeon period
+5519840	5527920	was between like 794 to 1185, um, uh, AE.
+5527920	5533800	So this is, this is a very, very old style of, uh, of, uh, comedy.
+5533800	5538440	Um, and basically the way that I have to give an explanation about the comedy first.
+5538440	5545000	So you have two performers called, um, Monzaishi, you have the straight guy, the tsukomi, and
+5545000	5546920	you have a funny guy who's bokeh.
+5546920	5554280	And they do these jokes back and forth really fast, including, uh, puns, uh, different kinds
+5554280	5557680	of double talk, uh, different type of verbal gags.
+5557680	5565840	And if you saw, um, uh, Kill Bill, I think it was volume, was it volume two or volume
+5565840	5569080	one when she got the Hanzo sword, I think it was the first one.
+5569080	5574520	Um, but that's kind of what Sony Chiba and the other guy, that's kind of the type of
+5574520	5576520	joking that they're doing with each other.
+5576520	5584240	Um, but at any rate, um, so a lot of the physical puns that go on with Monzai, they basically
+5584240	5590360	have taken some of that and, uh, put it into a game.
+5590360	5597680	So basically what this, this game is, is that you have to listen to, uh, the instructions
+5597680	5599480	in the game and you hit a color of text.
+5599480	5604360	So the text will have you hit a foot pedal to keep going to the next part of the act.
+5604360	5609520	And, um, and then there's like red text tells you to strike the bokeh, which is the dummy
+5609520	5610720	that's in front of the game.
+5610720	5614560	So you basically have to beat up a dummy for comedy points.
+5614560	5619560	Um, so you're graded on your timing and your accuracy.
+5619560	5625800	Um, and because this actually relies on, you know, different puns and Japanese verbal cues,
+5625800	5630160	you have to be pretty damn fluent to play, to play.
+5630160	5631160	Okay.
+5631160	5636920	Um, so basically you are playing the tsukomi and the dummy is the bokeh.
+5636920	5642920	So you have to, you know, trade those jokes and hit the dummy at the right time sometimes
+5642920	5646960	by smacking him or punching him or kicking him in the ass or something.
+5646960	5651240	So it's a physical comedy game.
+5651240	5657520	Um, at any rate, the game came out in 2002 in Japan.
+5657520	5661640	It was developed by Metro, um, and published by Namco.
+5661640	5666020	Um, the website for the game is actually still up.
+5666020	5671460	It looks like it's though, like meant for like a cell phone or some kind of tablet,
+5671460	5674860	but, um, it's, it's there.
+5674860	5683660	I haven't seen, I only found very limited information about it, but, um, I w for, for,
+5683660	5689580	um, the people in the chat, I'm listing the, uh, uh, what's the word I'm thinking of the
+5689580	5692220	URL, but I'll read it aloud.
+5692220	5700860	That's a Metro doc, uh, sorry, Metro dash japan.com slash game slash log slash O Y I
+5700860	5706180	underscore H P that's O W a R a I slash index.html.
+5706180	5709540	All right.
+5709540	5710540	That's it.
+5710540	5711540	Yeah.
+5711540	5716980	I mean, it's just, I mean a little bit more, it does run on the Namco system 10 hardware.
+5716980	5725300	Um, it, uh, uses the PlayStation S P U, uh, for their sound chips.
+5725300	5734140	Um, it's two mega Ram to make video Ram 50, uh, 512 KB sound Ram.
+5734140	5743860	I mean, it's, it's older, definitely older technology, but the, the system is definitely,
+5743860	5748060	it's dated of course, I mean by today's standards, but it is still, I mean, pretty, pretty interesting
+5748060	5749060	that it exists.
+5749060	5754540	I, I had never seen or heard of this and I thought I've seen a lot of wacky stuff.
+5754540	5758300	I did not know there was a game where like the whole point is to just slap somebody basically.
+5758300	5760460	And that's what you do is slap the dummy.
+5760460	5764100	Like when the dummy says something, you're listening for visual clues.
+5764100	5771060	I mean, basically it's interactive comedy where you are one of the comedians.
+5771060	5776540	I mean, in its most base form.
+5776540	5777540	That's what it is.
+5777540	5778540	Yeah.
+5778540	5783140	And Bobby Blackwell says, I can't believe there's an entire game about pooping.
+5783140	5784140	Yep.
+5784140	5785900	People, people make games about weird stuff.
+5785900	5789140	All it's, it's, I guess one of the big rules of the internet.
+5789140	5790140	Yeah.
+5790140	5797580	Well at any rate, um, so that's what, what I have chosen for the game.
+5797580	5801380	Uh, uh, it's call me, you'll say gips.
+5801380	5804340	Nice call me.
+5804340	5805340	All right.
+5805340	5806340	There it is.
+5806340	5810320	Not just your classic game of the week, but your fucking weird arcade game of the month.
+5810320	5811540	It is pretty fucking weird.
+5811540	5812540	I mean, it's interesting.
+5812540	5816980	It's, it's really novel concept, but yeah, there wouldn't be a way to make that work
+5816980	5817980	in America.
+5817980	5819060	How did you even think of that one?
+5819060	5820780	Did you see it somewhere once?
+5820780	5827060	Um, yeah, I had seen it, uh, a video about it a while back.
+5827060	5828820	And it just sort of stuck in my head.
+5828820	5834660	So I basically just looked up like Japanese comedy punching game.
+5834660	5835660	Okay.
+5835660	5840140	Um, and that's how I found the game because I couldn't remember the, the name of it, you
+5840140	5841140	know?
+5841140	5842140	Well, yeah.
+5842140	5847460	So, but Hey, you know, it's, it's definitely, definitely interesting.
+5847460	5855260	And most importantly, for the record, it's to call me T S U K K O M I when Romanized.
+5855260	5856260	All right.
+5856460	5857460	All right.
+5857460	5858460	Good pick.
+5858460	5861100	So it has nothing to do with scum, orange, right?
+5861100	5867140	I like, I like these ones, uh, where it's a game I have literally never heard of and
+5867140	5868380	I learned something a little bit.
+5868380	5872900	So I feel like these flags, the fucking weird arcade games, I feel like a lot of these are
+5872900	5874140	going to deliver on that.
+5874140	5877700	So looking forward to seeing what else you have in store.
+5877700	5882100	It's definitely to expand our horizons just a little bit.
+5882100	5884700	Sometimes when to places we don't need them to go.
+5885140	5886140	All right.
+5886140	5887140	Whether you want it to or not.
+5887140	5888140	Yeah.
+5888140	5889140	All right.
+5889140	5893180	Let's do some news, rapid fire style and travel around and check out some other headlines
+5893180	5894180	real quick.
+5894180	5895860	Uh, Loki, we'll start with you.
+5895860	5896860	Yeah.
+5896860	5901140	So we have a release date now for the new ratchet and clank game rip the part, which
+5901140	5905060	is going to be coming out in June on the 11th.
+5905060	5910140	And that was announced on the PlayStation blog, uh, by Insomniac games.
+5910140	5911140	So pretty awesome.
+5911140	5916020	And they said, in addition, the game will feature a few graphic modes as well.
+5916020	5918660	They're going to have a four K 30 FPS mode.
+5918660	5923420	And then of course one that's at 60 FPS running at lower resolution, that's kind of similar
+5923420	5925900	to what they had like Spiderman miles Morales.
+5925900	5929060	Uh, so yeah, that's pretty cool.
+5929060	5933060	And then, um, Minecraft dungeons is still doing incredibly well.
+5933060	5939220	They just hit 10 million players and it's expected to get some more DLC as well.
+5939220	5945180	Um, admittedly I have this game and have not played it yet, so I need to go and actually
+5945180	5947660	check it out because it's cute.
+5947660	5951180	It really invokes like an old Diablo kind of style.
+5951180	5953660	I enjoy, I need to go back and play it again.
+5953660	5956060	Um, but I enjoyed when I played a bit.
+5956060	5957060	It's cute.
+5957060	5958060	Yeah.
+5958060	5960180	So I'll have to definitely check it out.
+5960180	5962180	All right.
+5962180	5967420	Well let's travel on to some other headlines here, including a new classic games announced
+5967420	5969180	for Nintendo switch online.
+5969180	5976460	Uh, there will be some new additions for the super Nintendo and Nintendo, uh, uh, collections
+5976460	5977460	for the super Nintendo.
+5977460	5982580	We're going to get doomsday warrior prehistoric man, psycho dream.
+5982580	5985260	And for the NES, we get fire and ice.
+5985260	5989140	And those are all being added in just a few days, February 17th.
+5989140	5993120	And I got to say, we're really reaching here at this point.
+5993120	5997180	Like honestly, no guardian legend.
+5997820	5998820	What's that?
+5998820	5999820	Psycho dream.
+5999820	6000820	Isn't a bad game.
+6000820	6001820	Oh, I see.
+6001820	6005460	I was, I was going to say, if I remember, and I remember a little bit of prehistoric
+6005460	6009620	man, just, I think I played that once, but I don't remember it being that good.
+6009620	6010620	What did you tell?
+6010620	6011620	Tell a little more about psycho dream.
+6011620	6012620	Oh gosh.
+6012620	6015500	I haven't played this game in like for freaking ever.
+6015500	6020140	So I, I just remember that it was really, that it wasn't too bad.
+6020140	6023140	Um, and who knows, maybe I was going to do it for a classic game.
+6023180	6027940	Well, and what's interesting is that it's, um, it's also bearing the Famicom logo.
+6027940	6030100	So is this one of those games that was never actually.
+6030100	6036540	Yeah, it was Japan only there had been a, um, a, uh, uh, fan translation, of course,
+6036540	6042340	but basically you're playing as this character, either named Leo or Maria.
+6042340	6047900	And so Rio is like a, like a swordsman and she's like an angel with a whip.
+6047900	6051860	So um, so basically it's just like an, uh, an action game.
+6051900	6057220	Um, so you're, um, you just have to go through the game.
+6057220	6058940	You have a time limit to defeat enemies.
+6058980	6063020	Um, and it's set in like modern day Japan.
+6063380	6068140	So kind of, it's, it's got a weird story to it.
+6068140	6072780	I will admit that, that it's sort of like a virtual reality based story, but there's,
+6072860	6074340	it's, it's weird, but it's not bad.
+6074380	6074980	It's not bad.
+6074980	6078860	I mean, it wasn't a great game, but I thought it was fun.
+6078900	6079420	I mean,
+6080020	6084660	well, on your recommendation, I will check it out when these, uh, uh, hit the Nintendo
+6084660	6089900	switch online on February 17th, I will say fire and ice groundbreaking, you know, it's
+6089900	6095100	not like florals for spring, but it is, it is, it is an intro, you know, I do enjoy when
+6095100	6098580	we get the games that were never released here, kind of like the Mario P cross in the
+6098580	6099260	last update.
+6099540	6102220	So, you know, I'll, I'll, I'll check it out.
+6102220	6102660	Why not?
+6102700	6104060	I'm paying for Nintendo online anyway.
+6104300	6108540	I will say though, um, fire and ice, if you didn't already know, um, out there, um, is
+6108540	6112220	actually Solomon's key to basically, um, in fact, I believe that's what it was called
+6112220	6112740	in Japan.
+6113100	6117380	Um, actually, yes, because, uh, Japan also is getting their updates.
+6117580	6121260	So what's interesting, Japan is now getting Mario's super P cross, even though we already
+6121260	6121660	got it.
+6121900	6123860	They're also getting sire psycho dream.
+6123900	6128620	They're getting Solomon's key to which same thing as fire and ice, but the third one,
+6128620	6132020	instead of prehistoric man, they're getting shimagami tensei too.
+6132380	6138260	I want, yeah, well, you, it's very easy to, uh, make a Japanese account and
+6138260	6139300	download that client.
+6139660	6142620	And, uh, you don't have to pay like for a Japanese online.
+6142620	6143380	You don't have to do all you do.
+6143420	6146380	All you're doing is going in to get the client and then you play the client on your
+6146380	6147460	American account and it's fine.
+6147460	6149540	Except I don't read that well.
+6150260	6153220	Oh, and it's going to require, uh, gotcha.
+6153220	6153620	Gotcha.
+6153660	6154060	Yeah.
+6154140	6158220	Well, I am maybe a third through my kanji course.
+6158300	6158660	Got it.
+6158660	6163380	Well, you're going to have to sit there with your, uh, FAQ that's translated.
+6163420	6163740	All right.
+6164220	6167060	My, with my translation app that I can use my camera for.
+6167420	6167900	All right.
+6168340	6173300	Uh, and one other quick, uh, kind of story here has to do with the upcoming Mario
+6173300	6175180	brothers movie that we know is happening.
+6175180	6179300	And folks are wondering, will the definitive voice of Charles Martinet
+6179540	6181980	actually be voicing Mario in the movie?
+6182180	6186500	Well, um, Charles Martinet actually did a convention that was virtual this weekend
+6186500	6188540	called galaxy con live.
+6188860	6192180	Uh, and he was asked about his thoughts on the movie.
+6192380	6197580	And some of the comment was, if they invite me to play, I'll go in and play
+6197580	6200580	with great joy and happiness now.
+6201220	6202180	Who knows?
+6202780	6203820	Some wonder.
+6203860	6204220	Okay.
+6204220	6208940	Well, if they haven't asked him by now, that's not a great sign, but he could be
+6208940	6209500	faking it.
+6210260	6213980	However, I think the reality is I love Charles Martinet.
+6213980	6214500	I do.
+6214540	6219300	And I would love to see him actually be the voice of Mario, but I think since they
+6219620	6225740	plan to have Mario speaking fluent, fluent language, cause we know that the voice
+6225740	6228260	that Charles Martinet gives Mario, which is iconic.
+6228260	6232140	Again, I will not say anything bad about Charles Martinet, but he, he brings to the
+6232140	6237220	table the, you know, he, he does a lot of the emotional types of responses.
+6237420	6242540	You never see Mario going and I think the only thing he says, like he doesn't say
+6242540	6245300	anything like full phrases, right?
+6245340	6248500	Maybe like very, very short phrases in the movie.
+6248500	6252060	I imagine Mario is going to speak more than that and they will probably want a
+6252060	6256300	stunt cast and they're probably going to bring somebody a list from Hollywood to
+6256300	6256860	voice it.
+6256860	6259220	And I think we need to be prepared for that reality.
+6259460	6263660	Now, the nice thing would be to allow Charles Martinet to still voice a
+6263660	6265500	significant character in the game.
+6265780	6272220	Like Wario, I think would be let him voice Wario, but I don't, I don't see it.
+6272220	6274180	Is it animated or live action?
+6274220	6274860	It's animated.
+6274860	6275500	Animated.
+6275820	6276140	Okay.
+6276140	6276980	I was going to say.
+6277340	6281460	The same studio that did like the minions and Despicable Me and that stuff are doing
+6281460	6282060	the Mario movie.
+6282140	6282420	Yeah.
+6282980	6285220	So, um, you know what I want?
+6285340	6285660	What?
+6286380	6289580	I think it would be hilarious if John Leguizamo did a voice.
+6289780	6290340	Me too.
+6290340	6291100	I think that's funny.
+6291140	6291380	Yeah.
+6292820	6293100	Yeah.
+6293820	6294740	No, have him be Luigi.
+6295540	6295940	Why not?
+6295940	6299140	SDG100 Matt says he was in the other live action movie, right?
+6299260	6299740	Yeah.
+6300020	6302020	SDG100 Matt says Papa Mario.
+6302060	6302260	Yeah.
+6302260	6302580	Why not?
+6302580	6305940	Why not have like a grandpa Mario that's in it and Charles Martinet gets to play that
+6305940	6306220	part.
+6306420	6311260	I hope they, they do something nice for him because you know, he is part of what
+6311260	6314660	brings Mario's iconicness to the table.
+6314700	6319860	So anyway, I'm making this rapid fire news segment way too long, but I just had to get
+6319860	6320220	that out.
+6320220	6322060	So let me move on to Dark Sakura.
+6323100	6328900	Well, for anyone who wants to follow in Loki's footsteps, making a game, there is
+6328900	6331700	a unity training bundle that's out.
+6331780	6335780	Um, it is $44.99 right now.
+6336180	6341060	Um, for the, uh, 2021 premium unity game developer certification bundle.
+6341340	6343820	That's 98% off.
+6344580	6346820	So, I mean, this shit ain't cheap.
+6347940	6355380	So, um, it's, I mean, basically has a lot of different tools, tutorials, um, walks
+6355380	6358300	you through, uh, some basic creation.
+6358740	6363700	Um, and it's actually, uh, led with training on both unity and blender by
+6363700	6369700	John Bura, um, who is a developer, many games that came out on the app store are
+6369700	6374980	doing really good, um, also owns mammoth interactive, uh, worked with Nintendo.
+6375460	6381060	So, I mean, so basically you're getting a $3,000 gaming suite for like less than 50
+6381060	6381460	bucks.
+6381900	6382900	I'm actually thinking about it.
+6383380	6385780	They grossly overpriced those though.
+6385860	6391020	I mean, it's just like Udemy where they say, Oh yeah, this is a $200 course, but
+6391020	6392380	it's never over $20.
+6392700	6396020	Um, just be careful with a lot of those courses, especially when they're bundled
+6396020	6399100	like that, because a lot of that information's really old.
+6399100	6401700	And especially with unity, it updates all the time.
+6402060	6405940	Uh, honestly, like there's a lot of free court.
+6405980	6407420	There's a lot of free material out there.
+6407420	6413060	Unity has like courses in everything, like the entire suite of stuff for free.
+6413340	6417660	Uh, Udemy has some courses that are a little bit smaller and those are like,
+6417700	6419740	you know, just keep watching it.
+6419740	6422340	Usually they go down to like $10.
+6422620	6424900	You know, it's really cheap right now on humble bundle.
+6425140	6430780	They have a unity, uh, learn unity course thing that you can get a bundle of those
+6430780	6434380	for, and some assets for like, you know, really cheap as well.
+6434620	6435860	So just keep an eye on that.
+6435900	6440500	Um, you know, like a lot of these I've seen these before, like with, uh, was it,
+6440540	6446940	there's a lot through Zenva, which a lot of that stuff is offered on, um, Humble
+6446940	6451180	bundle every like month or so they have like a bunch of these courses.
+6451500	6452900	So just be careful.
+6452940	6455940	Uh, you know, just like looking at what's included with that.
+6455940	6459260	Cause like, for example, they have construct three tutorials in here.
+6459260	6460420	Well, this is a unity course.
+6460420	6463740	Construct three is not going to really help you out with that stuff.
+6463820	6467780	Um, some of it might be helpful, but like if you're looking for more specific
+6467780	6471900	things, I'd definitely start with the unity, uh, tutorials themselves,
+6471940	6472940	or just go on YouTube.
+6472940	6474860	There's so many out there.
+6474860	6480460	There's, uh, you know, uh, Braxis, which is not, um, publishing anymore,
+6480460	6482380	but he had a ton of stuff on there.
+6482620	6485340	Kenny's got a lot of like free assets out there.
+6485540	6487580	There's so much content.
+6487580	6490060	That's free that you don't have to even pay for.
+6490220	6491580	It ends up being a lot better.
+6491620	6495900	Like sometimes I've done some of the, uh, some of the Udemy courses and they've
+6495900	6498940	helped out with like learning specific things.
+6498980	6502820	Um, but a lot of it tends, you have to be careful cause a lot of it tends to be
+6502820	6505300	very dated by the time you get in there.
+6505620	6508860	Um, and since they don't specifically rapid fire,
+6509860	6511020	yes, please.
+6511500	6512900	Cause I have another story to do.
+6513540	6514220	All right, fine.
+6514900	6516620	I'm not trying to be rude, but we get it.
+6519420	6520020	Go ahead, Jamie.
+6520020	6520340	Sorry.
+6520700	6526020	Um, at any rate, um, so for more freebies, uh, in this case actually,
+6526420	6531060	um, uh, Assassin's Creed, uh, Chronicles China is free.
+6531540	6537340	So you can get that from, um, the Ubisoft website, uh, through actually tomorrow.
+6537380	6539020	So if you're going to get it, get it now.
+6539580	6544100	Um, but I think you have to have an account set up for Ubisoft connect.
+6544100	6548220	So, but Hey, I mean, let's hear it for a free game that you get to keep forever.
+6548700	6549260	Yeah.
+6549340	6550060	Get on that.
+6550060	6551660	If, uh, yeah, you're right.
+6551700	6555020	By the time most podcast folks hear this, unfortunately it's probably gone unless
+6555020	6556260	you listen Monday morning maybe.
+6556620	6557580	So, yeah.
+6557820	6558140	All right.
+6559100	6562740	Well, and I'm, I'm, uh, I'm actually, cause I'd forgotten to do this earlier.
+6562740	6563740	I'm going to get it right now.
+6564860	6567220	Uh, pixel pockets and chat says, what was that again?
+6567260	6569460	It's Assassin's Creed, China.
+6569500	6572780	It's Chronicles, Assassin's Creed Chronicles, Chronicles China.
+6572820	6573220	Yes.
+6574820	6575220	All right.
+6576100	6580220	Let's travel around the world and check out some games that are coming out real
+6580220	6582980	soon as we do some world release dates.
+6582980	6584580	And Loki, we'll start with you in the US.
+6585220	6585700	Yep.
+6585940	6591580	So we've got a few things coming out this week, starting off with, uh, Azure
+6591580	6596100	lane cross wave, uh, that's coming out on Nintendo switch.
+6596140	6600340	Uh, we've got fallen Legion, revenants on into the switch and PlayStation four.
+6600940	6603660	Speed limit on PlayStation four.
+6604020	6608820	Uh, we have SNK versus Capcom, the match of the millennium on Nintendo switch.
+6609300	6613340	Uh, we have also speed limit coming out on PC as well.
+6613900	6621500	The 25th ward, a silver case on Nintendo switch, uh, anodyne to return to dust on
+6621900	6626500	Nintendo switch, PlayStation four, PlayStation five, Xbox one, Xbox series X.
+6627300	6631900	Um, speed limit also coming out throughout the week, I guess, on multiple systems
+6632260	6634460	on Nintendo switch on that as well.
+6634820	6640540	Um, also have looks like the silver case coming out on the Nintendo switch.
+6640700	6646020	I think that's different from the 25th ward, the silver case, uh, void terrarium
+6646020	6653460	plus on PlayStation five and Thomas was alone on Nintendo switch and that's it.
+6654380	6655140	All right.
+6655180	6659020	Traveling to Japan and looking at some of the releases there, uh, a little slower
+6659020	6661620	this week, but there's still a couple of things to mention, including on the
+6661620	6666980	Nintendo switch, a game called the silver 24, 25 is coming out on the Nintendo
+6666980	6670020	switch on the PlayStation five this week.
+6670020	6674020	That void terrarium plus that Loki just mentioned for the U S is also out in
+6674020	6678620	Japan this week and going to the PlayStation four kingdom come deliverance
+6678620	6682540	gets like a Royal edition, uh, as, when it gets a price reduction as well.
+6682740	6684460	So you have that to check out.
+6684700	6686500	Um, that's, that's really it.
+6686660	6688340	Otherwise it's pretty quiet week in Japan.
+6688460	6689220	How about the UK?
+6689220	6689740	Dark Sakura?
+6690740	6693740	Um, nothing, literally nothing.
+6693820	6694340	All right.
+6694500	6695060	It happens.
+6695340	6697540	It's still first quarter is usually a little slow.
+6697540	6701060	You might have a couple of big titles, but it won't really start to ramp up
+6701060	6703060	until like, you know, the new finance.
+6703300	6703620	I don't know.
+6703620	6706020	You get some titles that try to get in there right at the end of the
+6706020	6708700	fiscal year and then, uh, some that get in there at the beginning.
+6708700	6712980	So it just kind of depends, but it's going to be some slow weeks sometimes.
+6713420	6713980	All right.
+6713980	6717100	We still have some new story stories for you guys.
+6717100	6720940	And then we'll get to the round table, which include a couple of emails tonight.
+6721260	6724260	So let's get to some Hollywood news, right?
+6724260	6724620	Loki.
+6725860	6726140	Yeah.
+6726140	6731460	So we were just talking about, you know, voice cast decisions made by studios
+6731500	6735060	that may not necessarily jive with the video games.
+6735460	6740100	So, um, some of the casts that we have now, we're learning about more folks,
+6740140	6743500	um, cast for the new Borderlands movie.
+6743860	6749140	So starting off, we have Jack Black as Claptrap.
+6750260	6751340	I can see that.
+6751380	6752820	I think that's fine.
+6752900	6758300	Um, also we have Jamie Lee Curtis now playing Dr.
+6758300	6761580	Tanis, I could definitely see that as well.
+6761620	6763660	So I think those are okay.
+6764140	6768660	Um, I, I do want to, I really want to see this movie.
+6768660	6772540	So, um, looking forward to that.
+6772580	6775140	Um, I think, I think Jack Black will be pretty good.
+6775340	6776100	I get it though.
+6776100	6780780	Claptrap has a kind of an iconic voice, but I think he'll do it justice.
+6781780	6782020	Yeah.
+6782020	6782580	I was kind of curious.
+6782620	6785500	You're, you're the big Borderlands fan of the three of us Loki.
+6785500	6787700	So I was kind of curious your sort of take on this.
+6787700	6789020	I mean, I love Jamie Lee Curtis.
+6789220	6792580	I don't particularly care for Kevin Hart after what he pulled a couple of years
+6792580	6795420	ago, but Jamie Lee Curtis is such an icon.
+6795420	6796980	It kind of balances out at least.
+6797540	6801940	Well, Kevin Hart out of all of those as the least kind of appropriate, I think
+6801940	6808020	for the cast, cause like the, the main character Roland, isn't so, he's more of
+6808020	6811980	a serious character, not like Kevin Hart at all.
+6811980	6814180	Like I really don't think that's cast well.
+6814180	6816820	But funny guys go serious sometimes though.
+6816940	6821460	Like, you know, I'll give that a shot that caught that comedic actors make
+6821460	6823060	some of the best dramatic actors.
+6823180	6826620	They're like Ronald Williams when he was around Tom Hanks.
+6827100	6830740	And I guess it depends on when, when in the timeline we're talking about here.
+6830740	6834740	Cause if like, if this is like around like the first game, he like Roland,
+6834740	6838740	you know, kind of, he goes through like a character, a lot of character
+6838740	6843180	development, um, between games because of, you know, certain people dying.
+6843580	6846780	Um, so I don't know.
+6847140	6847900	We'll see.
+6847900	6850940	I don't, I don't know.
+6850940	6852260	I'm not a huge fan of Kevin Hart.
+6852540	6856860	So, but there's a lot of other people in the movie where I'm kind of like, you
+6856860	6861460	know, like again, Jamie Lee Curtis kind of an icon, so, but I'm, I'm not really
+6861460	6864020	like huge on Borderlands lore.
+6864020	6865100	So I don't know.
+6865220	6866540	We'll see right now.
+6866540	6871380	I'm kind of like, I'll, I'll rent it when it comes to comes to home.
+6872020	6876060	I mean, it's, it's hard to imagine the theater again, uh, anytime soon anyway,
+6876060	6880420	but also this movie hasn't shot a single frame, so it will also not be out anytime
+6880420	6880700	soon.
+6882900	6883260	Right.
+6884580	6884980	All right.
+6885580	6887220	Um, wasn't there another one too?
+6887260	6888300	Another casting this week?
+6888340	6888740	Oh, yes.
+6888740	6889020	Yes.
+6889020	6889420	Sorry.
+6889420	6889700	Yes.
+6889740	6894580	Outside of Borderlands, uh, for HBO's Last of Us series, uh, we have Pedro
+6894580	6900700	Pascal now in the role of Joe, um, Joel, I should say so that should be pretty good.
+6900700	6905540	I mean, he's been great in Mandalorian, so I'm looking forward to that.
+6905740	6906780	I'm sure he'll be great.
+6907900	6909300	Did they say who they had as Ellie?
+6909900	6910540	They did.
+6910580	6919020	Um, so just for game of Thrones, I think, uh, yeah, I don't remember who's
+6919020	6921300	going to portray Ellie, unfortunately.
+6921340	6924740	Um, chat, you're going to have to help us out here at twitch.tv slash
+6925420	6926860	remember who it was.
+6927180	6927420	Hmm.
+6929180	6930860	Uh, Bella Ramsey.
+6931140	6931740	That sounds right.
+6932780	6933140	Yeah.
+6933140	6934900	She played a Leanna Mormont.
+6935660	6938980	Ah, yeah, actually, poor Leanna Mormont.
+6939020	6939580	Oh my God.
+6940180	6942340	So she's going to play Ellie.
+6942980	6944860	Um, cool.
+6944940	6946980	I mean, I'm sure that'll be great.
+6947020	6955940	I, I haven't played the game, so I don't, yeah, I, it'll be interesting.
+6956900	6959940	Someone will need to screen that for me to let me know how violent it is.
+6961260	6964340	I'm going to be able to watch probably incredibly violent.
+6964780	6969340	I mean, it's the last of us be ready to just, you know, watch death and cry.
+6969860	6970580	No, thanks.
+6971020	6971500	All right.
+6972580	6973540	Can I watch a story?
+6973620	6974540	Can I watch a comedy?
+6974900	6975340	All right.
+6975580	6980780	Uh, moving on, let's talk about, uh, steam launching in another new country.
+6980780	6983540	And this is a pretty big deal because that country is China.
+6983540	6987380	So steam is launching in China, uh, or has launched, I should say they've
+6987380	6988860	officially had their launch in China.
+6989180	6992660	Uh, and it's, you know, one of the, the, the world's biggest
+6992660	6993900	gaming market, actually.
+6993900	6997340	We often forget, um, because, uh, you know, where our show is based and where
+6997340	7000860	most people are checking out our show from that there is a whole lot of people
+7000860	7003100	in China and a lot of them play video games.
+7003340	7008820	So steam is finally there now because, you know, it's a little bit different
+7008820	7013980	in China and there is, you know, a lot of, um, censorship basically.
+7013980	7016780	And, you know, a lot of things that you're not allowed to do in video games.
+7017060	7020820	Um, Valve has done this through a local publisher.
+7020940	7024540	So perfect world who you might know from some of their MMOs is the one
+7024540	7027180	that they've kind of teamed up with in order to make this happen.
+7027580	7031500	Only 41 titles are available in steam China right now.
+7031500	7032780	I'm assuming pixel poops.
+7032780	7034300	Number two is not one of them.
+7034580	7036500	And probably not planned to be out there anytime soon.
+7036500	7040900	What are their thoughts on, on large amounts of feces in video games?
+7040980	7043140	Um, appropriate for challenge.
+7043220	7046180	I can tell you the zombies and there's not a spoiler alert, but the
+7046180	7049020	zombies and the zombie level would be, and it's just no zombies.
+7049020	7049900	There's ghosts.
+7050300	7051780	There's no zombies in the game.
+7052300	7055900	I can't remember what the rule is on ghosts, but I know there was a problem
+7055900	7057980	with the undead in world of Warcraft.
+7058300	7060340	So they changed it to something else.
+7060380	7064060	Um, that was similar, but, uh, it didn't have like the flesh
+7064060	7064980	falling off like ghosts.
+7064980	7066260	It's a cartoon ghost.
+7066340	7067020	I don't think.
+7068540	7071060	What, what do I have to do to get my game approved for China?
+7071460	7073340	Uh, let us know.
+7074700	7075140	Okay.
+7075380	7078980	But yeah, steam says that every game on the service is vetted for
+7078980	7080660	approval by the country's government.
+7080660	7083460	And once it gets the green light, it gets an ISBN number that's
+7083460	7086980	delayed or excuse me, displayed on the steam product page.
+7087060	7091780	So kind of interesting, but yeah, I mean, you know, uh, again, even
+7091780	7093900	though that might not be something right in front of our face here in
+7093900	7097300	the States, or even those you in places like Canada, Mexico, Europe,
+7097540	7100380	Australia, wherever it is, you are in the world listening to this show,
+7100700	7102860	um, steam launching in China.
+7102860	7105340	That's still, that's a huge market and a huge deal.
+7105540	7109500	Um, but not, not, not nearly the same amount of games are
+7109500	7110380	going to be available on it.
+7110420	7111420	I bet perfect worlds.
+7111420	7115380	MMOs are on it though, since, you know, they're the partner.
+7115780	7117980	All right, let's move on dark soccer.
+7118980	7125660	Well, um, there is, uh, uh, a book coming out that I'm
+7125660	7127300	actually kind of excited about.
+7127660	7130540	Um, we all know Howard and Howard Phillips were, he was a big
+7130540	7132260	spokesperson for Nintendo, you know,
+7133780	7134540	yeah, yeah.
+7134700	7138060	Well, um, that was Nestor.
+7139620	7141620	They should have a cameo in the Mario movie.
+7142540	7143020	You're right.
+7143020	7143660	Howard and Nestor.
+7143660	7144140	I'm sorry.
+7144140	7145220	I, I messed it up.
+7145220	7145500	Yeah.
+7146500	7150500	Although the, uh, it looks like that the cover for it has like
+7150660	7153100	kind of someone who looks like Nestor in the background, following
+7153100	7159380	them around, but, um, basically it's going to be the inside stories
+7159380	7162620	from Nintendo's history called game master classified.
+7163340	7165780	So, um, that'd be pretty interesting.
+7165780	7168060	Um, uh, it was a successful Kickstarter.
+7168260	7171140	I already reached its goal, but you can, uh, throw in some cash
+7171140	7172620	yourself if you want your copy.
+7172900	7174420	So cool.
+7175540	7180060	I'm kind of curious what sorts of insights, especially on the, uh, you
+7180060	7183780	know, Nintendo versus Sega years and some of that interesting insight on some of
+7183780	7189540	those meetings that probably happened there, so, all right, um, act deaf to
+7189540	7192820	saying Matthew Taranto, I hope I said that last name, right.
+7192820	7193860	Is helping with that book.
+7193860	7196820	If I recall correctly, what else might we know him from?
+7197340	7200100	Um, SSG100 Matt says, uh, Howard and Nestor should be a
+7200100	7201580	shop or something in the movie.
+7201580	7202220	Well, let's hope.
+7202900	7207300	I think a cameo would be very cute, but the problem is like in that
+7207300	7212100	comic, you know, Howard and Nestor Howard had Howard Phillips likeness.
+7212340	7216500	And so that probably is something they would have to go back to Howard Phillips
+7216500	7220740	to get, and if he's about to write, tell all books about Nintendo, I'm not sure
+7220740	7222580	they have that type of relationship right now.
+7222580	7223100	I don't know.
+7223100	7223380	I don't know.
+7223380	7224100	It's hard to say.
+7224500	7230220	So, um, act deaf to saying the, uh, person helping with the book, uh, brawl in the
+7230220	7235220	family comics and tadpole treble, which was on switch not too long ago.
+7235260	7235820	Interesting.
+7236260	7236580	All right.
+7236940	7237260	Cool.
+7238580	7238860	All right.
+7238860	7242020	Just a few more stories and then we'll get to the mailbag and your
+7242020	7243260	other questions in our chat.
+7243340	7243780	Loki.
+7244900	7245300	Yes.
+7245300	7250180	So we had hackers bringing Android to the Nintendo switch and now they're bringing
+7250180	7254900	a newer version of Android to the Nintendo switch, so now we have, um,
+7255500	7257740	Android 10 coming to the switch.
+7258060	7261620	Apparently it's a little bit faster and more responsive.
+7261660	7268460	And they said that they're using a, um, an Android TV build to port that over.
+7268820	7269700	Uh, cool.
+7270620	7273220	I have the tools to do that.
+7273580	7276980	I just probably will never do that cause I don't want to brick my switch.
+7277020	7281700	So I was going to ask if that's something you've played around with at all, but
+7283780	7286460	I just didn't really, I don't know.
+7286460	7288940	I just, I kind of lost interest in it pretty fast.
+7288980	7292700	Like I, once I saw what you could do with, I was like, eh, there's a good
+7292700	7295420	chance they'll get it banned and I just don't want to do that.
+7295540	7297780	So I said, forget it.
+7297820	7301420	I don't need to put like, you know, NES games on there or something.
+7301940	7304860	But for those that like to live dangerously, have fun.
+7305300	7308260	And so that if you have a second one that you want to keep offline and
+7308260	7313620	just use it specifically for hacking stuff and by all means, go right ahead.
+7314220	7317980	That would be a fun way to, uh, I like the idea of trying to get the emulator
+7317980	7321780	running to play pixel poops, number two on the switch switch version confirmed.
+7323580	7325180	I still need to work out.
+7325180	7329540	There is a way to supposedly that you can, uh, change the, the format to
+7329540	7333700	a mapper too, which will allow you to put it on the, uh, NES classic
+7333780	7335540	edition and the SNES classic.
+7335860	7340860	So I need to try doing that as well to try to, um, see if I can get it in,
+7340940	7342860	in there, um, that'd be pretty cool.
+7343620	7343980	All right.
+7344940	7348380	Well, uh, we've had a bit of news tonight where it's like, well,
+7348380	7349900	I didn't see that one coming.
+7349980	7352980	And I think this last official story we have slotted for the night
+7353260	7355140	probably fits into that category.
+7355420	7358820	You know, Pokemon is celebrating its 25th anniversary this year, and
+7358820	7362820	they're doing a lot of, you know, team ups and things, uh, and, uh, special
+7362820	7365540	events to celebrate their 25th anniversary.
+7365820	7370260	Well, I can say I definitely didn't see this one coming on February 27th.
+7370500	7374100	The Pokemon company will have a virtual concert that will be
+7374100	7376340	headlined by Post Malone.
+7376740	7377260	That's right.
+7377460	7381540	Post Malone is headlining the Pokemon 25th anniversary concert.
+7381820	7385620	Apparently there will be some type of contribution from Katy Perry here as well.
+7385620	7388260	I don't know if that just means a video of her singing in her house.
+7388260	7388780	I don't know.
+7389140	7393140	Um, but you can find this whole event at seven o'clock Eastern.
+7393140	7397340	That would be four o'clock Pacific again on February 27th on YouTube and
+7397340	7399660	their official Twitch channel, which is just Pokemon.
+7399700	7403860	This is just the main Pokemon channel and they are saying watch until the
+7403860	7408620	end because we will have some more Pokemon 25 music announcements then.
+7408860	7413860	They're not saying game announcements, so cool your hype for gen four remakes.
+7414460	7419620	And if that's coming or not this year, um, anyhow, I think that's interesting.
+7419620	7420140	That's happened.
+7420380	7424180	This story also brings up something that, um, I was texting with Jason
+7424180	7426860	about earlier, and that is the whole, I don't know if you guys know about this,
+7426900	7431660	but did you know that there is a Pokemon and McDonald's promotion going on right now?
+7431980	7435300	Um, and what's happening right now is that there are certain Pokemon cards
+7435300	7440140	that are exclusive to McDonald's right now, and you have to get them in Happy Meals.
+7440340	7444620	And yes, I talked to Shane about it and he bought a few Happy, he didn't buy a ton,
+7444860	7448940	but I guess some scalpers and some YouTubers are buying a shit ton of Happy
+7448940	7452180	Meals to sell the cards because that's the only way you can get them.
+7452380	7456380	But I talked to Shane and he only wants Oshawa basically.
+7456420	7459700	And I guess there's two versions and he got them both after like four or five
+7459700	7460900	Happy Meals, so he's fine.
+7461300	7462740	Uh, and he went multiple times.
+7463140	7467140	Uh, but I guess the whole trading card thing and the Happy Meal thing is like,
+7467300	7467740	what is this?
+7467740	7470140	Is this, is this Beaty Babies or whatever?
+7470540	7472140	Oh, Shane is in chat.
+7472180	7473020	How fortunate.
+7473540	7475620	Oh, he's saying you don't need Happy Meals.
+7475660	7477300	I never bought a Happy Meal.
+7477340	7480820	Oh, I thought you had to buy, that's why they were limiting how many you could buy.
+7481660	7483020	I thought that was the whole thing.
+7483500	7484580	Do they not come free?
+7484820	7487540	Are you able to just buy them separately outside the Happy Meal?
+7488020	7491420	Uh, Shane is saying it depends on what store, what they do.
+7491940	7493060	So, hmm.
+7494300	7496660	Act F is saying you now have to buy a Happy Meal.
+7496660	7498500	Again, it probably just depends on the store.
+7498860	7502020	Like if the person selling it to you doesn't give a crap, then you can, that's
+7502020	7505100	probably how some of these scalpers and YouTubers are buying hundreds of them.
+7505460	7509140	So, cause you know, there's so many McDonald's everywhere.
+7509340	7511700	It's probably hard to do anything consistently with that.
+7512020	7513980	So there you go.
+7514740	7515220	All right.
+7516260	7517380	Oh, is that Midna?
+7518820	7519540	Hi kitty.
+7521420	7527580	Oh, I wish we could get, um, Smush to come on stream sometimes, but I will give a
+7527580	7529980	cheap plug cause I have to do this at some point.
+7530260	7534380	So I talk about my husband, Alan, a lot on this show and I've been saying for like
+7534380	7539540	the past couple of years, he should really get into streaming and he has, he did his
+7539540	7541620	first live stream last night.
+7541940	7546820	He played, um, uh, Dead by Daylight and Dark Souls, a little bit of that.
+7546980	7551300	And he did get Smush to come cause Smush always sits by him in the office.
+7551300	7553140	So he did get Smush to come on cam.
+7553340	7557660	So anyway, I have to, um, you know, be a good husband and tell you all to go
+7557660	7559300	follow him at Alan Alchemy.
+7559580	7563580	So, and for those watching live on Twitch, he might be doing something tonight.
+7563580	7564380	So stay tuned.
+7564740	7567540	Um, but, uh, yeah, so I have to give him a shout out.
+7568540	7572660	I think she got stuck in here when I locked the door to lock her out.
+7572660	7574020	She's just been in here quietly.
+7574420	7575860	Oh, Oh, how funny.
+7575860	7577700	So you accidentally shut her in and said, shut her out.
+7577860	7579060	We did that to Smush once.
+7579060	7581620	Cause usually we don't let him in the bedroom at night cause he likes to jump
+7581620	7582780	on the windowsill at 3 AM.
+7583180	7588820	Um, but you know, one time I think we shut the door and he was hiding under the bed.
+7588980	7592660	And so instead we got woken up with that at 3 AM.
+7593380	7593900	All right.
+7594140	7594580	All right.
+7595060	7599500	Well, I hate to interrupt Midna time, but this is the part of the show where we go
+7599500	7603740	to our mailbag because every week you can send us emails, participate
+7603780	7608020	at orange lounge, radio.com, uh, is the place to send us emails.
+7608060	7610180	And we re like to read some on air.
+7610620	7613420	Um, let me read this quick comment from chat.
+7613420	7616820	W O four in chat says option to donate a happy meal.
+7617020	7620680	You know, I have heard with the Pokemon thing that there were some like
+7620680	7624320	YouTubers that were doing that, where they bought the happy meal with the cards.
+7624320	7629520	And then they donated the happy meals to like a, uh, like a homeless foundation
+7629520	7632440	or charity or something like that, uh, providing meals.
+7632480	7634960	So I thought, I thought that wasn't a nice way to do it.
+7634960	7638120	I guess if you're going to hoard those Pokemon cards, that's a
+7638120	7639840	nice way to give back, I suppose.
+7640160	7641720	So, all right.
+7641920	7643920	Anyway, if Jamie's ready, we'll go to emails.
+7644480	7645280	I'm just joking.
+7645280	7645800	My pussy.
+7648240	7649200	Please don't clip that.
+7649280	7649640	All right.
+7651680	7652680	Hi, OLR.
+7652720	7655360	I just built a PC for the first time this weekend.
+7655360	7656680	I have a simple question.
+7656920	7660080	What PC exclusive games would you recommend to be played on it?
+7660120	7660560	Thanks.
+7660640	7661440	Pixel pockets.
+7662040	7668120	Um, I don't really know of any exclusives, but, um, mass effect, all of them.
+7668960	7670360	Dragon age hush.
+7671360	7672840	You're the one who got yourself stuck in here.
+7672840	7673640	You're going to be quiet.
+7674400	7674800	Sorry.
+7675440	7676520	I'm disciplining my child.
+7676520	7678080	Um, satisfactory.
+7680120	7681440	Oh, that is, that is a game.
+7682560	7683080	It is a game.
+7685160	7687960	It's a factory building FPS.
+7688280	7691800	Well, Minecraft is technically not, you know, exclusive Java
+7691800	7695400	version of Minecraft, I guess, but, um, yeah, satisfactory is pretty good.
+7695800	7701040	Or was it phantasmophobia is another fun one that people are playing a lot of now.
+7701280	7704120	I got to check out there's this new game that I keep playing.
+7704120	7710840	Like, um, it's like a Viking, was it Valorant, like a, uh, maybe not Valorant.
+7710880	7711920	No, it's a different game.
+7711960	7713080	I think Valorant is a different game.
+7713400	7718200	Yeah, it's, uh, there's another, there's like a Viking, um, survival game.
+7718200	7720680	Now Valheim is what questmaster is saying.
+7720680	7721160	Yes.
+7721640	7722200	Yes.
+7722200	7722680	Yes.
+7722680	7724720	Um, that looked pretty cool.
+7725520	7730320	Uh, and pixel pockets is in chat and is clarifying games that are best played on PC.
+7730320	7734160	Well, I was going to go the civilization route and say civilization six.
+7734160	7738200	Like, I know those games are on console, but I just feel like there's
+7738200	7740400	something that's really rooted in PC.
+7740920	7745920	Um, if you feel like playing an MMO or really any of the blizzard games, I think
+7745920	7749800	play better on PC and I know they've ported some of them to console, like
+7749800	7754200	Overwatch, of course, and the new Diablo, but things like Warcraft, World of
+7754200	7756400	Warcraft, those don't exist on console.
+7756440	7759160	Um, if you're into those, you know, technical kind of game heroes of the
+7759160	7761920	storm, all of that really only exists on the PC.
+7761920	7766480	And so I think, you know, blizzard, um, you know, it has a history.
+7766480	7769000	We'll say, I know they've done some weird things in the past couple of years, but
+7769000	7772280	we'll say they have a history really rooted in PC games, uh, and they've
+7772280	7773440	done a lot of strong stuff.
+7773440	7775280	So, um, that's worth checking out too.
+7775280	7775800	I think.
+7778360	7779200	Well, last email.
+7779720	7780280	Um, sure.
+7780280	7781800	Let me do just a couple of quick things.
+7781800	7786360	Um, so, um, so, um, so, um, so, um, so, um, so, um, so, um, so, um, so, um,
+7786360	7790680	quick, uh, comments from chat to, uh, DJ Roma S says, friends of mine were trying
+7790680	7794600	to get me to play, uh, Phasmo, Phasmophobia, uh, with them.
+7794600	7797360	I told them they'd have to drive out here and put a gun to my head.
+7797360	7798400	I wouldn't play.
+7798720	7799080	Yeah.
+7799080	7802960	Scary games can be a little, Hey, Alan likes to play dead by daylight.
+7802960	7803440	I.
+7803880	7807960	It's not, and you know, honestly, in watching him and hearing him explain it,
+7807960	7812720	it's not really a scary game, but, um, I it's, it's interesting how
+7812720	7814640	popular that game is on Twitch.
+7814640	7815480	My God.
+7815960	7818440	So anyway, pretty much so.
+7818480	7818800	Yeah.
+7819200	7819520	All right.
+7819560	7820160	Sorry, Jamie.
+7820160	7821240	You can go on with the next email.
+7821920	7823400	Seeing if Dan will come get Midna.
+7825160	7825480	Um,
+7826960	7827600	I was sorry.
+7827680	7828560	I was gonna say it funny.
+7828840	7831200	No, I mentioned Valheim and satisfactory.
+7831360	7832640	Those are all the same publisher.
+7832640	7833880	That's coffee stain actually.
+7833880	7837160	And they did the, you know, uh, the goat simulator games as well.
+7837160	7839080	So I guess I'm a fan.
+7839240	7839720	All right.
+7841120	7841400	Cool.
+7842320	7842880	Next email.
+7843040	7843320	Yep.
+7844320	7845160	Hello, LR.
+7845680	7849920	I was catching up on a slightly out of date episode from the end of January
+7849920	7853480	where a listener emailed asking about the best song and video games.
+7853920	7857400	During the discussion that followed, Rob mentioned electronic artist,
+7857440	7862040	Porter Robinson, and mentioned that he'd been influenced by BeatMania 2DX.
+7862320	7867360	Well, did you know that he has now appeared in BeatMania 2DX and BeatMania
+7867360	7872600	2DX 26 rootage, he appears as a virtual self with some particle arts.
+7872720	7876680	The genre is listed neo-trans and well, I'm not going to mince word.
+7876840	7878400	Song is a fucking amazing.
+7879000	7880680	Uh, he, he gave us a YouTube link.
+7880800	7883800	Um, this feels right at home in 2DX.
+7883840	7884680	That's for sure.
+7884720	7887160	I hope we can see more from him in the future.
+7887920	7890040	Um, I don't know if you got the link, Rob.
+7890720	7893000	I do, but I can't, I can't put it on on air.
+7893000	7896120	So, um, but you can, you could easily search for it on YouTube if
+7896120	7897000	you're curious what that sounds.
+7897040	7898360	So he's under another name.
+7898360	7899280	That's how I didn't catch it.
+7899280	7901200	He's on virtual self was the name.
+7901240	7901560	Yeah.
+7901560	7903720	A virtual self now out of curiosity.
+7903720	7906600	And if Shane is still listening, I know he's the DJ max expert.
+7906600	7910680	At least that I know is because I know Porter Robinson has a song and DJ max.
+7911280	7914880	Is that, does he show up under virtual self in that game as well?
+7915320	7917240	Cause I don't know why that name sounds familiar.
+7917240	7918360	Like I've heard it before.
+7919520	7920040	Okay.
+7921520	7921800	Okay.
+7921800	7924720	So Shane says that's under virtual self ghost voices.
+7924760	7925200	Okay.
+7925960	7927840	I was like, I swear I've heard that name.
+7927840	7928320	All right.
+7928360	7928800	Got it.
+7929800	7930240	All right.
+7930280	7932840	So to continue that said, I have a question.
+7932840	7936600	What is the best video game song and why is it super, uh, super street
+7936600	7938080	fighter two version of guile's theme?
+7938120	7945560	So, so, you know, true, um, lies, it may be versatile, but it is not the best.
+7948240	7950880	I have always been a bigger fan of reuse theme anyway.
+7952600	7956880	Lastly, I would say this on air, even if it's vicariously through the person
+7956880	7962480	reading this email, congratulations, Loki on not only releasing a game, but
+7962480	7964320	also releasing a really fun game.
+7964680	7969960	It's my pleasure to have had a hand in well to be, uh, associated
+7969960	7970920	with pixel poops.
+7970920	7975480	Number two, I am definitely looking forward to more news about the physical
+7975480	7979600	release, me too, as I'm sure many of the listeners are, but I also want to
+7979600	7984200	encourage everyone listening to check the game out either on steam or on itch.io.
+7984200	7985960	It's definitely worth your time and money.
+7986600	7990440	Anyway, thanks again for the show, of course, and to those who enjoy my
+7990440	7994280	games, please look forward to what's next, the final expansion of super multitasking.
+7994800	7998680	See you later, Aaron, Y Y R thanks for the email Y Y R.
+7998760	8002000	Um, I don't want to ignore the question about favorite video game song, although
+8002000	8005520	it sounds like you're catching up on back episodes, O L R and I want to say this
+8005520	8011240	came up in chat just like two weeks ago, if that, so we are, this is a little bit
+8011240	8015280	of a retread, but I'll quickly ask if anyone wants to kind of talk about, or at
+8015280	8017280	mention their favorite video game song.
+8017280	8020720	And I think when I had answered this question before, um, I said something a
+8020720	8022280	lot about like scars of time.
+8022520	8026200	I think the question was slightly different that was in chat.
+8026200	8029560	Cause I think if you were to say like, just like favorite video game song,
+8030120	8031720	Ooh, that is a toughie.
+8031760	8038600	Um, probably, I don't even know how to like, there's so many, probably
+8039600	8046360	probably Tara's theme from final fantasy six for me, but there's so many.
+8047840	8051600	I'm still going to probably stick with shallow's theme from Chrono Trigger.
+8051920	8052440	Okay.
+8055280	8055560	Okay.
+8055560	8059360	And act deaf said it was, he asked it and it was what song made you appreciate
+8059360	8060680	or notice video game music.
+8060680	8060840	Okay.
+8060840	8066200	So it was slightly different, but still, um, Loki, you have a favorite track.
+8067200	8068040	I don't even know.
+8068040	8068760	There's so many.
+8068760	8072600	Um, I like a lot of the stuff from DJ hero.
+8073600	8078560	Like, um, there was the remix that they did between, um, shout
+8078600	8079400	and piano.
+8079400	8080080	That was awesome.
+8080520	8085240	Um, outside of like DJ hero, I would say, I mean, I don't know.
+8085240	8086920	There's so many DDR songs.
+8086920	8094120	I mean, outside of like music games, maybe like some of the Katamari music
+8094120	8099960	or, um, you know, buggy running beats from rez.
+8100840	8101320	Oh yeah.
+8101320	8101720	Rez.
+8103720	8104360	I don't know.
+8104360	8106600	There's just, there's too much to choose from.
+8107320	8113480	There is, I think we have to exclude those stuff in, uh, in a, uh, rock band.
+8113800	8115640	Uh, as Bobby was suggesting, Tom Sawyer.
+8118120	8118440	All right.
+8118440	8123280	Well, besides that, I'd prefer working man to sing it all depends on
+8123280	8125160	how you want to interpret the question, but there you go.
+8125200	8125680	There you go.
+8125760	8127280	So, all right.
+8127520	8128800	I think that was it for emails.
+8128880	8132640	So a reminder, if you want to send us an email, that was it.
+8132800	8133200	All right.
+8133360	8136320	Participate at orange on trader.com is the place where you can send an
+8136320	8137920	email and get read on air as well.
+8138400	8141800	Um, I want to ask in chat, is there anything you guys want us to bring up
+8141800	8143560	or talk about here before we wrap it up?
+8143840	8147760	Otherwise I'm going to kick it over to Loki to see if he has any last minute
+8147760	8151040	stories, because I do feel like there was a ton of stuff you submitted that it
+8152040	8156240	was just like a lot of little things this week, but I don't know if there's
+8156240	8157200	anything you want to mention.
+8158080	8162680	There is a mod for Tekken to add Tifa into it, which makes me wish that they
+8162680	8164320	would just do a new Ergites game.
+8164360	8164920	Right.
+8165160	8166640	But it looked awesome.
+8166680	8170120	Like they have, they took Tifa from the new, uh, the, the final
+8170120	8173320	fantasy seven remake and just looks amazing.
+8173360	8175920	I mean, just like, give me a new, like.
+8176520	8180880	Ergits I would like that, or not even necessarily that like more
+8180880	8181800	of that crossover stuff.
+8181800	8185600	I could always use more crossover stuff in like different
+8185600	8187760	fighting games, um, would be amazing.
+8188360	8190960	Um, hell it'd be awesome.
+8190960	8194000	It's like having some of like the characters from the boys appear in
+8194000	8197080	like some of these fighting games, you know, like kind of, kind of like
+8197080	8200760	what they did with, um, Injustice and stuff like that.
+8201360	8203360	Um, gosh, I don't know.
+8205560	8206760	Yeah, it looks really good.
+8206760	8208640	Like it is surprisingly good.
+8208640	8212760	Um, let's see, let me try to see what else I had in there.
+8214200	8221080	Um, uh, six days in, uh, Flugia is coming back.
+8221440	8226880	So that was a shooter that was set in, uh, the, I, it was set in Iraq.
+8227360	8231760	And I know that was something we talked about years ago, but apparently
+8231760	8236240	now they're supposed to be like starting development on that again.
+8236240	8240240	So it'd be interesting to see if that ends up coming out at some point.
+8240880	8244280	Um, but yeah, um, interesting.
+8244840	8246440	And then what else?
+8246480	8252240	Uh, this weird, like concierge service that switch has now, where they're
+8252240	8258480	basically going to, um, kind of like walk you through like some of the features
+8258480	8262560	of the Nintendo switch and also do some sort of like, I guess, maybe
+8262560	8264800	recommendations for games as well.
+8264800	8266600	Um, so that's kind of interesting.
+8266600	8271440	And there's six, I guess, there's six half hour sessions to choose from.
+8271680	8276360	They have a switch one a one games, games, what to play next, security and
+8276360	8279080	privacy and head to account customization.
+8279480	8283480	And so it's kind of like a tutorial for the switch platform.
+8284040	8287400	So that's interesting, I guess, kind of going towards
+8287400	8288920	their like family friendly stuff.
+8288920	8294200	Um, here's one, actually, they didn't put in the show role, but I was going
+8294200	8298120	to mention anyways, it was because it brought me back to like Roosevelt
+8298120	8304920	golf land, um, where there was an arcade, uh, like some teenager got arrested
+8305200	8307000	for kicking an arcade machine.
+8307240	8311120	So it was one of those ones where you actually like have to punch it, like it,
+8311560	8314440	it, uh, registered, like how hard do you hit something?
+8314440	8318400	But, um, he had kicked the machine because it took a while to get to the
+8318400	8319720	machine because it took his money.
+8319880	8322760	And so they arrested him like, man, why can't they do that here?
+8322880	8328960	I guess we might have to rethink our, uh, ultra Cade thing from like 15 years.
+8328960	8330240	Well, it wasn't an ultra Cade.
+8330240	8333640	It was, it was something else, but yeah, it's, yeah, yeah, we're going to
+8333640	8335120	be in charges inciting violence.
+8335200	8337920	The chat just lit up about the ultra Cade thing too.
+8337920	8338440	I'm sorry.
+8338600	8341320	Some of you remember we talked, I don't even remember why it
+8341320	8342720	was kick an ultra Cade machine.
+8342920	8344240	I think they did something shady.
+8344920	8350720	And I think they were trying to trademark or a copyright maim is what it was.
+8350720	8357080	I remember taking a picture of dark soccer, kicking the cabinet at
+8357080	8360880	Roseville golf land and like putting it on either our website or whatever.
+8360880	8363800	So live journal, whatever social media we were using at the time.
+8364160	8364920	Um, dark soccer.
+8364920	8365560	Do you remember that?
+8365600	8367120	Me taking a picture of you kicking an ultra Cade?
+8368240	8368520	Yeah.
+8368760	8370840	So, um, what was that?
+8372280	8372920	Yeah, I do.
+8373240	8373760	Oh yeah.
+8374080	8376480	Um, so yeah, dark tissue says, yeah, I remember that too.
+8376480	8376760	Yeah.
+8376920	8381480	So, um, so basically I took pictures of dark soccer, committing a crime.
+8381560	8382400	That's so cool.
+8383960	8386240	They're going to such a rebel mayor.
+8386240	8387080	Put you in jail.
+8389160	8389520	Jail.
+8389520	8394560	This, uh, DJ says, I also sent a photo of me kicking an ultra Cade machine.
+8394760	8397320	Oh, that was probably back when the website, you could submit your own
+8397320	8399440	pictures and they'd show up at the challenge.
+8399800	8400120	Yeah.
+8400120	8400840	It was like a challenge.
+8400840	8403240	And I think we, like, we had a thing where you could send a picture to an
+8403240	8404480	email and it would show up on the website.
+8404760	8408160	And then of course, one of those shitposting sites found it and we had to
+8408160	8410680	take it down cause it just became obnoxious.
+8410960	8413560	So, but when it was working, it worked.
+8413600	8414640	It was a lot of fun.
+8414960	8415880	That memories.
+8417920	8418360	All right.
+8418400	8418720	Yeah.
+8418760	8420040	Is that it for last minute stories?
+8420720	8421320	Yeah, that's it.
+8421440	8421920	All right.
+8422160	8426480	Well, I'm not seeing a lot of comments in chat, so I think it is about time to wrap
+8426480	8429800	up, but I do want to thank everybody who's listening live tonight, whether you're
+8429800	8434960	listening live over at twitch.tv slash vog network, or if you're listening on our
+8434960	8439440	podcast, we really appreciate you being here and listening this week.
+8440720	8442600	Hope you all had a good Valentine's day.
+8442960	8444560	Those that are live are on podcast.
+8445120	8448040	And I hope you've had, have a great week with gaming.
+8448320	8451240	If you enjoyed what you heard here at Orange Lounge Radio, please tell a friend
+8451240	8452200	or two about the show.
+8452360	8455520	Help us spread the word because we are the show where every gamer has a voice.
+8455520	8459440	But if the voices aren't here to put out on air, then we don't have those voices.
+8459800	8463160	Um, if you feel like supporting the show financially, which you don't have to do,
+8463160	8464200	but we really appreciate it.
+8464400	8467920	Uh, check out our shop over at vog network.com slash shop.
+8468120	8471640	You can buy yourself a t-shirt or some other, like a sticker and some other stuff
+8471680	8472440	that's on there.
+8472720	8475880	And again, we're hoping to add to that in the coming months, but we're just, you
+8475880	8478000	know, we just haven't gotten to making the new products yet.
+8478400	8481480	Um, and, uh, what else do I want to say?
+8481560	8483880	Um, I forget.
+8483880	8484920	Oh, an auto host.
+8485200	8485640	What's that?
+8486560	8486960	Words.
+8486960	8489040	You were going to say some words and I remembered.
+8489200	8491280	Uh, an auto host here at Twitch.
+8491320	8493080	Those go a long way as well.
+8493200	8497760	So I really want to thank those that go out of your way to a host us here on Twitch TV.
+8498040	8498720	Um, thank you.
+8498720	8503360	Thank you so much for all of the support and helping us grow and continuing to do so in
+8503360	8504960	2021 as well.
+8505240	8509000	So, uh, with that, I think we are on final thoughts.
+8509200	8511920	So, um, dark soccer, I'll start with you.
+8511920	8512560	Your final thought.
+8513480	8516520	Um, I hate sinus infections.
+8517000	8523720	I'm glad I only have to take doxy one more day and my head feels like it's exploding from the
+8523720	8524080	inside.
+8524600	8524840	All right.
+8524840	8525480	Well, feel better.
+8525480	8526520	We missed you last week.
+8526520	8531280	I had an F you that I didn't, that I didn't get a chance to do, and I've brought to tell you about
+8531280	8531440	it.
+8531640	8532280	Go ahead.
+8533120	8543120	Fuck you to see a stupid black face in your movie for your stupid having a neurotypical actress play
+8543160	8544320	an autistic woman.
+8544560	8545080	Fuck you.
+8545080	8545840	Fuck your movie.
+8545840	8547240	Fuck everything about you.
+8547240	8549680	I don't ever want to hear from you ever again.
+8549720	8550640	I hope that you die.
+8550640	8551520	Penny, listen to gutter.
+8553520	8557320	Well, Loki, I don't know how you can follow that, but I'll ask you for your final thought anyway.
+8558120	8564160	Um, well, I'm going to take a break and if you haven't checked that pixel whoops number two, check
+8564160	8564480	it out.
+8564680	8568360	Same with the original and the Commodore 64 version as well.
+8568360	8569920	So go check those out.
+8570800	8577480	Like I said, I put it in the, um, that was at the, that independent game database.
+8577720	8582120	So hopefully that'll be up on Twitch eventually as a selectable option.
+8582480	8584160	And they say it takes 24 hours to update.
+8584160	8584600	So we'll see.
+8585480	8588640	Um, and Loki, get yourself out there, promote your game.
+8588640	8590800	I know you want to take a break, but I've been trying.
+8591040	8592920	No one has like story submissions.
+8592920	8595600	They get to like register for their website and stuff.
+8595600	8603720	And I've said stuff like to different publishing or like different sites, but it's just, it's a nothing game.
+8603720	8605240	I just thought, Hey, ha ha.
+8605240	8606720	And NES game is pooping.
+8606720	8608800	You know, you just click bait enough.
+8608840	8613240	You need one site to pick it up and then everybody else will copy paste it.
+8613960	8614600	Exactly.
+8614800	8615520	So good luck.
+8616200	8618400	Well, don't forget podcasts and things like that as well.
+8618440	8622480	You know, hit up some other gaming podcasters that we know, see what you can do.
+8623000	8623400	All right.
+8624000	8630800	Um, and then my final thought is, um, just I, how great that things have come full circle.
+8630800	8640680	I mean, we, of course have, thanks to YYR had an OLR joke game kind of become a real game before, uh, with Bungie ferret tossing and all that stuff.
+8640680	8651880	But for, for Loki to now kind of bring that to us and bring that full circle where it's like, not, not only did we think of the game or dark soccer thought of the game, but then Loki made the game.
+8652040	8666760	And I, well, it's shake and bake and I helped, um, that's pretty much it, but, um, but the fact that that's really come full circle where now OLR has, has impacted games like that, I think is a really awesome thing.
+8666760	8674480	So keep gaming, keep making, keep creating, whether it be games or whatever art you're into and just have yourself a wonderful week.
+8674480	8676400	Everybody we'll see you in seven days.
+8676680	8677160	Good night.
+8677800	8678120	Bye.
+8679120	8681760	You've been listening to orange lounge radio.
+8682400	8688240	Orange lounge radio is a production of OLR studios to join us for a live show.
+8688560	8706000	Tune into vog network.com Sunday nights at 6 PM Pacific 9 PM Eastern the views and opinions expressed in this program do not necessarily reflect those of the staff of orange lounge radio or vog network, but you know, they were all still true.
+8708120	8710000	See you next week.

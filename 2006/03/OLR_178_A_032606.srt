@@ -1,0 +1,5100 @@
+1
+00:00:00,000 --> 00:00:03,000
+Orange Lounge Radio
+
+2
+00:00:07,000 --> 00:00:13,000
+These are hosts, DarkSakura, Sky, and Wookiee.
+
+3
+00:00:14,000 --> 00:00:19,000
+Tonight, March 26th, 2006, we cover the highlights of the Game Developers Conference,
+
+4
+00:00:19,000 --> 00:00:22,000
+World of Warcraft teaches us the lesson on business,
+
+5
+00:00:22,000 --> 00:00:25,000
+and Congress gets 20,000 messages from video gamers.
+
+6
+00:00:25,000 --> 00:00:37,960
+Hello everybody out there on the internet and welcome to another week of Orange Lounge
+
+7
+00:00:37,960 --> 00:00:38,960
+Radio.
+
+8
+00:00:38,960 --> 00:00:41,120
+It is March 26, 2006.
+
+9
+00:00:41,120 --> 00:00:47,220
+This is episode number 178 and thanks so much for tuning in live or downloading us, whatever
+
+10
+00:00:47,220 --> 00:00:48,520
+the case may be.
+
+11
+00:00:48,520 --> 00:00:49,520
+My name is Rob Roberts.
+
+12
+00:00:49,520 --> 00:00:50,520
+You might know me as Sky.
+
+13
+00:00:50,520 --> 00:00:54,360
+joining me, as always, say hello to the lovely Dark Sakura, Jamie Sommers.
+
+14
+00:00:54,360 --> 00:00:55,360
+Yo.
+
+15
+00:00:55,360 --> 00:00:57,160
+Oh, I think the mic is off, dear.
+
+16
+00:00:57,160 --> 00:00:58,160
+No, it was on.
+
+17
+00:00:58,160 --> 00:00:59,160
+Oh, it wasn't?
+
+18
+00:00:59,160 --> 00:01:00,160
+I don't know.
+
+19
+00:01:00,160 --> 00:01:01,160
+I twitched it a little bit.
+
+20
+00:01:01,160 --> 00:01:02,160
+Weird sound stuff.
+
+21
+00:01:02,160 --> 00:01:03,160
+Yo!
+
+22
+00:01:03,160 --> 00:01:04,160
+There we go.
+
+23
+00:01:04,160 --> 00:01:05,160
+How you doing?
+
+24
+00:01:05,160 --> 00:01:06,160
+I'm alive.
+
+25
+00:01:06,160 --> 00:01:07,160
+That's something.
+
+26
+00:01:07,160 --> 00:01:08,160
+That's good.
+
+27
+00:01:08,160 --> 00:01:09,160
+It's good to be alive.
+
+28
+00:01:09,160 --> 00:01:10,160
+It is.
+
+29
+00:01:10,160 --> 00:01:11,160
+It is.
+
+30
+00:01:11,160 --> 00:01:12,800
+Also joining us tonight, say hello to Tech Master Loki.
+
+31
+00:01:12,800 --> 00:01:13,800
+Hello.
+
+32
+00:01:13,800 --> 00:01:14,800
+How you doing?
+
+33
+00:01:14,800 --> 00:01:15,800
+Good.
+
+34
+00:01:15,800 --> 00:01:16,800
+Good.
+
+35
+00:01:16,800 --> 00:01:19,440
+Okay, well, we got a lot of news tonight, so I guess we should cut the crap and get
+
+36
+00:01:19,440 --> 00:01:20,440
+to it.
+
+37
+00:01:20,440 --> 00:01:22,440
+How was your week? Good week?
+
+38
+00:01:22,440 --> 00:01:24,440
+All except for certain events.
+
+39
+00:01:24,440 --> 00:01:27,440
+There were highlights and lowlights?
+
+40
+00:01:27,440 --> 00:01:29,440
+There were lowlights.
+
+41
+00:01:29,440 --> 00:01:34,440
+Okay. Which we don't need to get into on a public internet program, correct?
+
+42
+00:01:34,440 --> 00:01:35,440
+Not really.
+
+43
+00:01:35,440 --> 00:01:36,440
+How about the highlights?
+
+44
+00:01:36,440 --> 00:01:39,440
+Tuesday night we had a good time. We went on an Orange Lounge road trip.
+
+45
+00:01:39,440 --> 00:01:41,440
+Yes we did. We got to meet people.
+
+46
+00:01:41,440 --> 00:01:46,440
+We got to meet some people from allgames.com who do the syndication of our program.
+
+47
+00:01:46,440 --> 00:01:47,440
+And I had sushi.
+
+48
+00:01:47,440 --> 00:01:51,120
+And it was very cool. It was as close as we got to Game Developers Conference.
+
+49
+00:01:51,120 --> 00:01:54,820
+It's like we got to be in the same city and we were near people that were going to
+
+50
+00:01:54,820 --> 00:01:55,880
+Game Developers Conference,
+
+51
+00:01:55,880 --> 00:01:59,080
+although we didn't actually get to go ourselves. So we didn't get to,
+
+52
+00:01:59,080 --> 00:02:02,440
+we didn't get to go to no bloggers breakfast, so we had to make our own,
+
+53
+00:02:02,440 --> 00:02:07,960
+you know, uh, Cool Kid's, yeah, Cool Kid's Dinner or something like that. I don't know.
+
+54
+00:02:07,960 --> 00:02:11,880
+No, no, I mean. That place was pretty tasty. It was a good place, wherever that was that we went.
+
+55
+00:02:11,880 --> 00:02:13,120
+The little, like, Benny, not,
+
+56
+00:02:13,120 --> 00:02:17,280
+it's not Benny Hana's. Semi Hana's. Yeah, Semi Hana's. It was, it was Genji.
+
+57
+00:02:17,280 --> 00:02:22,000
+I just thought the name was cool because I got to make a Namco reference to it.
+
+58
+00:02:22,000 --> 00:02:25,440
+The Genji in Heike Clan.
+
+59
+00:02:25,440 --> 00:02:30,360
+Big thanks to our pals over at AllGames.com for meeting up with us and
+
+60
+00:02:30,360 --> 00:02:33,560
+definitely more to come on what we're doing with them in the future but for now
+
+61
+00:02:33,560 --> 00:02:37,840
+let's get into our program and we always like to start off with a little bit of
+
+62
+00:02:37,840 --> 00:02:41,200
+how was your gaming week and what kind of stuff have you been playing this week?
+
+63
+00:02:41,200 --> 00:02:42,840
+Dark Sakura, what kind of games have you been into?
+
+64
+00:02:42,840 --> 00:02:46,120
+Well I haven't been able to do a lot of gaming.
+
+65
+00:02:46,120 --> 00:02:53,040
+I sprained my wrist last Friday, so I've been kinda not able to use the D-Pad very well
+
+66
+00:02:53,040 --> 00:02:54,220
+until a couple days ago.
+
+67
+00:02:54,220 --> 00:02:59,760
+We picked up Tetris DS, and I haven't actually got to play it yet because I can't get it
+
+68
+00:02:59,760 --> 00:03:02,200
+away from Dan.
+
+69
+00:03:02,200 --> 00:03:03,360
+Which must mean it's pretty good.
+
+70
+00:03:03,360 --> 00:03:06,600
+I haven't played any Animal Crossing at all this week.
+
+71
+00:03:06,600 --> 00:03:07,600
+Congratulations.
+
+72
+00:03:07,600 --> 00:03:10,960
+I've been playing lots of Ragnarok online, because I can use my mouse.
+
+73
+00:03:10,960 --> 00:03:17,760
+I am now level 52 38 thief and then I have like an archer and I have a merchant that
+
+74
+00:03:17,760 --> 00:03:23,720
+I've started too and uh Dan also picked up the initial D game for PSP which comes with
+
+75
+00:03:23,720 --> 00:03:27,600
+a lanyard it was pretty cool um I heard lots of eurobeat pouring out of the living room
+
+76
+00:03:27,600 --> 00:03:33,360
+as I left the house today so uh that's what the uh game oh he's been playing a lot of
+
+77
+00:03:33,360 --> 00:03:40,180
+burnout which I'm like whatever that game does not end in the least why not it looks
+
+78
+00:03:40,180 --> 00:03:43,680
+Stupid it's about what the sixth racing game to come out for Xbox 360
+
+79
+00:03:43,680 --> 00:03:46,800
+I get tired of there being nothing but racing games in my house
+
+80
+00:03:47,480 --> 00:03:51,480
+You know it may be fun for people, but it looks like more of the same crap
+
+81
+00:03:51,480 --> 00:03:54,720
+He's been playing for like the past three months, and I'm sick of it
+
+82
+00:03:54,720 --> 00:04:01,440
+That's because they're most of the racing well actually it's what EA no need for speed most wanted and burnout look exactly the same
+
+83
+00:04:01,780 --> 00:04:05,460
+Or pretty close at least because you know they're both ports of
+
+84
+00:04:05,460 --> 00:04:11,460
+of the Xbox version with better textures, I guess, and stuff.
+
+85
+00:04:11,460 --> 00:04:14,460
+Um, I don't know, there's not that...
+
+86
+00:04:14,460 --> 00:04:16,460
+Well, I guess there are some racing games out there.
+
+87
+00:04:16,460 --> 00:04:20,460
+Uh, let's see. Project Gotham, Full Auto, Ridge Racer...
+
+88
+00:04:20,460 --> 00:04:22,460
+No, no, Full Auto's not really a racing game.
+
+89
+00:04:22,460 --> 00:04:23,460
+Well, okay...
+
+90
+00:04:23,460 --> 00:04:25,460
+Sorta, kinda.
+
+91
+00:04:25,460 --> 00:04:27,460
+There's plenty, come on.
+
+92
+00:04:27,460 --> 00:04:28,460
+I guess.
+
+93
+00:04:28,460 --> 00:04:29,460
+Alright.
+
+94
+00:04:29,460 --> 00:04:32,460
+Uh, Loki, how was your gaming week? What'd you been playing?
+
+95
+00:04:32,460 --> 00:04:39,460
+I'm playing a lot of stuff actually. I'll start off, I bought me my Katamari and that's
+
+96
+00:04:39,460 --> 00:04:43,980
+pretty fun. It looks really pretty on the PSP, that's for sure. It doesn't control
+
+97
+00:04:43,980 --> 00:04:51,180
+too well. I don't really like how they do the directional pad and the four buttons instead
+
+98
+00:04:51,180 --> 00:04:56,660
+of two analogs, but what are you going to do with the PSP? But it is very pretty, and
+
+99
+00:04:56,660 --> 00:05:00,340
+if you do play it for a while you do eventually get used to the controls, although they do
+
+100
+00:05:00,340 --> 00:05:05,500
+make your hand hurt a bit. Then of course I played a little bit of Grand Theft Auto
+
+101
+00:05:05,500 --> 00:05:15,060
+Liberty City Stories as usual. And also I've been playing on the 360. Was it? I finally
+
+102
+00:05:15,060 --> 00:05:22,660
+got all my achievements unlocked in full auto today. And also I played a little bit of Oblivion
+
+103
+00:05:22,660 --> 00:05:28,660
+and that game is just huge. It's very pretty but just really huge. Like today I was like
+
+104
+00:05:28,660 --> 00:05:33,220
+you know I see a mountain over there I'm gonna go walk that direction and sure
+
+105
+00:05:33,220 --> 00:05:37,420
+enough you can pretty much climb to the top of that mountain and meanwhile I was
+
+106
+00:05:37,420 --> 00:05:40,940
+you know sneaking around through the dark and I see deer so I throw fireballs
+
+107
+00:05:40,940 --> 00:05:46,260
+and kill the deer because I can and other fun things like I pit pocketed a
+
+108
+00:05:46,260 --> 00:05:50,540
+key from this one guy in town and went to his house stole all this stuff and
+
+109
+00:05:50,540 --> 00:05:56,060
+dumped it on the street because I can I'm a jackass in the game I didn't
+
+110
+00:05:56,060 --> 00:06:00,140
+really play the game enough to give it a full review, but I did notice that everything was
+
+111
+00:06:00,140 --> 00:06:05,740
+very big, like there was just lots to do, like even when it came down to the customization
+
+112
+00:06:05,740 --> 00:06:10,220
+of your character, like you know, let's say you want to customize the mouth, well okay,
+
+113
+00:06:10,220 --> 00:06:15,180
+in most games I've played to date, you pick from like 10 or so preset mouths for your
+
+114
+00:06:15,180 --> 00:06:18,140
+character, if you're even that lucky, if you even get to narrow it down that far.
+
+115
+00:06:18,140 --> 00:06:22,520
+Okay, this game like would let you adjust like the size of the lips, like you could
+
+116
+00:06:22,520 --> 00:06:26,880
+go for like big old Angelina Jolie Stephen Tyler style lips or small lips
+
+117
+00:06:26,880 --> 00:06:30,600
+you can make him smile for I mean like it was like oh my it was almost too much
+
+118
+00:06:30,600 --> 00:06:36,880
+like I was like okay this is too much detail for me I mean like fun I love
+
+119
+00:06:36,880 --> 00:06:40,880
+customizing yeah but I'm like I'm like okay I'm here to I'm here to kill things
+
+120
+00:06:40,880 --> 00:06:44,880
+and set things on fire not play Barbie dress-up with my character but hey
+
+121
+00:06:44,880 --> 00:06:50,160
+Barbie dress-up is pretty darn fun but you know I just I it's cool I'm not
+
+122
+00:06:50,160 --> 00:06:53,360
+going to knock the game for having that, but I was a little bit taken aback, because I'm
+
+123
+00:06:53,360 --> 00:06:58,040
+like, okay, I'm just starting this game, and already I feel like really overwhelmed. And
+
+124
+00:06:58,040 --> 00:07:01,320
+of course, Loki was showing it to me, and he's like telling me everything to do, okay,
+
+125
+00:07:01,320 --> 00:07:04,520
+press this button, press this button, okay, press this, then this, then this, and this,
+
+126
+00:07:04,520 --> 00:07:08,340
+and this. I'm like, oh my gosh, this is like overwhelming. But then I thought about like
+
+127
+00:07:08,340 --> 00:07:11,840
+when I played Final Fantasy XI for the first time, I kind of felt the same way, so I know
+
+128
+00:07:11,840 --> 00:07:13,540
+it's just one of those games you have to get used to.
+
+129
+00:07:13,540 --> 00:07:17,800
+It's not that hard once you get through it, no. So anyways, of course, you know, there
+
+130
+00:07:17,800 --> 00:07:22,520
+was a little leak out there about how there's a glitch with one character where you can
+
+131
+00:07:22,520 --> 00:07:27,800
+kill him and get infinite gold. Well I went and tried to kill this guy and god dammit
+
+132
+00:07:27,800 --> 00:07:33,040
+he keeps running away. I can't kill him fast enough. Even if I sneak up on him I just can't
+
+133
+00:07:33,040 --> 00:07:38,460
+do it. Which is surprising because you'd think if you hit somebody with a double-edged, two-handed
+
+134
+00:07:38,460 --> 00:07:42,960
+sword really hard in the back when they weren't expecting it you'd think eh they're probably
+
+135
+00:07:42,960 --> 00:07:47,420
+gonna be on the ground you know but damn I can whack away at this guy and he
+
+136
+00:07:47,420 --> 00:07:50,640
+freaking puts up fight and then runs away like a coward it's like holy shit
+
+137
+00:07:50,640 --> 00:07:55,200
+I mean if I was getting hit with a sword they would be down whatever anyways but
+
+138
+00:07:55,200 --> 00:08:01,200
+yeah tons of stuff to do in this game I don't even know it's a long game very
+
+139
+00:08:01,200 --> 00:08:08,240
+very long I played the was a blazing angels demo that was fun I especially
+
+140
+00:08:08,240 --> 00:08:12,440
+loved taking off and then turning back around and shooting the people that were
+
+141
+00:08:12,440 --> 00:08:17,240
+on the ground in my headquarters. That was fun. Didn't like it too much. Kept crashing
+
+142
+00:08:17,240 --> 00:08:24,900
+in the buildings though, because I suck at flight sims. And, god, what else did I play?
+
+143
+00:08:24,900 --> 00:08:33,160
+Some more, was it Geometry Wars? That's kind of cool.
+
+144
+00:08:33,160 --> 00:08:38,080
+Very cool. You know, if Oblivion had came out when it was first originally supposed
+
+145
+00:08:38,080 --> 00:08:41,560
+to be out, like not quite as the launch title, but what, like end of December was the original
+
+146
+00:08:41,560 --> 00:08:45,720
+time frame for the game, right? I think I would have had a chance to play it, but now
+
+147
+00:08:45,720 --> 00:08:51,580
+it's kind of like, okay, in my imaginary game queue in my head of the games I want to play
+
+148
+00:08:51,580 --> 00:08:56,160
+and in the order I want to play them, unfortunately Oblivion's kind of like way down on the list
+
+149
+00:08:56,160 --> 00:08:59,080
+now because there's all these other games that came out in the past two weeks that are
+
+150
+00:08:59,080 --> 00:09:03,560
+more important for me right now. It's a bummer that game didn't come out two months ago or
+
+151
+00:09:03,560 --> 00:09:07,000
+I might have been more interested, but now it's like, ooh, Kingdom Hearts is coming and
+
+152
+00:09:07,000 --> 00:09:10,360
+be honest I'm glad they waited because it looks
+
+153
+00:09:10,360 --> 00:09:14,840
+looks good. Well yeah, to make the game better
+
+154
+00:09:14,840 --> 00:09:18,240
+I mean fine but you know it's just too bad that it didn't happen when it was
+
+155
+00:09:18,240 --> 00:09:19,880
+originally supposed to because I probably would have
+
+156
+00:09:19,880 --> 00:09:23,640
+wanted to play it more but honestly it's only so many hours in a day so... The only bad
+
+157
+00:09:23,640 --> 00:09:24,640
+thing about the game
+
+158
+00:09:24,640 --> 00:09:27,920
+is the load times. Gotta love the load times. It's just
+
+159
+00:09:27,920 --> 00:09:31,320
+super long to get started and then each area's
+
+160
+00:09:31,320 --> 00:09:35,120
+loading and stuff. I do like the feature where you can quick travel if you're, you know,
+
+161
+00:09:35,120 --> 00:09:35,400
+cause
+
+162
+00:09:35,400 --> 00:09:41,280
+Imagine running for like hours and hours. No, not fun, but um you can do like quick travel and stuff
+
+163
+00:09:41,280 --> 00:09:47,580
+Which is pretty cool. I did get stuck behind a rock one time in a cave because hey
+
+164
+00:09:47,580 --> 00:09:54,100
+I'm gonna go back there and the problem is if you don't land on the ground it won't let you jump again
+
+165
+00:09:54,100 --> 00:09:55,480
+So I got stuck
+
+166
+00:09:55,480 --> 00:09:56,600
+I wasn't quite you know
+
+167
+00:09:56,600 --> 00:10:02,160
+I was kind of clipped on the rock and I couldn't quite touch the ground so wouldn't let me jump so I was I could
+
+168
+00:10:02,160 --> 00:10:08,100
+not move, which was really fun. Luckily the game does autosave every now and then, so
+
+169
+00:10:08,100 --> 00:10:13,340
+I was able to go back to my autosave and just do a few more things and I'm done. The other
+
+170
+00:10:13,340 --> 00:10:16,840
+great thing about the game is you can actually, anything you see, you can pretty much pick
+
+171
+00:10:16,840 --> 00:10:23,760
+up, steal, take, wear, break, I don't know, it's just a lot to, I mean, you can wander
+
+172
+00:10:23,760 --> 00:10:27,220
+around the fields and you see a flower, pick a flower. I mean, if you see a mushroom, pick
+
+173
+00:10:27,220 --> 00:10:30,220
+the mushroom. Find some cow poo, wear it on your head.
+
+174
+00:10:30,220 --> 00:10:34,540
+It's probably would let you, it's very thorough.
+
+175
+00:10:34,540 --> 00:10:38,540
+Okay, any other games you've been playing this week? No.
+
+176
+00:10:38,540 --> 00:10:43,180
+Alright, my gaming week, you know I spend a little time customizing my Xbox 360
+
+177
+00:10:43,180 --> 00:10:43,620
+because
+
+178
+00:10:43,620 --> 00:10:48,340
+you can, you know, link it up to your PC to play music off your PC and look at
+
+179
+00:10:48,340 --> 00:10:49,620
+pictures from your PC.
+
+180
+00:10:49,620 --> 00:10:53,140
+So I finally played with this feature a little bit this week because for some
+
+181
+00:10:53,140 --> 00:11:10,140
+For some wacky reason, I thought that you could also stream movies from your PC, but I guess you have to have Media Center to do that, which I don't, but I went to the hassle to set it up anyway, only to be disappointed, but it's still kind of neat that you can, you know, use music from your computer as custom soundtracks to games and stuff, and use the pictures.
+
+182
+00:11:10,140 --> 00:11:22,140
+Well, one other thing that you can do with the pictures is that you can actually change the theme on your Xbox 360 to be one of the pictures from that, so you can, like, set your own background, essentially, by doing that.
+
+183
+00:11:22,140 --> 00:11:29,140
+I thought to be ironic, what I did is I went onto Nintendo's website and I downloaded a background for Mario Kart DS
+
+184
+00:11:29,140 --> 00:11:31,140
+and I put that background in the share folder
+
+185
+00:11:31,140 --> 00:11:37,140
+and so now when I bring up my Xbox 360, it's got this big Nintendo Mario Kart DS background
+
+186
+00:11:37,140 --> 00:11:41,140
+so I'll have to take a picture of it and put it on the forums just to be cute
+
+187
+00:11:41,140 --> 00:11:44,140
+I don't know why I did it, I thought it would be funny
+
+188
+00:11:44,140 --> 00:11:49,140
+I guess there's only some things only I find amusing, I don't know, maybe some of you out there find that amusing
+
+189
+00:11:49,140 --> 00:11:54,500
+As far as actual games I was playing, speaking of Xbox, I downloaded Astro Pop in the Xbox
+
+190
+00:11:54,500 --> 00:11:56,500
+Live Arcade.
+
+191
+00:11:56,500 --> 00:12:03,140
+I'm a little bit over the love affair with PopCap-style games, and Astro Pop was a game
+
+192
+00:12:03,140 --> 00:12:08,900
+I really liked an awful lot back when it was called Magical Drop.
+
+193
+00:12:08,900 --> 00:12:14,340
+I played Astro Pop a little bit on the PC, but when I played on the Xbox 360, the thrill
+
+194
+00:12:14,340 --> 00:12:16,700
+was kind of gone after a couple rounds.
+
+195
+00:12:16,700 --> 00:12:18,900
+It wasn't really a long-lasting game for me.
+
+196
+00:12:18,900 --> 00:12:23,740
+I don't like the fact that they're charging $10 for these games when gems like Geometry
+
+197
+00:12:23,740 --> 00:12:25,860
+Wars are only $5.
+
+198
+00:12:25,860 --> 00:12:30,180
+Don't think I can really recommend Astro Pop unless you're really, really into the puzzle
+
+199
+00:12:30,180 --> 00:12:33,740
+games, in which case you've probably already downloaded this and you know this game is
+
+200
+00:12:33,740 --> 00:12:35,480
+for you.
+
+201
+00:12:35,480 --> 00:12:38,340
+Speaking of puzzlers, here's a game now that's worth every penny.
+
+202
+00:12:38,340 --> 00:12:41,200
+Tetris DS just came out for the Nintendo DS this week.
+
+203
+00:12:41,200 --> 00:12:42,720
+It is awesome.
+
+204
+00:12:42,720 --> 00:12:49,060
+I think the thing with Tetris is that we know there has been a crap load of Tetris games
+
+205
+00:12:49,060 --> 00:12:51,760
+since Tetris on the Game Boy.
+
+206
+00:12:51,760 --> 00:12:54,980
+For instance, I know there was a really big one on the PlayStation, but none of the Tetris
+
+207
+00:12:54,980 --> 00:13:00,380
+games have been very memorable and nothing has really matched that bar that Game Boy
+
+208
+00:13:00,380 --> 00:13:01,380
+Tetris set.
+
+209
+00:13:01,380 --> 00:13:05,660
+We will leave it to Nintendo to come back and do it again and make their game memorable,
+
+210
+00:13:05,660 --> 00:13:10,960
+which they have done I think by inserting all these cute 8-bit retro things with the
+
+211
+00:13:10,960 --> 00:13:16,720
+music and all these new modes, there's just huge amounts of new modes, the catch mode
+
+212
+00:13:16,720 --> 00:13:21,320
+and the touch mode and the puzzle mode, just all this stuff to keep you busy, and then
+
+213
+00:13:21,320 --> 00:13:24,620
+of course you can take it online, and I think the great thing about being able to play it
+
+214
+00:13:24,620 --> 00:13:28,420
+online is that it's a real quick game that you can play online.
+
+215
+00:13:28,420 --> 00:13:33,620
+I kind of wish that you could play online in an unranked setting, the only way you could
+
+216
+00:13:33,620 --> 00:13:37,660
+do that is by playing people on your friends list, and then on the reverse side you can't
+
+217
+00:13:37,660 --> 00:13:41,980
+ranked matches against your friends, so either you play against strangers in a ranked match
+
+218
+00:13:41,980 --> 00:13:45,960
+or friends in another ranked match, there's really no in-between, but that's probably
+
+219
+00:13:45,960 --> 00:13:48,580
+only my minor gripe.
+
+220
+00:13:48,580 --> 00:13:52,900
+Otherwise this game is magnificent, and if you're a puzzle fan, you must have this game,
+
+221
+00:13:52,900 --> 00:13:54,700
+it's a must-own game.
+
+222
+00:13:54,700 --> 00:13:59,060
+If you're not a puzzle fan yet, I still say check it out.
+
+223
+00:13:59,060 --> 00:14:02,920
+If you have any type of fond memories of Tetris and the Game Boy, this game is really worth
+
+224
+00:14:02,920 --> 00:14:03,920
+your money.
+
+225
+00:14:03,920 --> 00:14:08,720
+time, so I definitely recommend Tetris DS.
+
+226
+00:14:08,720 --> 00:14:11,840
+Many new modes to keep you busy, just so many new modes and stuff.
+
+227
+00:14:11,840 --> 00:14:15,120
+I think there's still unlockable things too, I haven't even gotten to yet, so more to come
+
+228
+00:14:15,120 --> 00:14:16,120
+on that.
+
+229
+00:14:16,120 --> 00:14:20,040
+I'll have to check game FAQs and see what's to be unlocked, because I'm sure there's something.
+
+230
+00:14:20,040 --> 00:14:23,880
+I heard something about 10,000 Tetris points gets you something, but we'll see.
+
+231
+00:14:23,880 --> 00:14:29,440
+Anyway, other games I've been playing this week, I also picked up Metroid Prime Hunters,
+
+232
+00:14:29,440 --> 00:14:33,840
+which is the 3D Metroid game which had the demo that was packed in with the DS initially.
+
+233
+00:14:33,840 --> 00:14:37,180
+The game's gotten a little bit of a facelift since the demo, I mean obviously it's been
+
+234
+00:14:37,180 --> 00:14:40,180
+like over a year now, and I've been playing the game.
+
+235
+00:14:40,180 --> 00:14:42,120
+It's got a very interesting control scheme.
+
+236
+00:14:42,120 --> 00:14:46,400
+You can pick from different control styles, you don't have to use the stylus, but using
+
+237
+00:14:46,400 --> 00:14:48,960
+the stylus kind of makes the most sense.
+
+238
+00:14:48,960 --> 00:14:52,840
+But what I kind of find is that you really have to find the right position for yourself
+
+239
+00:14:52,840 --> 00:14:55,900
+to play this game, or you can really hurt your arm, like it really can make your arm
+
+240
+00:14:55,900 --> 00:14:57,880
+sore to play this game, I kind of found.
+
+241
+00:14:57,880 --> 00:15:02,600
+And I did not like the fact, I seem to recall in the demo that the map was always on the
+
+242
+00:15:02,600 --> 00:15:06,140
+bottom screen, like you kind of got a 2D representation, that's gone.
+
+243
+00:15:06,140 --> 00:15:13,100
+Like you can pause the game to get a 3D map, a la Descent type thing, but it sucks.
+
+244
+00:15:13,100 --> 00:15:14,520
+I don't like the map at all.
+
+245
+00:15:14,520 --> 00:15:21,280
+I don't know what happened, and that really wrecked it for me in some ways, because 3D
+
+246
+00:15:21,280 --> 00:15:25,480
+games are kind of weird enough for me, I'm a very map-oriented person, so I was a little
+
+247
+00:15:25,480 --> 00:15:26,480
+unhappy with that.
+
+248
+00:15:26,480 --> 00:15:31,920
+It wasn't very clear also how to save your game, a lot of the how to get into the game
+
+249
+00:15:31,920 --> 00:15:34,100
+and stuff wasn't very clear to me.
+
+250
+00:15:34,100 --> 00:15:37,980
+If you like the Metroid games on GameCube, I don't see why you wouldn't like this.
+
+251
+00:15:37,980 --> 00:15:42,580
+I haven't tried the online mode yet, but I'm sure it's a lot of fun.
+
+252
+00:15:42,580 --> 00:15:46,000
+But honestly, I don't think it's really worth all the hype.
+
+253
+00:15:46,000 --> 00:15:51,500
+I don't think Metroid Prime Hunters is quite the game it really could have been for me.
+
+254
+00:15:51,500 --> 00:15:52,700
+I don't know.
+
+255
+00:15:52,700 --> 00:15:55,320
+Maybe I'm just being a little harsh because there were just a couple things that really
+
+256
+00:15:55,320 --> 00:16:00,600
+bugged me about it, but I really can only recommend this title to you if you like the
+
+257
+00:16:00,600 --> 00:16:02,160
+the other action style games.
+
+258
+00:16:02,160 --> 00:16:06,320
+Otherwise, rent it, borrow it from a friend,
+
+259
+00:16:06,320 --> 00:16:08,120
+try it out in the store before you buy it,
+
+260
+00:16:08,120 --> 00:16:10,440
+and don't base your opinion off the demo
+
+261
+00:16:10,440 --> 00:16:11,840
+that was packed in with the original DS
+
+262
+00:16:11,840 --> 00:16:14,840
+because quite a bit has changed, so that's that.
+
+263
+00:16:16,040 --> 00:16:19,760
+Okay, so that's it for our gaming weeks.
+
+264
+00:16:19,760 --> 00:16:21,920
+Let's move on to some news, and of course,
+
+265
+00:16:21,920 --> 00:16:25,460
+the big, big news this week was Game Developers Conference,
+
+266
+00:16:25,460 --> 00:16:27,120
+which happened over this past week,
+
+267
+00:16:27,120 --> 00:16:29,200
+which we almost went to.
+
+268
+00:16:29,200 --> 00:16:32,040
+We were standing next door to it, but we didn't really go.
+
+269
+00:16:32,040 --> 00:16:35,120
+We had to read about it on the internet, just like you guys, but here's a quick summary
+
+270
+00:16:35,120 --> 00:16:36,120
+of what happened.
+
+271
+00:16:36,120 --> 00:16:38,400
+So, Loki, you're going to go down kind of company by company here, and we'll talk about
+
+272
+00:16:38,400 --> 00:16:39,400
+it a little bit.
+
+273
+00:16:39,400 --> 00:16:40,400
+Yeah.
+
+274
+00:16:40,400 --> 00:16:41,400
+What did Sony talk about?
+
+275
+00:16:41,400 --> 00:16:42,400
+Okay.
+
+276
+00:16:42,400 --> 00:16:46,560
+Well, Sony, of course, their big thing was talking about the PlayStation 3, and the PSP,
+
+277
+00:16:46,560 --> 00:16:49,020
+and all that fun stuff.
+
+278
+00:16:49,020 --> 00:16:56,440
+And really, they were just kind of talking about what they're going to do as far...
+
+279
+00:16:56,440 --> 00:17:00,640
+One of the games they announced was God of War 2, which they showed the demo for, and
+
+280
+00:17:00,640 --> 00:17:01,640
+it looked awesome, of course.
+
+281
+00:17:01,640 --> 00:17:06,320
+You know, God of War was one of the best games before the PlayStation 2, so it makes sense
+
+282
+00:17:06,320 --> 00:17:07,840
+that they're going to make the second one.
+
+283
+00:17:07,840 --> 00:17:12,360
+Then of course they talked a little bit about the PSP and what changes are going to come
+
+284
+00:17:12,360 --> 00:17:20,680
+to it, including both the GPS, which is coming out later this year, and also the iToy, which
+
+285
+00:17:20,680 --> 00:17:23,920
+is going to be coming out later this year for it as well.
+
+286
+00:17:23,920 --> 00:17:29,440
+New web browser of course with improved RSS channel and Macromedia Flash which is going
+
+287
+00:17:29,440 --> 00:17:30,640
+to be great.
+
+288
+00:17:30,640 --> 00:17:33,220
+That's actually coming in the next update.
+
+289
+00:17:33,220 --> 00:17:39,140
+And then with the video camera they're actually going to have a Wi-Fi video phone option for
+
+290
+00:17:39,140 --> 00:17:40,140
+it as well.
+
+291
+00:17:40,140 --> 00:17:50,220
+So I don't know, not quite side talking but pretty close, interesting nonetheless.
+
+292
+00:17:50,220 --> 00:17:54,960
+Another thing they announced though was that LocoRoco is coming to the PSP, and that's
+
+293
+00:17:54,960 --> 00:18:00,300
+kind of like the game almost similar to the Katamari, since it's a very awkward, strange
+
+294
+00:18:00,300 --> 00:18:01,900
+Japanese game that they're bringing over here.
+
+295
+00:18:01,900 --> 00:18:08,740
+Always makes sense seeing as Katamari is leaving and quitting while they're ahead, so to speak.
+
+296
+00:18:08,740 --> 00:18:12,820
+Gotta try and find something to fill that gap in the quirky game category.
+
+297
+00:18:12,820 --> 00:18:13,820
+Exactly.
+
+298
+00:18:13,820 --> 00:18:18,160
+The other thing is of course they were showing tech demos for the PS3, and of course they
+
+299
+00:18:18,160 --> 00:18:23,960
+They had the classic ducks in there and made a big joke about that, but it looked pretty
+
+300
+00:18:23,960 --> 00:18:24,960
+cool.
+
+301
+00:18:24,960 --> 00:18:30,480
+Some of the other demos I was actually pretty interested in, they had one showing a vehicle
+
+302
+00:18:30,480 --> 00:18:36,660
+physics and basically showed this really cool looking car get basically destroyed by a bunch
+
+303
+00:18:36,660 --> 00:18:46,600
+of bullets and all done incredibly accurate to just physics-wise, paint chipping and it's
+
+304
+00:18:46,600 --> 00:18:47,600
+just amazing.
+
+305
+00:18:47,600 --> 00:18:51,660
+Anyways, another game they showed, of course, Warhawk, which is one of the ones
+
+306
+00:18:51,660 --> 00:18:55,280
+I think that was actually an old Playstation game, if I remember correctly
+
+307
+00:18:55,280 --> 00:18:58,960
+Kind of an aerial combat game, almost like Twisted Metal, but for air
+
+308
+00:18:58,960 --> 00:19:02,560
+I don't think I've played an aerial combat game since Top Gun
+
+309
+00:19:02,560 --> 00:19:05,480
+on the NES, to be honest. Well, if I remember correctly, it was done by the same people
+
+310
+00:19:05,480 --> 00:19:09,240
+Which was awesome, don't get me wrong. It was done by the same people that did Twisted Metal
+
+311
+00:19:09,240 --> 00:19:10,920
+back on the original Playstation
+
+312
+00:19:10,920 --> 00:19:15,560
+and anyways, it is coming out now on the PS3 and will be
+
+313
+00:19:15,560 --> 00:19:18,760
+available to play at E3, so that's gonna be really cool.
+
+314
+00:19:18,760 --> 00:19:21,880
+And of course they also announced that
+
+315
+00:19:21,880 --> 00:19:25,360
+they're gonna have full PlayStation 2 support for the
+
+316
+00:19:25,360 --> 00:19:28,520
+PS3, and all the games are gonna be
+
+317
+00:19:28,520 --> 00:19:32,160
+upscaled to, you know, the 1080p or whatever.
+
+318
+00:19:32,160 --> 00:19:35,600
+I don't know, you know more about tech than I do.
+
+319
+00:19:35,600 --> 00:19:39,280
+Why is it, and maybe some of our listeners too, why is it that
+
+320
+00:19:39,280 --> 00:19:43,240
+it seems like Microsoft is having such a problem with backwards compatibility? I
+
+321
+00:19:43,240 --> 00:19:47,840
+I mean, only some things can be played, whereas PlayStation can do it easily.
+
+322
+00:19:47,840 --> 00:19:49,960
+Oh, isn't it the graphics thing?
+
+323
+00:19:49,960 --> 00:19:55,360
+Yes, because that's to emulate the other graphics chip, whereas this is the same graphics chip
+
+324
+00:19:55,360 --> 00:19:58,240
+or same family of graphics chips.
+
+325
+00:19:58,240 --> 00:20:01,500
+That's why they can run it perfectly.
+
+326
+00:20:01,500 --> 00:20:05,480
+That's a bummer because I think that's a pretty big selling point for Sony.
+
+327
+00:20:05,480 --> 00:20:07,120
+That's too bad for Microsoft.
+
+328
+00:20:07,120 --> 00:20:08,980
+Oh, well.
+
+329
+00:20:08,980 --> 00:20:09,980
+Let's see.
+
+330
+00:20:09,980 --> 00:20:10,980
+What else was being shown here?
+
+331
+00:20:10,980 --> 00:20:16,060
+So, of course, they were talking about the PlayStation Network platform, their brand
+
+332
+00:20:16,060 --> 00:20:17,620
+new online service that's going to...
+
+333
+00:20:17,620 --> 00:20:19,340
+That's not what they're really going to call it though, right?
+
+334
+00:20:19,340 --> 00:20:20,340
+That's just like a working name?
+
+335
+00:20:20,340 --> 00:20:22,500
+It's just the internal name for it right now.
+
+336
+00:20:22,500 --> 00:20:27,100
+They're going to have shops that sell online content, just like Xbox Live.
+
+337
+00:20:27,100 --> 00:20:33,780
+You can download to the PS3 hard drive, which is supposed to be included with it, and also
+
+338
+00:20:33,780 --> 00:20:39,020
+game applications can launch from the hard drive, so no disk required.
+
+339
+00:20:39,020 --> 00:20:43,380
+course just you know micropayments and stuff basically if it's on Xbox Live you're going
+
+340
+00:20:43,380 --> 00:20:44,380
+to probably see it on this.
+
+341
+00:20:44,380 --> 00:20:48,520
+Yeah the advantages to launching your console a year after one of your biggest competitors
+
+342
+00:20:48,520 --> 00:20:51,540
+is that you can basically copy everything that they did and that sounds like what they're
+
+343
+00:20:51,540 --> 00:20:54,220
+doing with their setup.
+
+344
+00:20:54,220 --> 00:20:58,220
+The other thing that they were doing with it a little bit differently, one they're not
+
+345
+00:20:58,220 --> 00:21:03,540
+going to be a central server for the games but all the other companies are going to be
+
+346
+00:21:03,540 --> 00:21:07,780
+running their external servers but this one you'll log into and it'll be kind of like
+
+347
+00:21:07,780 --> 00:21:10,980
+Like a hub for all these other ones.
+
+348
+00:21:10,980 --> 00:21:17,300
+The other thing that they did have, which was interesting, is the shops for each game
+
+349
+00:21:17,300 --> 00:21:23,060
+is actually going to be themed for each game, so you can buy tracks and stuff for certain
+
+350
+00:21:23,060 --> 00:21:24,060
+games.
+
+351
+00:21:24,060 --> 00:21:25,060
+Which I think is a good idea.
+
+352
+00:21:25,060 --> 00:21:28,140
+They do that with Ridge Racer 6, where you can purchase cars and music and stuff, and
+
+353
+00:21:28,140 --> 00:21:32,300
+I think that's a great idea, especially since the car purchases are free.
+
+354
+00:21:32,300 --> 00:21:33,940
+Purchasing games, possibility?
+
+355
+00:21:33,940 --> 00:21:34,940
+Like Playstation 1 games?
+
+356
+00:21:34,940 --> 00:21:38,020
+We have a comment from our chat room over at orangelanatrader.com, click on chat and
+
+357
+00:21:38,020 --> 00:21:42,300
+I'm watching you guys over in chat room, hello to our faithful chatters.
+
+358
+00:21:42,300 --> 00:21:46,220
+Rene says, I want Intelligent Cube to be downloadable and no more than $10.
+
+359
+00:21:46,220 --> 00:21:52,540
+Well, you have to pay like $70 if you want to find a legit copy of that game.
+
+360
+00:21:52,540 --> 00:21:55,780
+That could be, because if you think about it, they're going to have the Playstation
+
+361
+00:21:55,780 --> 00:22:00,240
+1 emulator for the PSP, the official one, and that's something that they're talking
+
+362
+00:22:00,240 --> 00:22:05,260
+about doing digitally downloading these games, the older games.
+
+363
+00:22:05,260 --> 00:22:07,880
+So yeah, of course they're going to probably do something like that.
+
+364
+00:22:07,880 --> 00:22:10,760
+That's where they're kind of trying to push anyways.
+
+365
+00:22:10,760 --> 00:22:15,520
+One other thing though they're mentioning about the cell processors that has seven SPUs,
+
+366
+00:22:15,520 --> 00:22:23,240
+physics, collation, bot navigation, AI, and they can all be processed separately.
+
+367
+00:22:23,240 --> 00:22:28,400
+Actually if you've seen some of the games that they're showing for this, they look graphically,
+
+368
+00:22:28,400 --> 00:22:34,000
+look pretty close to the 360, if not better, but what's really interesting is the physics
+
+369
+00:22:34,000 --> 00:22:38,000
+behind some of the games that they're showing, like some of the middleware demos.
+
+370
+00:22:38,000 --> 00:22:39,880
+Just amazing.
+
+371
+00:22:39,880 --> 00:22:41,840
+I really think they're going to be pushing...
+
+372
+00:22:41,840 --> 00:22:47,960
+Well, I don't know, and I honestly don't remember a lot about the launches of PlayStation 2
+
+373
+00:22:47,960 --> 00:22:51,400
+and PlayStation, because I was more following that stuff casually, because we weren't doing
+
+374
+00:22:51,400 --> 00:22:53,040
+this back then.
+
+375
+00:22:53,040 --> 00:22:57,240
+I noticed that when consoles first come out,
+
+376
+00:22:57,240 --> 00:23:01,520
+the games are never as graphically powerful as they can be towards the end
+
+377
+00:23:01,520 --> 00:23:02,480
+of the console's run.
+
+378
+00:23:02,480 --> 00:23:05,880
+So to say the games look better than Xbox 360, well for now,
+
+379
+00:23:05,880 --> 00:23:09,560
+right? I mean, couldn't Xbox 360 come out with a more graphically
+
+380
+00:23:09,560 --> 00:23:13,000
+enhanced game later in its life? Yeah, but
+
+381
+00:23:13,000 --> 00:23:16,440
+I don't know if it has the processing power, I think. I don't know, we'll see.
+
+382
+00:23:16,440 --> 00:23:19,920
+Finally, the last thing they kind of
+
+383
+00:23:19,920 --> 00:23:24,300
+touched on which is interesting is SingStar, which for those who might not know, it's actually
+
+384
+00:23:24,300 --> 00:23:28,300
+a karaoke game that's really popular in the UK.
+
+385
+00:23:28,300 --> 00:23:31,440
+They're bringing it over here, it's going to be on next gen, which I don't know how
+
+386
+00:23:31,440 --> 00:23:35,660
+you can really improve a singing game that much, but it should be interesting.
+
+387
+00:23:35,660 --> 00:23:40,400
+I'm kind of surprised with Karaoke Revolution's success, it's kind of odd that we have that
+
+388
+00:23:40,400 --> 00:23:44,800
+here and they have SingStar over there, so yeah.
+
+389
+00:23:44,800 --> 00:23:48,340
+I think that was pretty much
+
+390
+00:23:48,340 --> 00:23:51,860
+everything. I might have missed a few things, but of course, you know, there was a lot
+
+391
+00:23:51,860 --> 00:23:52,660
+that they covered.
+
+392
+00:23:52,660 --> 00:23:57,380
+God of War 2, very interesting that they're choosing to go PlayStation 2 on
+
+393
+00:23:57,380 --> 00:23:59,500
+that. I suppose that shows their commitment to not
+
+394
+00:23:59,500 --> 00:24:02,620
+phase out the PlayStation 2 games for a little while, right?
+
+395
+00:24:02,620 --> 00:24:05,740
+That's right, yeah. Interesting. Okay.
+
+396
+00:24:05,740 --> 00:24:09,740
+Well, it sounds like Sony's got a lot on their plate there, so
+
+397
+00:24:09,740 --> 00:24:13,860
+very cool. What about Nintendo? Nintendo definitely...
+
+398
+00:24:13,860 --> 00:24:17,860
+We were all hoping they would be talking about the revolution, and they did, but the focus
+
+399
+00:24:17,860 --> 00:24:19,940
+was mainly on the DS.
+
+400
+00:24:19,940 --> 00:24:22,860
+The first thing, of course, they talked about was Brain Age, the brain training game that's
+
+401
+00:24:22,860 --> 00:24:27,180
+coming out in April, actually, and kind of different.
+
+402
+00:24:27,180 --> 00:24:31,140
+They were talking about how they pushed different types of games and how this has become a phenomenon
+
+403
+00:24:31,140 --> 00:24:37,460
+in Japan, just because it appeals to everybody, including older people that normally don't
+
+404
+00:24:37,460 --> 00:24:38,660
+play games.
+
+405
+00:24:38,660 --> 00:24:43,280
+And the development process for this, they actually showed how playing this game will
+
+406
+00:24:43,280 --> 00:24:47,720
+stimulate your brain in a way that will actually develop it a little bit, which I thought was
+
+407
+00:24:47,720 --> 00:24:50,140
+very interesting.
+
+408
+00:24:50,140 --> 00:24:56,800
+The other things they were talking about though, about the DS, just, I don't know, it looked
+
+409
+00:24:56,800 --> 00:25:01,960
+interesting but my focus of course was on the Revolution, which when they were talking
+
+410
+00:25:01,960 --> 00:25:03,800
+about that.
+
+411
+00:25:03,800 --> 00:25:08,640
+And you gotta love the Revolution, they're gonna have backwards compatibility, of course
+
+412
+00:25:08,640 --> 00:25:15,120
+talking about their virtual console, and everyone knew that it was going to be Nintendo, Super
+
+413
+00:25:15,120 --> 00:25:19,860
+Nintendo, Nintendo 64, and so on and so forth. What was interesting though is they mentioned
+
+414
+00:25:19,860 --> 00:25:26,240
+that Sega Genesis and TurboGrafx-16 titles will also be playable on there as well, which
+
+415
+00:25:26,240 --> 00:25:31,880
+is really cool. Of course, on the DS front there, they did mention a brand new Zelda
+
+416
+00:25:31,880 --> 00:25:37,340
+game on the DS, Zelda The Phantom Hourglass, and of course would be using the touchscreen
+
+417
+00:25:37,340 --> 00:25:51,340
+for a bunch of different puzzles as well as kind of like, I don't know if you remember the old Batman Returns movie or whatever, but where Batman actually programmed into his bat-rang where it would fly.
+
+418
+00:25:51,340 --> 00:25:57,340
+Well it's kind of a similar thing with the boomerang, you know you draw a path for the boomerang and it will fly with that.
+
+419
+00:25:57,340 --> 00:26:01,400
+Just really cool, kind of combining the look of
+
+420
+00:26:01,400 --> 00:26:05,160
+Zelda Wind Waker and some of the
+
+421
+00:26:05,160 --> 00:26:09,680
+Minish Cap stuff.
+
+422
+00:26:09,680 --> 00:26:13,180
+You know, I don't think I should really be surprised. I noticed a lot of
+
+423
+00:26:13,180 --> 00:26:16,840
+people were really surprised, like OMG, a Zelda game on the DS, but
+
+424
+00:26:16,840 --> 00:26:19,960
+at the same time it kind of seems pretty logical, doesn't it?
+
+425
+00:26:19,960 --> 00:26:23,020
+My reaction to that when I read the news was like,
+
+426
+00:26:23,020 --> 00:26:26,580
+oh yeah, it is about time for a Zelda game on the DS. We
+
+427
+00:26:26,580 --> 00:26:28,140
+we haven't really had one yet.
+
+428
+00:26:28,140 --> 00:26:30,000
+Like that was kind of my reaction to the news was like,
+
+429
+00:26:30,000 --> 00:26:32,500
+oh yeah, yeah, I wonder when they are gonna be doing that.
+
+430
+00:26:32,500 --> 00:26:34,420
+So it was kind of cool to see though,
+
+431
+00:26:34,420 --> 00:26:38,260
+and see that they're gonna go with the Wind Waker-style
+
+432
+00:26:38,260 --> 00:26:40,820
+look for the DS game, kind of should be interesting.
+
+433
+00:26:40,820 --> 00:26:42,740
+I do not think that is cool at all.
+
+434
+00:26:42,740 --> 00:26:44,880
+Really, just because you don't like the Wind Waker look?
+
+435
+00:26:44,880 --> 00:26:47,060
+I didn't like, I thought that it was,
+
+436
+00:26:49,500 --> 00:26:51,840
+I never did like that type of art style.
+
+437
+00:26:51,840 --> 00:26:54,920
+I thought that it looked very poorly done.
+
+438
+00:26:54,920 --> 00:26:59,440
+I didn't think, it was like trying to be stylistic, but it looked really
+
+439
+00:26:59,440 --> 00:27:01,480
+just like a five-year-old drew it.
+
+440
+00:27:01,480 --> 00:27:05,680
+For me, it's the kind of look that should have been on the DS and only on the DS.
+
+441
+00:27:05,680 --> 00:27:09,600
+Like, it kind of should have been the portable look and not the GameCube one.
+
+442
+00:27:09,600 --> 00:27:13,040
+I think it shouldn't have been a look at all.
+
+443
+00:27:13,040 --> 00:27:15,000
+Well, I have to agree to disagree on that one.
+
+444
+00:27:15,000 --> 00:27:19,360
+Anything else? Interesting? Yeah, some of the other things, they were talking about
+
+445
+00:27:19,360 --> 00:27:23,800
+kind of creating a video game version of Apple's iTunes, you know, but for video
+
+446
+00:27:23,800 --> 00:27:26,400
+games, kind of like a service for that.
+
+447
+00:27:26,400 --> 00:27:27,400
+Which makes sense.
+
+448
+00:27:27,400 --> 00:27:32,520
+Yeah, you know what, I think that's huge because I think a lot of people have been assuming
+
+449
+00:27:32,520 --> 00:27:37,160
+that if you buy a revolution, you're going to get to play all these backwards games for
+
+450
+00:27:37,160 --> 00:27:38,160
+free.
+
+451
+00:27:38,160 --> 00:27:39,160
+No.
+
+452
+00:27:39,160 --> 00:27:43,480
+Obviously, if there's money to still be made off the old library, you're going to get charged
+
+453
+00:27:43,480 --> 00:27:44,480
+for it.
+
+454
+00:27:44,480 --> 00:27:49,560
+And especially I think showing Sega and Hudson coming online for this, I think only kind
+
+455
+00:27:49,560 --> 00:27:52,940
+of further proves this theory that you're going to have to pay for this because I don't
+
+456
+00:27:52,940 --> 00:27:56,020
+see them signing these agreements to make it all free.
+
+457
+00:27:56,020 --> 00:27:58,660
+So I think you are going to see something very similar to the iTunes store where you
+
+458
+00:27:58,660 --> 00:28:04,560
+pay like a dollar to play the game, maybe a dollar fifty to maybe even up to five dollars
+
+459
+00:28:04,560 --> 00:28:07,860
+for some of the titles when we start getting into the later generations.
+
+460
+00:28:07,860 --> 00:28:12,040
+Who knows, of course that's all estimates, I mean who knows.
+
+461
+00:28:12,040 --> 00:28:16,060
+Maybe you get a couple of them for free, I mean just to kind of show how it works.
+
+462
+00:28:16,060 --> 00:28:19,220
+Like you know iTunes does a free song once in a while so maybe they would do something
+
+463
+00:28:19,220 --> 00:28:24,040
+like that, but I think for most of it you're going to have to pay for the good stuff.
+
+464
+00:28:24,040 --> 00:28:26,120
+But to some people it's going to be worth it.
+
+465
+00:28:26,120 --> 00:28:28,540
+It's a way of legalizing the ROM thing.
+
+466
+00:28:28,540 --> 00:28:34,720
+I'm sure the industry has been wanting forever to squelch the ROM scene that goes on underground
+
+467
+00:28:34,720 --> 00:28:41,880
+on the internet, so maybe this is their way to do it and show that there is a legal outlet
+
+468
+00:28:41,880 --> 00:28:46,160
+for this and if they wanted to maybe take legal action against ROM stuff, I don't know.
+
+469
+00:28:46,160 --> 00:28:48,960
+I'm theorizing here.
+
+470
+00:28:48,960 --> 00:28:52,280
+Yeah, I don't know.
+
+471
+00:28:52,280 --> 00:28:55,200
+The other thing I was interested in is, of course,
+
+472
+00:28:55,200 --> 00:28:59,860
+you know, everyone's thinking, okay, they're going to drop the bomb on like, you know, some big,
+
+473
+00:28:59,860 --> 00:29:01,840
+you know, the revolution being
+
+474
+00:29:01,840 --> 00:29:03,400
+VR type thing.
+
+475
+00:29:03,400 --> 00:29:05,880
+That's been the rumor, everyone's thinking that.
+
+476
+00:29:05,880 --> 00:29:07,680
+And of course, that didn't happen.
+
+477
+00:29:07,680 --> 00:29:12,840
+Well, that's because they're waiting for E3, and there's, he said, he's all, I've got, you know,
+
+478
+00:29:12,840 --> 00:29:16,800
+You know, this is going to be... there's still
+
+479
+00:29:16,800 --> 00:29:20,880
+another major announcement. You're still convinced on the... I'm still convinced!
+
+480
+00:29:20,880 --> 00:29:24,400
+...on the stereoscopic 3D thing, aren't you? I'm still convinced.
+
+481
+00:29:24,400 --> 00:29:27,280
+I know it's out there.
+
+482
+00:29:27,280 --> 00:29:30,480
+And there was actually a thing on,
+
+483
+00:29:30,480 --> 00:29:33,600
+what was it, Holoprojection. There was another device that they were showing.
+
+484
+00:29:33,600 --> 00:29:36,680
+I don't remember where I read that on.
+
+485
+00:29:36,680 --> 00:29:40,020
+Not necessarily for Nintendo, but for something else.
+
+486
+00:29:40,020 --> 00:29:43,740
+they're showing that so I know technologies out there I know it's gonna
+
+487
+00:29:43,740 --> 00:29:44,380
+happen
+
+488
+00:29:44,380 --> 00:29:47,580
+you know we knew they were good you knew they were gonna say anything GDC
+
+489
+00:29:47,580 --> 00:29:51,220
+here's the thing, the whole theme of it is disrupting
+
+490
+00:29:51,220 --> 00:29:55,620
+gaming disruptive gaming is what it is called and it's basically a technique where
+
+491
+00:29:55,620 --> 00:29:56,460
+you
+
+492
+00:29:56,460 --> 00:30:01,380
+drop like you make a big splash in the water is basically the way it works
+
+493
+00:30:01,380 --> 00:30:06,180
+and what's gonna happen at E3 you're gonna get a lot of information that you haven't
+
+494
+00:30:06,180 --> 00:30:06,900
+heard yet
+
+495
+00:30:06,900 --> 00:30:10,500
+and it's just gonna be like wow it's kind of like you know just
+
+496
+00:30:10,500 --> 00:30:14,300
+finishing off somebody you know real quick you know the one-two punch and then
+
+497
+00:30:14,300 --> 00:30:16,780
+well the companies are doing this so they can't steal from each other
+
+498
+00:30:16,780 --> 00:30:19,900
+I would be essentially is so that Nintendo when they announces E3 it'll be
+
+499
+00:30:19,900 --> 00:30:22,540
+too late for Sony to copy it in time for their launch
+
+500
+00:30:22,540 --> 00:30:25,860
+and same thing with whatever bombs Sony ends up dropping same thing for Nintendo
+
+501
+00:30:25,860 --> 00:30:26,580
+and Microsoft
+
+502
+00:30:26,580 --> 00:30:30,280
+that puts Microsoft in kind of a funky position not that mean but they could
+
+503
+00:30:30,280 --> 00:30:32,980
+have secrets to that they're gonna unveil at E3 you know so
+
+504
+00:30:32,980 --> 00:30:38,780
+But at E3 you've got the world media there. I mean, GDC, while it's important,
+
+505
+00:30:38,780 --> 00:30:41,980
+doesn't quite have that same attention factor
+
+506
+00:30:41,980 --> 00:30:46,700
+that E3 does. You know what I mean? Publicists, media people from around the
+
+507
+00:30:46,700 --> 00:30:48,020
+world go to E3.
+
+508
+00:30:48,020 --> 00:30:52,020
+Everybody is watching. GDC, the hardcore gamers are watching.
+
+509
+00:30:52,020 --> 00:30:56,900
+So I'm still confident because we haven't heard no yet.
+
+510
+00:30:56,900 --> 00:31:00,860
+So I'm confident that, you know,
+
+511
+00:31:00,860 --> 00:31:04,580
+there's gotta be more to it because we haven't seen really any of the demos yet
+
+512
+00:31:04,580 --> 00:31:05,060
+or sent
+
+513
+00:31:05,060 --> 00:31:09,520
+this I don't know at I think is gonna happen we'll see six weeks to find out
+
+514
+00:31:09,520 --> 00:31:12,640
+six weeks member basically of course the big theme
+
+515
+00:31:12,640 --> 00:31:16,200
+which everybody you know you gotta love um you wanna
+
+516
+00:31:16,200 --> 00:31:21,240
+some theme is basically video games are meant to be just one thing
+
+517
+00:31:21,240 --> 00:31:25,460
+fun fun for everybody well let's hope he means it
+
+518
+00:31:25,460 --> 00:31:29,100
+but you know based on Nintendo's track record there they're pretty good about
+
+519
+00:31:29,100 --> 00:31:30,380
+keeping it with the fun so
+
+520
+00:31:30,380 --> 00:31:34,460
+Moving on, Microsoft. Now, Microsoft's in the position where they already have a
+
+521
+00:31:34,460 --> 00:31:37,460
+system out there, so what kind of stuff were they pushing at GDC?
+
+522
+00:31:37,460 --> 00:31:41,580
+They were talking, of course, about the Xbox Live Arcade and
+
+523
+00:31:41,580 --> 00:31:44,500
+kind of the stuff that's coming out for that. And just basically, you know,
+
+524
+00:31:44,500 --> 00:31:46,220
+concentrating on Xbox Live, they
+
+525
+00:31:46,220 --> 00:31:51,620
+released basically a framework for anybody to be able to
+
+526
+00:31:51,620 --> 00:31:55,020
+kind of build a back-end to
+
+527
+00:31:55,020 --> 00:31:59,220
+the live service, you know, making it more approachable for
+
+528
+00:31:59,220 --> 00:32:04,820
+MMOs to be able to be on live. The other thing that they were talking about some of the downloads
+
+529
+00:32:04,820 --> 00:32:09,260
+coming out for some of the Microsoft first party games like Project Gotham, you're going
+
+530
+00:32:09,260 --> 00:32:15,980
+to see more cars, more tracks. Cameo, you're going to see co-op play over live, as well
+
+531
+00:32:15,980 --> 00:32:22,860
+as more outfits, whoopity do. Actually they were already talking about Perfect Dark, which
+
+532
+00:32:22,860 --> 00:32:26,660
+is going to have more multiplayer maps in Oblivion, which I thought was interesting.
+
+533
+00:32:26,660 --> 00:32:33,660
+the first pack is going to be a horse armor pack, so yeah, and also of course talking
+
+534
+00:32:36,120 --> 00:32:41,500
+about the games coming out, you know, Streetfire 2, was it Hoop World I think is one of the
+
+535
+00:32:41,500 --> 00:32:46,120
+big ones coming out, and there was going to be one of the first games using the Unreal
+
+536
+00:32:46,120 --> 00:32:51,720
+3 engine is actually going to be hitting Xbox Live, which I thought was interesting. Very
+
+537
+00:32:51,720 --> 00:32:52,720
+Very cool.
+
+538
+00:32:52,720 --> 00:32:54,400
+Oh, and the webcam, of course.
+
+539
+00:32:54,400 --> 00:32:55,400
+Oh, right.
+
+540
+00:32:55,400 --> 00:33:00,200
+One of the things, of course, we've kind of talked about the webcam a little bit before.
+
+541
+00:33:00,200 --> 00:33:05,960
+Basically, you know, something that looks kind of like a webcam or eye toy.
+
+542
+00:33:05,960 --> 00:33:13,060
+What's interesting, though, is it's going to have gesture recognition, so I guess the
+
+543
+00:33:13,060 --> 00:33:14,060
+camera is going to...
+
+544
+00:33:14,060 --> 00:33:17,560
+So, like, if I stick up my middle finger at the game, it'll know, and it'll go, that's
+
+545
+00:33:17,560 --> 00:33:18,560
+not nice.
+
+546
+00:33:18,560 --> 00:33:21,520
+well i'm not sure exactly what that is but uh...
+
+547
+00:33:21,520 --> 00:33:25,760
+gesture recognition but i guess you know um...
+
+548
+00:33:25,760 --> 00:33:28,660
+if you're frowning or something i don't know maybe
+
+549
+00:33:28,660 --> 00:33:33,240
+maybe if that way if i moon the camera will my xbox go oh god
+
+550
+00:33:33,240 --> 00:33:37,880
+maybe if like they eventually port over world of warcraft to the 360 you'll see
+
+551
+00:33:37,880 --> 00:33:41,120
+if you look suicidal so they can call the authorities wait a minute though
+
+552
+00:33:41,120 --> 00:33:45,280
+they they said not going to happen on world of warcraft on xbox 360
+
+553
+00:33:45,280 --> 00:33:48,240
+here's why but see blizzard says it's not going to happen based on the framework
+
+554
+00:33:48,240 --> 00:33:51,880
+work that they have right now it doesn't it doesn't make it easy for them to do
+
+555
+00:33:51,880 --> 00:33:57,040
+it but now that they've done this and kind of changed you know the way life
+
+556
+00:33:57,040 --> 00:34:04,280
+works it could happen or it might happen I really don't care but yeah a comment
+
+557
+00:34:04,280 --> 00:34:08,800
+from the chat room rainy again sky what if you're aroused like what it would it
+
+558
+00:34:08,800 --> 00:34:13,600
+sense that and then call somebody to come over and no I'm just teasing
+
+559
+00:34:13,600 --> 00:34:17,560
+special help I like
+
+560
+00:34:17,560 --> 00:34:21,520
+I like the emo sensor comment
+
+561
+00:34:21,520 --> 00:34:24,640
+what I do like about it though is it will be able to take high def still
+
+562
+00:34:24,640 --> 00:34:25,400
+pictures
+
+563
+00:34:25,400 --> 00:34:29,200
+which is pretty cool um so 1280 by 980
+
+564
+00:34:29,200 --> 00:34:33,800
+so 1.3 megapixels would we be able to take a webcam like that put it in here
+
+565
+00:34:33,800 --> 00:34:35,760
+and like broadcast over xbox live
+
+566
+00:34:35,760 --> 00:34:39,800
+in a way yes huh now that might be kinda trippy
+
+567
+00:34:39,800 --> 00:34:44,160
+Check that out. It says smooth near DV quality video up to
+
+568
+00:34:44,160 --> 00:34:47,360
+VGA 640 by 480 at 30 frames per second.
+
+569
+00:34:47,360 --> 00:34:51,880
+In a sense we could probably do that, which would be interesting.
+
+570
+00:34:51,880 --> 00:34:55,400
+Then digital zoom cropping.
+
+571
+00:34:55,400 --> 00:34:59,040
+It's also going to have a 9 foot USB cable which is awesome.
+
+572
+00:34:59,040 --> 00:35:02,960
+I hate having to strap more USB cables to it.
+
+573
+00:35:02,960 --> 00:35:06,840
+Alright, sounds very cool. Lots of good stuff there coming out of Game Developers
+
+574
+00:35:06,840 --> 00:35:07,920
+Conference. Lots more
+
+575
+00:35:07,920 --> 00:35:11,280
+in six weeks at E3. Like I said, I think I said this last week on the show,
+
+576
+00:35:11,280 --> 00:35:14,480
+on the show, GDC is kinda like that tease.
+
+577
+00:35:14,480 --> 00:35:18,320
+Here's a little taste, here's a little bit of crack, we'll give you some more
+
+578
+00:35:18,320 --> 00:35:19,920
+when you come back in six weeks for E3.
+
+579
+00:35:19,920 --> 00:35:24,000
+Alright, let's move on and get into some other news. There was lots of
+
+580
+00:35:24,000 --> 00:35:25,080
+other news that happened
+
+581
+00:35:25,080 --> 00:35:28,720
+at GDC and kind of around GDC, so let's get into some of that.
+
+582
+00:35:28,720 --> 00:35:31,680
+Last week I was talking about Final Fantasy XI and there's a lot of
+
+583
+00:35:31,680 --> 00:35:33,080
+expansions coming to that.
+
+584
+00:35:33,080 --> 00:35:37,000
+Oh yeah, I didn't even mention during my gaming week. I'm at level 12 on my new
+
+585
+00:35:37,000 --> 00:35:39,120
+character on Final Fantasy XI.
+
+586
+00:35:39,120 --> 00:35:40,120
+Addict.
+
+587
+00:35:40,120 --> 00:35:41,120
+Thank you.
+
+588
+00:35:41,120 --> 00:35:42,120
+I was waiting for that.
+
+589
+00:35:42,120 --> 00:35:43,120
+All right.
+
+590
+00:35:43,120 --> 00:35:44,120
+Let's see.
+
+591
+00:35:44,120 --> 00:35:49,060
+Square Enix revealed a little bit of its new chocobo circuit feature, and basically the
+
+592
+00:35:49,060 --> 00:35:53,600
+way that you raise your bird in the game will determine its size and its shape and ultimately
+
+593
+00:35:53,600 --> 00:35:54,720
+the stats.
+
+594
+00:35:54,720 --> 00:35:57,520
+So I think that's awesome, because I want to have a fat chocobo, because fat chocobo
+
+595
+00:35:57,520 --> 00:35:58,520
+is the best.
+
+596
+00:35:58,520 --> 00:35:59,520
+Yes, it was.
+
+597
+00:35:59,520 --> 00:36:00,840
+Smells like chocobo.
+
+598
+00:36:00,840 --> 00:36:01,840
+Remember?
+
+599
+00:36:01,840 --> 00:36:02,840
+All right.
+
+600
+00:36:02,840 --> 00:36:04,160
+So I want a fat chocobo.
+
+601
+00:36:04,160 --> 00:36:09,980
+By introducing your chocobo to somebody else's bird, if they are compatible and of the opposite
+
+602
+00:36:09,980 --> 00:36:13,780
+sex, you might be able to breed more chocobos.
+
+603
+00:36:13,780 --> 00:36:15,780
+No gay chocobo loving here.
+
+604
+00:36:15,780 --> 00:36:23,100
+Well, I think the fallback for that is that you can't make babies in a homosexual relationship,
+
+605
+00:36:23,100 --> 00:36:30,020
+not without test tubes and things that don't exist in the final fantasy world and donors.
+
+606
+00:36:30,020 --> 00:36:32,620
+There are still things that are not answered yet.
+
+607
+00:36:32,620 --> 00:36:34,520
+Are you going to keep the chocobo?
+
+608
+00:36:34,520 --> 00:36:36,840
+Will it be in the mogg house maybe?
+
+609
+00:36:36,840 --> 00:36:38,680
+How often can you do the breeding?
+
+610
+00:36:38,680 --> 00:36:40,440
+Can you sell the chocobos?
+
+611
+00:36:40,440 --> 00:36:41,640
+Can you trade them?
+
+612
+00:36:41,640 --> 00:36:45,780
+Are you going to be able to ride your own chocobo around the world?
+
+613
+00:36:45,780 --> 00:36:46,780
+Can you eat them?
+
+614
+00:36:46,780 --> 00:36:48,440
+Can you spank them when they're naughty?
+
+615
+00:36:48,440 --> 00:36:52,120
+My chocobo was a naughty bunny.
+
+616
+00:36:52,120 --> 00:36:53,480
+Can you cook them and eat them?
+
+617
+00:36:53,480 --> 00:36:54,480
+How rude.
+
+618
+00:36:54,480 --> 00:36:55,480
+That would be awesome.
+
+619
+00:36:55,480 --> 00:36:58,400
+I can have Kentucky Fried Chocobo.
+
+620
+00:36:58,400 --> 00:37:00,320
+Can the chocobos attack the bunnies?
+
+621
+00:37:00,320 --> 00:37:05,800
+Once and for all, let's get rid of all those damn bunnies, like the Uber bunnies and Bribumu
+
+622
+00:37:05,800 --> 00:37:08,400
+or whatever that land is where the level 70 bunnies are.
+
+623
+00:37:08,400 --> 00:37:11,720
+Do you have to take your Chocobo for a walk and do you have to clean up after it?
+
+624
+00:37:11,720 --> 00:37:18,800
+Is Chocobo Poo used as a flame agent when you're making stuff?
+
+625
+00:37:18,800 --> 00:37:19,800
+Well here's the deal.
+
+626
+00:37:19,800 --> 00:37:23,120
+The Chocobo Circuit is not going to go live until later this year.
+
+627
+00:37:23,120 --> 00:37:25,360
+It's going to be a patch that rolls out in the fall.
+
+628
+00:37:25,360 --> 00:37:30,800
+However, you'll have a good four months or so to breed because the expansion will do
+
+629
+00:37:30,800 --> 00:37:31,800
+that.
+
+630
+00:37:31,800 --> 00:37:34,200
+That's just the racing, of course, right?
+
+631
+00:37:34,200 --> 00:37:38,500
+Right, that's the racing, a la Final Fantasy VII, which people have been begging for years.
+
+632
+00:37:38,500 --> 00:37:42,280
+That's going to breathe a lot of life back into Final Fantasy XI, I think, because I
+
+633
+00:37:42,280 --> 00:37:48,480
+noticed the game is emptier now than it was six months ago or whenever I quit the first
+
+634
+00:37:48,480 --> 00:37:49,480
+time.
+
+635
+00:37:49,480 --> 00:37:50,480
+You know what?
+
+636
+00:37:50,480 --> 00:37:52,280
+I still like the Peko Peko versus the Chocobo.
+
+637
+00:37:52,280 --> 00:37:54,280
+Pimp my Chocobo?
+
+638
+00:37:54,280 --> 00:37:56,920
+Because the Peko Peko looks like a giant turkey.
+
+639
+00:37:56,920 --> 00:38:03,720
+We gotta bling out this chocobo, we're gonna put an all bass sound system up its ass.
+
+640
+00:38:03,720 --> 00:38:06,040
+You Final Fantasy people and your chocobos.
+
+641
+00:38:06,040 --> 00:38:11,840
+Alright, look, all we need is if they do a third expansion, then we need Pimp My Moogle,
+
+642
+00:38:11,840 --> 00:38:12,840
+Pimp My Moghouse.
+
+643
+00:38:12,840 --> 00:38:13,840
+I mean, you can kinda do the Moghouse.
+
+644
+00:38:13,840 --> 00:38:14,840
+You already pimp your Moghouse.
+
+645
+00:38:14,840 --> 00:38:15,840
+Yeah, but it sucks.
+
+646
+00:38:15,840 --> 00:38:16,920
+I mean, there's not a lot you do with it.
+
+647
+00:38:16,920 --> 00:38:19,920
+I had a plant in my Moghouse in a bed.
+
+648
+00:38:19,920 --> 00:38:23,240
+There's not really a lot you do with the Moghouse, but everybody's Moogle looks the same.
+
+649
+00:38:23,240 --> 00:38:26,280
+I want a fat chocobo and I want a fat moogle.
+
+650
+00:38:26,280 --> 00:38:28,440
+I want my moogle to dance. I want Mog dance.
+
+651
+00:38:28,440 --> 00:38:31,200
+Exactly. And we need a dancer. We need that to be a character.
+
+652
+00:38:31,200 --> 00:38:34,560
+Somebody in- We have dancers in Ragnarok, oooh.
+
+653
+00:38:34,560 --> 00:38:37,560
+Somebody in-game the other day was trying to, like, sell me up and down that
+
+654
+00:38:37,560 --> 00:38:41,440
+Geomancer is this unannounced fourth character that's going to be in the
+
+655
+00:38:41,440 --> 00:38:42,920
+expansion. I'm kinda like,
+
+656
+00:38:42,920 --> 00:38:45,920
+uh, dude, I think they would have announced it by now. I don't know.
+
+657
+00:38:45,920 --> 00:38:47,880
+Take that with a grain of salt.
+
+658
+00:38:47,880 --> 00:38:50,920
+Let's see. Comments from the chat room.
+
+659
+00:38:50,920 --> 00:38:55,640
+Let's see, Fireboma says it would actually be more like a Valis fried
+
+660
+00:38:55,640 --> 00:38:56,520
+chocobo,
+
+661
+00:38:56,520 --> 00:39:00,120
+not Kentucky fried chocobo, just so you know.
+
+662
+00:39:00,120 --> 00:39:04,520
+That came from VGCats, Kentucky Ferraga chocobo.
+
+663
+00:39:04,520 --> 00:39:09,040
+Gotcha. Rainy says, can the fucking chocobo fly a la Final Fantasy
+
+664
+00:39:09,040 --> 00:39:12,680
+9? Even in the older Final Fantasies, if you had a black chocobo, it could fly.
+
+665
+00:39:12,680 --> 00:39:19,280
+Thoughts there? Let's see, Spirit Snare says if a chocobo ate a
+
+666
+00:39:19,280 --> 00:39:28,160
+chicken, would that be considered cannibalism? I don't know. Anyway, let's go to the next
+
+667
+00:39:28,160 --> 00:39:31,560
+story, which is also Final Fantasy XI related, correct, Loki?
+
+668
+00:39:31,560 --> 00:39:38,000
+That's correct. If you've been playing the Final Fantasy XI beta on the 360, well, you've
+
+669
+00:39:38,000 --> 00:39:44,800
+got about until April 2nd, before you gotta pony up the cash. Because Final Fantasy XI
+
+670
+00:39:44,800 --> 00:39:52,380
+actually coming out on the 17th which is pretty cool both the expansion and the 360 version
+
+671
+00:39:52,380 --> 00:39:56,060
+so if you own the Playstation 2 one you can get the expansion and I think the PC expansion
+
+672
+00:39:56,060 --> 00:40:01,580
+comes out around the same time. However though if you have been playing in the beta for the
+
+673
+00:40:01,580 --> 00:40:06,540
+360 you can transfer your character over so all that hard work is for Nott. I don't know
+
+674
+00:40:06,540 --> 00:40:12,140
+if I want to get Final Fantasy 11 on the 360 anymore because I just I got a little bit
+
+675
+00:40:12,140 --> 00:40:16,460
+of a bonus at work so I went and I bought some more RAM for the PC and so
+
+676
+00:40:16,460 --> 00:40:19,780
+now I have two gigs of RAM in this PC and Final Fantasy 11 I don't have frame
+
+677
+00:40:19,780 --> 00:40:24,200
+rate issues anymore so it's kind of nice so and plus editing the show will go so
+
+678
+00:40:24,200 --> 00:40:28,700
+much faster now which makes me happy so we'll see I I do there's still something
+
+679
+00:40:28,700 --> 00:40:32,020
+to be said though about being able to plop my fat ass on the couch and playing
+
+680
+00:40:32,020 --> 00:40:35,900
+with the controller and everything like you know in my lap laying back you know
+
+681
+00:40:35,900 --> 00:40:40,080
+having a drink that I can't really do in this little stuffy office that we have
+
+682
+00:40:40,080 --> 00:40:46,800
+with the computer so yeah the only thing you really do if you are gonna go out
+
+683
+00:40:46,800 --> 00:40:53,040
+and buy the through the 360 version of Final Fantasy 11 please pick up a mouse
+
+684
+00:40:53,040 --> 00:40:59,560
+and keyboard yes I agree it's it's it's impossible to party without it I mean
+
+685
+00:40:59,560 --> 00:41:04,040
+it's not I shouldn't say it's not impossible but everybody will hate you
+
+686
+00:41:04,040 --> 00:41:08,640
+sorry to say unless you unless you spend some serious time coming up with some
+
+687
+00:41:08,640 --> 00:41:14,880
+kick-ass macros you are screwed they do have however voice chat in the 360
+
+688
+00:41:14,880 --> 00:41:18,480
+version no they don't they said they weren't gonna do that no they do except
+
+689
+00:41:18,480 --> 00:41:23,160
+it's not exactly user friendly and you have to kind of find your friend and you
+
+690
+00:41:23,160 --> 00:41:28,280
+can only chat via you know your oh via the in-game chat or the I'm sorry in
+
+691
+00:41:28,280 --> 00:41:32,480
+like the Xbox 360 global chat thing right yeah okay still though I mean
+
+692
+00:41:32,480 --> 00:41:36,440
+that's pretty cool I mean I guess that's true if I add friends in link shell that
+
+693
+00:41:36,440 --> 00:41:40,880
+outside 360, I suppose that might be cool for a little bit, because Final Fantasy 11
+
+694
+00:41:40,880 --> 00:41:45,060
+is usually a social thing anyway, that's how I kind of figure, I have some friends online
+
+695
+00:41:45,060 --> 00:41:47,920
+that I pretty much only see there, I don't talk to them on AOL, it's a messenger, so
+
+696
+00:41:47,920 --> 00:41:55,200
+anyway, let's move over to another MMO that's teaching us some good real life lessons, yes
+
+697
+00:41:55,200 --> 00:41:56,200
+Dark Sakura?
+
+698
+00:41:56,200 --> 00:42:03,760
+Well, it's been shown that World of Warcraft actually has taught a lesson to a certain
+
+699
+00:42:03,760 --> 00:42:11,480
+man, Joy Ito, who is a blogger, a big gamer in Japan, and he also thinks that World of
+
+700
+00:42:11,480 --> 00:42:18,340
+Warcraft offers lots of business lessons for how to make companies work better.
+
+701
+00:42:18,340 --> 00:42:24,800
+Basically his idea with this, the point was that employers do better, they need to make
+
+702
+00:42:24,800 --> 00:42:28,880
+sure that they keep their employees happy by being respectful to them and encouraging
+
+703
+00:42:28,880 --> 00:42:33,980
+them to work together to find their common goals without the leaders just pointing out
+
+704
+00:42:33,980 --> 00:42:36,320
+the rules without saying, you have to do it this way, you have to do it this way, I'm
+
+705
+00:42:36,320 --> 00:42:38,560
+going to micromanage you to death.
+
+706
+00:42:38,560 --> 00:42:44,440
+By giving their people unpleasant tasks and raids and pointing out, you know, you do this,
+
+707
+00:42:44,440 --> 00:42:49,600
+we've got something for you, just do it how you need to do it.
+
+708
+00:42:49,600 --> 00:42:54,840
+That's interesting because those endgame guilds and stuff can really be like a job sometimes.
+
+709
+00:42:54,840 --> 00:42:58,700
+Not that I've been addicted to the game enough to actually get into one, but I've heard
+
+710
+00:42:58,700 --> 00:43:04,000
+about that, you know, there's like expectations that sound like harsher expectations at my
+
+711
+00:43:04,000 --> 00:43:08,940
+job like, you know, in these end game guilds you must show up on certain nights a week
+
+712
+00:43:08,940 --> 00:43:12,700
+and you have to perform these functions and you will be doing this in the raid or you're
+
+713
+00:43:12,700 --> 00:43:13,740
+kicked out of the guild.
+
+714
+00:43:13,740 --> 00:43:14,740
+You're fired, you know?
+
+715
+00:43:14,740 --> 00:43:18,820
+Well what he's saying is that with the nature of the game because it forces people to work
+
+716
+00:43:18,820 --> 00:43:24,540
+together to reach your goals, that it parallels how you need in your business to work together
+
+717
+00:43:24,540 --> 00:43:25,540
+to reach your goals.
+
+718
+00:43:25,540 --> 00:43:32,640
+And even myself and the team, the job function that I do, I fully see that my job touches
+
+719
+00:43:32,640 --> 00:43:36,560
+so many other people's jobs that if we don't work together, it won't get done.
+
+720
+00:43:36,560 --> 00:43:39,640
+So there's a lot of parallels with that.
+
+721
+00:43:39,640 --> 00:43:41,740
+This guy is really successful.
+
+722
+00:43:41,740 --> 00:43:46,680
+He's considered to be a very good leader in business.
+
+723
+00:43:46,680 --> 00:43:47,920
+There's got to be something to it.
+
+724
+00:43:47,920 --> 00:43:52,840
+And I think that lots more places need to listen up, pay attention, install some MMOs
+
+725
+00:43:52,840 --> 00:43:54,000
+on those computers at work.
+
+726
+00:43:54,000 --> 00:43:57,440
+I always find it fascinating these stories that come up about
+
+727
+00:43:57,440 --> 00:44:01,460
+real-life lessons learned in MMOs, but you know, even by just
+
+728
+00:44:01,460 --> 00:44:04,420
+like when I was looking at our outline for tonight, I always just looked at the
+
+729
+00:44:04,420 --> 00:44:06,300
+outline, I was thinking, you know, you could
+
+730
+00:44:06,300 --> 00:44:09,540
+maybe like auction house and the whole bartering thing does teach you a lesson
+
+731
+00:44:09,540 --> 00:44:11,320
+about like, you know, economics
+
+732
+00:44:11,320 --> 00:44:15,380
+in a way. Well, especially, you know, these whole,
+
+733
+00:44:15,380 --> 00:44:19,700
+for example, I learned a lot. You actually learned a little bit about business and
+
+734
+00:44:19,700 --> 00:44:21,260
+marketing in Ragnarok.
+
+735
+00:44:21,260 --> 00:44:26,700
+Yeah, because this was my thing. I played a merchant for a long time on Ragnarok Online,
+
+736
+00:44:26,700 --> 00:44:34,060
+I would take my warps to Komodo, go buy my Iron Arrows at my discount, go back and sell them for
+
+737
+00:44:34,060 --> 00:44:39,260
+three times the price, but I also had to, when I figured in that price, I would figure in how much
+
+738
+00:44:39,260 --> 00:44:43,900
+does it cost for me to warp there, how much is it gonna, you know, what is my profit margin going
+
+739
+00:44:43,900 --> 00:44:47,260
+to be? Yeah, you learn, you learn a lot about, like in Final Fantasy XI it was the same thing
+
+740
+00:44:47,260 --> 00:44:52,220
+Something with like auction house versus NPCs, you learn a lot about supply and demand.
+
+741
+00:44:52,220 --> 00:45:00,180
+One money making trick I have been using right now is that I noticed is very similar.
+
+742
+00:45:00,180 --> 00:45:05,780
+If you go to a certain NPC, you can buy a certain piece of armor for about 1000 gil.
+
+743
+00:45:05,780 --> 00:45:09,780
+It sells to the auction house for 8000 gil, so you can kind of buy it there and some people
+
+744
+00:45:09,780 --> 00:45:13,960
+go, �Oh, that�s wrong, that�s wrong,� but at the same time, well, okay, they could
+
+745
+00:45:13,960 --> 00:45:24,920
+When you buy a game, an imported Japanese game, you're paying extra because they brought
+
+746
+00:45:24,920 --> 00:45:25,920
+it in for you.
+
+747
+00:45:25,920 --> 00:45:26,920
+It's fascinating.
+
+748
+00:45:26,920 --> 00:45:27,920
+Here's how it works.
+
+749
+00:45:27,920 --> 00:45:30,880
+For example, soda, a fountain drink.
+
+750
+00:45:30,880 --> 00:45:33,400
+When you buy a fountain drink, do you know how much the syrup you use costs?
+
+751
+00:45:33,400 --> 00:45:34,400
+Like three cents.
+
+752
+00:45:34,400 --> 00:45:35,400
+Three cents.
+
+753
+00:45:35,400 --> 00:45:36,400
+Do you know how much you're paying for your soda?
+
+754
+00:45:36,400 --> 00:45:37,400
+About two dollars.
+
+755
+00:45:37,400 --> 00:45:38,400
+At the movie theater?
+
+756
+00:45:38,400 --> 00:45:39,400
+A lot.
+
+757
+00:45:39,400 --> 00:45:40,400
+That's how they make all their money.
+
+758
+00:45:40,400 --> 00:45:41,400
+Even at a restaurant.
+
+759
+00:45:41,400 --> 00:45:42,400
+It's the same thing.
+
+760
+00:45:42,400 --> 00:45:47,960
+actually selling the arrows for as much as a person would normally buy them in-game.
+
+761
+00:45:47,960 --> 00:45:52,240
+If they took the time to go to Komodo to buy it, but instead I bring it to them, charge
+
+762
+00:45:52,240 --> 00:45:55,800
+them the same price, they think they're getting the better end of the deal when in fact I'm
+
+763
+00:45:55,800 --> 00:46:00,880
+making double profit because merchants have discount.
+
+764
+00:46:00,880 --> 00:46:05,480
+See, if MMOs had been around when I was learning economy in high school, I would have done
+
+765
+00:46:05,480 --> 00:46:06,480
+so much better.
+
+766
+00:46:06,480 --> 00:46:07,880
+You know what we did in my economics class?
+
+767
+00:46:07,880 --> 00:46:09,580
+We played the stock market.
+
+768
+00:46:09,580 --> 00:46:11,680
+I don't even remember my economics class.
+
+769
+00:46:11,680 --> 00:46:12,680
+I remember sleeping.
+
+770
+00:46:12,680 --> 00:46:14,960
+We invested in Intel and a morgue.
+
+771
+00:46:14,960 --> 00:46:18,640
+I cheated.
+
+772
+00:46:18,640 --> 00:46:20,720
+I was friends with this girl.
+
+773
+00:46:20,720 --> 00:46:22,040
+We were both kind of outcasts.
+
+774
+00:46:22,040 --> 00:46:23,040
+We were nerdy kids.
+
+775
+00:46:23,040 --> 00:46:24,360
+I was friends with this girl in economics class.
+
+776
+00:46:24,360 --> 00:46:27,280
+We just kind of talked the whole way through.
+
+777
+00:46:27,280 --> 00:46:30,880
+I picked a funeral home because people are dying to get in.
+
+778
+00:46:30,880 --> 00:46:31,880
+Boo!
+
+779
+00:46:31,880 --> 00:46:32,880
+Boo!
+
+780
+00:46:32,880 --> 00:46:33,880
+No, no, no.
+
+781
+00:46:33,880 --> 00:46:39,240
+That was my logic and my classmates agreed with me and that was actually one of our faster
+
+782
+00:46:39,240 --> 00:46:40,240
+moving stocks.
+
+783
+00:46:40,240 --> 00:46:46,160
+We played the stock exchange thing, too, and I spent all my money on a stock that was one
+
+784
+00:46:46,160 --> 00:46:52,680
+sixty-fourth of a cent, and it doubled in price, and so I made twice my money.
+
+785
+00:46:52,680 --> 00:46:55,440
+Good job.
+
+786
+00:46:55,440 --> 00:46:59,360
+Moving on from economics lessons, let's learn about legal lessons that can also be
+
+787
+00:46:59,360 --> 00:47:03,120
+learned in World of Warcraft.
+
+788
+00:47:03,120 --> 00:47:08,680
+Basically what's going on is that Blizzard asked this guy on eBay to stop selling this
+
+789
+00:47:08,680 --> 00:47:11,220
+unofficial guide.
+
+790
+00:47:11,220 --> 00:47:15,100
+The guy that was selling the guide was a 24-year-old Brian Kopp of Bronson, Florida.
+
+791
+00:47:15,100 --> 00:47:20,840
+He was selling the ultimate World of Warcraft leveling and gold guide on eBay and it was
+
+792
+00:47:20,840 --> 00:47:23,560
+basically his own guide that he put together.
+
+793
+00:47:23,560 --> 00:47:28,720
+Well, it was unauthorized, so Blizzard basically sent the smackdown.
+
+794
+00:47:28,720 --> 00:47:36,560
+They filed a complaint and they are basically saying to this kid, don't do this.
+
+795
+00:47:36,560 --> 00:47:42,240
+Well, he's not taking this without fighting back, and he actually filed this week in a
+
+796
+00:47:42,240 --> 00:47:48,320
+California federal court, and he's alleging that they were wrong in ordering this termination.
+
+797
+00:47:48,320 --> 00:47:52,400
+The companies were saying, you're violating copyright, you're violating trademark, and
+
+798
+00:47:52,400 --> 00:47:56,300
+this guy is saying that, hey, my book doesn't infringe on any of this.
+
+799
+00:47:56,300 --> 00:48:00,280
+It presents a disclaimer on the first page that it's unauthorized.
+
+800
+00:48:00,280 --> 00:48:04,100
+It contains no text, no storylines from the games.
+
+801
+00:48:04,100 --> 00:48:08,900
+It's fair use of the screenshots under copyright law, and this guy's really standing up for
+
+802
+00:48:08,900 --> 00:48:09,900
+himself.
+
+803
+00:48:09,900 --> 00:48:10,900
+What do you think, though?
+
+804
+00:48:10,900 --> 00:48:11,900
+Good for him.
+
+805
+00:48:11,900 --> 00:48:15,180
+But do you think, I mean, while it's, you know, while it's human nature we want to cheer
+
+806
+00:48:15,180 --> 00:48:19,580
+the underdog on, is it right for him to be selling these on our authorized guides on
+
+807
+00:48:19,580 --> 00:48:20,580
+eBay?
+
+808
+00:48:20,580 --> 00:48:23,900
+I don't think that it was right for him to necessarily use the screenshots, because the
+
+809
+00:48:23,900 --> 00:48:28,500
+only time that you can really use, and I recently looked this up due to me winning an argument
+
+810
+00:48:28,500 --> 00:48:34,680
+on DDR Freak fair use you have to there just to go ahead and give a slight
+
+811
+00:48:34,680 --> 00:48:40,440
+overview to it you have to either edit the picture to some extent or you can
+
+812
+00:48:40,440 --> 00:48:47,480
+use copyrighted material in like reproduction for news for education but
+
+813
+00:48:47,480 --> 00:48:53,200
+this I wouldn't necessarily qualifies under education it more qualifies under
+
+814
+00:48:53,200 --> 00:49:01,040
+entertainment. If he were doing, like say he was writing an editorial on World of
+
+815
+00:49:01,040 --> 00:49:04,440
+Warcraft, then yeah he'd be able to use quotes from the game, he'd be able to use
+
+816
+00:49:04,440 --> 00:49:07,360
+screenshots, because that follows under fair use. So I think that's probably
+
+817
+00:49:07,360 --> 00:49:09,880
+where the judge is gonna have to make the determination, is what does this
+
+818
+00:49:09,880 --> 00:49:14,920
+qualify as? I think he would be able to continue with his work, but he couldn't
+
+819
+00:49:14,920 --> 00:49:19,320
+use the screenshots. Especially that in particular. Basically it just sounds
+
+820
+00:49:19,320 --> 00:49:21,760
+like he's written an overblown FAQ.
+
+821
+00:49:21,760 --> 00:49:25,420
+And so if Blizzard was going to have a problem with that, they would have been shutting down
+
+822
+00:49:25,420 --> 00:49:27,000
+all the FAQs up on GameFAQs.
+
+823
+00:49:27,000 --> 00:49:32,000
+Right, no, I think their problem is, well, GameFAQs doesn't, well, I guess that's right,
+
+824
+00:49:32,000 --> 00:49:36,400
+GameFAQs does make money off their advertising and stuff, but it's a little bit of a, they
+
+825
+00:49:36,400 --> 00:49:40,280
+walk a fine line too, because they're really not making money off the games.
+
+826
+00:49:40,280 --> 00:49:43,240
+The information they present is owned by the people who presented it.
+
+827
+00:49:43,240 --> 00:49:45,700
+They just host it.
+
+828
+00:49:45,700 --> 00:49:51,160
+Therefore they are not claiming ownership to the material, they did not produce any
+
+829
+00:49:51,160 --> 00:49:52,160
+of the information.
+
+830
+00:49:52,160 --> 00:49:58,580
+It was individual people that produced the information, so they are perfectly fine.
+
+831
+00:49:58,580 --> 00:49:59,960
+Very interesting.
+
+832
+00:49:59,960 --> 00:50:01,300
+Another life lesson to be learned here.
+
+833
+00:50:01,300 --> 00:50:06,500
+So I guess we will see what happens, at least whoever is right or wrong, we don't know really,
+
+834
+00:50:06,500 --> 00:50:11,540
+but I think it is good that this guy is sticking up for himself and what he believes in and
+
+835
+00:50:11,540 --> 00:50:15,040
+is gonna fight this and doesn't you know just take it like I think a lot of
+
+836
+00:50:15,040 --> 00:50:20,060
+people would so good for him and best of luck to him we'll see what happens we'll
+
+837
+00:50:20,060 --> 00:50:25,780
+follow this story and let you know what happens moving on let's go over to Loki
+
+838
+00:50:25,780 --> 00:50:30,020
+very interesting punishment in another MMO that I had never heard about until
+
+839
+00:50:30,020 --> 00:50:36,100
+this week right yes you know I always thought what's my MMO missing and that
+
+840
+00:50:36,100 --> 00:50:40,660
+That would be crucifixion, definitely crucifixion.
+
+841
+00:50:40,660 --> 00:50:46,500
+But actually, if you are playing the online game Roma Victor, which is an online recreation
+
+842
+00:50:46,500 --> 00:50:53,840
+of Britain in the Roman times, basically you live your lives as slaves or citizens of the
+
+843
+00:50:53,840 --> 00:50:56,140
+all-conquering empire.
+
+844
+00:50:56,140 --> 00:51:02,940
+However, if you do happen to break some of the rules, you'll be nailed to a cross as
+
+845
+00:51:02,940 --> 00:51:05,460
+punishment.
+
+846
+00:51:05,460 --> 00:51:08,340
+That's historically accurate though.
+
+847
+00:51:08,340 --> 00:51:09,340
+Did you see the pictures?
+
+848
+00:51:09,340 --> 00:51:11,820
+There were actually pictures on the internet of this.
+
+849
+00:51:11,820 --> 00:51:16,740
+They actually showed the guy and all these people in game standing around the cross and
+
+850
+00:51:16,740 --> 00:51:21,340
+there's this sad little man on there just kind of hanging there and everybody's just
+
+851
+00:51:21,340 --> 00:51:22,500
+kind of talking about it.
+
+852
+00:51:22,500 --> 00:51:23,500
+I know.
+
+853
+00:51:23,500 --> 00:51:26,900
+I think that there's of course a definite potential there for people to get their panties
+
+854
+00:51:26,900 --> 00:51:30,260
+all in a bunch and go, oh, that's sacrilegious.
+
+855
+00:51:30,260 --> 00:51:31,260
+Well but you're playing it historically.
+
+856
+00:51:31,260 --> 00:51:32,260
+It's historically accurate.
+
+857
+00:51:32,260 --> 00:51:45,260
+Yeah, I mean, you're gonna play an MMO that's historically accurate and that kind of, if I'm not mistaken, this game kind of, it's big marketing niche is that, you know, be in the historically accurate Roman times, right? So, I mean...
+
+858
+00:51:45,260 --> 00:51:49,260
+We're gonna be historically accurate, but we're gonna leave out how they kill people.
+
+859
+00:51:49,260 --> 00:51:51,260
+No, I don't think they're gonna, well, obviously they're not, but...
+
+860
+00:51:51,260 --> 00:51:55,260
+Well, I mean, but I think that we're gonna get the, oh, you have to get out of the game, blah, blah, blah...
+
+861
+00:51:55,260 --> 00:51:59,260
+No, people would be stupid to get their panties in a bunch over this. If you wanna, if you wanna play...
+
+862
+00:51:59,260 --> 00:52:00,260
+But people are stupid.
+
+863
+00:52:00,260 --> 00:52:04,060
+If you want to play an online game that's, you know, cute, and play something on the
+
+864
+00:52:04,060 --> 00:52:10,140
+DS that's, you know, very colorful and friendly, don't play, you know, Emulation of Ancient
+
+865
+00:52:10,140 --> 00:52:11,140
+Rome.
+
+866
+00:52:11,140 --> 00:52:12,140
+I mean, come on.
+
+867
+00:52:12,140 --> 00:52:15,220
+Well, what I mean is that there are these people there who are just that stupid, who
+
+868
+00:52:15,220 --> 00:52:17,620
+are gonna say something about it.
+
+869
+00:52:17,620 --> 00:52:18,620
+You know, we've already...
+
+870
+00:52:18,620 --> 00:52:19,620
+There we go.
+
+871
+00:52:19,620 --> 00:52:20,620
+There's a shot.
+
+872
+00:52:20,620 --> 00:52:21,620
+There we go.
+
+873
+00:52:21,620 --> 00:52:22,620
+That is so neat.
+
+874
+00:52:22,620 --> 00:52:24,180
+It's just kind of...
+
+875
+00:52:24,180 --> 00:52:29,820
+Well, no, I think it's, you know, being that I love studying history, I think that's really
+
+876
+00:52:29,820 --> 00:52:35,820
+It's certainly creative, and I give the creators of this game a lot of credit for thinking of this out-of-the-box punishment,
+
+877
+00:52:35,820 --> 00:52:41,820
+because like I said, I never heard of this game until this story went all out on all these blogs and stuff this week,
+
+878
+00:52:41,820 --> 00:52:45,820
+and now it's like, hmm, I didn't know there was a game like this, maybe I'll have to check it out sometime,
+
+879
+00:52:45,820 --> 00:52:48,820
+and their membership will probably double, thanks to this.
+
+880
+00:52:48,820 --> 00:52:53,820
+If they did a medieval game, I'd want to see people drawn and quartered. Same difference.
+
+881
+00:52:53,820 --> 00:53:00,820
+You just want death the MMO. You want faces of death the MMO or something that's disgusting.
+
+882
+00:53:00,820 --> 00:53:07,820
+No, no, no, no, no. I want like... I have my MMO.
+
+883
+00:53:07,820 --> 00:53:11,820
+Comments from the chat room. Legend of Zaku says, the passion of the MMORPG.
+
+884
+00:53:11,820 --> 00:53:13,820
+A little play on something else.
+
+885
+00:53:13,820 --> 00:53:21,820
+I love the screenshots here. This one's like, Vondum says, no throwing dung, it's too expensive, use apples, they are cheaper.
+
+886
+00:53:21,820 --> 00:53:27,500
+Alright, let's go to another story and
+
+887
+00:53:27,500 --> 00:53:31,660
+this might actually have to do a little bit with crucifixion too because if you
+
+888
+00:53:31,660 --> 00:53:32,720
+send us letters
+
+889
+00:53:32,720 --> 00:53:36,540
+and they're really bad, DarkSakura will crucify you verbally
+
+890
+00:53:36,540 --> 00:53:40,700
+for the... no I'm kidding, she's the sweetest pie, she's the sweetest those
+
+891
+00:53:40,700 --> 00:53:42,540
+apples in that MMO that people are tossing
+
+892
+00:53:42,540 --> 00:53:46,300
+and she's going to read your emails and she'll choose some of her favorites and
+
+893
+00:53:46,300 --> 00:53:48,440
+read them live on air so that Loki and I can
+
+894
+00:53:48,440 --> 00:53:52,040
+respond to them as well. Correct, DarkSakura?
+
+895
+00:53:52,040 --> 00:53:56,760
+Possibly. Alright, so let's open up the mailbag. mailbag at orangeloungeradio.com
+
+896
+00:53:56,760 --> 00:53:57,880
+if you want to drop us an email
+
+897
+00:53:57,880 --> 00:54:01,400
+and let's see what DarkSakura digs up for us this week.
+
+898
+00:54:01,400 --> 00:54:07,560
+Well, my first one is actually from our long-time listener DJ Rama S.
+
+899
+00:54:07,560 --> 00:54:10,400
+Aw, I love Rama S.
+
+900
+00:54:10,400 --> 00:54:13,440
+I'll just go ahead and read a little bit of this.
+
+901
+00:54:13,440 --> 00:54:17,480
+Hey guys, the podcast has been keeping my sanity from Wednesday to Friday as I made my way
+
+902
+00:54:17,480 --> 00:54:24,480
+to and from jury duty. Anywho, the purpose of this email is to clarify the Tetris issue.
+
+903
+00:54:24,480 --> 00:54:28,400
+From what I remember, Bulletproof Software owned the rights to Tetris after Nintendo
+
+904
+00:54:28,400 --> 00:54:33,360
+released it for the NES. The Tengen Virtus, which is the best version in my humble opinion,
+
+905
+00:54:33,360 --> 00:54:38,060
+was illegally obtained and through lawsuits Nintendo won, the Tengen version was deemed
+
+906
+00:54:38,060 --> 00:54:44,060
+illegal and to this day is considered a pretty penny if you can get your hands on it, which
+
+907
+00:54:44,060 --> 00:54:45,960
+I got mine like for $12.
+
+908
+00:54:45,960 --> 00:54:50,020
+You know what, I disagree on Tengen Tetris being this like, I think it's a little bit
+
+909
+00:54:50,020 --> 00:54:52,740
+overrated just because it is such a collector's item.
+
+910
+00:54:52,740 --> 00:54:53,740
+I don't think it's as great.
+
+911
+00:54:53,740 --> 00:54:55,440
+Tengen Tetris had co-op mode.
+
+912
+00:54:55,440 --> 00:55:00,660
+It did, but you know, I just, it's still- I'm reading this letter.
+
+913
+00:55:00,660 --> 00:55:02,720
+Alright, I'm fine, sorry.
+
+914
+00:55:02,720 --> 00:55:06,240
+And I'm interjecting my opinion, that's what I do here.
+
+915
+00:55:06,240 --> 00:55:10,120
+After that, the rights went to another company called Blue Planet Software, and they were
+
+916
+00:55:10,120 --> 00:55:14,760
+responsible for PC ports and licensing for a while and then it became the Tetris company.
+
+917
+00:55:14,760 --> 00:55:19,240
+And from what I know now, Nintendo licenses Tetris and any variants from them now.
+
+918
+00:55:19,240 --> 00:55:21,600
+I hope that clears things up somewhat.
+
+919
+00:55:21,600 --> 00:55:23,000
+That absolutely clears things up.
+
+920
+00:55:23,000 --> 00:55:27,200
+And he also agrees with Loki about Datel, that their products are shit.
+
+921
+00:55:27,200 --> 00:55:29,560
+Alright, thank you for clarifying the Tetris thing.
+
+922
+00:55:29,560 --> 00:55:30,560
+I didn't know.
+
+923
+00:55:30,560 --> 00:55:34,240
+All I can tell you is that the one that came out on PlayStation 1 that was even in their
+
+924
+00:55:34,240 --> 00:55:36,360
+best hits collection was shit.
+
+925
+00:55:36,360 --> 00:55:37,500
+I hated it.
+
+926
+00:55:37,500 --> 00:55:40,040
+It's an awful rendition of Tetris.
+
+927
+00:55:40,040 --> 00:55:43,880
+it like the plague. I know I'm about 10 years too late but avoid the PlayStation
+
+928
+00:55:43,880 --> 00:55:50,360
+One Tetris like the plague. It's awful. We have another email from Roger. So just
+
+929
+00:55:50,360 --> 00:55:53,320
+wanted to drop a note from a periodic listener. I'm very glad you guys switched
+
+930
+00:55:53,320 --> 00:55:59,400
+to the 64 Kbps stream format. It's so much easier on the ears now. I also like
+
+931
+00:55:59,400 --> 00:56:02,320
+that you've added a bit more variety to the mix and really hope you don't stray
+
+932
+00:56:02,320 --> 00:56:05,800
+too far from your Bimani roots. On the other hand, I got such a kick out of
+
+933
+00:56:05,800 --> 00:56:09,640
+hearing Pac-Man Fever the other day. I still have the LP of that laying around
+
+934
+00:56:09,640 --> 00:56:10,640
+around somewhere.
+
+935
+00:56:10,640 --> 00:56:15,080
+Yes, we have little bits of randomness in our live 24-hour station that plays the music
+
+936
+00:56:15,080 --> 00:56:19,240
+when we're not doing anything live, and I must say that it's been buffed up now with
+
+937
+00:56:19,240 --> 00:56:24,340
+even more video game music, but of course we will not stray from the Bahmani roots.
+
+938
+00:56:24,340 --> 00:56:31,840
+In fact, we have Beatmania 2DX 13th style, also really the real name is Beatmania 2DX
+
+939
+00:56:31,840 --> 00:56:32,840
+Distorted.
+
+940
+00:56:32,840 --> 00:56:35,480
+We have MP3s from that, we're going to be putting some of those in rotation this week,
+
+941
+00:56:35,480 --> 00:56:36,480
+so some new stuff.
+
+942
+00:56:36,480 --> 00:56:39,440
+There's a new rendition of Bloody Tears, that's pretty cool.
+
+943
+00:56:39,440 --> 00:56:42,720
+it's different it's really different don't don't expect it to sound like
+
+944
+00:56:42,720 --> 00:56:48,560
+what you know but anyway I've got another email from a psycho just it's
+
+945
+00:56:48,560 --> 00:56:54,920
+pretty long so just to go over and Tetris DS conclusion sexy we covered all
+
+946
+00:56:54,920 --> 00:57:00,440
+of them agreed only complaint though extremely minor is that in online Wi-Fi
+
+947
+00:57:00,440 --> 00:57:04,480
+play the box of players get will be different so you might get stuck with a
+
+948
+00:57:04,480 --> 00:57:09,280
+crappy setup and other person will breeze through their blocks that's I did
+
+949
+00:57:09,280 --> 00:57:13,520
+notice that too is that the block order is not consistent which is I think is a
+
+950
+00:57:13,520 --> 00:57:18,680
+bit of a disadvantage but yeah it's also not the end of the world I you know what
+
+951
+00:57:18,680 --> 00:57:22,240
+I hate about online multiplayer and Tetris is that goddamn banana as oh
+
+952
+00:57:22,240 --> 00:57:25,040
+that's the most frustrating I it's like shuffle and tetranet oh it's the most
+
+953
+00:57:25,040 --> 00:57:31,080
+frustrating item um another one about a DDR supernova mm-hmm about chaos counted
+
+954
+00:57:31,080 --> 00:57:37,640
+no less than 43 stops on that song you know why it's it's one song out of like
+
+955
+00:57:37,640 --> 00:57:40,840
+what, 200 so I'm not gonna bitch too much but don't expect me to play that song.
+
+956
+00:57:40,840 --> 00:57:41,840
+Once you learn it, it's gonna be easy.
+
+957
+00:57:41,840 --> 00:57:44,640
+Yeah, but the problem with that song is it's gonna get
+
+958
+00:57:44,640 --> 00:57:48,040
+whored out because everybody's gonna learn it to show off
+
+959
+00:57:48,040 --> 00:57:52,000
+to the, you know, parents and kids at the arcade. I promise you right now I will not learn how to play it.
+
+960
+00:57:52,000 --> 00:57:56,640
+Alright, thank you. At least someone won't. I won't either. I will boycott that song.
+
+961
+00:57:56,640 --> 00:57:59,760
+I'm with ya. Let's boycott chaos. Boycott chaos. We're on.
+
+962
+00:57:59,760 --> 00:58:04,120
+And I'll make an edit to it. We'll play Toxic
+
+963
+00:58:04,120 --> 00:58:07,240
+over and over. No, just kidding. Alright, anyway.
+
+964
+00:58:07,240 --> 00:58:13,600
+Also, a question for us about the controller, wondering if the controllers are basically
+
+965
+00:58:13,600 --> 00:58:14,600
+going to be switchable?
+
+966
+00:58:14,600 --> 00:58:15,600
+Yeah.
+
+967
+00:58:15,600 --> 00:58:16,600
+Oh, for Beat Media?
+
+968
+00:58:16,600 --> 00:58:17,600
+Yeah, of course they will.
+
+969
+00:58:17,600 --> 00:58:18,600
+Yes, they will.
+
+970
+00:58:18,600 --> 00:58:19,600
+They're nice.
+
+971
+00:58:19,600 --> 00:58:20,600
+Next week?
+
+972
+00:58:20,600 --> 00:58:22,240
+The only difference is the rounded edge on the turntable side, but it's still flippable,
+
+973
+00:58:22,240 --> 00:58:23,240
+just like the old one.
+
+974
+00:58:23,240 --> 00:58:28,080
+We also have an email from David, says, hey guys, I think the shows are great, I love
+
+975
+00:58:28,080 --> 00:58:31,440
+the new format and I listen to you every week, I think it would be great though if you could
+
+976
+00:58:31,440 --> 00:58:33,240
+talk about some LucasArts games.
+
+977
+00:58:33,240 --> 00:58:36,520
+Also, are you sure that Sony is actually redesigning the PSP?
+
+978
+00:58:36,520 --> 00:58:40,680
+read an article on Slashdot that said the camera would only be an accessory. Would the
+
+979
+00:58:40,680 --> 00:58:44,520
+games that come out after the new PSP come out still work on the old PSP?
+
+980
+00:58:44,520 --> 00:58:49,480
+The camera is an accessory. It plugs into the USB port in the top. However, they are
+
+981
+00:58:49,480 --> 00:58:55,400
+still looking at redesigning the PSP to be released later in the fall. So...
+
+982
+00:58:55,400 --> 00:58:57,400
+How Nintendo does it, why can't Sony, right?
+
+983
+00:58:57,400 --> 00:59:00,080
+It's both. So, I mean, I guess that's good.
+
+984
+00:59:00,080 --> 00:59:03,680
+So old PSP owners aren't screwed out of the camera. If you want to get a camera, you can
+
+985
+00:59:03,680 --> 00:59:04,680
+still get a real PSP.
+
+986
+00:59:04,680 --> 00:59:10,680
+It's perfectly fine. I think the only thing they're really changing is just maybe making it a little bit slimmer and adding that hard drive in there.
+
+987
+00:59:10,680 --> 00:59:16,680
+And I don't even know how expensive that would be if there was a 4GB NAND flash drive in there.
+
+988
+00:59:16,680 --> 00:59:23,680
+Those memory sticks are pretty damn expensive. What, is this thing going to be like $300? Because I don't pay for that.
+
+989
+00:59:23,680 --> 00:59:30,680
+Favorite, just to humor this guy, even though LucasArts games are what, like 15, 20 years old? Favorite LucasArts game?
+
+990
+00:59:30,680 --> 00:59:32,680
+Didn't they do KOTOR?
+
+991
+00:59:32,680 --> 00:59:37,540
+I don't know. Yes. Well my friend was a tester for that game.
+
+992
+00:59:37,540 --> 00:59:41,980
+That's how I got on the Skywalker Ranch. Isn't this guy talking about like the...
+
+993
+00:59:41,980 --> 00:59:47,040
+I'm thinking like Loom and stuff. Dude, I love Loom. Yeah, that's what I was going to say, it was Loom was my favorite.
+
+994
+00:59:47,040 --> 00:59:51,040
+To be honest, there aren't that many Lucasarts games coming out. Now granted
+
+995
+00:59:51,040 --> 00:59:55,280
+Star Wars Empire at War just came out and that one looks really cool.
+
+996
+00:59:55,280 --> 00:59:58,680
+I'm not really into too much of the RTS stuff on the PC anymore,
+
+997
+00:59:58,680 --> 01:00:02,400
+but I like Battlefront too. I thought it was pretty cool.
+
+998
+01:00:02,400 --> 01:00:08,200
+The problem is they only release one game a year, basically.
+
+999
+01:00:08,200 --> 01:00:11,200
+When this guy said LucasArts game, my mind instantly went to the old school stuff.
+
+1000
+01:00:11,200 --> 01:00:13,400
+I wasn't even thinking Knights of the Old Republic, okay?
+
+1001
+01:00:13,400 --> 01:00:17,400
+I'm thinking Indiana Jones, I'm thinking Maniac Mansion.
+
+1002
+01:00:17,400 --> 01:00:23,200
+No, I'm thinking of the new things, just because my friend, when she worked for LucasArts,
+
+1003
+01:00:23,200 --> 01:00:25,200
+all I kept hearing her call it was Scrotor.
+
+1004
+01:00:25,200 --> 01:00:33,480
+And, actually, we did get to go to the Skywalker ranch while she was testing, and I was in
+
+1005
+01:00:33,480 --> 01:00:36,680
+meatloaf-licking distance of George Lucas, it was pretty cool, we walked through the
+
+1006
+01:00:36,680 --> 01:00:37,680
+cafeteria.
+
+1007
+01:00:37,680 --> 01:00:41,400
+PKAkira88 says Super Star Wars, which I would agree is one of my favorite Star Wars games
+
+1008
+01:00:41,400 --> 01:00:42,400
+of all time.
+
+1009
+01:00:42,400 --> 01:00:43,400
+Rock!
+
+1010
+01:00:43,400 --> 01:00:44,400
+Rock.
+
+1011
+01:00:44,400 --> 01:00:45,400
+I love the debug mode where you can just, like, breeze through the game.
+
+1012
+01:00:45,400 --> 01:00:46,400
+Alright, there's your LucasArts content.
+
+1013
+01:00:46,400 --> 01:00:50,840
+Just think about the LucasArts, um, what is it, the Star Wars on the revolution, that'll
+
+1014
+01:00:50,840 --> 01:00:51,840
+be sweet.
+
+1015
+01:00:51,840 --> 01:00:52,840
+It will.
+
+1016
+01:00:52,840 --> 01:00:56,040
+Twist wrote in about female characters in games.
+
+1017
+01:00:56,040 --> 01:00:59,200
+Ah, we got quite a response to that little bit last week, didn't we?
+
+1018
+01:00:59,200 --> 01:01:04,740
+Yeah. It was a pretty long one. He's one of the SoCal players.
+
+1019
+01:01:04,740 --> 01:01:08,380
+And played in Vegas, too.
+
+1020
+01:01:08,380 --> 01:01:11,680
+So go ahead, I want to read this one little part. On the subject of men who use
+
+1021
+01:01:11,680 --> 01:01:12,520
+female characters,
+
+1022
+01:01:12,520 --> 01:01:15,960
+I only use and look for the female character in almost any game. It's a habit.
+
+1023
+01:01:15,960 --> 01:01:17,240
+I use Julia in Tekken,
+
+1024
+01:01:17,240 --> 01:01:20,880
+Shenghua or Sunmina in Soulcalibur III,
+
+1025
+01:01:20,880 --> 01:01:22,880
+Pink Yoshi and melee
+
+1026
+01:01:26,720 --> 01:01:32,560
+Yoshi's a Yoshi Yoshi isn't male or female just Yoshi's. Oh, well, whatever what Diablo 2 plays a sorceress
+
+1027
+01:01:35,160 --> 01:01:39,840
+And a Street Fighter third strike truly is a top character that kicks ass she is a character
+
+1028
+01:01:39,840 --> 01:01:42,600
+I use myself while playing any Street Fighter game. I believe
+
+1029
+01:01:43,200 --> 01:01:45,720
+She is a top character in most Street Fighter games
+
+1030
+01:01:45,720 --> 01:01:50,360
+Senina in Tekken 5 is a top character as well as Sophia in Soulcalibur 3.
+
+1031
+01:01:50,360 --> 01:01:52,400
+Even Peach is a top character in Melee.
+
+1032
+01:01:52,400 --> 01:01:55,520
+So people who talk down on female characters are ignorant gamers or sexist which is why
+
+1033
+01:01:55,520 --> 01:01:57,600
+I like to play people like that.
+
+1034
+01:01:57,600 --> 01:01:58,600
+Knock some sense into them.
+
+1035
+01:01:58,600 --> 01:02:00,800
+I am completely straight male by the way.
+
+1036
+01:02:00,800 --> 01:02:06,480
+This is exactly why I play, or I'm going to play Rumble Roses XX for the awesome, strong
+
+1037
+01:02:06,480 --> 01:02:07,960
+female main characters.
+
+1038
+01:02:07,960 --> 01:02:08,960
+Yeah, right.
+
+1039
+01:02:08,960 --> 01:02:09,960
+Yeah, gotcha.
+
+1040
+01:02:09,960 --> 01:02:10,960
+One more little thing about...
+
+1041
+01:02:10,960 --> 01:02:11,960
+Oh yeah, go ahead.
+
+1042
+01:02:11,960 --> 01:02:12,960
+Okay.
+
+1043
+01:02:12,960 --> 01:02:15,000
+Is that there's also many girls who play in these big tournaments that I go to.
+
+1044
+01:02:15,000 --> 01:02:18,680
+one female gamer in the Tekken community is top three in her state and the show
+
+1045
+01:02:18,680 --> 01:02:21,480
+is great by the way I love it I would love to take on Dark Sakura and Tekken
+
+1046
+01:02:21,480 --> 01:02:26,320
+any of them Julia or Michelle all the way thing is I play Julia and I also
+
+1047
+01:02:26,320 --> 01:02:32,440
+play Jin and Huarang so it's on as we get Tekken online I agree with this
+
+1048
+01:02:32,440 --> 01:02:37,760
+letter except for the fact that Ivy will whoop Sophitia's butt any day thank you
+
+1049
+01:02:37,760 --> 01:02:43,880
+you know Ivy is badass I love it's still crazy though just because as far as the
+
+1050
+01:02:43,880 --> 01:02:51,680
+Soulcalibur series if anyone can play valdo oh my god it's over I know it's
+
+1051
+01:02:51,680 --> 01:02:56,080
+the freaking hardest character to learn and like easily the most of hardcore so
+
+1052
+01:02:56,080 --> 01:03:00,560
+I you know you explored your horizons a little bit play some of the male
+
+1053
+01:03:00,560 --> 01:03:05,760
+characters you may be surprised but you know at the same time I've also got
+
+1054
+01:03:05,760 --> 01:03:12,760
+another one on the same line from Mac man so what this is basically you are
+
+1055
+01:03:12,760 --> 01:03:16,480
+I write Dark Sakura, I'm a straight guy, but my favorite character is Seungmina.
+
+1056
+01:03:16,480 --> 01:03:19,080
+She rocks and I don't feel any less of a man when I play her.
+
+1057
+01:03:19,080 --> 01:03:23,900
+I think we should do something like stopping online racism, like wouldn't that be sexism?
+
+1058
+01:03:23,900 --> 01:03:28,020
+If you give me those links, I'll say them on my podcast to inform them and tell what
+
+1059
+01:03:28,020 --> 01:03:31,680
+happened.
+
+1060
+01:03:31,680 --> 01:03:37,320
+Just for the record, I'm a gay man and I play female characters sometimes and I don't feel
+
+1061
+01:03:37,320 --> 01:03:40,880
+like any less of a man either, just for the record.
+
+1062
+01:03:40,880 --> 01:03:44,220
+I played, I picked Jin at first because I was a big Kazuya fan
+
+1063
+01:03:44,220 --> 01:03:48,880
+and now I'm just like, ooh, it's Jin, he's so cool. It really depends on the game I'm playing
+
+1064
+01:03:48,880 --> 01:03:52,160
+honestly. I don't necessarily gravitate towards the female characters but I
+
+1065
+01:03:52,160 --> 01:03:52,840
+agree that
+
+1066
+01:03:52,840 --> 01:03:56,680
+like, you know, Soul Calibur, Ivy's where it's at, but you know
+
+1067
+01:03:56,680 --> 01:04:00,080
+Tekken, I don't know, I was a bit more of a Huarong fan
+
+1068
+01:04:00,080 --> 01:04:05,040
+than I was, you know, Julia, so who knows. Huarong looked like a guy I dated in high
+
+1069
+01:04:05,040 --> 01:04:05,440
+school
+
+1070
+01:04:05,440 --> 01:04:08,520
+seriously. Anyway. Okay, anyway
+
+1071
+01:04:08,520 --> 01:04:22,040
+Also, our friend RobWitubies emailed us with something about Stay Alive.
+
+1072
+01:04:22,040 --> 01:04:23,040
+It's filmed very well.
+
+1073
+01:04:23,040 --> 01:04:24,040
+Dialogue is okay.
+
+1074
+01:04:24,040 --> 01:04:25,040
+The plot is pretty good.
+
+1075
+01:04:25,040 --> 01:04:29,240
+Unfortunately, I was the only one in the theater who didn't think it was scary, so I was in
+
+1076
+01:04:29,240 --> 01:04:30,240
+the minority.
+
+1077
+01:04:30,240 --> 01:04:34,000
+But if you ever played a survival horror, this was tame, and in fact I think it's PG-13
+
+1078
+01:04:34,000 --> 01:04:36,320
+because all violence was off camera.
+
+1079
+01:04:36,320 --> 01:04:41,560
+On the negative, Frank Venus is still playing a Malcolm-like character when actor was sort
+
+1080
+01:04:41,560 --> 01:04:44,520
+of non-existent and another was just awful.
+
+1081
+01:04:44,520 --> 01:04:47,760
+The sound editors know nothing about current computer games because the Internet Cafe had
+
+1082
+01:04:47,760 --> 01:04:50,800
+an Atari 2600 Donkey Kong sounds in the background.
+
+1083
+01:04:50,800 --> 01:04:54,160
+It's always that or Atari 2600 Pac-Man sounds in the background.
+
+1084
+01:04:54,160 --> 01:04:56,000
+When will they ever get it right?
+
+1085
+01:04:56,000 --> 01:04:58,560
+Could that be a licensing thing though?
+
+1086
+01:04:58,560 --> 01:04:59,560
+Humor me here for me.
+
+1087
+01:04:59,560 --> 01:05:01,800
+Could that be maybe that they can't use sounds from current games because then they have
+
+1088
+01:05:01,800 --> 01:05:02,800
+to get permission?
+
+1089
+01:05:02,800 --> 01:05:04,680
+I don't know.
+
+1090
+01:05:04,680 --> 01:05:05,680
+Just a thought.
+
+1091
+01:05:05,680 --> 01:05:06,680
+The last thing on this is...
+
+1092
+01:05:06,680 --> 01:05:07,680
+Let me put it this way, though.
+
+1093
+01:05:07,680 --> 01:05:10,740
+You could seriously do just the sound effects of like an arcade.
+
+1094
+01:05:10,740 --> 01:05:11,740
+Remember Terminator 2?
+
+1095
+01:05:11,740 --> 01:05:12,740
+Like, yeah, like a...
+
+1096
+01:05:12,740 --> 01:05:14,340
+That would be at least more current than...
+
+1097
+01:05:14,340 --> 01:05:15,340
+Okay.
+
+1098
+01:05:15,340 --> 01:05:16,340
+Boop, boop, boop.
+
+1099
+01:05:16,340 --> 01:05:17,340
+Boing, boing, boing.
+
+1100
+01:05:17,340 --> 01:05:18,340
+Boing, boing, boing, boing.
+
+1101
+01:05:18,340 --> 01:05:19,340
+So go ahead and finish this.
+
+1102
+01:05:19,340 --> 01:05:23,480
+The writer obviously knows video games at least, however, it was a very big ad for Alienware.
+
+1103
+01:05:23,480 --> 01:05:27,120
+It was worth a matinee, at least.
+
+1104
+01:05:27,120 --> 01:05:29,300
+Maybe I'll put it in the Netflix queue.
+
+1105
+01:05:29,300 --> 01:05:32,080
+That's about the most that that movie's gonna get from me.
+
+1106
+01:05:32,080 --> 01:05:33,080
+I don't think so.
+
+1107
+01:05:33,080 --> 01:05:34,080
+All right.
+
+1108
+01:05:34,080 --> 01:05:35,080
+Is that it for the mailbag?
+
+1109
+01:05:35,080 --> 01:05:42,320
+mailbag and move on to more stories. If you are a PlayStation 1 devotee, well, it's over
+
+1110
+01:05:42,320 --> 01:05:48,500
+for you. Not really. What I'm trying to say is that the PlayStation consoles, the PS1s
+
+1111
+01:05:48,500 --> 01:05:53,840
+are no longer going to be made. Sony has stopped all production of the original PlayStation
+
+1112
+01:05:53,840 --> 01:05:57,500
+console because, of course, now they need to start focusing their efforts on putting
+
+1113
+01:05:57,500 --> 01:06:03,240
+out the PlayStation 3. They haven't made games for the PlayStation 1 in like years. I think
+
+1114
+01:06:03,240 --> 01:06:05,840
+There was actually a release, no that was Dreamcast.
+
+1115
+01:06:05,840 --> 01:06:09,440
+Yeah, but those are like little indie things, no major release in a long time.
+
+1116
+01:06:09,440 --> 01:06:12,440
+I thought they stopped production in PlayStation 1 when like the PlayStation 2 came out.
+
+1117
+01:06:12,440 --> 01:06:16,840
+You know what though, for folks that can't afford PS2s, PS1's a nice alternative, right?
+
+1118
+01:06:16,840 --> 01:06:19,840
+You don't even want to see the stack of them sitting in our game room.
+
+1119
+01:06:19,840 --> 01:06:24,740
+Yeah, so you know, I, yeah, me too, I was a little, my biggest surprise from this article
+
+1120
+01:06:24,740 --> 01:06:27,540
+was they, they're just now stopping.
+
+1121
+01:06:27,540 --> 01:06:31,440
+When you can go to the flea market and buy an old deck for what, 20 bucks?
+
+1122
+01:06:31,440 --> 01:06:38,940
+Yeah, but it's pretty much over there for PS1s, no more new ones will be found at the stores.
+
+1123
+01:06:38,940 --> 01:06:45,240
+Dark Sakura, a little bit of some rumors going around the internet this week about Nintendo Revolution, right?
+
+1124
+01:06:45,240 --> 01:06:48,940
+Oh yeah, there's a speculated name coming out.
+
+1125
+01:06:48,940 --> 01:06:57,840
+Basically, a blog called Engadget got a hold of a photograph from a slide at a Nintendo presentation.
+
+1126
+01:06:57,840 --> 01:07:03,860
+It was a blue cube looking thing formed out of opposing D-pads that was hovering over
+
+1127
+01:07:03,860 --> 01:07:07,320
+a name that said Nintendo Go.
+
+1128
+01:07:07,320 --> 01:07:11,240
+Later on they got a photo that looked like a brochure that had the same name on it.
+
+1129
+01:07:11,240 --> 01:07:16,340
+But Iwata hasn't said anything to support that.
+
+1130
+01:07:16,340 --> 01:07:19,080
+They said they were supposed to announce the real name and never did.
+
+1131
+01:07:19,080 --> 01:07:24,520
+Now, also another interesting theory was that Go is the number five in Japanese and that
+
+1132
+01:07:24,520 --> 01:07:27,520
+this would be Nintendo's fifth system, which would be kind of a nice tie-in.
+
+1133
+01:07:27,520 --> 01:07:28,520
+There is that too.
+
+1134
+01:07:28,520 --> 01:07:30,960
+Well, now, of course, those rumors are going around the internet.
+
+1135
+01:07:30,960 --> 01:07:36,800
+Well, Nintendo has proven in the past, though, the N64 was supposed to be a code name for
+
+1136
+01:07:36,800 --> 01:07:43,360
+the Nintendo 64, but it came out as the Nintendo 64, so they've done things like this before.
+
+1137
+01:07:43,360 --> 01:07:46,040
+Their code names have made it as official names.
+
+1138
+01:07:46,040 --> 01:07:50,000
+I think Revolution would just be cool to have it as a name, that'd be awesome, but you know.
+
+1139
+01:07:50,000 --> 01:07:54,640
+Well, now, here's the follow-up to that, is that the Go theory has been somewhat debunked.
+
+1140
+01:07:54,640 --> 01:07:59,040
+I mean, of course you're going to have your holdouts that still stick onto that, but now
+
+1141
+01:07:59,040 --> 01:08:04,980
+this other blog, we're getting this off of Go Nintendo, actually has a comparison to
+
+1142
+01:08:04,980 --> 01:08:12,160
+this program, NAMO Web Editor 5, exact same logo as the Nintendo Go, and somebody apparently
+
+1143
+01:08:12,160 --> 01:08:16,840
+translated all the little Japanese text that showed up, and it looks like it's pretty much
+
+1144
+01:08:16,840 --> 01:08:23,580
+a fake, so unless there's some fluke going on, it's likely that Nintendo Go is a no-go.
+
+1145
+01:08:23,580 --> 01:08:28,620
+But who knows, rumors get started somewhere, but not too likely.
+
+1146
+01:08:28,620 --> 01:08:33,660
+I think the Nintendo Go would be a better name for a handheld system, because I think
+
+1147
+01:08:33,660 --> 01:08:37,780
+they're on their fifth handheld system too, whenever the next one comes out.
+
+1148
+01:08:37,780 --> 01:08:41,180
+I think the most creative explanation I read somewhere on the internet on some feedback
+
+1149
+01:08:41,180 --> 01:08:46,580
+thread was that Nintendo Go sounds like a good gaming online thing, because if you go
+
+1150
+01:08:46,580 --> 01:08:50,380
+gaming online, maybe that's the name of their online system.
+
+1151
+01:08:50,380 --> 01:08:51,700
+That could be a definite possibility.
+
+1152
+01:08:51,700 --> 01:08:53,700
+There's a little speculation at this time, though.
+
+1153
+01:08:53,700 --> 01:08:55,700
+Exactly, so that's, I think-
+
+1154
+01:08:55,700 --> 01:08:57,700
+I just still have this mental image, though, from
+
+1155
+01:08:57,700 --> 01:08:59,700
+the first few episodes of Red Dwarf
+
+1156
+01:08:59,700 --> 01:09:01,700
+where everyone-
+
+1157
+01:09:01,700 --> 01:09:03,700
+no, not Red Dwarf, I'm messing with Red Dwarf, from Star Trek
+
+1158
+01:09:03,700 --> 01:09:05,700
+where everyone was addicted to the little
+
+1159
+01:09:05,700 --> 01:09:07,700
+game thing
+
+1160
+01:09:07,700 --> 01:09:09,700
+that we're gonna keep seeing
+
+1161
+01:09:09,700 --> 01:09:11,700
+more and more systems come out and they're gonna
+
+1162
+01:09:11,700 --> 01:09:13,700
+be wired into our brains and
+
+1163
+01:09:13,700 --> 01:09:15,700
+we'll all be addicts. There's also an
+
+1164
+01:09:15,700 --> 01:09:17,700
+episode of Sea Quest.
+
+1165
+01:09:17,700 --> 01:09:19,700
+I don't know.
+
+1166
+01:09:19,700 --> 01:09:26,660
+Let's see, moving on, a completely different type of game here, StarCraft Ghost.
+
+1167
+01:09:26,660 --> 01:09:31,060
+StarCraft Ghost has been indefinitely postponed and that's going to be a big disappointment
+
+1168
+01:09:31,060 --> 01:09:32,840
+there to StarCraft fans.
+
+1169
+01:09:32,840 --> 01:09:36,640
+They have announced earlier this week that they are going to be focusing the company's
+
+1170
+01:09:36,640 --> 01:09:43,220
+console development efforts on the next generation of console platforms.
+
+1171
+01:09:43,220 --> 01:09:47,900
+This means that StarCraft Ghost was supposed to be this console title that was going to
+
+1172
+01:09:47,900 --> 01:09:48,900
+be coming out.
+
+1173
+01:09:48,900 --> 01:09:53,360
+announced way back in 2003, well now they postponed it because they want to go
+
+1174
+01:09:53,360 --> 01:09:57,380
+basically to the next-gen systems. So I guess, you know, it doesn't necessarily mean that
+
+1175
+01:09:57,380 --> 01:09:59,500
+StarCraft Ghost is never gonna happen,
+
+1176
+01:09:59,500 --> 01:10:02,620
+but you're gonna be waiting a little while for this one.
+
+1177
+01:10:02,620 --> 01:10:05,780
+Last date I heard of it was in Fall anyway, so...
+
+1178
+01:10:05,780 --> 01:10:09,180
+It's gonna go next-gen if it's gonna happen at all, which, you know, you could
+
+1179
+01:10:09,180 --> 01:10:11,100
+look at that either way as good news or bad news.
+
+1180
+01:10:11,100 --> 01:10:14,980
+Well, they're probably just thinking, well hey, you know, by the time this thing comes out,
+
+1181
+01:10:14,980 --> 01:10:19,460
+you know, the next-gen systems are going to be launching anyways, might as well.
+
+1182
+01:10:19,460 --> 01:10:23,780
+Alright, let's move over to Jamie who has a story for us on some wheelin' and dealin' with Sega.
+
+1183
+01:10:23,780 --> 01:10:29,460
+Yeah, Sega is working with Obsidian to make a role-play game for the PC,
+
+1184
+01:10:29,460 --> 01:10:34,420
+the PlayStation 3, and the Xbox 360, but it doesn't have a name or a release date yet.
+
+1185
+01:10:34,420 --> 01:10:37,300
+But we are probably going to see stuff on the City 3.
+
+1186
+01:10:39,380 --> 01:10:42,980
+Really, Sega has been doing a lot more partnerships with a bunch of different companies
+
+1187
+01:10:42,980 --> 01:10:47,340
+like bizarre creation silicon knights monolith they've just acquired creative
+
+1188
+01:10:47,340 --> 01:10:54,260
+assembly it was a UK company the only thing that's really worked out well with
+
+1189
+01:10:54,260 --> 01:10:58,900
+creative assembly they had a the total war series they had condemned with
+
+1190
+01:10:58,900 --> 01:11:10,940
+monolith but as far as the that's right as far as the game that's coming out
+
+1191
+01:11:10,940 --> 01:11:15,440
+though they say they're really excited to be working together both both
+
+1192
+01:11:15,440 --> 01:11:21,840
+companies especially working there's a quote on here from Fergus Iqart I guess
+
+1193
+01:11:21,840 --> 01:11:26,960
+CEO of Obsidian Entertainment says they're excited to be working with a
+
+1194
+01:11:26,960 --> 01:11:30,600
+great publisher like Sega as they are willing and excited to launch new and
+
+1195
+01:11:30,600 --> 01:11:35,960
+visionary IP on next-generation consoles. I think it's very interesting all these
+
+1196
+01:11:35,960 --> 01:11:39,260
+kind of like little partnerships Sega's doing like here and there like they team
+
+1197
+01:11:39,260 --> 01:11:43,940
+up with these guys for this game, it's kind of interesting, so that's all I can really
+
+1198
+01:11:43,940 --> 01:11:44,940
+say.
+
+1199
+01:11:44,940 --> 01:11:46,820
+Until we see the game, all we kind of know is, interesting.
+
+1200
+01:11:46,820 --> 01:11:50,260
+You know I'll be ghosting around Sega's area at E3.
+
+1201
+01:11:50,260 --> 01:11:53,020
+Of course, I missed them last year, so this year I really need to...
+
+1202
+01:11:53,020 --> 01:11:55,660
+They had those big comfy chairs.
+
+1203
+01:11:55,660 --> 01:11:59,300
+Universe was supposed to be out by now, Phantasy Star Universe, but now they've pushed it back
+
+1204
+01:11:59,300 --> 01:12:00,300
+so...
+
+1205
+01:12:00,300 --> 01:12:01,300
+Into the real world.
+
+1206
+01:12:01,300 --> 01:12:02,820
+We'll see it again at E3 this year, right?
+
+1207
+01:12:02,820 --> 01:12:04,700
+Maybe they will have fixed our complaints.
+
+1208
+01:12:04,700 --> 01:12:05,700
+Possibly.
+
+1209
+01:12:05,700 --> 01:12:06,700
+We'll see.
+
+1210
+01:12:06,700 --> 01:12:10,740
+on also in some wheeling and dealing of course Peter Moore is known as the big
+
+1211
+01:12:10,740 --> 01:12:16,060
+talker what's he talking about this week Loki next-gen sequels you gotta love
+
+1212
+01:12:16,060 --> 01:12:20,180
+these are kind of to me I don't know these are kind of like duh you know duh
+
+1213
+01:12:20,180 --> 01:12:24,780
+this is gonna come out for example they're talking about sequel to the
+
+1214
+01:12:24,780 --> 01:12:29,500
+Forza franchise duh I mean of course it's just like you know Gran Turismo on
+
+1215
+01:12:29,500 --> 01:12:36,500
+Xbox. Then, so the other ones, they mentioned Fable. I mean, come on. Really? Fable? Getting
+
+1216
+01:12:38,100 --> 01:12:42,700
+a sequel? I mean, gee, I didn't know the game did well or anything. And then finally, Crimson
+
+1217
+01:12:42,700 --> 01:12:46,140
+Skies was going to be another one that was going to be getting a sequel, which is great
+
+1218
+01:12:46,140 --> 01:12:51,640
+because we need some more aerial combat games. What about the one that just had the demo
+
+1219
+01:12:51,640 --> 01:12:58,640
+this week on Xbox? Well, more than that! We need more than one! No we don't. Yes we do.
+
+1220
+01:12:58,640 --> 01:13:01,440
+So that's just my opinion, no we don't.
+
+1221
+01:13:01,440 --> 01:13:02,840
+Whatever, okay.
+
+1222
+01:13:02,840 --> 01:13:05,800
+Anyways, one game that is not going to be getting a sequel is going to be
+
+1223
+01:13:05,800 --> 01:13:09,580
+Mecha Salt, because apparently Mecha Salt didn't sell very well.
+
+1224
+01:13:09,580 --> 01:13:13,340
+That's okay though, because ChromeHounds is coming out, that's all I need to hear, so.
+
+1225
+01:13:13,340 --> 01:13:15,660
+ChromeHounds and Armored Core, alright.
+
+1226
+01:13:15,660 --> 01:13:19,900
+Well good job on our Duh! Story of the Week for most of that stuff.
+
+1227
+01:13:19,900 --> 01:13:20,780
+Just teasing ya.
+
+1228
+01:13:20,780 --> 01:13:23,960
+Uh... moving on, Game Developers Conference, we talked a lot about that
+
+1229
+01:13:23,960 --> 01:13:26,960
+earlier. We didn't talk about the awards that were given out though, the Game
+
+1230
+01:13:26,960 --> 01:13:32,040
+Game Developers Choice Awards specifically were handed out, and not a lot of surprises
+
+1231
+01:13:32,040 --> 01:13:33,640
+here when you look at some of the winners.
+
+1232
+01:13:33,640 --> 01:13:40,060
+Best Game was named to be Shadow of the Colossus, Best Audio Guitar Hero, Shadow of the Colossus
+
+1233
+01:13:40,060 --> 01:13:46,760
+also won Best Character Design, Best Game Design, Best Visual Arts, and also shared
+
+1234
+01:13:46,760 --> 01:13:48,440
+honors and innovation.
+
+1235
+01:13:48,440 --> 01:13:53,360
+Guitar Hero also shared innovation along with Nintendogs also got an innovation nod, also
+
+1236
+01:13:53,360 --> 01:13:56,040
+winning there for Best Technology.
+
+1237
+01:13:56,040 --> 01:13:59,980
+The other game that snuck in there, Psychonauts, for best writing.
+
+1238
+01:13:59,980 --> 01:14:04,400
+So congratulations to all the winners, which were only equated to about four different
+
+1239
+01:14:04,400 --> 01:14:08,760
+games there, but certainly some of the most critically allotted games of the past year,
+
+1240
+01:14:08,760 --> 01:14:10,840
+so good job.
+
+1241
+01:14:10,840 --> 01:14:16,960
+All right, and lastly for this little segment here, Loki, I really don't know how to set
+
+1242
+01:14:16,960 --> 01:14:20,460
+this one up.
+
+1243
+01:14:20,460 --> 01:14:23,400
+This could win an Innovation Award at next year's GDC, yes?
+
+1244
+01:14:23,400 --> 01:14:28,120
+Yes, it really puts you in the game.
+
+1245
+01:14:28,120 --> 01:14:31,080
+I don't know if Dark Sakura will be able to play this though.
+
+1246
+01:14:31,080 --> 01:14:32,080
+What?
+
+1247
+01:14:32,080 --> 01:14:37,600
+Anyways, have you ever thought when you're out and about, you know, god damn it, wish
+
+1248
+01:14:37,600 --> 01:14:40,520
+I could pee and play a game at the same time.
+
+1249
+01:14:40,520 --> 01:14:42,400
+That would save so much time.
+
+1250
+01:14:42,400 --> 01:14:46,240
+Well, now you might get to.
+
+1251
+01:14:46,240 --> 01:14:51,360
+It's actually part of an art installation right now at a museum, but designer Marcel
+
+1252
+01:14:51,360 --> 01:14:57,480
+Neandorfer, has actually created urinals with interactive games built in and activated and
+
+1253
+01:14:57,480 --> 01:15:09,760
+controlled by, uh, streaming media. And basically, um, I don't know, to me it's kind of stupid
+
+1254
+01:15:09,760 --> 01:15:16,720
+because, I mean, streaming media? I mean, really, how long can you be playing a game
+
+1255
+01:15:16,720 --> 01:15:19,760
+when you're, you know, taking a piss. I mean, seriously.
+
+1256
+01:15:19,760 --> 01:15:23,480
+What if I'm pee-shy? I mean, that puts me at a handicap.
+
+1257
+01:15:23,480 --> 01:15:27,280
+Is it multiplayer?
+
+1258
+01:15:27,280 --> 01:15:31,680
+Do they have a trough version of this game for, you know, those urinals that are just
+
+1259
+01:15:31,680 --> 01:15:32,680
+a big trough?
+
+1260
+01:15:32,680 --> 01:15:33,840
+I mean, what's next, poo on the target?
+
+1261
+01:15:33,840 --> 01:15:37,640
+Oh, that's disgusting. That's disgusting. DarkSakura, are you going to learn how to
+
+1262
+01:15:37,640 --> 01:15:39,840
+pee standing up just to play this game?
+
+1263
+01:15:39,840 --> 01:15:42,840
+Fuck no!
+
+1264
+01:15:42,840 --> 01:15:44,840
+Disgusting.
+
+1265
+01:15:44,840 --> 01:15:45,840
+That's so stupid!
+
+1266
+01:15:45,840 --> 01:15:47,600
+That'd be great though.
+
+1267
+01:15:47,600 --> 01:15:49,120
+Only in an art show do we see something like that.
+
+1268
+01:15:49,120 --> 01:15:53,920
+If you want to go like sick in a more demented game, whatever, you can get some sort of technology
+
+1269
+01:15:53,920 --> 01:15:59,120
+like that that measures the size of the crap that you take, and it puts you on like a leaderboard,
+
+1270
+01:15:59,120 --> 01:16:03,600
+you know, kind of a ranking system so that you can see how far, how you fare against
+
+1271
+01:16:03,600 --> 01:16:04,920
+other crappers out there.
+
+1272
+01:16:04,920 --> 01:16:08,200
+You know, we had, we already had the game Golden Tea.
+
+1273
+01:16:08,200 --> 01:16:12,300
+This show has officially gone down the toilet, so I think it's time for us to take a little
+
+1274
+01:16:12,300 --> 01:16:13,300
+break here.
+
+1275
+01:16:13,300 --> 01:16:36,940
+We'll be back after this little break with more of Orange Lounge Radio.
+

@@ -1,0 +1,172 @@
+#/usr/bin/pwsh
+
+# pip install git+https://github.com/openai/whisper.git
+# pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+# set-alias whisper "$($env:localappdata)\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\scripts\whisper.exe"
+
+# pip install git+https://github.com/m-bain/whisperx.git
+
+$model = 'medium.en'
+$conditionOnPreviousText = $True
+
+#Clear-Host
+$files = @(Get-ChildItem -Include *.mp3,*.mp4 -Recurse)
+$num = -1
+if ($host.Name -eq 'ConsoleHost')
+{
+    [Console]::TreatControlCAsInput = $True
+    $defaultTitle = $host.UI.RawUI.WindowTitle
+    $Host.UI.RawUI.FlushInputBuffer()
+}
+#$PSStyle.Progress.View = "Classic"
+foreach ($f in $files)
+{
+    $num += 1
+    $status = "File $($num + 1) out of $($files.Length): $($f.Name)"
+    $percentPerFile = 100.0 / $files.Count
+    $percent = $num * $percentPerFile
+    # Write-Progress -Activity "Transcribing" -Status $status -PercentComplete ([int]$percent)
+    $consoleTitle = "$($num + 1)/$($files.Length) ($($percent.ToString('0.000'))%): $($f.Name)"
+    if ($host.Name -eq 'ConsoleHost')
+    {
+        $host.UI.RawUI.WindowTitle = $consoleTitle
+    }
+    
+    Write-Progress -Id 1 -Activity 'Transcribing' -Status $status -PercentComplete ([int]$percent)
+    $dir = Split-Path $f.FullName -Parent
+    $name = Split-Path $f.Name -LeafBase
+    $expectedSubs = Join-Path $dir "$name.vtt"
+    if (Test-Path -LiteralPath $expectedSubs -PathType Leaf)
+    {
+        continue
+    }
+
+    $startTime = Get-Date -AsUTC
+    $job = Start-Job -ScriptBlock {
+        # whisper .\OLR_930_091822.mp3 --task transcribe --model large --device cuda
+        $mp3Path = $args[0]
+        $model = $args[1]
+        $dir = $args[2]
+        $conditionOnPreviousText = $args[3]
+
+        $useWhisperX = ($null -ne $env:hf_token) -and ($env:hf_token -ne '')
+        $useWhisperX = $False
+        # --compression_ratio_threshold 2.0 --no_speech_threshold 0.5
+        $initialPrompt = "Skie, DarkSakura, Loki, VOG Network, Ranma, Actdeft, Drew, Carameldansen"
+        if ($useWhisperX)
+        {
+            whisperx "$mp3Path" --task transcribe --device cuda --model $model --language en --output_dir "$dir" --verbose False --initial_prompt $initialPrompt --condition_on_previous_text $conditionOnPreviousText --vad_filter True --align_model WAV2VEC2_ASR_LARGE_LV60K_960H --diarize True --hf_token "$($env:hf_token)" 2>&1
+        }
+        else
+        {
+            whisper "$mp3Path" --task transcribe --device cuda --model $model --language en --output_dir "$dir" --verbose False --initial_prompt $initialPrompt  --condition_on_previous_text $conditionOnPreviousText 2>&1
+        }
+
+        #$PSStyle.Progress.View = "Minimal"
+        # rename all file.mp3.txt to just file.txt
+        @(Get-ChildItem -LiteralPath $dir -Include '*.mp3.*') | ForEach-Object { Rename-Item "$($_.FullName)" "$($_.Name.Replace('.mp3', '', $true, (Get-Culture 'en-US')))" }
+        @(Get-ChildItem -LiteralPath $dir -Include '*.mp4.*') | ForEach-Object { Rename-Item "$($_.FullName)" "$($_.Name.Replace('.mp4', '', $true, (Get-Culture 'en-US')))" }
+    } -ArgumentList "$($f.FullName)", "$model", "$dir", "$conditionOnPreviousText"
+
+    $requestToAbort = $false
+    $hadData = $false
+    do
+    {
+        Start-Sleep -Seconds 1
+        Write-Progress -Id 1 -Activity 'Transcribing' -Status $status -PercentComplete ([int]$percent)
+        if ($job.HasMoreData)
+        {
+            $jobData = Receive-Job -Job $job -ErrorAction SilentlyContinue
+            #   1%|          | 7548/740916 [00:09<14:19, 853.28frames/s]
+            #  1%|█▋         | 2732/374130 [00:07<17:57, 344.60frames/s]
+            $ts = (Get-Date -AsUTC) - $startTime
+            if ($ts.TotalSeconds -gt 3599)
+            {
+                $realElapsed = $ts.ToString('hh\:mm\:ss')
+            }
+            else
+            {
+                $realElapsed = $ts.ToString('mm\:ss')
+            }
+            $m = [Regex]::Matches("$jobData", '\s*(?<percent>\d+)%.+?(?<frame>\d+)/(?<frames>\d+) \[(?<elapsed>(\d+:)?\d+:\d+)<(?<remaining>((\d+:)?\d+:\d+)|\?), (?<speed>((\d|[.,])+|\?))frame.+\]')
+            if ($m.Count -gt 0)
+            {
+                $jobPercent = $m[-1].Groups['percent'].Value
+                $jobRem = $m[-1].Groups['remaining'].Value
+                $elapsed = $m[-1].Groups['elapsed'].Value
+                $frame = $m[-1].Groups['frame'].Value
+                $frames = $m[-1].Groups['frames'].Value
+                $speed = $m[-1].Groups['speed'].Value
+                if ($jobRem -eq '?')
+                {
+                    $remainingSeconds = -1
+                }
+                else
+                {
+                    if ($jobRem.Length -lt 6)
+                    {
+                        $ts = [TimeSpan]"00:$jobRem"
+                    }
+                    else
+                    {
+                        $ts = [TimeSpan]$jobRem
+                    }
+                    $remainingSeconds = $ts.TotalSeconds
+                }
+                $hadData = $true
+                Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status "Elapsed: $elapsed ($realElapsed), Frame: $frame/$frames, $speed fps, Remaining: $jobRem" -PercentComplete $jobPercent -SecondsRemaining $remainingSeconds
+            }
+            elseif (-not $hadData)
+            {
+                Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status 'Preparing model' -PercentComplete 0 -SecondsRemaining -1
+            }
+            else
+            {
+                if (-not [string]::IsNullOrWhiteSpace("$jobData"))
+                {
+                    Write-Warning $jobData
+                }
+                Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status "Elapsed: $elapsed ($realElapsed), Frame: $frame/$frames, $speed fps, Remaining: $jobRem" -PercentComplete $jobPercent -SecondsRemaining $remainingSeconds
+                $fileProgress = $percentPerFile * $frame / $frames
+                if ($host.Name -eq 'ConsoleHost')
+                {
+                    $newConsoleTitle = "$($num + 1)/$($files.Length) ($(($percent+$fileProgress).ToString('0.000'))%): $($f.Name)"
+                    if ($newConsoleTitle -ne $consoleTitle)
+                    {
+                        $consoleTitle = $newConsoleTitle
+                        $host.UI.RawUI.WindowTitle = $consoleTitle
+                    }
+                }
+            }
+        }
+        if (($host.Name -eq 'ConsoleHost') -and $Host.UI.RawUI.KeyAvailable -and ($Key = $Host.UI.RawUI.ReadKey('AllowCtrlC,NoEcho,IncludeKeyUp')))
+        {
+            if ([Int]$Key.Character -eq 3)
+            {
+                if ($requestToAbort)
+                {
+                    Stop-Job -Job $job
+                }
+                else
+                {
+                    Write-Host 'Will stop when the current task is finished. Press Ctrl-C again to abort immediately.'
+                    $requestToAbort = $true
+                }
+            }
+            $Host.UI.RawUI.FlushInputBuffer()
+        }
+    } while ($job.State -eq 'Running')
+    Write-Progress -Activity '  Progress' -Completed
+    Remove-Job $job
+
+    if ($requestToAbort)
+    {
+        break
+    }
+}
+Write-Progress -Activity 'Transcribing' -Completed
+if ($host.Name -eq 'ConsoleHost')
+{
+    $host.UI.RawUI.WindowTitle = $defaultTitle
+    [Console]::TreatControlCAsInput = $False
+}

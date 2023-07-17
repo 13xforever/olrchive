@@ -1,0 +1,2387 @@
+WEBVTT
+
+00:00.000 --> 00:19.400
+Tonight, April 30th, 2006, we talk about the new PSP firmware.
+
+00:19.400 --> 00:22.680
+What are we all assuming Microsoft might show at E3?
+
+00:22.680 --> 00:31.880
+And we get excited about Luminous 2 News!
+
+00:31.880 --> 00:36.080
+Hello everybody out there on the internet and welcome to another week of Orange Lounge
+
+00:36.080 --> 00:37.080
+Radio.
+
+00:37.080 --> 00:41.520
+We are that video game podcast dedicated to what gamers really want to know.
+
+00:41.520 --> 00:42.720
+My name is Rob Roberts.
+
+00:42.720 --> 00:44.320
+You might know me as Sky.
+
+00:44.320 --> 00:48.880
+Joining me as always in that corner over there, say hello to Dark Sakura, Jamie Summers.
+
+00:48.880 --> 00:49.880
+Yo, what up?
+
+00:49.880 --> 00:50.880
+How you doing?
+
+00:50.880 --> 00:53.880
+I've just been going wee all day. I'm so happy.
+
+00:53.880 --> 00:55.380
+Alright, you're just in a good mood.
+
+00:55.380 --> 00:56.380
+Yeah.
+
+00:56.380 --> 01:00.880
+Alright, and not here tonight. Don't say hello to Loki because he's not here.
+
+01:00.880 --> 01:02.880
+He who is about to die.
+
+01:02.880 --> 01:06.380
+That's right, he's getting married which means his soul is forever gone.
+
+01:06.380 --> 01:10.380
+Hey, I still have my soul and I'm married, but I married a gamer.
+
+01:10.380 --> 01:18.380
+Alright, so in all seriousness, congratulations to Matt and Ellie who are tying the knot on Sunday night.
+
+01:18.380 --> 01:19.380
+Yay!
+
+01:19.380 --> 01:24.660
+on Saturday this week, so not joining us tonight is the chat room and the skype line, it's
+
+01:24.660 --> 01:25.660
+just us.
+
+01:25.660 --> 01:26.660
+Oh darn.
+
+01:26.660 --> 01:30.560
+So we're not calling this an official episode, this is a mini episode.
+
+01:30.560 --> 01:32.380
+I like episodelet.
+
+01:32.380 --> 01:33.500
+An a little episodelet?
+
+01:33.500 --> 01:36.420
+I like that name too, we'll call it an episodelet.
+
+01:36.420 --> 01:37.420
+Like a nugget.
+
+01:37.420 --> 01:38.420
+Yes, a little episodelet.
+
+01:38.420 --> 01:43.380
+That's kind of gross, it's a nugget.
+
+01:43.380 --> 01:47.300
+So this is our little episodelet for this April 29th, 2006.
+
+01:47.300 --> 01:50.420
+There will be no Part B this week, so please don't be looking for it.
+
+01:50.420 --> 01:52.540
+We're only going to do about half a show tonight.
+
+01:52.540 --> 01:55.740
+It's been kind of a slow news week, too, all things considered.
+
+01:55.740 --> 01:57.900
+I guarantee you Wednesday, where's Part B?
+
+01:57.900 --> 01:58.900
+Yeah, I know.
+
+01:58.900 --> 02:00.620
+They'll be posting, where's Part B?
+
+02:00.620 --> 02:02.220
+There's no Part B this week.
+
+02:02.220 --> 02:05.540
+I'll put up a picture of a face sticking out of tongue and go, there's your Part B.
+
+02:05.540 --> 02:12.820
+No, but we'll be back, of course, next week with a huge E3 preview show, everything we
+
+02:12.820 --> 02:15.500
+We can't wait to do it, E3.
+
+02:15.500 --> 02:17.860
+And of course, we'll be back the week after that as well.
+
+02:17.860 --> 02:19.620
+We're not going to be taking any shows off during E3.
+
+02:19.620 --> 02:21.660
+In fact, you get bonus shows.
+
+02:21.660 --> 02:22.700
+Here's the deal.
+
+02:22.700 --> 02:27.020
+We're actually going to be doing podcasts each day of the show, like we did last year.
+
+02:27.020 --> 02:32.060
+However, we're going to be working with our partner, AllGames.com, to produce these shows.
+
+02:32.060 --> 02:35.340
+They're actually going to be letting us use their studios over at the Arena Interactive
+
+02:35.340 --> 02:38.400
+Lounge to be taping the shows, so it's going to be pretty cool.
+
+02:38.400 --> 02:45.120
+So you'll actually be able to hear us taping all this live on AllGames.com, 6.30-ish each
+
+02:45.120 --> 02:46.120
+day of the show.
+
+02:46.120 --> 02:50.880
+I'm saying 6.30-ish because we're going to be the first show on right after the expo
+
+02:50.880 --> 02:51.880
+is over.
+
+02:51.880 --> 02:54.760
+So we may end up getting to start a little early and we may end up having to start a
+
+02:54.760 --> 02:55.760
+little late.
+
+02:55.760 --> 02:59.520
+All technical things aside, but the goal time is 6.30-ish.
+
+02:59.520 --> 03:02.960
+I may find John Cena again this year and stalk him.
+
+03:02.960 --> 03:04.160
+I didn't know he was an E3 team.
+
+03:04.160 --> 03:05.160
+He was there last year.
+
+03:05.160 --> 03:06.160
+He's a wrestler.
+
+03:06.160 --> 03:08.480
+Are you gonna stalk celebrities, C-list celebrities?
+
+03:08.480 --> 03:11.160
+I might bump into a few more celebrities, who knows?
+
+03:11.160 --> 03:14.880
+Like I bumped into Kojima the year before, and I bumped into Miyamoto last year, and
+
+03:14.880 --> 03:15.880
+this is literal.
+
+03:15.880 --> 03:21.600
+I think the best celebrity I met last year was probably Togo, who did the music in, well,
+
+03:21.600 --> 03:22.760
+some of the music in BB&A 2D action.
+
+03:22.760 --> 03:26.840
+A certain other famous person who I wanted to talk to was off talking to somebody else
+
+03:26.840 --> 03:29.400
+while we were doing an interview that never happened.
+
+03:29.400 --> 03:34.220
+Also regarding the E3
+
+03:34.220 --> 03:37.520
+Outpost, you can actually come see us in person if you want. It's a
+
+03:37.520 --> 03:41.180
+open invite party. You don't have to be an E3 attendee to go.
+
+03:41.180 --> 03:44.340
+It's E3outpost.com if you want the details on that.
+
+03:44.340 --> 03:48.700
+Who doesn't want to meet us? We're gonna be there and
+
+03:48.700 --> 03:52.580
+Scott Rubin, the infamous G4 guy, is gonna be there.
+
+03:52.580 --> 03:57.460
+I think Gamer Andy is doing something as well if you guys read his blog.
+
+03:57.460 --> 04:01.420
+so he's gonna be doing something as well. So it should be a good time. It's just gonna be an internet
+
+04:01.420 --> 04:03.580
+celebrity fest. It's gonna be a podcast orgy.
+
+04:03.580 --> 04:07.240
+Yes it is. Yes, with no nudity though. No. Because we don't need any of that. None of the naked, but
+
+04:07.240 --> 04:11.320
+you know, people wanna bring me chocolate. We can have a chocolate podcast orgy, that'll be fun.
+
+04:11.320 --> 04:15.380
+Chocolate podcast orgy. Alright. That's it, anyone who comes and meets me has to bring me dark chocolate.
+
+04:15.380 --> 04:19.660
+Or a dollar. Or a dollar. Alright, let's cut the crap and get to
+
+04:19.660 --> 04:23.220
+how our gaming week was. Dark Sockro. You cut the crap?
+
+04:23.220 --> 04:25.220
+Bye everybody!
+
+04:25.220 --> 04:27.220
+Oh, I guess that's it for the show!
+
+04:27.220 --> 04:29.220
+No.
+
+04:29.220 --> 04:31.220
+How was your gaming week, DarkSaga?
+
+04:31.220 --> 04:33.220
+Um, I played a buttload of Ragnarok yesterday.
+
+04:33.220 --> 04:35.220
+And I played a buttload of Ragnarok today.
+
+04:35.220 --> 04:38.220
+Instead of doing the rest of my homework today,
+
+04:38.220 --> 04:40.220
+I played a buttload of Ragnarok!
+
+04:40.220 --> 04:42.220
+I'm so responsible.
+
+04:42.220 --> 04:44.220
+The thing is that it was due two weeks ago.
+
+04:44.220 --> 04:46.220
+Um, no.
+
+04:46.220 --> 04:49.220
+I tried to play some Kingdom Hearts last weekend,
+
+04:49.220 --> 04:51.220
+because I wasn't here last week,
+
+04:51.220 --> 04:58.000
+Because one of my really good friends and a listener of ours Disney Punk 10 came up to hang out
+
+04:58.300 --> 05:00.420
+for my birthday week, which was a
+
+05:01.120 --> 05:03.120
+drunken and
+
+05:04.560 --> 05:09.600
+More drunken good times. I talked to I talked about Dave and Busters on last week's show is good times
+
+05:09.800 --> 05:14.520
+Yeah, I actually did not get as insanely drunk this year as I did the year before because now I'm grown up
+
+05:14.520 --> 05:21.320
+up you'll never be a grown-up you still you still you still play games games are
+
+05:21.320 --> 05:30.720
+for kids hey obviously I'm joking I wasn't playing with my dolls yeah oh you
+
+05:30.720 --> 05:35.400
+know though I found out a piece of it oh yeah so Silent Hill three times I went
+
+05:35.400 --> 05:38.520
+on last Friday oh we didn't get to hear your feedback on the movie obviously you
+
+05:38.520 --> 05:41.520
+liked it oh yeah I went Friday and then I went
+
+05:41.520 --> 05:45.060
+against Sunday and then I went Wednesday and I drug Julie with me is it possible
+
+05:45.060 --> 05:49.860
+to see a movie too much no I'm gonna go again hopefully before we go to e3 and I
+
+05:49.860 --> 05:53.420
+think I'm gonna see it while I'm at e3 because I'm one of the DDR freak
+
+05:53.420 --> 05:58.500
+moderators as from South America and he hasn't this not opening there for a
+
+05:58.500 --> 06:03.180
+while so we're gonna probably bring him to see it at some point that's cool but
+
+06:03.180 --> 06:05.180
+I
+
+06:06.700 --> 06:13.980
+Forgot oh, yes, I know oh my god red pyramid. I was like you could kill me. I'd die happy I
+
+06:14.580 --> 06:21.900
+Thought that they actually got like an actual actor to play him in the janitor cuz like he moves so
+
+06:22.500 --> 06:26.100
+Fluidly, it's just like oh, yeah, I could watch that for hours
+
+06:26.660 --> 06:30.360
+Somebody at the I was I was out at the club last night and some of us were talking about
+
+06:30.360 --> 06:33.920
+Silent Hill the movie and somebody called him triangle head that made me
+
+06:33.920 --> 06:39.120
+laugh because I think it's exactly exactly where my mind went to this is
+
+06:39.120 --> 06:43.360
+how we know we're both dorks cuz my mind went exactly triangle man triangle man
+
+06:43.360 --> 06:48.720
+you know and if you catch that reference you too my friend is a live journal icon
+
+06:48.720 --> 06:55.240
+where I had had pyramid head as triangle man and what was the guy in the second
+
+06:55.240 --> 07:03.880
+game James mm-hmm as person man all right games gaming okay yeah um I I hit
+
+07:03.880 --> 07:09.360
+level 43 for my job class which means I have seven more stupid job levels to go
+
+07:09.360 --> 07:15.560
+or you that you are a certified dork hey I'm not the one who was on this is your
+
+07:15.560 --> 07:22.360
+gaming week not my gaming week okay drama no this is definitely an off
+
+07:22.360 --> 07:29.920
+night for us um but yeah and then I am I worked on something I'm doing for
+
+07:29.920 --> 07:35.240
+Kingdom Hearts fan art opportunity with a friend so I've actually been sort of
+
+07:35.240 --> 07:40.720
+artsy gamey sort of trying to get back into my old you know nerd hobbies but
+
+07:40.720 --> 07:44.520
+school sort of kicking my ass but I think I'm doing a flashlight based off a
+
+07:44.520 --> 07:47.120
+video game I'm just not sure if I'm gonna do Silent Hill like I've done all
+
+07:47.120 --> 07:51.280
+my other homework I might just do something about a guardian legend
+
+07:51.280 --> 07:58.120
+tribute page in Flash, that would rock. Though it has to be a digital poem. So I think I'm
+
+07:58.120 --> 08:03.120
+just gonna do like some like really stupid poem that have like art that has nothing to
+
+08:03.120 --> 08:09.120
+do with it, like half of those do. Alright. Hooray for Flash, Nott. Anything else? Who
+
+08:09.120 --> 08:15.000
+wants to do my Flash homework for me? Not me, my gaming week, I played Final Fantasy
+
+08:15.000 --> 08:21.000
+11 a little bit, actually more than a little bit, I played a lot, like Monday, Tuesday,
+
+08:21.000 --> 08:24.280
+Wednesday, I played a lot of Final Fantasy XI, so I'm kind of like on a little mini
+
+08:24.280 --> 08:29.560
+break, I'm taking a little mini vacation from it, but otherwise, the only really new game
+
+08:29.560 --> 08:33.480
+I played was Project Gotham Racing 3, which isn't really a new game because it was an
+
+08:33.480 --> 08:38.300
+Xbox 360 launch title, but Loki let me borrow it, and so it's about like the 50th racing
+
+08:38.300 --> 08:40.560
+game I played on the 360.
+
+08:40.560 --> 08:41.560
+Download the Speed Pack.
+
+08:41.560 --> 08:43.600
+I forgot to mention Dan downloaded the Speed Pack.
+
+08:43.600 --> 08:45.600
+Doesn't that cost points?
+
+08:45.600 --> 08:50.600
+Yeah, however, the cars that are in it are so worth it. One of them is the EVO 8MR.
+
+08:50.600 --> 08:53.600
+Maybe. I don't know. I don't know how I feel about this game still.
+
+08:53.600 --> 08:57.600
+I like the game. I think it's pretty. I think it's got a great interface.
+
+08:57.600 --> 09:00.600
+And I think it's a very fluid interface and it's great to get into.
+
+09:00.600 --> 09:07.600
+But the racing itself, I found you have to use different tactics in this game than you do in other types of games like Ridge Racer.
+
+09:07.600 --> 09:08.600
+And that kind of threw me at first.
+
+09:08.600 --> 09:09.600
+It depends on your car too.
+
+09:09.600 --> 09:15.840
+Yeah, and I understand why is that it's not a game about like drifting. It's more of like a street race type thing
+
+09:15.840 --> 09:17.840
+It's it's just a different style of
+
+09:18.220 --> 09:22.460
+Racing but it really threw me having played all these other racing games where you know
+
+09:22.700 --> 09:26.500
+Release the gas while you turn then hit the gas so you kind of do that drifting
+
+09:26.500 --> 09:30.300
+You're not really I mean you can do that in Project Gotham, but I slam into walls every time
+
+09:30.300 --> 09:32.140
+So you have to really alter the strategy
+
+09:32.140 --> 09:35.940
+I had to read up on game facts how to do a frickin turn right in that game
+
+09:35.940 --> 09:41.840
+My suggestion is actually to do the in-car play of you. Mm-hmm when you're playing it actually does make a difference
+
+09:41.840 --> 09:46.760
+I you know what maybe I get a little motion sick sometimes too because that view makes me all like weird
+
+09:46.760 --> 09:48.280
+I get all the more perfect
+
+09:48.280 --> 09:53.380
+I know it's pretty low as a flaw being that I'm a Lancer freak since I drive a Lancer
+
+09:53.640 --> 10:01.280
+They did the interior for the evo 9 inside the evo 8mr. Wow, that's nerdy. That is nerdy pretty awesome. You know that though
+
+10:01.280 --> 10:07.560
+I like that you can test drive all the cars though, even the expensive ones.
+
+10:07.560 --> 10:11.280
+You can go to the expensive ones and do the test drive so you can see how they play.
+
+10:11.280 --> 10:14.120
+It's a fun game and I will probably play more of it.
+
+10:14.120 --> 10:17.420
+I just was a little like, whoa, this is a little bit different, but I love that it's
+
+10:17.420 --> 10:19.260
+so fluid.
+
+10:19.260 --> 10:21.680
+It is definitely one of the better racing games on 360.
+
+10:21.680 --> 10:26.080
+I was kind of surprised because I didn't think it would be the type of game I like, but I
+
+10:26.080 --> 10:27.080
+really enjoyed it.
+
+10:27.080 --> 10:32.460
+for all these people that like to loop racing games in one big pile and call
+
+10:32.460 --> 10:36.380
+them all just like racing games you know like they're all the same you need to
+
+10:36.380 --> 10:41.840
+play this then play something like with guns like full auto or burnout something
+
+10:41.840 --> 10:46.220
+where destruction is the main factor and then play something like initial well I
+
+10:46.220 --> 10:49.140
+know initial D is not on 360 but maybe something like Ridge Racer where it's
+
+10:49.140 --> 10:53.340
+more about drifting and you'll see like the big differences between these racing
+
+10:53.340 --> 10:56.620
+games. I would have to loop the Project Gotham series in with like the Grand
+
+10:56.620 --> 11:01.580
+Turismo series. It plays similarly. More on the realistic side of
+
+11:01.580 --> 11:05.580
+of car motion than... Probably fair to say that Project Gotham was probably
+
+11:05.580 --> 11:06.780
+designed as a
+
+11:06.780 --> 11:11.620
+direct competitor. So, anyway. That was pretty much my game of the week. I didn't play a whole
+
+11:11.620 --> 11:14.020
+lot besides that. I've been doing my brain training every day though.
+
+11:14.020 --> 11:17.300
+I'm getting good. I hadn't yet to purchase that. I feel that I don't need it.
+
+11:17.300 --> 11:21.780
+Oh, I think you need to be doing the little quiz on mine and then we'll see
+
+11:21.780 --> 11:23.900
+how old your brain is and then that might
+
+11:23.900 --> 11:28.700
+Might change your mind. My brain is 50 million years old.
+
+11:28.700 --> 11:32.860
+No, that's a bad, you want to get it down. One. You want your brain age 20 is the lowest you can go.
+
+11:32.860 --> 11:35.980
+I'm 21 now. I'm 21 now. I'm working on it.
+
+11:35.980 --> 11:42.620
+How about some gaming news? Big news in the gaming industry. Huge,
+
+11:42.620 --> 11:46.840
+huge news in the gaming industry this week from Sony.
+
+11:46.840 --> 11:50.300
+Sony has upgraded their PSP Flash
+
+11:50.300 --> 11:53.700
+firmware, I'm sorry, their PSP firmware to 2.70
+
+11:53.700 --> 11:57.020
+to include flash support.
+
+11:57.020 --> 12:00.800
+However, I hear it sucks. I hear the flash support
+
+12:00.800 --> 12:04.300
+really stinks on this.
+
+12:04.300 --> 12:07.380
+Did they say what flash supports? Is it Flash 8?
+
+12:07.380 --> 12:12.260
+No, they just say the the release notes say now you can play Macromedia flash
+
+12:12.260 --> 12:13.580
+content but here's the thing
+
+12:13.580 --> 12:17.160
+you're not really supposed to save the content, like you can't play content that
+
+12:17.160 --> 12:17.860
+was saved
+
+12:17.860 --> 12:21.020
+although supposedly people have found a way around that like you access it from
+
+12:21.020 --> 12:21.860
+your browser
+
+12:21.860 --> 12:24.740
+but there's no way to like launch just like, let's say you want to download
+
+12:24.740 --> 12:26.860
+Homestar Runner movies and watch them at your convenience,
+
+12:26.860 --> 12:30.620
+you can't really do that. It doesn't really work that way. And they say that
+
+12:30.620 --> 12:31.860
+Flash games
+
+12:31.860 --> 12:35.500
+run like, I was reading web forms, Flash games run like two frames a second, like
+
+12:35.500 --> 12:36.180
+they're horrible.
+
+12:36.180 --> 12:40.380
+So the Flash support is there but needs a little bit of improvement.
+
+12:40.380 --> 12:44.340
+I can work around that. Yeah, we'll see. Who knows, we might be seeing our own content in
+
+12:44.340 --> 12:44.980
+Flash.
+
+12:44.980 --> 12:48.340
+Possibly, although I don't know, we may want to wait till this gets better
+
+12:48.340 --> 12:51.700
+because this, from what I'm hearing, the feedback, not worth the upgrade.
+
+12:51.700 --> 12:54.780
+the feedback I'm hearing on the forums is that this is not worth the upgrade right now
+
+12:54.780 --> 12:58.580
+I wouldn't mind testing it. I really would not mind designing something and testing it out
+
+12:58.580 --> 13:00.780
+Well you still have my PSP so I guess you could do that
+
+13:00.780 --> 13:02.700
+Yes I do. It will be coming with us to E3
+
+13:02.700 --> 13:07.580
+Alright. Sounds good. Yeah there's plenty of reasons why everybody should bring their PSPs to E3
+
+13:07.580 --> 13:10.660
+My husband still has not got me my PSP
+
+13:10.660 --> 13:11.500
+Really?
+
+13:11.500 --> 13:13.100
+Because I think we're getting a camcorder
+
+13:13.100 --> 13:15.580
+Well you need to get a PSP out of that too
+
+13:15.580 --> 13:20.580
+Let's see what else has been added in the PSP 2.7 upgrade
+
+13:20.580 --> 13:25.580
+UMD video L and R button has been added because you can disable the
+
+13:25.580 --> 13:28.220
+channel skip feature with the L and R buttons.
+
+13:28.220 --> 13:31.500
+I've done this before like it's too easy to accidentally knock those buttons or
+
+13:31.500 --> 13:31.940
+hit them.
+
+13:31.940 --> 13:35.020
+So you can disable that.
+
+13:35.020 --> 13:39.300
+AAC is now playable on the PSP as well which is a very popular
+
+13:39.300 --> 13:42.480
+iTunes and Apple codec so that's pretty cool.
+
+13:42.480 --> 13:46.580
+So if you want to check that out all you have to do is just on your PSP you can
+
+13:46.580 --> 13:48.500
+update the firmware. Keep in mind
+
+13:48.500 --> 13:51.980
+for those you guys that like to do controversial things on your PSP which
+
+13:51.980 --> 13:53.580
+involve downgrading your firmware
+
+13:53.580 --> 13:57.260
+2.7 will lock all that out because obviously they fixed all those loopholes
+
+13:57.260 --> 13:57.700
+so
+
+13:57.700 --> 14:01.060
+something to consider before you do this. Where one loophole
+
+14:01.060 --> 14:05.060
+closes another one opens. That is very true. Speaking of Sony
+
+14:05.060 --> 14:08.580
+rumor is that Sony is going to keep their mouth shut when it comes to the
+
+14:08.580 --> 14:09.140
+price
+
+14:09.140 --> 14:12.180
+of the PlayStation 3 at this year's E3.
+
+14:12.180 --> 14:15.260
+Reports are saying on CNN
+
+14:15.260 --> 14:19.940
+is that Sony is not going to talk about the price of their console until the end of
+
+14:19.940 --> 14:20.580
+the summer
+
+14:20.580 --> 14:25.940
+at the earliest. Now, of course, the only time when this can really be confirmed
+
+14:25.940 --> 14:27.140
+is E3,
+
+14:27.140 --> 14:30.500
+but I would say perhaps I think there's actually truth in this.
+
+14:30.500 --> 14:34.020
+I think maybe they will keep quiet about the price.
+
+14:34.020 --> 14:37.220
+I think they just want to show the goods, and I think this whole
+
+14:37.220 --> 14:41.940
+Blu-ray kind of factor will probably determine. I mean, because we still really
+
+14:41.940 --> 14:43.100
+don't know, like,
+
+14:43.100 --> 14:46.260
+Are the games gonna be Blu-ray? I mean, they say it is.
+
+14:46.260 --> 14:50.780
+Is it movies? I mean, are we still... I mean, certainly websites out there are talking
+
+14:50.780 --> 14:53.980
+about one way or the other, but we still really don't know what Sony's plan
+
+14:53.980 --> 14:57.900
+really is for that. So I think until that's been established, it's really hard to
+
+14:57.900 --> 14:59.720
+get the price. So we'll see.
+
+14:59.720 --> 15:03.720
+I mean, I could be wrong. I'd like them to release the price, and I think I'm
+
+15:03.720 --> 15:05.060
+pretty sure it's going to be
+
+15:05.060 --> 15:09.300
+$399 to be competitive with the Xbox 360, even though rumor is they're gonna drop
+
+15:09.300 --> 15:09.820
+price.
+
+15:09.820 --> 15:13.420
+but I don't think we'll know for sure till end of summer it seems
+
+15:13.420 --> 15:16.580
+it seems fair. That was pretty much as much as the PlayStation was
+
+15:16.580 --> 15:20.420
+the PS2 was released for when it came out. And wasn't the PlayStation 1 about that
+
+15:20.420 --> 15:21.500
+much when it came out too?
+
+15:21.500 --> 15:26.580
+Maybe at least $2.99? No, yeah it was around $2.99 if I remember correctly because I
+
+15:26.580 --> 15:30.420
+I didn't have one I was there when someone bought one because it lived in my dorm room
+
+15:30.420 --> 15:33.540
+he didn't have a TV. But
+
+15:33.540 --> 15:37.500
+well the the price of a dollar's gone you know different directions since then so
+
+15:37.500 --> 15:44.660
+Alright, one other thing that we can expect on Sony is a very popular franchise's sequel,
+
+15:44.660 --> 15:45.660
+correct?
+
+15:45.660 --> 15:46.660
+Lumines2.
+
+15:46.660 --> 15:47.660
+Awesome.
+
+15:47.660 --> 15:55.940
+It sounds like there was a mention into this video.
+
+15:55.940 --> 16:02.060
+They were saying that it's probably going to be officially revealed over at E3.
+
+16:02.060 --> 16:06.820
+They made a mention of Lumines2 is coming out, so maybe we'll see that at E3.
+
+16:06.820 --> 16:10.100
+I think there's some early screenshots that have leaked of Luminous 2, so I'm pretty sure
+
+16:10.100 --> 16:13.660
+we're going to see some of that at E3, that would be pretty awesome, at least I hope so.
+
+16:13.660 --> 16:16.180
+I want a playable demo at E3, I don't want no movie.
+
+16:16.180 --> 16:21.020
+I want a playable demo, and I want it to have music that was as good as the first one.
+
+16:21.020 --> 16:22.420
+Absolutely, yeah, that's one.
+
+16:22.420 --> 16:27.780
+And plus, the other question about Luminous 2 is, what exactly are they going to change?
+
+16:27.780 --> 16:28.780
+Because there's...
+
+16:28.780 --> 16:29.780
+Why change anything?
+
+16:29.780 --> 16:30.780
+It's good.
+
+16:30.780 --> 16:34.620
+Yeah, but then, you know, what makes me have to own Luminous 2 if I own Luminous 1 and
+
+16:34.620 --> 16:35.620
+it's the same game?
+
+16:35.620 --> 16:36.620
+New music!
+
+16:36.620 --> 16:41.460
+music worth special art new unlockable content there's got to be something
+
+16:41.460 --> 16:46.220
+there's gonna there's gotta be foreign even like a couple new blocks but just
+
+16:46.220 --> 16:49.500
+don't make the same mistakes the Tetris franchise did I mean I guess at the same
+
+16:49.500 --> 16:54.440
+time Tetris DS is still Tetris right it'll be luminous with like Sony
+
+16:54.440 --> 17:02.740
+characters we'll see other huge huge huge news in the gaming industry this
+
+17:02.740 --> 17:08.080
+week from Microsoft and Microsoft has said that they are going to be
+
+17:08.080 --> 17:12.200
+previewing E3 well actually they haven't said this is just a rumor but you know
+
+17:12.200 --> 17:15.400
+Microsoft you know they're gonna show Halo 3 because they've got to derail the
+
+17:15.400 --> 17:18.520
+Thunder from whatever Sony's gonna bring whatever Nintendo is gonna break they've
+
+17:18.520 --> 17:22.520
+got to derail the Thunder so Halo 3 they are saying is going to be previewed at
+
+17:22.520 --> 17:27.120
+the conference rumor has it it's a two minute video nothing playable yet kids
+
+17:27.120 --> 17:33.980
+Sorry, but a video will still be enough to kind of get that just get that cravens in for
+
+17:34.380 --> 17:37.880
+Make sure that you bring Kleenex. Mm-hmm to wipe the drool
+
+17:37.960 --> 17:42.200
+Yeah that in it, you know that the fanboys are going to be having over the game
+
+17:43.000 --> 17:46.520
+Absolutely. So check that out. That's gonna be a good one at e3
+
+17:47.640 --> 17:51.880
+Jamie another franchise with a sequel that which could be shown at e3
+
+17:51.880 --> 17:56.080
+This is some pretty cool news. Looks like Red Octane and Harmonics are looking for
+
+17:56.080 --> 18:02.740
+indie musicians to put their stuff in Guitar Hero 2. There is a contest at
+
+18:02.740 --> 18:08.920
+BeAGuitarHero.com so musicians can send in their own hard rock heavy metal
+
+18:08.920 --> 18:14.700
+stuff that features a lead guitar over you know as an mp3 format over the
+
+18:14.700 --> 18:19.280
+internet for them to review. Guitar Hero 2 was announced actually this month
+
+18:19.280 --> 18:26.280
+saying there'd be new play modes, a new track list, 40 license, 15 unlockable, independent,
+
+18:26.280 --> 18:30.120
+and of course, Gibson's got support in this one again.
+
+18:30.120 --> 18:33.260
+But I think that the contest is really neat because it's gonna, you know, we were introduced
+
+18:33.260 --> 18:39.040
+to a lot more, there, I would say there's actually more bands local to, I guess, this
+
+18:39.040 --> 18:45.440
+whole area, but it introduced people to a lot more bands, you know, I just think that
+
+18:45.440 --> 18:48.280
+that was a really, a really neat thing.
+
+18:48.280 --> 18:52.480
+I think it was really cool of Red Octane to put all those independent bands right alongside
+
+18:52.480 --> 18:56.900
+the classic hits, you know, and the fact that they kept Freezepop made me giddy too, because
+
+18:56.900 --> 18:58.400
+you know I love me some Freezepop.
+
+18:58.400 --> 19:00.280
+So I hope they come back for the sequel, they better.
+
+19:00.280 --> 19:04.440
+There was that news, though, about the Hidden Track.
+
+19:04.440 --> 19:07.040
+That's true, I remember reading something about that, that there's a Hidden Track.
+
+19:07.040 --> 19:13.600
+So it was actually posted up on our website, one, and you know, I just had a brain fart
+
+19:13.600 --> 19:18.200
+and forgot the name of it, but it's triple something.
+
+19:18.200 --> 19:24.200
+It's another indie band. It's not a song that I recognized as a classic rock song.
+
+19:24.200 --> 19:26.200
+It sounds more like progressive rock.
+
+19:26.200 --> 19:30.200
+Yeah, it was put up on Kotaku. There's a video there.
+
+19:30.200 --> 19:33.200
+The song is called...
+
+19:35.200 --> 19:36.200
+Oh, poo.
+
+19:36.200 --> 19:38.200
+Now, it's not something you can access, though.
+
+19:38.200 --> 19:39.200
+You have to use codes.
+
+19:39.200 --> 19:42.200
+Well, not like up, up, down, down, left, right codes. You have to use like a...
+
+19:42.200 --> 19:43.200
+Triplet.
+
+19:43.200 --> 19:44.200
+Yeah.
+
+19:44.200 --> 19:45.200
+Triplet's the name of the song.
+
+19:45.200 --> 19:48.080
+What's a code thing on PlayStation called?
+
+19:48.080 --> 19:50.960
+CodeShark, GameShark, CodeBreaker, whatever, one of those things.
+
+19:50.960 --> 19:55.680
+Pro Action Replay, but I did, even though the video is not the greatest,
+
+19:55.680 --> 20:00.240
+this song is freaking hard. There's no way I'd ever be able to play that one, but
+
+20:00.240 --> 20:01.960
+it's an expert level song.
+
+20:01.960 --> 20:05.720
+Why did they take it out, I wonder? I think just because the style of the song doesn't
+
+20:05.720 --> 20:06.760
+necessarily fit
+
+20:06.760 --> 20:10.200
+the styles of the rest of the game. I mean, then again, we've got Freeze Pop in there, so
+
+20:10.200 --> 20:13.400
+hello? But it is very, very, you know, progressive
+
+20:13.400 --> 20:17.240
+rock. I mean, it's a good song. It's a really good song.
+
+20:17.240 --> 20:20.640
+But what happens is that the song Guitar Hero in the game,
+
+20:20.640 --> 20:24.560
+it actually replaces it. It's not gonna
+
+20:24.560 --> 20:28.420
+corrupt your shapefile or anything. You can just reset the game, but when
+
+20:28.420 --> 20:31.760
+you put in the code, when you pull up the song list, Triplet will be
+
+20:31.760 --> 20:32.440
+selectable.
+
+20:32.440 --> 20:35.520
+And it is pretty vicious. It is vicious.
+
+20:35.520 --> 20:39.400
+Well, check that out. Well, Kotaku has a little more details in the actual
+
+20:39.400 --> 20:40.240
+codes that you need.
+
+20:40.240 --> 20:43.360
+They have the codes up, and they also have a video of someone playing it. Awesome.
+
+20:43.360 --> 20:52.460
+Moving on to more news about the PSP, LocoRoco has a demo that's downloadable in Japan.
+
+20:52.460 --> 20:57.900
+So you can check that out at www.jp.PlayStation.com.
+
+20:57.900 --> 21:00.560
+Now you actually have to navigate a little ways to get there.
+
+21:00.560 --> 21:05.140
+Loki said he would try and get this on OLRPSP.com though for you guys this week because apparently
+
+21:05.140 --> 21:10.060
+even though the demo is only available in Japan right now, it works on the US PSP is
+
+21:10.060 --> 21:11.200
+what he said.
+
+21:11.200 --> 21:13.920
+So if you don't mind reading a little bit of Japanese,
+
+21:13.920 --> 21:17.400
+you can play a demo of LocoRoco, a new PSP game.
+
+21:17.400 --> 21:18.480
+Awesome.
+
+21:18.480 --> 21:20.880
+Speaking of traveling the world, DarkSakura
+
+21:20.880 --> 21:23.400
+likes to once in a while snoop in on new sites
+
+21:23.400 --> 21:26.200
+from around the world and pick up stuff from the UK.
+
+21:26.200 --> 21:28.200
+So DarkSakura, and of course, news over there,
+
+21:28.200 --> 21:30.640
+effects, what goes on over here, et cetera, et cetera.
+
+21:30.640 --> 21:33.040
+What'd you pick up from the globe this week?
+
+21:33.040 --> 21:38.360
+Well, it looks like CDV's putting up their lineup at E3.
+
+21:38.360 --> 21:39.480
+The game's coming out.
+
+21:39.480 --> 21:45.060
+Warfront the Turning Point which is World War 2 real-time strategy there's
+
+21:45.060 --> 21:50.280
+also War Leaders Clash of Nations and then their first DS game Panzer Tactics
+
+21:50.280 --> 21:57.340
+DS which is World War 2 again turn-based strategy Pacific Storm which is sort of
+
+21:57.340 --> 22:02.940
+turn-based and real-time then again it's more World War 2 it sounds like they're
+
+22:02.940 --> 22:07.860
+sort of stuck in the 1940s there for a bit also there will be Heroes of
+
+22:07.860 --> 22:15.220
+Annihilated Empires the open beta has actually just launched for that one and
+
+22:15.220 --> 22:21.700
+Darkstar one which is a sci-fi action game about a pilot trying to solve a
+
+22:21.700 --> 22:26.780
+mystery hmm sounds pretty cool I mean I'll definitely look up you know
+
+22:26.780 --> 22:31.200
+anything I mean I personally am not into the strategy games but I love anything
+
+22:31.200 --> 22:35.640
+historical so I always go buy some of those even even if I don't care about
+
+22:35.640 --> 22:39.460
+about the game itself I go to to look and see how accurate are they you know
+
+22:39.460 --> 22:43.200
+look at the demos I think that's pretty cool cool I like games that teach you
+
+22:43.200 --> 22:47.800
+something yeah and it kind of reminds me of you really got a kick out that story
+
+22:47.800 --> 22:54.680
+a while back remember the MMO that had the crucified guy yeah yeah well guess
+
+22:54.680 --> 23:00.000
+what hmm there's gonna be a Marvel action RPG that makes me happy awesome
+
+23:00.000 --> 23:06.240
+it actually says it's gonna have more than the standard X-Men franchise that
+
+23:06.240 --> 23:10.740
+we typically see as of late. Activision and Raven are gonna put this out on
+
+23:10.740 --> 23:15.720
+damn near everything so I'm sure if you've got the system it'll play it you
+
+23:15.720 --> 23:20.280
+know short of like the PC Engine or something. So it's going to be called
+
+23:20.280 --> 23:25.560
+Marvel Ultimate Alliance it will be out actually on the next-gen and current
+
+23:25.560 --> 23:30.360
+gen ones including the handheld PC and more than 20 playable Marvel characters
+
+23:30.360 --> 23:34.920
+with a like spider-man Wolverine blade Captain America supposed to be out in
+
+23:34.920 --> 23:41.520
+the fall basically it's supposed to be the usual you know not just the fate of
+
+23:41.520 --> 23:46.840
+the earth but the entire Marvel Universe thing choose your own adventure oh no I
+
+23:46.840 --> 23:51.800
+push the red button the world explodes type of thing it's got a new combat
+
+23:51.800 --> 23:58.640
+system you have air combat ground underwater you have power charging melee
+
+23:58.640 --> 24:04.280
+weapons you have not only are you going to be able to choose your characters you
+
+24:04.280 --> 24:08.260
+actually will make your team a different Marvel characters you will have
+
+24:08.260 --> 24:13.180
+different things to represent them it's supposed to be really customizable it's
+
+24:13.180 --> 24:18.260
+it's as far as your actions actually determine the app that you know how the
+
+24:18.260 --> 24:26.460
+game goes. I think sort of fable, you know, in that respect. And, of course, I have the
+
+24:26.460 --> 24:32.460
+release dates for this month. Actually, there's not really any days left for
+
+24:32.460 --> 24:35.340
+this month, so I will give the ones for the first week of May. How does that sound?
+
+24:35.340 --> 24:42.220
+Okay. We have coming out on the first Beetle King, we have, okay, I've never
+
+24:42.220 --> 24:47.620
+heard of this, but Goo Goo Noggett on DS. No, Goo Goo Goo Goo Noggett is what it
+
+24:47.620 --> 24:53.140
+says me and my Katamari on the fifth coming on PSP Metroid Prime Hunters on
+
+24:53.140 --> 24:57.580
+the DS Sam could museum 50th anniversary on the GameCube Pac-man world 3 on the
+
+24:57.580 --> 25:02.180
+various collection of random systems Rainbow Islands revolution I thought
+
+25:02.180 --> 25:07.860
+that would make you happy maybe I'm from the DS well no because I thought that
+
+25:07.860 --> 25:13.380
+you'd liked oh is it is it it's just like that for real I think it is oh my
+
+25:13.380 --> 25:17.220
+gosh okay now I am excited well it's just because I knew that you were a big
+
+25:17.220 --> 25:22.780
+Big Bubble Bobble fan. Yeah, I didn't know I didn't realize it would be the same thing. That's cool. Yeah
+
+25:22.780 --> 25:29.540
+Um, I actually just pulling this up on Eurogamer and it is Bubble Bobble Rainbow Islands. Very cool
+
+25:29.620 --> 25:31.920
+Yeah, see I love Rainbow Islands. That was a great game
+
+25:32.960 --> 25:37.140
+We have Rogue Galaxy on the ps2 and Tom Clancy's Ghost Recon Advanced Warfighter
+
+25:38.980 --> 25:42.140
+Coming out. All right. They actually get brain age on the 19th
+
+25:42.140 --> 25:48.460
+It's fun, check out last week's show if you want my review.
+
+25:48.460 --> 25:54.020
+Coming back stateside, not a whole lot shaking up the industry this week as far as release
+
+25:54.020 --> 25:55.700
+dates go.
+
+25:55.700 --> 25:59.460
+Probably because of the upcoming E3, there's not a very big calendar, probably until we
+
+25:59.460 --> 26:00.460
+get into June.
+
+26:00.460 --> 26:02.780
+However, there are a couple games to look out for.
+
+26:02.780 --> 26:09.980
+PlayStation 2 has Gallop Racer 2006 on May 2nd, not Xbox 360, Xbox 360 doesn't really
+
+26:09.980 --> 26:11.820
+have anything coming until the end of this month.
+
+26:11.820 --> 26:16.860
+The next big release scheduled is Rockstar Games Table Tennis on May 22nd.
+
+26:16.860 --> 26:19.920
+However, if you're a PC gamer, this is a good week for you guys.
+
+26:19.920 --> 26:25.580
+You guys are getting Ghost Recon Advanced Warfighter on May 2nd, and then you're also
+
+26:25.580 --> 26:29.700
+getting Desperados 2 as well on May 2nd.
+
+26:29.700 --> 26:36.220
+Over on the DS, you are getting Top Gun on May 1st, and Game Boy Advance Dr. Sudoku,
+
+26:36.220 --> 26:37.820
+if you really want it, May 1st.
+
+26:37.820 --> 26:38.820
+Top Gun?
+
+26:38.820 --> 26:41.160
+Does that mean you're going to have the really hard part where you have to, you know, fuel
+
+26:41.160 --> 26:45.160
+It is for real Top Gun based on the old movie, if you can believe it.
+
+26:45.160 --> 26:48.160
+Actually, I'm thinking of the old Top Gun Nintendo game.
+
+26:48.160 --> 26:52.160
+That game pissed me off so much, because I could never land. I'd crash.
+
+26:52.160 --> 26:55.160
+I wonder how similar it is to the old NES one. I might have to check that out.
+
+26:55.160 --> 26:57.160
+I haven't seen, really, the only...
+
+26:57.160 --> 27:00.160
+We need more games, I think, that played like that, like After Burner.
+
+27:00.160 --> 27:05.160
+We need a new After Burner. Except I think I'm going to get the Sega Ages.
+
+27:05.160 --> 27:06.160
+Well, you got a new Outrun, so you never know.
+
+27:06.160 --> 27:08.160
+Actually, we did pick up Outrun 2006.
+
+27:08.160 --> 27:09.160
+How is it?
+
+27:09.160 --> 27:14.180
+it actually is pretty cool and Dan gets I was making pizza the other day and
+
+27:14.180 --> 27:18.320
+Dan's like my girlfriend keeps getting pissed off at me I was like yeah and
+
+27:18.320 --> 27:24.240
+your wife's gonna get screaming about it but not it and I thought it was pretty
+
+27:24.240 --> 27:27.920
+cool he showed me the little demo mode and it played with like a remix of
+
+27:27.920 --> 27:30.840
+magical sound shower which made me all happy because that's my favorite Outrun
+
+27:30.840 --> 27:38.160
+song hmm moving on to a follow-up story but this is a follow-up of something
+
+27:38.160 --> 27:41.380
+like months old I think we talked about this and I don't even know if we talked
+
+27:41.380 --> 27:44.280
+about it on a podcast it might have been one of our live shows I wouldn't call
+
+27:44.280 --> 27:48.860
+the following up as much as a we caught up to it kind of well this is the thing
+
+27:48.860 --> 27:53.100
+is that there was an article in the mercury I believe it was the San Jose
+
+27:53.100 --> 27:59.300
+mercury news that published this it was in the section there it was talking
+
+27:59.300 --> 28:04.060
+about a follow-up to the EA spouse you might remember this she had a live
+
+28:04.060 --> 28:09.780
+journal and the live journal had talked about all the you know over time things
+
+28:09.780 --> 28:13.700
+and shady stuff that was going on at Electronic Arts well she's been revealed
+
+28:13.700 --> 28:19.500
+and her name is Erin Hoffman and her husband was Leander Hastie and he was
+
+28:19.500 --> 28:23.740
+working on Battle for Middle Earth for Electronic Arts and she's the one that
+
+28:23.740 --> 28:27.940
+posted the story and he is not working at EA anymore obviously he's a game
+
+28:27.940 --> 28:32.080
+designer over at Playable Productions and kind of interesting I guess what
+
+28:32.080 --> 28:36.400
+happened is that he was part of this class action lawsuit about the unpaid
+
+28:36.400 --> 28:41.400
+overtime against EA so then they took their story public finally so very
+
+28:41.400 --> 28:44.880
+interesting while the legal proceedings are going on they actually advise not to
+
+28:44.880 --> 28:48.080
+go public with identity or any type of information because it could hurt the
+
+28:48.080 --> 28:53.760
+case I'm not sure I have to be honest I can't remember if it was settled already
+
+28:53.760 --> 28:59.120
+or not I think at the time that we read the article they were actually in the
+
+28:59.120 --> 29:05.040
+Right, right, right, no, definitely at the time the article first came out, it wasn't.
+
+29:05.040 --> 29:08.840
+So I'm just trying to read over it real quick here.
+
+29:08.840 --> 29:15.640
+Well I know from having friends who have sued the facilities that they work for, they're
+
+29:15.640 --> 29:20.960
+advised not to have any contact with, that is if they've left the company, not to have
+
+29:20.960 --> 29:26.920
+any contact with anybody who still works there and not to really reveal the details going
+
+29:26.920 --> 29:31.540
+until after it's been settled so I would think that that's been why it's so long
+
+29:31.540 --> 29:36.600
+giving that name out hmm well there you have it a little follow-up kind of
+
+29:36.600 --> 29:41.300
+always fun to learn the identities of secret people we have our own secret
+
+29:41.300 --> 29:45.460
+identities here at Orange Lawns Radio as well we are very angsty people sometimes
+
+29:45.460 --> 29:48.500
+we get really mad and ticked off and that's why we have this segment on the
+
+29:48.500 --> 29:53.700
+show called the FUs of the week where we have the chance to spread a little hate
+
+29:53.700 --> 29:55.700
+to all the kids of America, right Jamie?
+
+29:55.700 --> 29:57.700
+Grr, argh.
+
+30:07.700 --> 30:12.700
+Well, I wouldn't say this is so much of an F.U. as it was an almost F.U.
+
+30:12.700 --> 30:15.700
+because this was really the only thing that got me at all frustrated this week
+
+30:15.700 --> 30:19.700
+is on my way here, I'm driving along in my lane
+
+30:19.700 --> 30:22.700
+and some guy in a truck decides that he wants to be in my lane
+
+30:22.700 --> 30:26.460
+lane and that he'll conveniently not see me so he's pulling into my lane I'm
+
+30:26.460 --> 30:33.780
+beeping like you stay out of my lane I'm driving here and so he ends up I slow
+
+30:33.780 --> 30:38.380
+way down you know but I can't really break his his car right behind me so I'm
+
+30:38.380 --> 30:41.860
+slowing way down to try to get behind this guy and he ends up just swinging on
+
+30:41.860 --> 30:47.940
+in and smack in the side at the front side of my car and I actually had
+
+30:47.940 --> 30:51.820
+started to steer away at that point you know so I was all you know you knocked
+
+30:51.820 --> 30:55.380
+my window in my rearview mirror just pulled inside rolled down my window popped it back
+
+30:55.380 --> 31:01.900
+out and he eventually like you know hours later pulled over you know and I was like
+
+31:01.900 --> 31:06.220
+dude you are giving me your registration right now and he gets this look on his face like
+
+31:06.220 --> 31:13.200
+oh shit so um because you know anyone who messes with my car gets the wrath of sakura
+
+31:13.200 --> 31:19.580
+brought down upon them I love my car just to tell everybody I love my car a whole lot
+
+31:19.580 --> 31:25.740
+So I'm looking at the side of the car and there's oil all over the side and I'm like, oh god
+
+31:25.740 --> 31:26.220
+Oh god
+
+31:26.220 --> 31:30.940
+Oh that says I took out my little hand wipes and start wiping the oil off to see what the damage looks like
+
+31:31.260 --> 31:34.420
+There's no damage. My car is fine. I
+
+31:34.940 --> 31:37.100
+Go look at his car. His truck is fine
+
+31:37.100 --> 31:43.080
+I was like dude, you are so lucky your car's filthy and he's like what I was like put your registration back in your car
+
+31:43.080 --> 31:46.280
+I don't need it. You didn't hurt my car your car. So greasy my car slid right off it
+
+31:46.280 --> 31:52.280
+And I showed him and he's like, whoa, your car doesn't look like it's damaged at all.
+
+31:52.280 --> 31:54.280
+I was like, it's not.
+
+31:54.280 --> 31:57.280
+I didn't really care if maybe reverse damage had been done.
+
+31:57.280 --> 31:59.280
+He was like, don't worry about it, just go on.
+
+31:59.280 --> 32:01.280
+He's like, OK.
+
+32:01.280 --> 32:03.280
+But I mean, it was just like, didn't you see me?
+
+32:03.280 --> 32:05.280
+He's like, oh, no, no, I didn't.
+
+32:05.280 --> 32:07.280
+I was like, did you look in your rear view mirror?
+
+32:07.280 --> 32:15.280
+And he actually went, uh, this is my piece of advice.
+
+32:15.280 --> 32:19.280
+Look out for Lancers! If you hit one, you die!
+
+32:19.280 --> 32:21.280
+End of story.
+
+32:21.280 --> 32:23.280
+Especially if it's my Lancer.
+
+32:23.280 --> 32:25.280
+I don't really have a whole lot of FUs this week.
+
+32:25.280 --> 32:27.280
+I'm really not that angsty about a lot of things.
+
+32:27.280 --> 32:30.280
+So I would just say FU to, in general, a lack of sleep.
+
+32:30.280 --> 32:32.280
+I could step on your foot for you.
+
+32:32.280 --> 32:34.280
+No, thank you. FU, Jamie.
+
+32:34.280 --> 32:36.280
+FU right back, Ralph!
+
+32:36.280 --> 32:39.280
+I haven't been getting a lot of sleep this week.
+
+32:39.280 --> 32:41.280
+So FU did that.
+
+32:41.280 --> 32:43.280
+Oh, I know! I got a good one.
+
+32:43.280 --> 32:47.800
+FU did the fact that I am traveling to LA next week for my day job
+
+32:47.800 --> 32:51.240
+so I'm flying down there and coming back Friday and then
+
+32:51.240 --> 32:55.320
+I drive back down on Monday for E3. We'll have a caravan though.
+
+32:55.320 --> 32:58.640
+Which I still don't have my confirmation for either. My emails are being ignored
+
+32:58.640 --> 33:02.920
+at this point. Isn't that interesting? I still think you should follow my advice.
+
+33:02.920 --> 33:08.560
+Maybe I'll have to be reporting from the front door because they won't let me in.
+
+33:08.560 --> 33:12.400
+We'll see. However you're in and Matt's in but
+
+33:12.400 --> 33:16.480
+me no love for Rob. I see how it is.
+
+33:16.480 --> 33:20.640
+We'll give you a taser. Well I'll just have to hack things like my DS
+
+33:20.640 --> 33:24.980
+because apparently you can hack your DS like you can make it look like a DS
+
+33:24.980 --> 33:25.480
+light.
+
+33:25.480 --> 33:29.360
+If that's what you, I mean you can't obviously make the shell of it look like
+
+33:29.360 --> 33:30.400
+a DS light but
+
+33:30.400 --> 33:34.280
+you can make the screen a lot brighter like a DS light. There is some hacks.
+
+33:34.280 --> 33:36.520
+It's a hacked firmware that you can
+
+33:36.520 --> 33:40.840
+put out there and get on there and it actually was a story that
+
+33:40.840 --> 33:49.400
+originally broke over on the forums over at GBADEV.com so it actually came
+
+33:49.400 --> 33:53.920
+originally from a Spanish board is where this came from so kind of interesting
+
+33:53.920 --> 33:57.680
+and there's pictures that prove it that show that it got brighter so if you're
+
+33:57.680 --> 34:01.040
+interested in that check that out I remember when the afterburner came out
+
+34:01.040 --> 34:06.960
+on the GBA I still have I still have mine a GBA with an afterburner I have
+
+34:06.960 --> 34:10.960
+I have the afterburner in my GBA, except I loaned my GBA out to a friend who was game-less, sadly.
+
+34:10.960 --> 34:12.960
+My GBA is pink.
+
+34:12.960 --> 34:14.960
+Mine is virginal white.
+
+34:14.960 --> 34:17.960
+I actually own a pink video game system.
+
+34:17.960 --> 34:19.960
+That's my one requisite girly thing.
+
+34:19.960 --> 34:20.960
+There you go.
+
+34:20.960 --> 34:24.960
+By the way, just a quick follow-up, so if you're writing emails right now, you can cut that out.
+
+34:24.960 --> 34:27.960
+I did find the quick follow-up there to the EA Spouse story.
+
+34:27.960 --> 34:32.960
+There were indeed, those lawsuits were indeed already settled.
+
+34:32.960 --> 34:38.480
+It was actually three class-action lawsuits and it was already or they actually weren't settled they
+
+34:39.360 --> 34:44.920
+Know they won settlements in three class-action lawsuits the developers did so there it is
+
+34:50.320 --> 34:52.240
+All right
+
+34:52.240 --> 34:54.400
+Dark Sakura is not going to be reading any mail
+
+34:54.400 --> 34:58.920
+But she does have a few words of advice for those you guys that want to send in mail for next week's show
+
+34:58.920 --> 35:06.080
+um yeah send more of it you know I understand I've got three weeks worth of
+
+35:06.080 --> 35:10.960
+email that's come through that I've replied to as many of them as I could
+
+35:10.960 --> 35:14.120
+within the limited scope of my homework beating me over the head with a sledge
+
+35:14.120 --> 35:20.800
+hammer but I'm gonna start fresh if you've got I promise I will read emails
+
+35:20.800 --> 35:26.400
+next week yeah and also send me good ones also we get a lot of story
+
+35:26.400 --> 35:31.000
+suggestions on like Myspace and the emails and I get them in my box too and
+
+35:31.000 --> 35:37.180
+trust me we have our pulse on like almost every blog and site out there we
+
+35:37.180 --> 35:40.720
+check a ton of them daily and we even get some press releases of our own once
+
+35:40.720 --> 35:44.720
+in a while and you know we get really lucky we might break a story not that we
+
+35:44.720 --> 35:49.000
+don't appreciate it please understand but also you know we really want to hear
+
+35:49.000 --> 35:52.240
+your opinions and your thoughts on things that's what we're really after
+
+35:52.240 --> 36:00.240
+Also, make sure that if you have an email address that in any way remotely resembles anything spam,
+
+36:00.240 --> 36:07.240
+when you send us an email in the subject line, make sure you put OLR and then your subject.
+
+36:07.240 --> 36:15.240
+That way, even if it comes into the spam folder, I at least see that we have OLR in the title and I can check it.
+
+36:15.240 --> 36:20.240
+Anything that has a spam thing on it, I instantly delete it.
+
+36:20.240 --> 36:25.240
+I'm sorry, I check the email for us at various locations.
+
+36:25.920 --> 36:29.280
+I do not want to run the risk of infecting systems
+
+36:29.280 --> 36:30.600
+that are not my property.
+
+36:30.600 --> 36:32.360
+If I infect my own system, I can fix it.
+
+36:32.360 --> 36:34.800
+Maybe you should be doing work at work.
+
+36:34.800 --> 36:36.280
+I never said I was at work.
+
+36:36.280 --> 36:37.720
+I'm just teasing you.
+
+36:37.720 --> 36:39.800
+I'm a good girl and I do my job.
+
+36:41.040 --> 36:43.220
+All right, guess what?
+
+36:45.480 --> 36:48.520
+Koei has revealed their E3 lineup,
+
+36:48.520 --> 36:54.840
+And in that lineup, Guitaro Man Live is coming to the PSP in America, that's going to be shown at E3.
+
+36:54.840 --> 36:55.840
+I love Koei.
+
+36:55.840 --> 36:58.520
+It's exciting news indeed, don't you think?
+
+36:58.520 --> 36:59.520
+I love Koei.
+
+36:59.520 --> 37:00.720
+I know, I love him too for that.
+
+37:00.720 --> 37:06.720
+Koei is another one of my favorite companies that not many people, you know, think of.
+
+37:06.720 --> 37:08.020
+I'm very happy to hear that.
+
+37:08.020 --> 37:11.620
+Now if they'll just bring us another KO Flying Squadron, oh yeah, I'll be happy.
+
+37:11.620 --> 37:13.620
+Well, I'm trying to remember the other stuff they have coming to E3.
+
+37:13.620 --> 37:16.520
+They also announced some other things that are supposed to be coming to E3.
+
+37:16.520 --> 37:18.520
+Dynasty Warriors.
+
+37:18.520 --> 37:20.520
+Yeah, they're doing Dynasty Warriors.
+
+37:20.520 --> 37:21.520
+Okay.
+
+37:21.520 --> 37:27.520
+Alright, well then let's go over now to DarkSakura to talk about how she likes to surf the internet.
+
+37:27.520 --> 37:29.520
+You know, sometimes when she's at work.
+
+37:29.520 --> 37:30.520
+Not at work.
+
+37:30.520 --> 37:32.520
+Sometimes when she's at friends' houses.
+
+37:32.520 --> 37:37.520
+And she finds great websites to share with you guys in her Website of the Week.
+
+37:37.520 --> 37:41.520
+I actually didn't find this one on my own.
+
+37:41.520 --> 37:44.520
+This one was given to us in the middle of my Flash class.
+
+37:44.520 --> 37:51.520
+And I figured Flash pisses me off so much. I'm sure we have many other listeners who are just as pissed off by Flash as I am.
+
+37:51.520 --> 37:54.520
+It does not, by the way, piss me off as much as Illustrator does.
+
+37:54.520 --> 37:58.520
+So, this site is called actionscript.org.
+
+37:58.520 --> 38:05.520
+For anyone who has to deal with a lot of in-depth Flash stuff, by now you are familiar with how frustrating working with scripts can be.
+
+38:05.520 --> 38:13.520
+Programming in your stop here, play, and then stop on frame, kiss my butt, so this is the perfect site.
+
+38:13.520 --> 38:17.180
+perfect site it has not only does it have tutorials on how to set up a lot of
+
+38:17.180 --> 38:21.440
+your different flash actions also outlined from beginning to advanced
+
+38:21.440 --> 38:25.760
+level it has your actual scripts that you need to make all this stuff work and
+
+38:25.760 --> 38:30.320
+working examples some of these are also listed with movie files to go along with
+
+38:30.320 --> 38:35.200
+them to show you how to do it cool very cool site not only that it's also
+
+38:35.200 --> 38:42.720
+available in I believe Japanese Dutch French Russian and Serbian for anybody
+
+38:42.720 --> 38:48.220
+that needs those Serbians. Sometimes you need to read your sights in Serbians. Who knows,
+
+38:48.220 --> 38:52.660
+it could be from that area of the world. That's right. You provide a world-class service to
+
+38:52.660 --> 38:59.660
+our listeners. Of course I do. Moving on, we've got one last story for you guys tonight,
+
+39:01.420 --> 39:03.900
+unless you have any last minute stories. I don't have anything. Do you have any last
+
+39:03.900 --> 39:07.940
+minute stories? Nothing video game related, but this is just nerd happy. Ok, what? I found
+
+39:07.940 --> 39:12.660
+out that the movie theater at Arden Fair Mall is playing Spaceballs next week.
+
+39:12.660 --> 39:17.180
+They do cult movies every Thursday. They're playing Spaceballs. We need
+
+39:17.180 --> 39:20.220
+Spaceballs the game. I kind of want to go to that except I'm gonna be out of town
+
+39:20.220 --> 39:25.020
+which makes me sad. I'm going to I'm going to Fandango my tickets. I will
+
+39:25.020 --> 39:29.460
+dance the Fandango with my credit card. Well we've got one last story for you
+
+39:29.460 --> 39:34.780
+guys tonight and it's it's huge I mean this is huge news absolutely big huge
+
+39:34.780 --> 39:39.940
+news that just shook the game industry like crazy this week and I mean because
+
+39:39.940 --> 39:43.480
+who doesn't love Indiana Jones? I love Indiana Jones. And Indiana Jones is
+
+39:43.480 --> 39:46.680
+another one of those movies that was... I know they're actually doing Temple of
+
+39:46.680 --> 39:51.160
+Doom. All right well here it is I mean just had people talking this week Lucas
+
+39:51.160 --> 39:59.140
+Arts is supposedly going to be showing an Indiana Jones game at E3 2006 and all
+
+39:59.140 --> 40:03.000
+that's that's about all we know we know Lucas Arts is doing it and they're
+
+40:03.000 --> 40:05.560
+They're supposedly showing it at E3, but there's not a lot.
+
+40:05.560 --> 40:11.160
+Now, this would make sense because they're supposedly in Indiana Jones movie, new one
+
+40:11.160 --> 40:12.520
+coming on the way too.
+
+40:12.520 --> 40:14.440
+Harrison Ford is too old for this stuff.
+
+40:14.440 --> 40:17.560
+Yes, but Sean Connery is rumored to be reprising his role, which might be cool.
+
+40:17.560 --> 40:18.560
+I love Sean Connery!
+
+40:18.560 --> 40:19.960
+I know, who doesn't love Sean Connery?
+
+40:19.960 --> 40:24.400
+He could be a quadruple amputee and he would still be hot.
+
+40:24.400 --> 40:25.400
+Alright.
+
+40:25.400 --> 40:28.440
+Well, I think that's about all the stories this week.
+
+40:28.440 --> 40:29.920
+Yeah, I can't think of anything else.
+
+40:29.920 --> 40:34.080
+I can't really think of anything else either, so I guess that's it. We're done with the show so
+
+40:35.020 --> 40:38.560
+Thanks for tuning in and tuning in to our special show this week really appreciate it
+
+40:38.560 --> 40:42.720
+And now it's time to go around and get our final thoughts dark soccer your final thought I
+
+40:43.880 --> 40:45.840
+want chocolate
+
+40:45.840 --> 40:52.520
+And my final thought is I want pizza. Let's get pizza. I think that's a good idea have chocolate after oh great idea
+
+40:52.520 --> 40:54.520
+How about chocolate-covered pizza?
+
+40:54.520 --> 40:56.660
+Maybe not all right well
+
+40:56.660 --> 41:00.100
+Well I guess that's going to do it for another week of Orange on the Radio.
+
+41:00.100 --> 41:03.860
+Thank you so much for tuning in to us and supporting independent radio even on weeks
+
+41:03.860 --> 41:05.700
+when we're not fully staffed.
+
+41:05.700 --> 41:06.700
+Really appreciate it.
+
+41:06.700 --> 41:07.700
+We love you guys!
+
+41:07.700 --> 41:12.940
+Don't forget to check out our big preview show next week for E3 and don't forget to
+
+41:12.940 --> 41:15.740
+come by the E3 Outpost and check that out as well.
+
+41:15.740 --> 41:18.340
+Remember, chocolate and a dollar.
+
+41:18.340 --> 41:19.340
+Oh!
+
+41:19.340 --> 41:25.580
+By the way, I forgot, Nintendo renamed their revolution to the Wii.
+
+41:25.580 --> 41:27.580
+See you next week!
+
+41:55.580 --> 41:57.580
+Weeeeeeeeee!
+
+41:57.580 --> 41:59.580
+Weeeeeeeeeeeee!
+
+41:59.580 --> 42:01.580
+Okay, look.
+
+42:01.580 --> 42:03.580
+We thought it might be a little fun because
+
+42:03.580 --> 42:05.580
+we know that all the other game podcasts that you
+
+42:05.580 --> 42:07.580
+listen to are probably gonna talk and talk
+
+42:07.580 --> 42:09.580
+and talk and talk about the Wii thing this week.
+
+42:09.580 --> 42:11.580
+So we thought it might be fun to
+
+42:11.580 --> 42:13.580
+you know, avoid the pink elephant in the room
+
+42:13.580 --> 42:15.580
+for a little while, but
+
+42:15.580 --> 42:17.580
+how can we forget that Nintendo
+
+42:17.580 --> 42:19.580
+has renamed the revolution to
+
+42:19.580 --> 42:21.580
+Weeeeeeeeeeeeeeeee!
+
+42:21.580 --> 42:23.580
+I don't need to say much more
+
+42:23.580 --> 42:27.740
+more about it okay you read about it on every freaking gaming site out there
+
+42:27.740 --> 42:28.740
+you've heard about it
+
+42:28.740 --> 42:32.180
+all your friends are probably been bitching about it I know seriously with
+
+42:32.180 --> 42:37.180
+the internet is bitching about you want to know what what I don't care what they
+
+42:37.180 --> 42:39.220
+name it as long as I get my Zelda crack
+
+42:39.220 --> 42:43.220
+exactly can in fact can I read a passage from my life journal that would explain
+
+42:43.220 --> 42:46.660
+exactly how I feel I really should have posted this avoid the email part
+
+42:46.660 --> 42:50.980
+I should have been remember the live journalist for email all of live
+
+42:50.980 --> 42:55.800
+Journal is emo. And MySpace is where the internet goes to die. Oh, but we have a MySpace, so
+
+42:55.800 --> 42:58.520
+don't forget to add us over there. Yeah, but we don't die there, we just sort of work like
+
+42:58.520 --> 43:02.160
+zombies. Alright, look, I'm gonna read a little passage from my Live Journal that I think
+
+43:02.160 --> 43:08.420
+explains exactly how I feel about this whole thing. Remember that's WII we, and I didn't
+
+43:08.420 --> 43:14.420
+cross post this to the Stuff Blog because I'm lazy. Here it is. Dear gaming community,
+
+43:14.420 --> 43:19.280
+they could have called it the Nintendo Poopmonger, and as long as there's a sexy Zelda game on
+
+43:19.280 --> 43:25.320
+it or an innovative Mario title or some kwaii animal crossing game or hopefully a new innovative
+
+43:25.320 --> 43:28.520
+franchise, y'all will be anxious to play it.
+
+43:28.520 --> 43:33.360
+Remember Nintendo is not after your business so much this time and while yes I agree they
+
+43:33.360 --> 43:38.400
+need it to be successful, remember the fact stated above that you'll play a good game
+
+43:38.400 --> 43:41.200
+regardless of the name of the system it's on.
+
+43:41.200 --> 43:45.960
+This whole Wii thing is highly symbolic of the push Nintendo is trying to make to break
+
+43:45.960 --> 43:49.360
+the gamer stereotypes and get this thing playable by anyone.
+
+43:49.360 --> 43:53.180
+It's a weird name but honestly you had to expect something like this from
+
+43:53.180 --> 43:54.080
+Nintendo.
+
+43:54.080 --> 43:57.120
+Let's wait and see how good the games are. P.S.
+
+43:57.120 --> 44:01.800
+while you yes you can say we is stupid because come play with my we we haha
+
+44:01.800 --> 44:05.560
+it's just as easy to make fun of a sex box or a gay stations.
+
+44:05.560 --> 44:08.880
+Potty brains can ruin anything trust me I know.
+
+44:08.880 --> 44:13.720
+You know what when I first saw it though and if there hadn't been a pronunciation
+
+44:13.720 --> 44:15.320
+guide with it I was thinking
+
+44:15.320 --> 44:20.880
+Well, maybe they... Why? I was thinking why, because that actually would make sense in my head.
+
+44:20.880 --> 44:24.880
+Because why is like yay in Japanese.
+
+44:24.880 --> 44:28.520
+W-A-I. I thought that if they were going to spell it, it would be why.
+
+44:28.520 --> 44:33.200
+But we... I'd be like, it's cute! It's why!
+
+44:33.200 --> 44:36.720
+You know, I get what they're doing. I don't hate the name so much.
+
+44:36.720 --> 44:42.320
+We had the Pico, remember? But that was for kids. It's weird, yeah, but Nintendo isn't...
+
+44:42.320 --> 44:48.320
+Nintendo's trying to reach a broad audience. They want that buzzword, that easy word this time,
+
+44:48.320 --> 44:51.320
+because they're not trying to reach just gamers. They want everybody.
+
+44:51.320 --> 44:54.320
+They want Oprah to come out and talk about her Wii.
+
+44:54.320 --> 44:58.320
+Wii! I've been calling it the Nintendo Wii!
+
+44:58.320 --> 45:02.320
+And all those potty jokes and things, Nintendo I think hopes to transcend that.
+
+45:02.320 --> 45:07.320
+If they can get the name Wii out there, then I'm going to go home and play with my Wii
+
+45:07.320 --> 45:10.320
+is not going to have the same connotation that it does today.
+
+45:10.320 --> 45:13.680
+Nintendo can get over that, then they've been truly successful. If they can't, they're doomed.
+
+45:13.680 --> 45:16.880
+We've actually been having a bit of discussion about this on one of the moderator boards
+
+45:16.880 --> 45:24.600
+I'm on, about how... it's just been back and forth, like, we've all decided, though, that
+
+45:24.600 --> 45:29.280
+they had to have been on heroin when they came up with the name.
+
+45:29.280 --> 45:33.460
+I don't think so. It seems like something to me, and I'm speculating here, it seems
+
+45:33.460 --> 45:37.820
+like something that kind of Nintendo Japan probably came up with, and once they kind
+
+45:37.820 --> 45:41.560
+of gave their reasons, America was like, okay, we can do that.
+
+45:41.560 --> 45:45.660
+And I realized, everybody's like, why didn't you just keep the revolution?
+
+45:45.660 --> 45:48.520
+Why didn't you just keep the revolution?
+
+45:48.520 --> 45:53.380
+Do you know how difficult that might be to pronounce for some people outside the US?
+
+45:53.380 --> 46:00.200
+You might as well call it the Nintendo prel, some of you guys will get that joke, but I
+
+46:00.200 --> 46:03.180
+think they wanted something very simplistic.
+
+46:03.180 --> 46:07.300
+That's the whole thing they're going for, and revolution also has a negative context
+
+46:07.300 --> 46:11.860
+in some places, take the game Dance Dance Revolution, they don't call it that in Europe
+
+46:11.860 --> 46:15.440
+because of the term Revolution, I don't know, somebody gets offended by it.
+
+46:15.440 --> 46:18.220
+They call it Dancing Stage, which is a completely different name.
+
+46:18.220 --> 46:21.500
+So I think Revolution wouldn't have worked worldwide.
+
+46:21.500 --> 46:24.940
+And I don't think there's been a console that's changed their name from country to country
+
+46:24.940 --> 46:25.940
+in a while.
+
+46:25.940 --> 46:32.340
+I mean, yes, we had Famicom, NES, Mega Drive, Genesis, but in the past few years, ever since
+
+46:32.340 --> 46:36.140
+the PlayStation era, it hasn't really been called different names in different countries.
+
+46:36.140 --> 46:41.500
+always been the same. So I just think Revolution, while it might be appropriate of what Nintendo's
+
+46:41.500 --> 46:44.380
+going after, I don't think it was an appropriate name for a console. I don't think it would have
+
+46:44.380 --> 46:50.780
+worked. So we all knew something different was coming. I think Wii was just a little bit surprising
+
+46:50.780 --> 46:57.100
+to some people. But let Nintendo put their money where their mouth is, let's see some of the games,
+
+46:57.100 --> 47:01.740
+and that's really what it's all about, right? Who cares what the system is called? It doesn't matter.
+
+47:01.740 --> 47:06.700
+remember we had the Pico we had a system named after food I mean if you're
+
+47:06.700 --> 47:11.100
+seriously not gonna buy this because you don't want a Wii in your house I don't
+
+47:11.100 --> 47:14.180
+mind having a Wii in my house then Nintendo would that make the following
+
+47:14.180 --> 47:17.900
+suggestions to you and it based on a recent rebuttal argument that was made
+
+47:17.900 --> 47:22.740
+on some websites out there don't fly Virgin Atlantic don't drink naked juice
+
+47:22.740 --> 47:29.580
+don't go to Yahoo or Google because those are all silly names too so I think
+
+47:29.580 --> 47:36.920
+In the world of advertising, being that that's part of what I am in school, you have to do
+
+47:36.920 --> 47:43.740
+something that's going to be easily memorable, something that people are going to talk about
+
+47:43.740 --> 47:45.700
+and is immediately catching.
+
+47:45.700 --> 47:50.100
+Well, we've got all three of that already.
+
+47:50.100 --> 47:51.280
+How can you forget we?
+
+47:51.280 --> 47:55.100
+And then everybody is talking about it because it's like, oh my god, weee!
+
+47:55.100 --> 47:56.100
+Seriously?
+
+47:56.100 --> 47:59.140
+And then, on top of that, it's easy.
+
+47:59.140 --> 48:03.100
+there it's we so Nintendo did a very
+
+48:03.100 --> 48:05.700
+risky ballsy thing with this and I'm not
+
+48:05.700 --> 48:08.980
+trying to say that oh I'm not I may be a
+
+48:08.980 --> 48:10.620
+little bit of a Nintendo fanboy but I'm
+
+48:10.620 --> 48:12.180
+just a gaming fanboy I like all the
+
+48:12.180 --> 48:14.700
+systems and you know I think Nintendo's
+
+48:14.700 --> 48:16.540
+just taking a big risk with this I think
+
+48:16.540 --> 48:18.300
+it's a it's an interesting choice but
+
+48:18.300 --> 48:21.220
+it's a risky choice and they're taking a
+
+48:21.220 --> 48:23.540
+big risk with this but nobody said that
+
+48:23.540 --> 48:25.420
+this next-gen console war is gonna be an
+
+48:25.420 --> 48:27.180
+easy fight right they can change their
+
+48:27.180 --> 48:30.540
+mine too. I don't think they will. I know the internet is convinced there's been
+
+48:30.540 --> 48:31.300
+stories that
+
+48:31.300 --> 48:35.620
+well the Wii's not trademarked so it's not the real name and all this other
+
+48:35.620 --> 48:39.820
+conspiracy theories. Guys, I don't really see that happening.
+
+48:39.820 --> 48:43.980
+It's the name of the console so enjoy it. Although I do have to say that I think
+
+48:43.980 --> 48:46.280
+Sony has really had the best idea overall
+
+48:46.280 --> 48:49.980
+with keeping a single name and just adding a number.
+
+48:49.980 --> 48:53.500
+But you know what?
+
+48:53.500 --> 48:56.820
+If I'm in Nintendo shoes I can say that...
+
+48:56.820 --> 48:59.920
+it's the same thing, it's the same old thing, it's just another fricking game
+
+48:59.920 --> 49:01.160
+thing, it's another game system.
+
+49:01.160 --> 49:04.560
+Nintendo doesn't want that this time. Nintendo wants something
+
+49:04.560 --> 49:07.780
+bigger than your typical game system.
+
+49:07.780 --> 49:10.700
+But, in the end? It's a game system. True.
+
+49:10.700 --> 49:15.580
+You're not gonna escape the fact that they are still marketing games.
+
+49:15.580 --> 49:19.300
+They're not trying to market to non-gamers, they're
+
+49:19.300 --> 49:20.380
+trying to make non-gamers
+
+49:20.380 --> 49:24.860
+into gamers. And so they're trying to convert the masses.
+
+49:24.860 --> 49:28.500
+Just remember as you post to message forums you're
+
+49:28.500 --> 49:31.720
+angst about how much you hate the name Wii. Please remember
+
+49:31.720 --> 49:36.660
+the golden rule of gaming. It's not the system, it's the games that are on it.
+
+49:36.660 --> 49:40.060
+Right, the system is only as good as the games that are on it. So
+
+49:40.060 --> 49:45.260
+you know what? If there's good games on this you'll be proud to be a Wii owner.
+
+49:45.260 --> 49:48.780
+But in the meantime... Some people have always wanted a Wii.
+
+49:48.780 --> 49:55.200
+But in the meantime, oh my god, and now for the real outro
+
+49:58.140 --> 50:03.820
+You've been listening to Orange Lounge Radio. Orange Lounge Radio is an Orange Lounge production.
+
+50:04.260 --> 50:09.320
+For more information on our live and podcast program, visit our website at
+
+50:09.980 --> 50:11.980
+www.orangeloungeradio.com
+
+50:11.980 --> 50:13.980
+See you next week!
+
