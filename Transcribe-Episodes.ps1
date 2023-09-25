@@ -6,7 +6,14 @@
 
 # pip install git+https://github.com/m-bain/whisperx.git
 
+$useWhisperX = ($null -ne $env:hf_token) -and ($env:hf_token -ne '')
+#$useWhisperX = $False
+
 $model = 'medium.en'
+if ($useWhisperX)
+{
+    $model = 'large-v2'
+}
 $conditionOnPreviousText = $True
 
 #Clear-Host
@@ -44,18 +51,18 @@ foreach ($f in $files)
     $startTime = Get-Date -AsUTC
     $job = Start-Job -ScriptBlock {
         # whisper .\OLR_930_091822.mp3 --task transcribe --model large --device cuda
-        $mp3Path = $args[0]
-        $model = $args[1]
-        $dir = $args[2]
-        $conditionOnPreviousText = $args[3]
+        $useWhisperX = $args[0]
+        $mp3Path = $args[1]
+        $model = $args[2]
+        $dir = $args[3]
+        $conditionOnPreviousText = $args[4]
 
-        $useWhisperX = ($null -ne $env:hf_token) -and ($env:hf_token -ne '')
-        $useWhisperX = $False
         # --compression_ratio_threshold 2.0 --no_speech_threshold 0.5
         $initialPrompt = "Skie, DarkSakura, Loki, VOG Network, Ranma, Actdeft, Drew, Carameldansen"
         if ($useWhisperX)
         {
-            whisperx "$mp3Path" --task transcribe --device cuda --model $model --language en --output_dir "$dir" --verbose False --initial_prompt $initialPrompt --condition_on_previous_text $conditionOnPreviousText --vad_filter True --align_model WAV2VEC2_ASR_LARGE_LV60K_960H --diarize True --hf_token "$($env:hf_token)" 2>&1
+            #  --print_progress True (currently broken)
+            whisperx "$mp3Path" --task transcribe --device cuda --model $model --language en --output_dir "$dir" --verbose False --initial_prompt $initialPrompt --condition_on_previous_text $conditionOnPreviousText --align_model WAV2VEC2_ASR_LARGE_LV60K_960H --diarize --hf_token "$($env:hf_token)" *>&1
         }
         else
         {
@@ -66,7 +73,7 @@ foreach ($f in $files)
         # rename all file.mp3.txt to just file.txt
         @(Get-ChildItem -LiteralPath $dir -Include '*.mp3.*') | ForEach-Object { Rename-Item "$($_.FullName)" "$($_.Name.Replace('.mp3', '', $true, (Get-Culture 'en-US')))" }
         @(Get-ChildItem -LiteralPath $dir -Include '*.mp4.*') | ForEach-Object { Rename-Item "$($_.FullName)" "$($_.Name.Replace('.mp4', '', $true, (Get-Culture 'en-US')))" }
-    } -ArgumentList "$($f.FullName)", "$model", "$dir", "$conditionOnPreviousText"
+    } -ArgumentList $useWhisperX, "$($f.FullName)", "$model", "$dir", "$conditionOnPreviousText"
 
     $requestToAbort = $false
     $hadData = $false
@@ -77,8 +84,12 @@ foreach ($f in $files)
         if ($job.HasMoreData)
         {
             $jobData = Receive-Job -Job $job -ErrorAction SilentlyContinue
+            # whisper (writes in error stream)
             #   1%|          | 7548/740916 [00:09<14:19, 853.28frames/s]
             #  1%|█▋         | 2732/374130 [00:07<17:57, 344.60frames/s]
+
+            # whisperx (writes in ?? stream)
+            # Progress: 47.73%...
             $ts = (Get-Date -AsUTC) - $startTime
             if ($ts.TotalSeconds -gt 3599)
             {
@@ -89,6 +100,7 @@ foreach ($f in $files)
                 $realElapsed = $ts.ToString('mm\:ss')
             }
             $m = [Regex]::Matches("$jobData", '\s*(?<percent>\d+)%.+?(?<frame>\d+)/(?<frames>\d+) \[(?<elapsed>(\d+:)?\d+:\d+)<(?<remaining>((\d+:)?\d+:\d+)|\?), (?<speed>((\d|[.,])+|\?))frame.+\]')
+            $mX = [Regex]::Matches("$jobData", '\s*Progress: (?<percent>\d*\.\d*)%...')
             if ($m.Count -gt 0)
             {
                 $jobPercent = $m[-1].Groups['percent'].Value
@@ -116,9 +128,23 @@ foreach ($f in $files)
                 $hadData = $true
                 Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status "Elapsed: $elapsed ($realElapsed), Frame: $frame/$frames, $speed fps, Remaining: $jobRem" -PercentComplete $jobPercent -SecondsRemaining $remainingSeconds
             }
+            elseif ($mX.Count -gt 0)
+            {
+                $jobPercent = [double]$mX[-1].Groups['percent'].Value
+                $elapsedMs = $ts.TotalMilliseconds / $jobPercent * 100.0
+                $remainingSeconds = [int]($elapsedMs * (100 - $jobPercent) / 100)
+                Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status "Elapsed: $realElapsed" -PercentComplete $jobPercent -SecondsRemaining $remainingSeconds
+            }
             elseif (-not $hadData)
             {
-                Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status 'Preparing model' -PercentComplete 0 -SecondsRemaining -1
+                if ($useWhisperX)
+                {
+                    Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status 'Transcribing…' -PercentComplete 0 -SecondsRemaining -1
+                }
+                else
+                {
+                    Write-Progress -Id 2 -Activity '  Progress' -ParentId 1 -Status 'Preparing model' -PercentComplete 0 -SecondsRemaining -1
+                }
             }
             else
             {

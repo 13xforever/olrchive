@@ -1,0 +1,1456 @@
+start	end	text
+10117	10818	Unity did it.
+10818	14141	They unified the mentality that Unity isn't safe to use.
+14141	18284	Unity said, trust us, we'll calculate your install fees and address fraud appropriately.
+18284	20306	Society said, hold my beer.
+20306	22027	Congratulations, Unity CEO.
+22027	27992	In your quest for more money, you guaranteed that your existing source of revenue, subscription fees from developers, is going to go down.
+27992	29694	This is the ongoing saga headline.
+29694	35058	Now it's time for your hosts, Rob Roberts, Jamie Sommers, and Loki to tell you about Unity's backtrack and the rest of the week's gaming news.
+35058	37240	Starting right now in the show, wherever gamer has a voice,
+39114	41256	Hello, my friends out there on the Internet.
+41256	46019	Welcome back to another week of the show where every gamer has a voice.
+46019	56607	It is Orange Lounge Radio live once again on September the 24th of 2023 with episode number 975 of our show.
+56607	57648	Nice little multiple of 25.
+57648	61691	And that means 25 more to go until we hit a pretty big landmark.
+61691	62772	My name is Rob Roberts.
+62772	65554	I'm here with you every week, along with my co-hosts.
+65554	68256	First off, the one and only DarkSakura or Jamie Summers.
+69270	69810	Hello.
+69810	71572	Hello, hello.
+71572	72112	Hi.
+72112	74894	And it really is hello and goodbye tonight.
+74894	75854	Pretty much.
+75854	75874	I.
+77619	84381	I got a little bit of time before I got to light the candles, but since it's High Holy Days, our Yom Kippur starts tonight.
+84381	91583	While I am not the 100% most observant person in the world, I will not be doing any streaming.
+91583	100786	So that means most of OLR tonight, no Dead by Daylight tonight, no Dead by Daylight tomorrow.
+100786	101106	All right.
+101106	105127	Well, I hope... All y'all get is Disney Dreamlight Valley, and y'all like it.
+107056	109297	Well, I will I will wish you well during the holiday.
+109297	112538	I mean, I guess it's it's more I know it's usually associated with fasting and stuff.
+112538	115199	So I hope the holiday goes well for you.
+115199	116559	So thank you.
+116559	118440	I actually can't fast.
+118440	122041	So but you know, I'm not gonna go out.
+122041	131765	There's a lot that I do observe, you know, not not working not you know, I don't have automatic timers and all of my stuff like some orthodox friends of mine do but
+132345	138170	and SSJ100 Matt, an easy fast to you as well, and may you be inscribed in the book of life.
+138170	139111	All right.
+139111	143655	Well, let's say hello as well to the one and only Techmaster Loki.
+143655	144096	Hello.
+144096	144536	Hi, Loki.
+144536	145737	How are you?
+145737	146938	I'm pretty good.
+146938	150581	I see some Minecrafting going on behind you tonight.
+150581	151622	It's my finale.
+151622	153083	I didn't think of any other video.
+153083	154444	I hadn't done this one yet.
+154444	156706	A little self-promotion is always a good thing.
+156706	159249	Cough, cough, YouTube slash Loki OLR, right?
+159897	160918	Thank you for watching!
+178447	178788	Yep.
+178788	179368	Good stuff.
+179368	180310	Good stuff.
+180310	180770	All right.
+180770	184435	Well, let's get into our news tonight.
+184435	186358	DarkSakura, just let me know whenever you got to cut out.
+186358	189202	You don't have to, you know, don't don't feel like you're being rude or whatever.
+189202	190444	I know you're on a schedule.
+191322	196363	I just thought I would, you know, stay for, you know, what we've been playing, what have we been doing?
+196363	198424	And, you know, sounds good.
+198424	199544	Well, I'm here for a few.
+199544	203585	Before we get there, let's talk about some of the big news that broke this week.
+203585	219889	Oh, real quick, though, of course, a reminder, we do tape live every Sunday night at the voice of geeks network twitch.tv slash VOG network, nine o'clock Eastern six o'clock Pacific right after the Bobby Black Wolf show, although Bobby Black Wolf had some other engagements tonight, and he was not able to do a show live, but he will be back next week.
+219889	221029	I think actually, I don't
+221609	222110	I don't remember.
+222110	223872	I think he's planning on next week.
+223872	226835	I'm gonna go ahead and say that but you can always stay tuned to his social media.
+226835	236746	I know there was like another convention he's got his eye on and I can't manage my own calendar, let alone remember what's on his so always stay tuned to social media for the latest and greatest.
+236746	240390	And you can follow him over at Bobby Blackwolf, but I believe he's planning to be here next week.
+240930	244813	Alright, let's get into, though, what's going on in the gaming world.
+244813	246795	We do talk about video games here, and you know what?
+246795	247656	Just a few things.
+247656	249797	Last week, we had a pretty big show, right?
+249797	258044	We had this Unity debacle that, I mean, to say they shit the bed would be quite an understatement, right?
+258044	261647	Like, they shitted and farted the bed last week.
+261647	265310	But that follow-up, and yes, there is more to come on that,
+265910	288910	but uh that's not even that's not even the biggest news that happened this week no no in light of all that that is not even the biggest thing that happened this week so sure enough as tends to happen we do our show sunday night put it on the podcast feed monday morning uh there won't be any big news monday morning and then uh yeah some big stuff happened on monday morning loki yeah so what happened
+290416	300718	So some stuff got leaked out, some roadmaps and whatnot got leaked out from Microsoft as part of this kind of data dump that they were doing with the FTC.
+300718	313941	And come to find out, you know, there are some unredacted documents in there, including their entire roadmap talking about upcoming devices, potential games, strategy, all that stuff.
+313941	317202	And it was all there available to look at.
+317862	323788	So now we know a few things that are coming down the pipeline potentially.
+323788	339642	And I just want to point out real quick, because sometimes when we get into these whole leaks and stuff, there's like this ethical question of should we talk about it because hackers found this stuff and, you know, we shouldn't, you know, maybe because it's it's questionable.
+340763	350129	This there is there is hard to ask a question of ethics with this because as I understand it, even the courts said this is not our fault.
+350129	352350	Basically say that say this is Microsoft's fault.
+352350	357313	They did something screwy when they uploaded they uploaded the wrong file.
+357313	360014	They put the square peg in the round hole.
+360014	361415	I don't know what they did.
+361415	364197	You know, but yeah, they did under redacted documents.
+364197	365838	So everything was
+366818	369101	Unredacted in there and so you can see everything.
+369101	370242	And so this was them.
+370242	371304	This was not a leak.
+371304	372024	It's not a leak.
+372024	374688	It's a blunder of epic proportions.
+374688	376650	There's really no other way to put it.
+376650	378993	So there's not an ethical question with this.
+378993	380394	There's a blunder.
+380394	381656	It's out there.
+381656	382978	Microsoft's going to have to deal with it.
+383623	385623	So let's talk about all the things we learned.
+385623	386044	Sure.
+386044	386424	Why not?
+386424	387424	Let's do it.
+387424	392365	So this is their roadmap, basically, from now to 2030.
+392365	398986	And it talks about a bunch of different releases that they have, different refreshes of various things.
+398986	406228	So, for example, right off the bat, there is a refresh of the Xbox Series X, codenamed Brooklyn.
+406948	409910	that is supposed to be coming down the line here.
+409910	419657	It is going to be spherical shaped and looks like a giant like it's like one of those like Internet hotspot type things.
+419657	425942	It looks like the smart device that name I shouldn't say because it'll set them all off.
+425942	428404	But A-L-E-X-A, it looks like one of those kind of.
+428404	430706	Yeah, it looks like something like that.
+430706	433327	It is a diskless device, though, too.
+433327	436170	So it's an Xbox Series X without a disk drive.
+437250	442013	And they're saying that with it, you know, they have upgraded, you know, Wi-Fi.
+442013	444414	They have more storage in there.
+444414	450538	And apparently that it's reduced the power supply power rate, like 15 percent and stuff like that.
+450538	454160	So the power draw is going to be less.
+454160	458623	Our chat, by the way, correcting your use of the word spherical, because that would be like a globe.
+458623	460083	This is cylindrical.
+460083	460404	Yes.
+460404	461764	Cylindrical, whatever, you know.
+463205	463785	It's round.
+463785	464345	It's round.
+464345	465506	Words are hard.
+465506	466466	It is.
+466466	468387	I'm sorry, this isn't the PlayStation 9, you're right.
+468387	470867	It isn't spherical.
+470867	473728	It is only... We're not quite there yet.
+473728	477389	Give it a few more years, and it'll be fully spherical, okay?
+477389	481770	One day it's just gonna be an actual cloud, and it will be amorphous.
+481770	486852	I promise you, the Xbox 360 360 will be fully spherical.
+486852	488852	But right now we are only 360.
+488852	489773	We are not full 360 360.
+491955	493337	Maybe 360 to the power, 360?
+493337	497444	I don't know, whatever their marketing speak's gonna be for this fully circled device.
+497444	500188	It's just gonna be a cloud, that's all.
+500188	501931	Orange writes right, the Xbox Hypercube.
+502962	504203	It is literally a cloud.
+504203	507345	They make it like... Roll on down to cloud gaming.
+507345	508065	All right.
+508065	509106	In all seriousness though.
+509106	511427	It's like the syncing screen on my Apple Watch.
+511427	517431	So it's supposed to have, they said it's going to have the same type of RAM, same specs processor wise.
+517431	521554	They said that the internal storage will be two terabytes instead of one.
+521554	530920	It's going to support Wi-Fi 6E, Bluetooth 5.2, and of course, like I said, 15% less power draw and a USB type C port on the front.
+531500	531840	DarkSakura
+559777	566328	The specs will absolutely change, but what seems to be putting people off the most it seems like is the all digital element of this.
+566328	568812	Although this isn't exactly new for the industry.
+568812	571656	I mean, Sony's kind of doing the same thing with PlayStation 5, right?
+571656	573679	You can choose a diskless or disk
+574497	574897	and more.
+605084	605524	I don't know.
+605524	610568	But on the other hand, Microsoft is very good with backwards compatibility.
+610568	614131	And a big way to do that is with your old disks in the library.
+614131	633267	So from what I understand, I think the reason probably behind this is that the Series S has done like exceptionally well as far as like they've sold, I think like three times the amount of Series S's as the Series X or it's a larger amount of that.
+633267	633567	And like,
+634027	641946	I get it, like, I still like the op- like, I don't own any physical disc Xbox Series X games.
+643852	647554	I like having the option available if I want to do that.
+647554	651957	But yeah, I am more inclined nowadays, especially with, you know, my PC and stuff.
+651957	654359	I'm not buying physical games.
+654359	663184	I do that, though, still on the Switch, just because it's convenient to the Switch doesn't have a lot of storage on it, and it's convenient to be able to swap stuff like that.
+663184	670669	But maybe if I had more friends with series X's or something like that, that I'm swapping games with, but I don't.
+670669	672010	So it's
+673277	689050	It's not as a big deal anymore as it used to be, like, but at the same time, with that, like, I don't want it to be a landscape that's 100% digital, because if it's 100% digital, then that means that they control the price, because it's all in one marketplace.
+689050	693313	Whereas having the disk drive available, even if you don't use it,
+694022	702408	Still, one, it opens the door for backwards compatibility still, for whatever limited compatibility that they have.
+702408	717360	And two, it still gives you the option, like, if this is not coming down in price discount-wise in the digital marketplace, I can still possibly get it cheaper secondhand or, you know, even on discount somewhere in a store.
+717360	717540	So,
+717940	722666	I think it would be helpful to know that like a disk drive attachment could be sold separately.
+722666	725830	So that way it's not like you're not locked into this choice forever.
+725830	731076	Like if you were to buy one of these Xbox cylinders, and then you decide down the line, Oh, maybe I should have gotten a disk drive.
+731076	733539	It's like, it's not like you're completely screwed.
+733539	733859	I don't know.
+733859	737164	I just think it would be I'm surprised we don't see more of like the disk drives.
+738166	759142	I would hope that we don't, I would rather they just have this as like a third SKU and not like, you know, maybe still have the Series X. You can get the Series X, you know, for $499 with a disk drive, or you can buy this all digital version for, you know, $499 that has a two terabyte hard drive.
+759142	763084	I think this is more aimed at people that have a Series S.
+764037	781064	trying to get them to upgrade to a Series X. Whereas if you're in the Series S, you're like, I'm fine without a disk drive because I haven't had one yet and I've been perfectly fine enjoying my Series S. I just want to be able to play games that look a little bit better.
+781064	782425	Or maybe perhaps like
+783446	791090	you know, the Series S isn't that powerful and a lot of these games are kind of maybe being held back to have compatibility with that.
+791090	802796	Maybe they just dropped the S at one point and like, okay, you got the all digital version and you have the non all digital version, but they're all going to be at that same Series X level of spec wise or something like that.
+802796	806058	So that's also a possibility as well.
+806058	810700	But I would not want to see them drop all SKUs with
+811440	812441	All right, okay.
+831216	831596	What else?
+831596	836981	So along with that, so new console, new controller.
+836981	839363	So there's supposed to be a new controller that's going to be coming out.
+839363	843927	Seventy dollars is the estimated price point for it right now.
+843927	847990	It looks like your typical Xbox series controller.
+847990	853955	The difference being, though, is it's supposed to have, I believe, motion controls in it as well.
+853955	854255	So
+856041	858103	Or no, precision haptic feedback.
+858103	858623	I'm sorry.
+858623	861785	So they're going to add more haptic feedback.
+861785	864187	Which the PS5 has.
+864187	866009	It's one of the things, yeah.
+866009	868951	So yeah, better haptics and an accelerometer.
+868951	879819	So they're kind of going the whole PlayStation route with that, or I guess Switch, whatever, kind of going that way, trying to add some of that additional haptics and accelerometer stuff in there.
+879819	881380	Also, the buttons apparently are quieter.
+882717	888602	I didn't notice that buttons are really loud on the controllers, but that is a thing that they have on there, apparently.
+888602	892685	And the thumbsticks are going to be modular, apparently.
+892685	899189	So you'll be able to replace them with other thumbsticks in case they break.
+899189	900490	I mean, that's cool.
+900490	902372	I like the idea of being able to repair it.
+903025	913294	I also find this interesting this whole bullet point that's on the slide that leaked that talks about a seamless pair and switch a new mobile app where you can see paired devices in cloud and manage devices and accessories.
+913294	923463	I don't know why that's interesting to me, but it is like it's almost like I mean, I guess not that we're talking about like actual controllers on phones, although like we're, you know, trying to see it.
+923463	927267	I don't know why that strikes me as interesting, but it does.
+927267	927447	Yeah.
+928404	929485	Um, so that's, that's neat.
+929485	930426	I mean, it sounds cool.
+930426	932387	I'd be curious to see, you know, what that looks like.
+932387	938551	And the color scheme is kind of interesting that half white, half black, just different.
+938551	939532	Um, okay.
+939532	945316	Before you go to the next bit here, um, I want to jump back over to DarkSakura cause I think it's about that time.
+945316	955223	So DarkSakura, before you, uh, part ways with us tonight, uh, did you have any closing thoughts or anything you wanted to quickly talk about with your gaming week or anything before we see you next time?
+955223	955283	Um,
+957059	961721	We tried to update Galactic Tank Force and borked it so we have a ticket open.
+961721	962521	Oh no.
+962521	973406	Also, I've watched an entire playthrough of Alien Isolation because now I'm completely obsessed with Alien for some reason right now.
+973406	977048	Play Dead by Daylight, play Live Alive, Disney Dreamlike Valley.
+977048	979669	I think I'm going to beat Live Alive next week.
+981530	983011	And that's really about it.
+983011	984112	Played a lot of pinball.
+984112	987615	Hooked up with some friends who I haven't seen in a while.
+987615	993020	And then of course, last weekend, went through Rosh Hashanah.
+993020	996904	I made so many apple-y sweets it was not funny.
+996904	998705	But I'm gonna go on and
+999946	1004589	Get my candles lit and say my prayers and listen to a cool Nidra service online.
+1004589	1014494	So for all of my people out there, if you are Jewish, whether you practice or not, just, you know, if you fast, have an easy fast.
+1014494	1018796	If you don't, enjoy your Monday, I guess.
+1018796	1022938	And I hope everyone is doing well and has a sweet New Year.
+1023436	1030502	All right, well, we'll see you next week, DarkSakura, and a reminder to folks out there in less than a month at TwitchCon.
+1030502	1033084	Yeah, at TwitchCon, I got cosplay to do.
+1033084	1034806	All right, take care, DarkSakura.
+1034806	1036327	Later, taters.
+1036327	1040291	All right, back to Loki talking about some of the Microsoft leaks.
+1040942	1045484	Yeah, I want to clarify also, like I think I said, 75% of the consoles sold were S's.
+1045484	1047786	Actually, it's over 50%.
+1047786	1054969	But the 70% I got was 70% of full game sales on PlayStation are via digital download.
+1054969	1061153	So it is it is still something that is out available out there.
+1063020	1081484	that you know there are a lot of folks purchasing stuff digitally which i mean yeah i mean like on pc like i said you know pc everything's digital nowadays um and i'm kind of okay with it like honestly the difference being though and like it isn't apples and uh apples apples here because
+1082272	1087793	You have multiple marketplaces on PC where there is competition.
+1087793	1091194	So it's like, oh, well, I want to get this game, but it's this much here.
+1091194	1098076	Well, there's many other sites that are reselling keys for that game that may be different prices or have different deals going on.
+1098076	1099636	So it's not just a walled garden.
+1099636	1101236	There is competition.
+1101236	1107038	Now, if there was something like that on Xbox and PlayStation, I think people would be more apt to purchase digitally.
+1107038	1111739	But even still without that, with it just being the one marketplace,
+1112973	1116415	over the majority of the sales are digital, right?
+1116415	1123280	So it makes sense that you would want to go in that route because it's just the way the market's going, unfortunately.
+1123280	1124640	Sucks for preservation.
+1124640	1135367	That's why I hope that there's still an option out there, even if it's just for like collectors and stuff, because there's still folks that are very adamant about getting physical media, right?
+1135367	1137869	And I think it's important for, you know, collecting and all that.
+1138889	1144733	Other quick comments in chat, SJ100Matt says the Elite controllers have modular parts, which is a really nice feature.
+1144733	1149195	I've switched thumbsticks out for specific games or swapped out thumbsticks that get worn out.
+1149195	1151196	Also swapping out the D-pad is real nice.
+1151196	1152437	Yeah, I'm a fan of the modular.
+1152437	1156920	So I never did get an Elite controller, but they they did seem pretty nice.
+1156920	1158701	I just it's interesting.
+1158701	1166525	I have a Series X, but ever since I got my new PC, there's nothing I've really gone back to Series X for, but I still love the controller.
+1168200	1168580	It's weird.
+1168580	1172483	Yeah, that's how I feel.
+1172483	1173584	Anyway.
+1173584	1176546	OK, so then what else?
+1176546	1186793	So it sounds like aside from this cylindrical Xbox Series X, they may be also refreshing the the normal Xbox Series X as well.
+1186793	1192997	So I'm seeing like it's a couple listings on their midgen devices lineup.
+1192997	1197280	So they have the Xbox Series S, Series X, Series X in XDL.
+1198227	1200593	I don't know what that means.
+1200593	1204904	And then Xbox Universal Controller and Xbox Universal Controller and XDL.
+1208750	1210250	Anyways, other things.
+1210250	1214411	So Bethesda Roadmap, that was something else that was in there as well.
+1214411	1218692	So we got to see some of the games that were possibly in the pipeline.
+1218692	1223734	Not everything is 100% because I think this is a roadmap from a few years ago.
+1223734	1229115	So there's some things that they thought were going to come out but didn't end up coming out.
+1229115	1234096	So on the list, some of the things that kind of stood out to me, things that we know.
+1234936	1238479	Indiana Jones, obviously we know there's an Indiana Jones game coming.
+1238479	1242522	Oblivion Remaster is something that is scheduled on here as well.
+1242522	1246285	Funny enough, that was rumored at one point anyway, outside of this leak.
+1246285	1248767	So that is kind of interesting in a way.
+1248767	1252570	Starfield DLC as well is listed on there.
+1252570	1253831	I mean, is that a surprise?
+1253831	1254411	Of course.
+1254411	1255632	I mean, of course, yeah.
+1257213	1261094	Doom Year Zero and DLC.
+1261094	1262835	Project Kestrel, I'm not sure.
+1262835	1264696	There's a lot of like project names on here as well.
+1264696	1271998	Project Platinum, more Elder Scrolls expansions, more Project Kestrel expansions.
+1271998	1275679	So that's going to be another ongoing game.
+1275679	1276839	Licensed IP game.
+1276839	1278220	Oh, I'm super excited about that.
+1278220	1280140	Fallout 3 remaster.
+1280140	1281021	Sounds cool.
+1281021	1284942	Dishonored 3, Ghostwire Tokyo sequel.
+1285930	1288973	So and I'm excited.
+1288973	1291855	I'm excited to see what stuff they've got coming.
+1291855	1299461	Yes, but also very important to point out this schedule has been completely thrown off, obviously, because we see things here that are fiscal year 22.
+1299461	1305867	I mean, even though if that technically goes into next year, we still like it's it's still off.
+1306247	1306767	DLC for Starfield
+1327903	1334724	Big fire to that, you know, Elder Scrolls 4 remaster, Oblivion, those rumors like that.
+1334724	1336445	That almost seems like a sure thing now.
+1336445	1339265	So that's that's pretty exciting, I think, actually.
+1339265	1339845	I love Oblivion.
+1339845	1341365	Yeah.
+1341365	1347806	Then they have some other documentation talking about like their cohesive hybrid compute.
+1347806	1355928	They're basically looking at maybe possibly using ARM versus X64 architecture for CPU.
+1355928	1356648	You know, I think
+1357507	1371401	I'm wondering if they're like talking portable console with something like this, you know, when they're talking arm and stuff, that makes me think like a. Handheld device, almost be curious to see what they're doing with that.
+1371401	1379769	One other thing, like some emails were also leaked out as part of this talking about how Microsoft had considered purchasing Nintendo.
+1381640	1382381	and BobbieD.
+1403473	1411759	It was around that timing on that story that we saw before was around the timing of the original Xbox because it was way back.
+1411759	1414681	So it was, you know, and under a completely different leadership.
+1414681	1422987	But I think what's interesting about quote unquote this leak, these emails or what have you, is that it shows that this still has never left
+1423808	1428712	Microsoft's Orbit, and the subject came up again, kind of.
+1428712	1428972	2020.
+1428972	1434817	But I also think, like gaming media, Surprise has blown this way out of proportion.
+1434817	1437199	Right.
+1437199	1438900	Who doesn't want to buy a Nintendo?
+1438900	1442763	You are a fool if you think somebody at Sony hasn't written this exact same email.
+1442763	1446727	You are absolutely a fool if you don't think Sony's written this exact same email.
+1447447	1456696	Right, and it's more of, I think, that they're... I don't know if they're necessarily saying they want to purchase them, because Nintendo, they said, is sitting on a big pile of cash, they said.
+1456696	1463282	But, I'm talking about, like, I've had numerous conversations with the leadership team of Nintendo about tighter collaboration.
+1463282	1464823	I feel that if any U.S.
+1464823	1468367	company would have a chance with Nintendo, we are probably in the best position.
+1469003	1479832	Yeah, I took it as more of like, who, who would be like the best, like the people that we could buy, like that would make us the most stronger.
+1479832	1483575	And like, so it was like, oh, yeah, Nintendo would be absolutely the best.
+1483575	1486618	Their games triple and then it was like, but it's never gonna happen.
+1486618	1487779	They're never gonna do it.
+1487779	1489240	They would never let that happen.
+1489240	1496446	Because first off, like if it's such like a problem to acquire acquisition or Activision right now,
+1497026	1498067	That would never happen.
+1498067	1502411	Like Nintendo and Sony, Nintendo and Microsoft, never would happen.
+1502411	1506795	But in the context of the email, if you're going like, who would be the best for us to buy?
+1506795	1508456	Yeah, Nintendo would probably be the best.
+1508456	1509537	Never gonna happen.
+1509537	1515802	Here are some other, and then that's where Activision Blizzard came up and then they named, somebody else was named in there too, right?
+1515802	1516343	Right, yeah.
+1516343	1524329	I remember we had that kind of conversation too, it was weeks ago about other companies that they were looking to purchase as well.
+1524329	1524550	Yeah.
+1525375	1526736	if the whole thing didn't go through.
+1526736	1545425	So QuestBuster going back to the talk about the cloud gaming real quick, which is which is a good comment saying, I guess that a lot has talking about changes since the pandemic, but the broad strokes of their intentions are probably still there today, like looking towards a closer integration with Azure for their next gen console just on a new internal schedule.
+1545425	1551808	I would I would absolutely guess that the next round of consoles are going to lean a little more on cloud stuff.
+1552613	1556674	Um, as we start to see more and more push, you know, totally digital and so forth.
+1556674	1563775	Uh, I, I, I think absolutely we're going to see stuff that leans a little more into cloud, not necessarily a hundred percent cloud.
+1563775	1564055	Yeah.
+1564055	1569536	I mean, cause they still have, unfortunately you have internet providers that are still behind the ball there.
+1569536	1570696	Like that's, that's the problem.
+1570696	1578538	It's like, they're holding everybody up with their stupid greed is really what it is because you know, if they just got rid of bandwidth caps,
+1580178	1584581	then yeah, we could full speed ahead with the cloud because that's not going to be an issue.
+1584581	1602671	But because they're looking to charge you as much money as possible and ever more so every day because reasons, apparently, then yeah, we're just not going to get to a point where we can stream games like that.
+1602671	1605693	It's just not going to be feasible with bandwidth caps, unfortunately.
+1605693	1605773	Yeah.
+1607995	1609777	Anyway, what else?
+1609777	1612859	Anything else from the?
+1612859	1618684	The estimate is that the next Xbox console is going to be released by 2028.
+1618684	1636798	Already started this journey with Xbox One and Xbox One X. They said furthering it with Series S and X. We need to be more flexible in going forward with Gen 10, but also provide the ability for creators to take advantage of unique hardware capabilities.
+1636798	1636938	So.
+1638496	1640300	I mean, yeah, that's feasible.
+1640300	1641763	I can see that.
+1641763	1644870	Yep.
+1644870	1647636	Did you see the piece about the
+1650422	1677892	uh like that the headline about like Baldur's Gate 3 that was going around because I got to talk about this for a minute because like it completely I don't think so it completely ticked me off I thought this was completely like misrepresented so I'm trying to I'm trying to gather my receipts right now but I'm gonna talk about this so I'm gonna I'm gonna just call it what it is like let's let's just I'm not gonna mince words here we got to talk about fucking Polygon and this headline
+1678832	1686394	is ridiculous and I want to talk about why and the headline is Microsoft completely misjudged Baldur's Gate 3.
+1686394	1693597	Xbox dubbed Larian's Hit a second-run Stadia PC RPG before its release.
+1693597	1699358	Now when you read that what is the impression that comes around that this article is going to be about?
+1699358	1701239	This makes it sound like
+1702529	1707394	Somebody at Microsoft played this game, thinks it sucks, and called it second rate.
+1707394	1711038	Notice, even though the headline says second run, that's not what's being implied.
+1711038	1713240	What's being implied is second rate.
+1713240	1725473	And of course, we all know that the punchline here is that Baldur's Gate 3 is a runaway success, that there are a ton of, you know, folks that are loving this game, and quite honestly, it's probably going to be a contender for Game of the Year.
+1726153	1730119	amongst some really heavy hitters this year, to be quite honest.
+1730119	1733803	Amongst your, you know, Zelda Tears of the Kingdom, Diablo 4, and so forth.
+1733803	1735746	But you know what actually happened?
+1735746	1738790	And it's even in the same fucking article.
+1738790	1741233	Like, if you scroll that, you're looking at
+1741854	1745115	some of these targets for Game Pass.
+1745115	1746896	And they're talking about why they would do it.
+1746896	1749917	So like Warner Brothers and getting Lego Star Wars.
+1749917	1756419	Well, if we did this, it would, you know, they probably asked 35 million for it, we'd probably clock 40 million hours on it.
+1756419	1759540	But you know, will PC be ready at this time?
+1759540	1763501	And people have changed at Discovery, which owns Warner, it might be.
+1763501	1769443	So this is really, it's a document weighing the pros and cons of why they should bring over a certain game or not.
+1770624	1772645	By the way, Let's Sing Abba is here.
+1772645	1773686	Why didn't that happen?
+1773686	1776148	I would have been all over that for Game Pass.
+1776148	1780151	But way at the bottom here, you see Larian and Baldur's Gate 3.
+1780151	1783333	And it says, second run Stadia PC RPG.
+1783333	1786055	Expected partner range, 5 million range.
+1786055	1788517	And so they're trying to weigh the pros and cons.
+1788517	1791279	And keep in mind, this is a dated document.
+1791279	1794481	Proof, they anticipated release December of 2022.
+1794481	1795042	That didn't happen.
+1797124	1798486	Guess what?
+1798486	1803331	Baldur's Gate 3 being a second-run RPG is not an opinion, folks.
+1803331	1805473	It's a fact.
+1805473	1807235	It's a fact.
+1807235	1813181	Baldur's Gate 3 was supposed to be a Stadia-exclusive RPG.
+1813181	1819868	Had Microsoft picked it up for Game Pass, it would have been the second run of the game.
+1823296	1829180	So I have to do journalism and I don't want this is up.
+1829180	1830120	Look, I'm sorry.
+1830120	1832962	Like I know and I have friends that work in like gaming media.
+1832962	1835844	So this is shitty.
+1835844	1837665	It's shitty to Microsoft.
+1837665	1840927	It's shitty to Larian all for clicks.
+1840927	1841808	Fuck this.
+1843068	1853637	This, this shows, it just shows an objective ignorance to the facts that are laid on the table at the bottom of the article.
+1853637	1855018	Give me a fucking break.
+1855018	1860343	That's why I don't read this website, to be quite honest.
+1861600	1864102	Quest Buster pointing out that Larian actually did respond to this whole thing
+1881818	1886981	shitty journalism website to look at the response we have over here.
+1886981	1891904	You actually see a tweet had come in from Cromwelp, part of the Larian team.
+1891904	1894386	And again, there's that Polygon tweet.
+1894386	1895907	Now, here's the... Oh, God.
+1895907	1897768	Here's... Sorry, I'm just so angry.
+1897768	1898908	Here's the problem.
+1898908	1900909	Here's the fucking problem.
+1900909	1904872	Because we live in this Twitter social media world,
+1906640	1909281	That headline became the narrative.
+1909281	1913002	Microsoft completely misjudged Baldur's Gate 3.
+1913002	1924186	So I would say that Cromwell is not even responding to the actual facts, the actual story, but is responding to this fake headline.
+1926325	1928886	saying in their defense, so did everyone else.
+1928886	1930546	Same with DOS2.
+1930546	1934548	Comes with the genre and the way we approach things and the way we execute things.
+1934548	1939349	There just isn't any existing data that could have told anyone how BG3 was going to perform.
+1939349	1941870	We just had to take giant spooky leaps.
+1941870	1944471	The players didn't, but I thought that was obvious.
+1944471	1948892	And I think talking about the players didn't misjudge it, but I thought that was obvious.
+1948892	1951733	Microsoft didn't misjudge anything.
+1952982	1956465	And look, I'm sure somebody's gonna be like, Rob's a Microsoft fanboy.
+1956465	1958807	I'm a fanboy of all games, okay?
+1958807	1963731	And I'm a fan, and I'm also a fan of calling people out and calling things out when they're done wrong.
+1963731	1966173	Microsoft did not do anything wrong in this document.
+1966173	1978923	Polygon did, by running a fake fucking narrative against this, that anybody with a brain, especially somebody that's supposed to be versed in the games industry, could have figured out.
+1980672	1983656	I'm just some idiot with a podcast and I was able to figure it out.
+1983656	1986801	Give me a break.
+1986801	1989104	Sorry, it just it just really pissed me off.
+1989104	1991487	I'm sure you can tell but it's just it's not fair.
+1991487	1993750	It's not fair to Larry and it's not fair to Microsoft.
+1993750	1994231	Do better.
+1998150	2006154	Mike Deft in chat says, we can make the argument of, yeah, Microsoft did misjudge Baldur's Gate 3, but that's the thing everyone did.
+2006154	2013177	I guess if you want to say Microsoft misjudged Baldur's Gate by not throwing money at it and putting it on Game Pass, fine.
+2013177	2017498	But you and I both know that is not what the headline is implying.
+2017498	2025542	I'm not saying that at Mike Deft, I'm just saying that at anyone who's going to try to come after me, because I'm appropriately dragging this website through the mud.
+2025542	2026162	They deserve it.
+2028087	2030890	MikeDef says Baldur's Gate 3 was a hit because of word of mouth.
+2030890	2043824	Yeah, well, it's that streaming and the fact that it's just a good fucking game and that they put a lot of polish on it and made sure they put in the time to make it a really fucking good game.
+2043824	2044905	They put in the work.
+2044905	2046327	That's why Baldur's Gate 3 is good.
+2049040	2052643	5thDreamInChat says, I knew it was great 3 years ago, I was just waiting for full release.
+2052643	2055565	Oh, there's always somebody that's gotta be edgy.
+2055565	2056186	I don't know.
+2056186	2060209	Well, to be fair, also, the Baldur's Gate series has had its fans over the years.
+2060209	2063051	You know, it's just been a very, very long time since Baldur's Gate 2.
+2063051	2065713	So, you know, out of sight, out of mind for a lot of people.
+2065713	2065933	All right.
+2065933	2071397	Anyway, that was like the headline that got under my skin the most in this whole thing.
+2071397	2073119	So I had to call that out for a minute.
+2073119	2076181	So anyway, anything else you want to talk about with the Microsoft leaks?
+2078659	2080220	No, I think we've covered most of it.
+2080220	2081781	Yeah.
+2081781	2085863	If those of you in chat wants to jump in with something, you sure can.
+2085863	2088985	Questbuster in chat says word of mouth and that it's Baldur's Gate.
+2088985	2093047	Historically, Bioware's Baldur's Gate games are incredibly iconic.
+2093047	2096128	And for someone like Larian to pick it up, it hyped up a lot of fans.
+2096128	2096789	True.
+2096789	2098570	True.
+2098570	2099530	All right.
+2099530	2105273	We're going to move on and talk about our gaming weeks and the types of video games that we have been playing this week.
+2105273	2106574	So, Loki, how was your gaming week?
+2107485	2109326	It's all Minecraft again.
+2109326	2112087	No, I was actually playing Minecraft.
+2112087	2114228	That's what I did this week.
+2114228	2119671	I think most of it was designing my starter base, which is done now.
+2119671	2126134	And now I'm just building farms and have to get back into the groove of editing again.
+2126134	2132157	And once I have that, then I should be able to start pumping out content on a regular basis.
+2132157	2132457	All right.
+2133676	2135017	My gaming week.
+2135017	2137519	I've been playing a little of this, a little of that.
+2137519	2146686	So Diablo 4, I actually cleared the Season 1 Battle Pass, so I got all the way to Tier 90 and got the little mount that you get for clearing Tier that.
+2146686	2153271	And so yay, I've pretty much done just about everything you can do in this season besides getting a character all the way to level 100.
+2153271	2154092	But to be honest,
+2154692	2159614	I kind of feel like now that the Battle Pass is done, I've sort of done all there is to do in the season.
+2159614	2162275	You don't really get anything for running a character to max level.
+2162275	2164016	There's not even leaderboards or anything like that.
+2164016	2176781	So because of that, another interesting thing in the Diablo world happened this week, and that is Diablo 3 released Season 29, which is in many ways the final season of Diablo 3.
+2176781	2180442	Now, they are going to, and they've said with Diablo 3 Season 30,
+2182703	2191476	They're gonna start to rotate through some old themes, old cosmetic, and they're basically going to start the forever pattern of just rotating through old stuff.
+2191476	2197305	So what we have going on in Season 29 is the final, like, new thing that they've released into the game.
+2198045	2210253	And that is these portals that will show up randomly as you're not, not when you're in rifts, but as you're going through like the story mode parts of the game or get clearing bounties basically.
+2210253	2219920	You might get these rifts that take you to these like kind of very short but like uber powerful areas where you might fight like three rift bosses all at once, which happened to be at level seven.
+2220420	2225282	I had to fight three Rift bosses at level 7, but it's funny because it's all scaled to level 7.
+2225282	2229745	So I got through it, because it's the first time in Diablo 3 I'm playing a Necromancer.
+2229745	2236428	All these years, finally, because I played a Necromancer in Diablo 4 for the current season, I was like, yeah, I'll do a Necromancer in Diablo 3.
+2236428	2237909	So I've been playing that and
+2238729	2241571	Yeah, so I've been playing the new season, which is which is cute.
+2241571	2243592	I'll probably get all the way to unlocking the cosmetics.
+2243592	2255820	And then probably by that time, Diablo four's second season will be out, which is going to be very interesting to see how they respond to some of the negativity that's been going around about season one.
+2255820	2257301	I don't feel again.
+2257301	2266547	I feel like a lot of the gaming press is overhyping the negativity, but I cut him a little slack on this because there are a lot of content creators, a lot of influencers out there that are like,
+2267147	2269248	Yeah, I'm kind of done with Diablo 4.
+2269248	2270648	There's not a lot left to do.
+2270648	2272969	So like, I get it a little more.
+2272969	2275690	I still don't think Diablo 4 is by any means a bad game.
+2275690	2279351	But I do think there are definitely still some tweaks to be made.
+2279351	2283893	But if it's any consolation, don't forget, Diablo 3 sucked until the expansion came out.
+2283893	2286334	It took a long time for Diablo 3 to get really good.
+2286334	2289355	So I think there's still a lot of hope for Diablo 4.
+2289355	2292516	And I hope that the Season 2 will be really good as well.
+2293544	2305706	Um, one other game I want to talk about, I've been playing, you know, a lot of little things like Dead by Daylight and stuff, but one other game I really want to talk about here, because I didn't talk about it on last week's show, I don't think, but I'll talk about it a little bit.
+2305706	2308007	Let's talk about Monster Hunter Now.
+2308007	2318609	So Niantic, in partnership with Capcom, released their latest game called Monster Hunter Now, which is, you know, the lazy way to describe it is it's Pokemon Go with Monster Hunter.
+2319169	2321671	But the game mechanics are actually nothing like Pokemon Go.
+2321671	2325453	It's just that both actually play on a map of the real world.
+2325453	2329356	And they have they use that same Niantic Wayfarer network.
+2329356	2331318	So a lot of the locations carry over.
+2331318	2332859	That's, that's it.
+2332859	2337782	But as far as like how the game operates, you know, you have monsters that spawn in the world.
+2337782	2343686	But what's interesting about it is that they don't just spawn at quote unquote, Pokestops or Wayfarer locations.
+2343686	2346128	Monsters can spawn anywhere, which I think
+2346348	2363719	could be what they're trying to do to address some of the talk that their games are not fun in rural areas is it seems like they've tried to make a lot of Monster Hunter now available not tied to Pokestops.
+2363719	2367622	When you do visit stops, you get a lot of material and you get things there.
+2369325	2371346	But it's this interesting double edged sword.
+2371346	2377250	Because of that, you don't have a lot of incentive to really walk to these different locations and get stuff.
+2377250	2380993	I mean, I guess you get extra material that does come in handy for crafting.
+2380993	2382114	But that's really it.
+2382114	2386117	The rest of the game and the story and everything else you can kind of play out in the real world.
+2386117	2395643	But to be honest, like the game involves like a lot of tapping and killing monsters, but you swipe left and right, and all this stuff and back and forth to dodge monster attacks.
+2395643	2396404	Here's the gag.
+2397303	2398944	It runs really well.
+2398944	2400465	It's really smooth.
+2400465	2405627	And it's actually really satisfying to play, which shocks the hell out of me for a mobile game.
+2405627	2413952	But like you can even turn it on if you have a good enough iOS device or Android device, you can turn it up to like high graphics and 60 frames per second.
+2413952	2414972	And it's smooth.
+2414972	2421635	And it's really like you just tap hack, hack, hack, hack, hack, you can break the head, the wing, the belly and all this stuff, just like you do in the regular games.
+2421635	2424377	And the combat is like extremely satisfying.
+2424377	2426218	I actually played with other people.
+2426798	2430319	because I met up with some friends of mine I made through Ingress last week.
+2430319	2432300	We were getting together for some other stuff.
+2432300	2435740	And we decided to play a little bit of Monster Hunter now together.
+2435740	2442742	And so they would scan a QR code on my phone, and then they would be in my game basically fighting the monster I was going to fight.
+2442742	2444263	And it was really smooth.
+2444263	2446983	Like one of us was attacking the head, the other was attacking the tail.
+2446983	2448244	It didn't like skip.
+2448244	2449444	It ran really well.
+2449444	2455086	So like the gag is that like the game is actually very smooth and very polished.
+2455086	2455626	Unlike
+2456486	2462330	NBA All World, which by the way, RIP, that game shut down over the weekend.
+2462330	2464571	NBA All World is no more.
+2464571	2469054	And Niantic actually added a badge, their first badge in Campfire.
+2469054	2477539	If you ever played Niantic, or excuse me, if you ever played NBA All World, you now have a legacy badge in your profile that says All World, you know, with the basketball thing.
+2477539	2479660	But as far as the game, it is gone.
+2480140	2484422	But the difference is in NBA All World, the game sucked.
+2484422	2486003	It wasn't that responsive.
+2486003	2488223	It wasn't satisfying to play.
+2488223	2492225	It just it felt like a really subpar basketball game.
+2492225	2496707	And considering that was the entire backbone of NBA All World, well, you see how that went.
+2496707	2499308	That game lasted maybe six months.
+2499308	2505271	The difference with Monster Hunter is that that game is actually a lot better and a lot more fun.
+2506336	2509237	So I think this game could do a lot better.
+2509237	2510478	So we'll see.
+2510478	2519802	I think part of the areas where it needs like there is a story that you can do and apparently once you finish it, you can repeat it to unlock higher level monsters.
+2519802	2522763	It's basically an endless gathering and crafting game.
+2522763	2523404	That's what you're doing.
+2523404	2530087	You're gathering, you're crafting better armor, you're gathering, you're crafting better armor, which is kind of what Monster Hunter is anyway.
+2530087	2530167	Um,
+2531352	2534174	There's two things where I'm a little worried for this game.
+2534174	2539417	But otherwise, I think it's off probably to a better start than any Niantic title I've seen to date.
+2539417	2546201	Number one is that I'm not sure there's a lot of incentive to actually go out in the real world and move around.
+2546201	2552185	So I'm wondering if they're going to and maybe you know, some people rather enjoy that and complain about Pokemon Go with that.
+2552185	2553466	So maybe that's a good thing.
+2553466	2553826	I don't know.
+2554346	2555107	Thanks for watching!
+2569499	2573683	But it's really hard to coordinate that right now and you don't really see the other players in the real world.
+2573683	2575025	You don't really know what's going on.
+2575025	2578688	I feel like that still has to be fleshed out a little bit.
+2578688	2582772	And yeah, so that that would be one of my like big, big complaints.
+2582772	2591361	The other one is that they did their first community weekend this weekend where they put Diabolos into the game and you could kill Diabolos.
+2591361	2592783	Yeah, it sucked.
+2593323	2599496	because that monster was way too hard for the game only having been out for a week.
+2600600	2605923	I would say most people maybe are unlocking three, maybe four star monsters.
+2605923	2611267	The player base at large is not ready to take on five star monsters.
+2611267	2616510	What the hell were they thinking releasing that so early as a community weekend?
+2616510	2620152	Does not bode well for future community engagements.
+2620152	2621813	That's my only concern there.
+2621813	2625315	That was really poorly thought out.
+2625315	2628437	So just going to put that there anyway.
+2630430	2633892	5th Dream says, does your house count as camp?
+2633892	2636033	Will your cat cook you food now?
+2636033	2641736	There is no food mechanic in the game yet, but I imagine that's one of those things the game might grow into later on.
+2641736	2643017	Who knows?
+2643017	2647780	Mike Def says, it's funny, I have a Pokestop at my house, but I don't see it in Monster Hunter now.
+2648480	2648640	Ingress
+2678099	2685645	So they really need like a Wayfarer app or something that actually shows everything that exists in the network.
+2685645	2691469	That's supposed to be coming, but it's supposed to be coming for a long time now, that's for sure.
+2691469	2695192	Let's see, FitDream says, how bad are microtransactions in Monster Hunter now?
+2697033	2703699	considering you get five replenishment potions in a day, it doesn't seem that bad so far.
+2703699	2705801	I would say if you're going to try it, try it now.
+2705801	2709584	So you get the founders pack, which gives you 500 extra inventory space.
+2709584	2714989	But I haven't felt the need to buy anything yet, which could be a bad thing if you're Niantic.
+2714989	2719533	But a good thing for me because I don't really want to give them money because I'm still pissed off at them for what they did to Ingress.
+2719533	2720934	But it is what it is.
+2720934	2721055	So
+2721995	2724137	SG100 Matt says, I'll check out the game, I guess.
+2724137	2728140	My biggest issue with Pogo is I'm in a rural area and things are a bit harder to do.
+2728140	2730682	If this is more rural friendly than I might check it out.
+2730682	2732884	Yeah, things spawn pretty much everywhere.
+2732884	2733224	I don't know.
+2733224	2737588	Shane told me he's in a more rural area and he says it's still it's still not enough.
+2737588	2738648	It doesn't spawn enough.
+2738648	2740810	And so maybe it just spawns more where I am.
+2740810	2745254	But I don't feel like you have to travel super far to find stuff.
+2745254	2746375	So I don't know.
+2746375	2749037	At the end of the day, it's free, right?
+2749037	2750498	So what do you got to lose?
+2751990	2752731	Bandwidth.
+2752731	2754752	I guess that's that.
+2754752	2756774	Alright, that's it for my gaming week.
+2756774	2760317	So we are going to move on to some more stories, including
+2761311	2763031	our big headline from last week.
+2763031	2763871	Yes.
+2763871	2769372	I'm so surprised to hear that somebody might have changed their minds out there, huh, Loki?
+2769372	2769833	What?
+2769833	2772013	They walked it back?
+2772013	2775514	Never would have guessed they would have done that.
+2775514	2788956	No, of course, Unity came out and they outlined a bunch of different things that they were changing and basically, you know, said, here's how we're going to fix things.
+2788956	2789136	Well,
+2789822	2796546	Initially, they were going to, of course, do the runtime fee for everybody.
+2796546	2800848	But now they're limiting it to who's going to have that available.
+2800848	2803970	So let's go over some of the changes that they're going to be doing now.
+2803970	2813436	So right now, the Unity Personal plan will remain free and there will be no runtime fee for games built on Unity Personal.
+2813436	2815497	They're also increasing the cap from 100,000 to 200,000
+2817987	2822469	and removing the requirement to use the Made with Unity splash screen.
+2822469	2823989	That's pretty good.
+2823989	2833413	Also says a lot though when like people are motivated to remove the Made with Unity splash screen because there's such a negative connotation with Unity.
+2833413	2836214	I didn't even think about that.
+2836214	2842176	But at least now that Unity Free is, you can remove that splash screen.
+2843303	2843983	Cool.
+2843983	2845444	Why do you even have the splash screen at all?
+2845444	2849164	Like, honestly, if you're just giving the people the option to remove it.
+2849164	2851285	But at least you can do that now with the free version.
+2851285	2852625	So that is good.
+2852625	2858667	If you're on Unity Pro and Unity Enterprise, they're also making changes as well.
+2858667	2864548	Oh, also, in no game, less than one million in trailing 12-month revenue will be subject to the fee.
+2864548	2872850	So you have to make over a million dollars before you have to pay that fee in a 12-month period.
+2873880	2878761	Unity Pro and Unity Enterprise, they are also making changes as well.
+2878761	2886243	The runtime view will only apply beginning with the next LTS version of Unity, shipping in 2024.
+2886243	2893985	Your games that are currently shipped on the project you're working on will not be included unless you choose to upgrade them to this new version.
+2893985	2903107	Also, they said that the games before... One of the things that was a big contentious point was, well, how are you going to know about the installs?
+2904047	2905968	is it going to phone home?
+2905968	2909148	You say you have this proprietary algorithm that's going to do it.
+2909148	2911029	Well, that's all out the window now.
+2911029	2917570	Now it's self-reporting your numbers like you would with, say, Unreal or something like that.
+2917570	2931834	So you basically self-report your numbers and you're either subject to that runtime fee or given the choice of either a 2.5% revenue share.
+2931834	2933354	So whatever you want to do there.
+2934478	2963590	and those numbers like I said will be self-reported from your data that you have available and you'll be billed the lesser of the amount or two amounts I guess um so yeah they significantly walk that back but that said though like even if you go into these agreements and whatnot and start billing in Unity uh with this new version or whatever that's subject to these fees nowhere did they promise that they're not going to just change the fees later on like
+2964401	2980785	Sure, they did this right now, but there is nothing that they said, oh yeah, we're gonna make sure in our terms of service that we're going to not allow us to raise those fees, because yeah, they went behind everyone's back, secretly tried to take out that language that prevented them from doing this.
+2980785	2987187	So I think there's a lot of trust that's been kind of burned here, and there's a lot of developers that are still not coming back to Unity.
+2987187	2987687	Yeah, this is...
+2989200	2994804	Much better than it was before, but I wouldn't necessarily call it a win, per se.
+2994804	3001869	But they at least seem to have walked back stuff even prior to the announcement.
+3001869	3011435	Like being able to remove the splash screen and upping the revenue that you have to get to before you have to start paying for different things is good.
+3012377	3016388	But there's still always gonna be that, well, yeah, but you tried to screw us that one time.
+3016388	3020699	Actually, probably multiple times at this point, but you tried to really screw us this one time, so...
+3022913	3025014	That trust is kind of burnt, I think.
+3025014	3025674	Exactly.
+3025674	3030496	I feel like there's, you know, some people will still come back and go through with what they're doing.
+3030496	3031956	In fact, I see Mish is in our chat.
+3031956	3035858	Hey, Mishkins, saying, did anyone forget about Silksong?
+3035858	3039199	They keep teasing it so much I've given up because that's also a Unity game.
+3039199	3042160	So that game is scrapped if Unity goes through with their BS.
+3042160	3045802	Unfortunately, Team Cherry seems to be very quiet on their Twitter account and social media.
+3045802	3049283	So they haven't really tweeted like what the status is going through this.
+3049703	3058765	But one can only kind of imagine that, well, thanks to Unity dialing back these changes a bit, they'll still go ahead and release, you know, Silksong whenever they're ready to do it.
+3058765	3061706	So I don't see it affecting a release like that.
+3061706	3071028	But I'm sure there's a lot of people out there that are maybe early on in the development of the game or what have you that maybe are thinking about pivoting somewhere else because of this.
+3071028	3075389	SHO100Matt in chat says the damage has been done and they can't put the genie back in the bottle now.
+3075389	3079430	Unity played itself and folks are already looking to get off of using it.
+3079931	3080752	Thanks for watching!
+3095425	3097265	So I mean, yeah, that is true.
+3097265	3104547	Like if they're making it, if they're they're keeping their terms of service open to the fact that, yeah, we can just change the deal whenever we want.
+3104547	3110689	Like, you know, what's to say that midway through next year when they've locked into that agreement?
+3110689	3111229	Yeah.
+3111229	3112229	Yeah, exactly.
+3112229	3114030	Oh, hey, we're greedy again.
+3114030	3114990	We need that money.
+3114990	3118651	So we're going to up that that revenue share is now going to be 3.5 percent.
+3118651	3120151	Now it's 4.5 percent.
+3120151	3122852	You know, got to keep those shareholders happy.
+3123947	3127330	Fifth Dream in chat says I'm just going to use RPG Maker.
+3127330	3129012	Yeah.
+3129012	3132655	I would say that the open source one, Godot, is that how you pronounce that?
+3132655	3133235	Godot?
+3133235	3133576	Godot?
+3133576	3134857	Godot?
+3134857	3137980	Probably had its best week ever last week.
+3137980	3141463	And I would say if there's anything I would say that engine
+3142447	3149029	that the big headline here is you're gonna have more games being made in that engine than you were going to have a couple weeks ago.
+3149029	3155130	That would be my takeaway from all this mess is that there's going to be people that are like, maybe we should be looking to open source to try to fix these problems.
+3155130	3158531	Because I draw an interesting similar parallel here.
+3158531	3163752	And you know, I granted this is a stretch, but I'm going to go with it is the same thing that's going on with Twitter.
+3163752	3168754	Okay, or if you really must want to call it x, which again, we've gone over this.
+3168754	3170214	No, we're not calling it that ever.
+3170794	3171915	It's the Sears Tower.
+3171915	3173596	It's just like we're not calling Meta.
+3173596	3174016	It's Twitter.
+3174016	3174856	We're not.
+3174856	3176057	It's just like it's Facebook.
+3176057	3177257	That's right.
+3177257	3179138	It's Facebook and it's Twitter.
+3179138	3180599	So here's the thing.
+3180599	3189864	Now that Twitter is shitting the bed because of a maniacal CEO doing Lex Luthor-y types of things all over the map.
+3189864	3193946	A three hour show is not enough to discuss the
+3195026	3195306	DarkSakura
+3211332	3222748	So my point is with making my parallels to Unity and open source, now you have a lot of people that are leaving Twitter, pretty much myself included, I don't post anything personal on that side anymore.
+3222748	3224450	I'll use it to promote myself.
+3226892	3234974	But if you want to see things that aren't just me promoting myself, you're gonna need to go to Blue Sky, which by the way, the whole source and all that is up on GitHub.
+3234974	3239455	It's a little more open source, because the whole app protocol and everything.
+3239455	3246696	But you know what, even if you aren't on the Blue Sky train, you're probably on the Mastodon train, which is a very similar train, open source, right?
+3246696	3255578	Or you're going to, I don't know if Pebble is open source, but you know, you're finding an alternative that is a little less corporate,
+3256649	3268611	and a lot more open the world owns this because what Elon Musk forgot in this whole situation is that the people have always and always will own Twitter.
+3270440	3271541	That's the problem.
+3271541	3277304	You can't just come in and buy that and institute your rules because the people now are building it somewhere else.
+3277304	3280006	The only problem is they're kind of building it in four different places.
+3280006	3291513	But eventually, whenever Taylor Swift, Beyonce, whenever the AAA celebs decide where they're going to establish their presence on a non Twitter platform, it'll happen.
+3291513	3295695	That's that's your that's going to be your winning platform guaranteed.
+3295695	3298137	So anyway, my point is,
+3299533	3308036	People already look to the open source alternatives when they realize a maniacal CEO and greed is at the helm of their faves.
+3308036	3309737	And that's what's happened with Unity this week.
+3313457	3317361	All right, well, let's talk about some more Xbox news.
+3317361	3323628	But this is the Xbox news we were supposed to find out this week because Tokyo Game Show 2023.
+3323628	3328974	I feel like we haven't got a ton of news out of Tokyo Game Show, but probably because of the directs that just happened.
+3328974	3331597	And now we have Xbox doing a digital direct
+3332678	3335200	Phil Spencer and Sarah Bond talked about the importance of the Japanese market.
+3353235	3354476	But they're trying.
+3354476	3360619	So they talked about Hotel Barcelona, a time looping horror action game.
+3360619	3366682	It's a collaboration between Hidetaka Sohiro and Goichi Suda or Suda51.
+3366682	3369204	That is coming out in 2024.
+3369204	3373566	Octopath Traveler 2 was announced will be coming to Xbox.
+3373566	3376147	Excuse me.
+3376147	3378889	That'll get a lot of people excited with Octopath Traveler 2 coming.
+3380055	3386559	Forza Motorsport is getting the Hakone course and the 2020 Toyota GR Supra.
+3386559	3391621	So it's trying to show a little bit of the Japanese influence in Forza as well.
+3391621	3396504	And then Fallout 76 is getting an Atlantic City update.
+3396504	3399906	I'm not really sure exactly what, maybe I missed something.
+3399906	3402567	I'm not sure what that has to do specifically with Japan, but cool.
+3402567	3403608	We're getting some updates with that.
+3404568	3407049	And then the Elder Scrolls Online is coming to Japan.
+3407049	3409289	Now that's a much bigger deal.
+3409289	3414251	Japan, you have to remember the MMO landscape in Japan, very different.
+3414251	3417652	Final Fantasy XIV is out in Japan and it's very popular.
+3417652	3420553	Do you know what MMO is not out in Japan?
+3420553	3422673	Officially, legally?
+3422673	3427274	World of Warcraft does not have a Japanese release.
+3427274	3428635	Technically, it doesn't exist in Japan.
+3428635	3430595	That doesn't mean people in Japan aren't playing it.
+3430595	3432356	There's no WoW in Japan, officially.
+3433151	3435234	So the MMO market.
+3435234	3438157	Yeah, there's I'm not sure why they they don't.
+3438157	3439138	But you know what?
+3439138	3439699	Hmm.
+3439699	3440039	Hmm.
+3440039	3442082	Food for thought.
+3442082	3443243	You know, we're going to get into it.
+3443243	3446066	Microsoft will be owning Activision Blizzard very soon.
+3446864	3448566	I wonder if Microsoft might change that.
+3448566	3448986	We'll see.
+3448986	3449346	We'll see.
+3449346	3449747	I don't know.
+3449747	3450608	We're getting ahead of ourselves.
+3450608	3453931	But the Elder Scrolls Online, it will be coming to Japan.
+3453931	3466142	So ZeniMax Online Studios mentioned that Japan will get its released fully localized on November 15th, 2023, and the Necrom expansion will come out in February.
+3466142	3467263	And this is pretty cool.
+3467263	3468744	I think a lot of people are fans of this.
+3468744	3472548	Phoenix Wright, Ace Attorney, the trilogy is coming to Game Pass.
+3472848	3475909	Althea, The Wrath of a Fury, a fantasy adventure that stars Lily and mysterious monk girlfriend Sadi.
+3475909	3478089	Battles and puzzles were created with both the characters in mind.
+3478089	3480090	It will be coming to Xbox and PC.
+3497974	3504580	I know lots of people are excited about Aiden Chronicle, I think I said that wrong, Aiden Chronicle, 100 Heroes.
+3504580	3508824	It is going to be on Game Pass when it launches on April 24, 2024.
+3508824	3512648	And we had another trailer that shows up to get there's a lot more coming out about this game.
+3512648	3518333	I think some footage for Tokyo Game Show was showing up to that shows some of the early minutes of the game looks good.
+3518333	3519294	I'm excited to play it.
+3519294	3519755	That'll be fun.
+3520892	3526718	Exo Primal Season 2 is launching October 18th and there will be an update that goes with that.
+3526718	3532143	And a Street Fighter VI crossover, skins and emotes with Ryu, Guile, Chun-Li.
+3532143	3534145	That is all happening as well.
+3534145	3535246	Infinity Strash.
+3535907	3544054	Dragon Quest The Adventure of Dai is an action RPG with visuals and art from the anime and manga is what this is rooted in.
+3544054	3550799	It will be out on September 28 and that is coming out on Xbox, but it will also be out on PlayStation 4 and 5, Switch and PC.
+3552882	3557847	Game Pass Like A Dragon Gaiden, The Man Who Erased His Name, November 9
+3570581	3574763	Monaco's Night Market also coming to Game Pass on October 26.
+3574763	3579566	My Lovely Empress, the third installment of the My Lovely series coming to Xbox.
+3579566	3582007	They're not saying Game Pass, but it's coming out.
+3582007	3585168	PAL World coming to Xbox in 2024.
+3585168	3588170	No, that has nothing to do with television standards.
+3588170	3590111	It is a monster collecting RPG.
+3590111	3591732	It's Pokemon with guns.
+3593330	3595852	Party Animals, Ori, Persona 3 Reload, Persona 5 Tactica
+3615451	3622357	WoLong Fallen Dynasty DLC is coming out on September 27th.
+3622357	3625360	It's the second of three expansions.
+3625360	3630185	Two weapons from Lies of P are set to hit the game as crossover.
+3630745	3631606	So lots of news.
+3631606	3645092	Sorry, I know I've been talking for a lot there, but that's a lot of news that came out of Xbox for Japan, which, you know, considering it felt like at the beginning of this cycle, Microsoft really just like wrote Japan off, you know, and I understand why, like they weren't selling there.
+3645092	3648574	It really feels like Microsoft's kind of like trying to get back in.
+3648574	3650535	So it'd be interesting to see how much of that works.
+3650535	3651015	That's for sure.
+3652666	3662170	SSJ100 Matt does point out Microsoft did make that big hire of Sony vet Minasato Kato to be their head in Japan in terms of partnerships.
+3662170	3666072	So Xbox is trying to make moves in Japan for sure.
+3666072	3673255	Fifth Dream points out there was the whole joke of Pokemon Sword, Pokemon Shield and Pokemon Gun.
+3673255	3675136	Well, Pokemon Gun is real now.
+3675136	3676177	It's on Xbox.
+3676177	3677577	So how about that?
+3677577	3678378	Love that.
+3678378	3678598	Anyway,
+3680540	3682703	Lots of stuff for the Tokyo Game Show.
+3682703	3684064	Looks good.
+3684064	3684324	All right.
+3684324	3692514	Well, I guess I kind of mentioned this one, but this this may be the last update we hear on this, because this is this is going to happen now, isn't it, Loki?
+3692514	3693375	Yep.
+3693375	3695417	So the CMA is finally
+3696881	3704984	approved, tentatively approved, the acquisition of Activision Blizzard by Microsoft.
+3704984	3709625	So you may remember the UK's competitive market and markets and authority.
+3709625	3718668	They had originally rejected the deal because they said it would make them too strong in the digital cloud gaming space.
+3718668	3725950	And so Microsoft's kind of response to that was, OK, well, we're just going to let Ubisoft control that then.
+3726920	3749197	in this territory and apparently that was enough for them to say all right cool you know we're cool with that um they said this is a new and substantially different deal which keeps the cloud distribution of these important games in the hands of a strong independent supplier Ubisoft rather than under the control of Microsoft
+3750403	3753644	We'll be soft and independent in the same sentence, I hate it.
+3753644	3757505	Well, independent in the sense, not independent in the size, independent as in the assertion.
+3757505	3762106	Independent of the, yeah, I get it, it's just, I hate it.
+3762106	3772609	They're a small independent scrappy company, you know, just making those games that the small radio towers and bandit camps have to, you know, take down.
+3773446	3796514	It's like the same thing, you know, cozy feeling every time that you pick up an Ubisoft game, you know, you know, there's gonna be radio towers, you know, there's gonna be bandit camps, you know, there's gonna be no prosecution whatsoever of sexual harassment that's going on in the company by the CEO, CEO, which is overlooking it, you know, that that's the kind of, you know, gameplay that you can expect with an Ubisoft game.
+3796514	3797574	But yes, there are gonna be
+3798094	3798595	Thanks for watching!
+3808578	3815064	According to Brad Smith, we are encouraged by this positive development in the CMA's review process.
+3815064	3829759	We presented solutions we believe will fully address CMA's remaining concerns related to cloud game streaming, and we will continue to work towards earning an approval prior to the October 18th deadline.
+3833025	3844408	So we still have some more time before they finally make the actual judgment, but so far it sounds like the CMA is going to proceed with approving the deal.
+3844408	3847789	So that is one hurdle that they need to get over.
+3847789	3848149	All right.
+3848149	3848670	So I don't know.
+3848670	3853991	I think they're just going to drag this out until, you know, the 11th hour and we'll see.
+3853991	3856972	But right now it's looking more positive, I guess.
+3857913	3864899	Well, SJ100 Matt in chat over at twitch.tv slash VOG Network sums up my thoughts exactly saying so Bobby Kotek going away when?
+3864899	3866240	Yeah, great question.
+3866240	3868642	I'm still probably going to be a little bit though, honestly.
+3868642	3869823	Yeah, which is unfortunate.
+3869823	3873086	But I think, you know, it's got the deals got to close first.
+3873086	3877230	And then they'll they'll probably be a little bit of a period during transition and all that stuff.
+3878591	3881593	before we really hear of him leaving.
+3881593	3882053	I hope.
+3882053	3883114	Yeah, I hope.
+3883114	3887097	Although it'd be such a badass move if Phil Spencer fires him the day after it closes.
+3887097	3895302	God, I I don't ask for much gaming God, but that is that is on the top of my that's my holiday wish list this year.
+3895302	3898124	Phil fires Bobby Kotick the day after the close.
+3898124	3898945	God, I hope it happens.
+3899729	3900570	All right.
+3900570	3904793	You know, right before Christmas, because, you know, that's that's how those game companies do that.
+3904793	3905954	Honestly, good.
+3905954	3907295	I can't think of a better time.
+3907295	3909577	All right.
+3909577	3912919	This is speaking of things I never thought would happen.
+3912919	3920885	I feel like Nintendo's on the cutting edge with this technology, actually, that we're going to talk about here, because Nintendo is now doing something I don't believe.
+3920885	3924888	And, Chad, correct me if I'm wrong, but I don't believe Sony or Microsoft support this right now.
+3924888	3928231	So Nintendo is kind of on the cutting edge of supporting Passkey.
+3928911	3936336	So Passkey, it basically allows, I mean, long story short, it allows your cell phone to kind of act as like a physical authentication device.
+3936336	3940659	Like Apple has, you know, they have Apple Passkey, they call it, but this is not limited to Apple devices.
+3940659	3942520	Android has their own version of it.
+3942520	3957650	So if you have an iPhone with iOS 16 or newer, or an iPad, or a Mac computer with Mac OS 13 or newer, because they pretty much run the same software, or you have an Android device with Android OS 9 or later,
+3958450	3961071	You can use Nintendo Passkey.
+3961071	3963291	So you register the passkey with your Nintendo account.
+3963291	3967833	It's basically an extra layer of security that helps prevent unauthorized access to the account.
+3967833	3975975	It adds that kind of physical barrier so that somebody, you know, in another country can't get into your account without that physical device, basically.
+3976395	3979997	That's a big reason why two factor authentication goes a long way.
+3979997	3985140	But I'm sure you've all heard of horror stories where even people get around two factor authentication.
+3985140	3994064	Like they get people to send them the key under you know, all these weird things that they do to get that phone number, you know, the phone number that type of stuff.
+3994064	3998247	So this really like I does it function over Bluetooth?
+3998247	3998447	I don't
+3998907	4001748	But it basically like you have to have the physical device there.
+4001748	4003708	I think it's connected to the Internet.
+4003708	4011810	So basically it's looking it sends it to whatever the authentication server is and it's looking for response from or or no, I'm sorry.
+4011810	4022072	If it's anything like it is on Google, it's basically that there's a they'll ask you to put in a password that is generated like every few seconds.
+4022072	4023132	That's just an authenticator.
+4024127	4025869	Oh, I think we're talking about here.
+4025869	4030012	No, I think with the Apple, like because with the Paskey, it does like the scanning of your face.
+4030012	4034656	It knows it's you and it sends a signal basically to the device to unlock.
+4034656	4037158	I think it runs over Bluetooth.
+4037158	4041502	But I'm not super because, yeah, most of my stuff is on two factor off or this stuff.
+4041502	4045545	But this sounds very interesting to me because you have to have the physical device, basically.
+4045545	4050949	I'm sure there's backups methods in case you get locked out like there always is, you know, but
+4051850	4056052	It's interesting to see the security advancing, at least on Nintendo's side with all this.
+4056052	4060494	I just I would not have pegged them to jump on this before their peers.
+4060494	4061854	So.
+4061854	4062875	All right.
+4062875	4065996	Speaking of Nintendo stuff, Loki.
+4065996	4066556	Yeah.
+4066556	4070558	Speaking of which, we're going to get some more rumors now of the next Switch.
+4071817	4081963	And apparently, according to Activision, the rumor is that the Switch is as powerful as a PlayStation 4 or an Xbox One.
+4083048	4087369	And when we say according to Activision, we mean as part of those leaked emails, right?
+4087369	4090710	Yes, as part of the leaked emails.
+4090710	4105773	And there was a heavy, heavily, this was one that they actually redacted, but a heavily redacted summary labeled NG Switch Draft, standing for Next Generation Switch, was made public as part of that.
+4106993	4120440	Closer to the alignment to Gen 8 platforms in terms of performance and our previous offerings on PlayStation 4 and Xbox One, it is reasonable to assume that we can make something compelling on the NG Switch as well.
+4120440	4129484	I mean, that's cool if that's at that level, but, oh god, like, it seems very antiquated at this point.
+4129484	4130565	Like, I know the Switch
+4131500	4153203	is also like you know like xbox 360 playstation 3 levels right now but like i really wish they would catch up yeah but like if we get a new pokemon legends game even if it's like playstation 4 level stuff i'm gonna be so psyched like that's the problem their games are so good that like even running at playstation 4 level i'm gonna be into it like that's just and the fact it'll be portable it
+4155071	4163478	It's yeah, it's gonna and that seems to be the MO right now is that Nintendo kind of lags one gen behind but they do something really good to sweeten the pot with it.
+4163478	4164859	So we'll see.
+4164859	4166781	We'll see.
+4166781	4168662	Um, yeah, we'll see.
+4168662	4169443	I guess.
+4169443	4170324	Yeah, I know nothing.
+4170324	4174247	Nothing until we actually you know, because again, these leaked emails old.
+4174247	4179852	So this isn't like emails that are talking about the recent look at the device at um,
+4181201	4182842	Classic, or excuse me, Gamescom.
+4182842	4187165	I don't know why that I was like Euro Games Fest or the Gamescom.
+4187165	4191549	It then the rumored behind closed doors thing these emails would be before that.
+4191549	4196192	So again, who knows what Nintendo changed, optimized, etc, etc.
+4196192	4201856	Behind the scenes, I would actually I would assume it's going to be a little better than a PlayStation 4.
+4201856	4206440	So it'll be a little little further along than that, but it's not going to be as good as a Series X or PlayStation 5.
+4207514	4208715	Yeah, probably not.
+4208715	4213576	But by the way, you know, speaking of big games that came out, even though I didn't play it, I know a lot of people have been playing it.
+4213576	4216737	Have you seen a lot of the Mortal Kombat 1 stuff that's out there?
+4216737	4217938	Because that game came out.
+4217938	4224980	I've not seen the actual game too much, aside from the articles talking about the awful Switch port.
+4224980	4228202	That's the only thing I've seen, you know, a lot of.
+4228202	4230903	And it's looked... Yeah, that's exactly what I was going to talk about.
+4230903	4231263	Yikes.
+4231963	4258287	but no you here's the thing i think it looks hilarious like it's one of those things to me that's like so bad it's kind of good like i don't know how else to explain it like the visuals on the switch are so off especially when it's like looking at like you've seen that picture of melina i'm trying to find it uh trying to find example of the like that the picture of melina uh with like it just looks terrible it looks
+4260667	4265696	I've seen the one of Johnny Cage that looked really bad.
+4265696	4270064	I was gonna see if I can see some...
+4271475	4271795	I don't know.
+4271795	4274197	I'm trying to find something quickly as we're live here.
+4274197	4276499	But to explain for the podcast listeners, like, yes.
+4276499	4277120	Oh, my God.
+4277120	4277540	I see it.
+4277540	4278481	Yeah, I see it right here.
+4278481	4280663	It's on Digital Foundry's like thumbnail.
+4280663	4281304	Oh, is it?
+4281304	4284486	Yeah, it's the Eurogamer has it on there.
+4284486	4286828	If you do the Nintendo Switch.
+4286828	4287209	Yeah.
+4287209	4287489	Yeah.
+4287489	4295396	You can see you just you see the cartoony look of all of the like teeth and the bulging eyes and all this stuff is really funny.
+4295396	4298078	The eyes like you can't tell me like I get it like
+4299004	4312197	that the textures have to be lower quality and stuff like that but you can't tell me you can't map like an eyeball it's it's literally a sphere it's not like a ton of stuff you can't do it correctly like i just have a hard time believing that
+4314351	4327575	I was trying to find there was a really funny picture that I had seen that I had posted that it was so bad it like made me feel like it was an ad for the game.
+4327575	4332516	He said now I can't find it because I thought I had posted on my blue sky where I was like this looks so bad.
+4332516	4336077	It's kind of good.
+4336077	4336477	Dang it.
+4336477	4338177	I can't find it now.
+4338177	4339998	Um, but it's like artwork.
+4341395	4341695	There it is.
+4341695	4342256	There it is.
+4342256	4350602	OK, it shows actually like the buggy eyes on Johnny Cage and like the horrible face and the teeth on Mileena.
+4350602	4357908	And then the joke, because I found this in Star Trek shitposting, the joke is the Klingon with the eyes budging out of the head saying, why is everyone looking at me?
+4357908	4359910	Because it looks like that.
+4359910	4360971	And it cracked me up.
+4360971	4362432	So.
+4362432	4364333	I thought I would share.
+4364333	4365534	All right.
+4365534	4370138	Let's let's go back to a time when we expected bad graphics in this segment.
+4380369	4388139	And now it's time to travel back to a simpler time, where I'll dive into the vault and pull out a classic and tell you about it.
+4388139	4390142	It's time for the classic game of... On the DI.
+4393377	4399179	Sorry about the audio that snuck in there, bringing up a YouTube show of the classic game for tonight.
+4399179	4402140	And tonight's classic game is going to be a little bit different.
+4402140	4408463	And for those of you that are watching on the feed, the best I could find was somebody reviewing the game.
+4408463	4412104	So it doesn't like it kind of comes through a little wonky in the video.
+4412104	4415845	But we're going to be talking about a game that I have picked tonight.
+4415845	4422728	I've gone back to my classic BBS days and I've picked a door game called The Pit.
+4423839	4428881	Now, I wonder how many of you out there ever played this BBS door game, The Pit.
+4428881	4431903	Loki, did you ever play this?
+4431903	4432283	Oh, you might.
+4432283	4438926	I didn't, but I know, um, you know, kind of like see, I know, like how it worked, right?
+4438926	4439546	Yeah.
+4439546	4447410	So it was a BBS door game, you would log in and you the concept was you were being thrown into this pit where you would battle monsters
+4447850	4449352	or other players.
+4449352	4451814	So like in this particular video we're watching right now the player is battling a thief
+4471011	4474014	And they can like fire a ranged weapon or use an attack weapon.
+4474014	4476296	It was a very, very basic sort of game.
+4476296	4482522	But because it was played through a bulletin board system, you called into this with your modem to be able to play this game.
+4482522	4486005	And it was essentially a very early type of multiplayer game.
+4486005	4492592	And I remember playing a shit ton of this when I was younger, like around, you know, 14, 15 and calling into BBSs all the time.
+4493232	4498973	The Pit was created by James Berry of Midas Touch Software in 1990.
+4498973	4502354	Interesting fact I found out doing research for this tonight.
+4502354	4504415	He passed away in 1999.
+4504415	4505215	That's very sad.
+4505215	4506015	I had no idea.
+4506015	4511877	So that's why we never heard about, oh, what did that guy move on to doing on and so forth is unfortunately, he passed away at the end of the 90s.
+4511877	4511917	So
+4513657	4521403	But this was obviously a huge legacy of his, was creating this game which was transformative for BBS Games.
+4521403	4527648	Basically in the game you play as what is considered a lowly farm boy who is seeking fortune.
+4527648	4532813	You start with basic armor, basic sword, like a loincloth and a wooden sword, right?
+4532813	4541600	And when you win, you get stronger, you can get better weapons, you power up, and then at some point you're taken on like Odin and Thor in the pit.
+4542506	4545729	or, of course, you can battle other people.
+4545729	4552594	If you get somebody who's too powerful, you can try begging for mercy so that you don't lose anything when you get eliminated or whatever.
+4552594	4558159	Because it was a BBS store game, you got a limited number of play sessions per day, usually three.
+4558159	4568347	And then either you die, so it kicks you out of the game for the day, that was how it ended, or the session timer expired because you could actually limit how long on a BBS people could actually play the games for.
+4568347	4569108	That was a big thing.
+4571512	4572673	Here's the other kicker.
+4572673	4580478	So what's funny about this, yeah, Questbuster says, wow, it looks like an early roguelike from the early 80s in some ways, probably because of the ASCII graphics, right?
+4580478	4583961	The really rudimentary graphics system in the game.
+4583961	4590485	But here's the punchline I wanted to get to with my selection tonight and why I thought this was even more awesome.
+4590485	4595149	And that is because there was actually a full front-end client.
+4595889	4603672	a separate program you could launch while you were on the BBS that would up the graphics of the game.
+4603672	4608174	It was called the Pit Terminal or EGA Terminal Interface.
+4608174	4615177	You would get art created by D. Greg Hargrove, EGA graphics, MIDI music, and sound effects.
+4615177	4619239	And this was like playing an early, early game online.
+4619239	4620360	Again, remember, this was like
+4621000	4626206	God, pretty early on in the 90s you were playing this and it looked incredible for the time.
+4626206	4634695	I'm going to pause the video and for those of you that are watching on Twitch, all I've got to show this, I looked everywhere for video of this and I could not find it.
+4634695	4636878	I could only find some graphics.
+4637338	4646064	to show you the comparison between those ASCII graphics that you saw in the clip and some actually like, oh, you know, EGA was like 16 colors on the screen at once.
+4646064	4651308	It was maybe, maybe the quality of like NES graphics or like
+4652475	4657879	like a Commodore 64 or something like it wasn't great, but it was still actually 1995.
+4657879	4660702	It looks odd is when the pit terminal came out.
+4660702	4673892	But still, I mean, compared to what you were seeing in the video, which is the ASCII graphics, to be able to see like these full on depictions of slot machines or a poker table and see things in an interface that was really designed for the game was really
+4674312	4676353	DarkSakura, VoG Network, Ranma, Actdeft, Drew, Carameldansen
+4695138	4696099	played this a lot.
+4696099	4708648	I would call into BBSs here locally, log in, get my rounds in for the day, try to strengthen my character, maybe pick on somebody else if I thought I was strong enough, because I thought I was badass, and do that.
+4708648	4717655	And yeah, the BBS Dwarf Game era is kind of a forgotten one, and it's unfortunate because we had a few really good years playing that.
+4717655	4719616	I'm surprised they haven't done like a
+4720795	4724937	Emulator of sorts like collection and release on PC where you can play all that stuff.
+4739764	4761674	I remember Bobby and I talked about this a long time ago where like we could actually if we wanted to set up like a VOG Network BBS and people could actually play door games on it but we're kind of sitting here going would the juice be worth the squeeze if we would do the efforts to set something like that up would people actually use it and it kind of keeps coming back to no but if y'all want to try to change our minds
+4762574	4766497	By all means, I loved BBS store games.
+4766497	4768478	I would love to go back and visit some of them.
+4768478	4772020	It's so funny to me too, because there were games like Trade Wars 2002.
+4772020	4775202	And it's like, bitch, we've lived 2002 now.
+4775202	4778144	And it's nothing like Trade Wars.
+4780722	4783623	But it's kind of fun to see stuff in that context.
+4783623	4790047	Now, fun fact, when I was going back and selecting the game for tonight, this is not the first time I've picked a BBS store game.
+4790047	4795229	I actually did Legend of the Red Dragon some time ago, which was another infamous BBS store game from the past.
+4795229	4796950	But this was another one I had to pick at some point.
+4798150	4802974	I think when I picked that other game, The Legend of the Red Dragon, this was it was somewhere in the 600s.
+4802974	4804595	So it was years ago.
+4804595	4810459	I would have picked the pip probably but I could not find a video of the terminal or even graphics.
+4810459	4815183	So that is like new now that I've even like proof that the terminal still exists.
+4815183	4821608	And they even have on that site that I found they have the executables for the old door game and the EGA terminal.
+4821988	4827213	which is pretty, so I guess I could set up and get some video of my own, but I'm really lazy.
+4827213	4833218	But maybe someday, maybe that's a future VOG video project is trying to get some actual video of that EGA terminal.
+4833218	4837541	And then I, again, through the research, I found out that the programmer of that game passed away.
+4837541	4839463	That's really sad.
+4839463	4845028	You know, at 99 to think what may have come in the future, or maybe what they could have gone back and done at some point.
+4845028	4845148	So
+4845837	4853520	Yeah, anyway, there you go, your classic game of the week, the BBS door game or bulletin board door game, The Pit.
+4853520	4860103	And notably, it's EGA front end that I think really made it something special for the era.
+4860103	4860804	All right.
+4860804	4866126	Well, with that, we're gonna get back into some news and travel around and talk about some things really quick with some rapid fire news, Loki.
+4866917	4869239	Who doesn't like another Titanfall 2 rumor?
+4869239	4872722	Because people like constant disappointment.
+4872722	4878848	But there is another apparently surprise update that Titanfall 2 received recently.
+4878848	4886114	The patch hit the game about a week ago and included fixes to matchmaking and stuff like that.
+4886114	4888416	But along with that there was a
+4890418	4903350	Tweet or whatever talking about incoming transmission subject Nessie and then it gives three different Hexes, I think they're three different dates that are basically
+4904318	4907860	I don't remember if they're like binary or hexadecimal or something like that.
+4907860	4911062	It's basically represents, oh, I'm sorry, Unix time dates.
+4911062	4915244	So three different Unix time dates that represent Titanfall 1, 2 and Apex Legends.
+4915244	4919246	So folks are thinking, does this mean there's another one coming?
+4919246	4919867	I don't know.
+4919867	4922528	It's kind of a stretch.
+4922528	4929292	They also have a new game mode that was added to Titanfall 2 just called Question Mark.
+4929292	4930793	So I don't know.
+4932748	4934108	Don't know what it is.
+4934108	4939950	It says your rockets about to get or it says your rockets will blot out the sun.
+4939950	4941690	I guess it's that.
+4941690	4943391	I don't know.
+4943391	4945771	Let's just wait until they actually release Titanfall 3.
+4945771	4947752	You know, let's just wait until that announcement comes.
+4947752	4953213	Let's stop trying to guess that they're teasing something until they actually just announced something.
+4953213	4955754	So.
+4955754	4961315	Maybe a game, you know, the Game Awards.
+4962347	4965229	Maybe we'll have an announcement there.
+4965229	4967951	I don't know.
+4967951	4970813	And then, I'd like to talk about new LEGO sets.
+4970813	4973754	There is a brand new LEGO Mario set, and this one's kind of cool.
+4973754	4977197	This is a LEGO Piranha Plant.
+4977197	4981620	So LEGO's been doing these things with different flower sets that they have available.
+4981620	4989244	You can get like artificial flowers and build them out of LEGO, and like put them in a pot that comes with it, and you know, you can arrange your flowers and stuff.
+4989244	4989845	Well now it's
+4990693	4993616	It's a piranha plant for your desk.
+4993616	4994857	And it looks awesome.
+4994857	4999941	And it's only 60 bucks, which is reasonable for Lego.
+4999941	5002283	I will definitely be picking this up at some point.
+5002283	5004104	It comes out very soon.
+5004104	5007847	Actually, I think it's October.
+5007847	5010430	Oh, I'm sorry, November 6th.
+5010430	5016094	I think the best comment I saw about this in Discord was, hey, a plant I can't kill.
+5016094	5016695	Exactly.
+5018427	5022484	Unless you knock it off your desk, in which case it's temporarily dead.
+5022484	5022705	Yeah.
+5023860	5025201	Alright, well, guess what?
+5025201	5031765	More datamining has revealed what could possibly be coming to future DLC for Mortal Kombat 1.
+5031765	5039370	You know, we already know who's coming to the first Kombat Pack, but you know, why would they sell you just one Kombat Pack when they could sell you more?
+5039370	5046135	So, some leaked characters that were datamined, spoiler alert, I guess, but this is all over the place.
+5046135	5049117	Jade, Cassie Cage, Kung Jin,
+5049837	5053664	Cyrax, Sektor, Noob Saibot, Frost, Conan the Barbarian,
+5061390	5062491	That's very interesting.
+5062491	5069056	You know, we had the Terminator in one of the Mortal Kombat games, so why not license Arnold again for Conan the Barbarian?
+5069056	5070677	This one is the best.
+5070677	5075841	Ghostface, apparently also a potential Mortal Kombat 1 combatant.
+5075841	5086769	I wonder if they licensed Ghostface the same way they did it in Dead by Daylight and licensed from the mask making company and not actually the Scream movie.
+5086769	5089511	So keep in mind, if Ghostface does come to Mortal Kombat,
+5089851	5094874	He may have nothing to do with the movies because in Dead by Daylight, Ghostface has nothing to do with the movies.
+5094874	5098856	They completely came up with a new origin story and character and all this stuff.
+5098856	5100476	But most people don't bother to read it.
+5100476	5103058	They just go, Hey, I'm playing as the scream killer.
+5103058	5107520	So it would be interesting to see how that all works in Mortal Kombat if that happens.
+5107520	5110101	But yeah, playing as Ghostface would be pretty rad.
+5110101	5111422	So.
+5111422	5112883	All right.
+5112883	5117445	Let's move on and check out some games that will be coming out a little sooner than that second combatant pack, Loki.
+5118492	5122717	Yeah, well, we're still in the thick of the technically fourth quarter.
+5122717	5125059	Excuse me, rumored second combatant pack important.
+5125059	5126341	Sorry.
+5126341	5127402	Right.
+5127402	5130305	Not that not that are not going to do that.
+5130305	5130666	I know.
+5130666	5130826	Right.
+5131979	5133920	Yeah, we have a few games coming out this week.
+5133920	5139041	El Paso Elsewhere on PC, Xbox One, Xbox Series.
+5139041	5148203	Harvest Moon, The Winds of Anthos on PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series.
+5148203	5153164	Mineko's Night Market on PC and Nintendo Switch.
+5153164	5154404	That actually looked really cool.
+5154404	5156725	That was one I think they showed off during that whole indie
+5157385	5167030	Paleopines on PC, Nintendo Switch, PS4, PS5, Xbox One, Xbox Series Storyteller on iOS and Android Tramesimworld4 on PC, PS4, PS5, Xbox One, Xbox Series
+5182809	5202299	TyTheTasmanianTiger4, BushRescueReturns on Nintendo Switch, Paper Beast Enhanced Edition on PlayStation 5, Disney Speedstorm on PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series.
+5202299	5205021	By the way, that game has been in early access for a bit.
+5205021	5206882	So if you're like, hasn't that game already been out?
+5206882	5209383	Yes, but now it's truly free to play.
+5210802	5213904	All right, well, good to know.
+5213904	5221090	Dolphin Spirit Ocean Mission on PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series.
+5221090	5233639	Infinite Strash, Dragon Quest, The Adventure of Dai on PC, Nintendo Switch, PlayStation 4, PlayStation 5, and Xbox Series.
+5233639	5239984	Everhood Eternity Edition on PlayStation 4, PlayStation 5, Xbox One, and Xbox Series.
+5241208	5245150	We've got Gothic Classic on Nintendo Switch.
+5245150	5252012	My Hero Ultra Rumble on PC, Nintendo Switch, PlayStation 4, and Xbox One.
+5252012	5257654	Overpass 2 on PC, PlayStation 5, and Xbox Series.
+5257654	5264756	Pizza Possum on PC, Nintendo Switch, PlayStation 5, and Xbox Series.
+5264756	5269838	We've got Wild Mender on PC, PlayStation 5, and Xbox Series.
+5271231	5276892	Cocoon, hopefully not based off of the old 80s movie.
+5276892	5277672	PC.
+5277672	5278412	Are you kidding?
+5278412	5282053	I hope it is.
+5282053	5283773	Xbox One and Xbox Series.
+5283773	5288014	I kind of know, like it's a puzzle adventure game.
+5288014	5290034	It's by Annapurna Interactive.
+5290034	5294555	OK, so, you know, maybe.
+5294555	5297996	Published by them, probably not created in-house, but.
+5297996	5299816	Yeah, I don't know what Cocoon.
+5300860	5303863	Cocoon and the Thirsty Suitors release date.
+5303863	5305445	Okay, well it's Cocoon.
+5305445	5307788	Most Anticipated Indie Game is what I got.
+5310961	5312782	Not based off the movie, unfortunately.
+5312782	5313062	Sorry.
+5313062	5317145	Sorry to disappoint those Cocoon fans out there.
+5317145	5319086	All zero of you in chat.
+5319086	5327972	Now, EA Sports FC 24, not to be fooled, this is what used to be FIFA, without the FIFA license now.
+5327972	5329593	That's on PC, Nintendo Switch.
+5329593	5331594	FIFA minus FIFA.
+5331594	5332474	FIFA.
+5332474	5334636	We'll just call it FIFA, you know.
+5336717	5349142	It's on PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series, and last but not least, we have Fate, Samurai, Remnant on PC, Nintendo Switch, PlayStation 4, and PlayStation 5.
+5349142	5349402	That's it.
+5349865	5354809	Alright, let's go to Japan and then I'll beg Loki to do the UK with DarkSakuraNight here.
+5354809	5359552	So starting on the Nintendo Switch, a lot of similar stuff that Loki been talking about already.
+5359552	5365276	But the Nintendo Switch is getting Infinity Strash, Dragon Quest, The Adventure of Dai, which was brought up on the Xbox event.
+5365276	5367838	So we already talked about that a little bit, but that is out this week.
+5367838	5370901	Fate Samurai Remnant also out this week.
+5370901	5372462	Ys X Nordics.
+5373102	5374303	Trinoline, and Limited Edition
+5394391	5408270	floral flower love in a regular and you guessed it limited edition not coming into limited edition but maybe you'll want to pick it up anyway saga planets for work set is coming is that a game or is that a peripheral no it is it's actually
+5409383	5412226	Magical Drop 6 is out in Japan on the Switch this week.
+5412226	5414709	Another new Magical Drop game in the year 2023.
+5414709	5415129	Who'da thunk?
+5431526	5437589	Trine 5, a Clockwork Conspiracy, also out on the 28th in Japan this week.
+5437589	5440230	Let's take a look quickly at the PlayStation 5.
+5440230	5455217	On the PlayStation 5 this week in Japan, Remnant 2 is out on the 26th, and then everything else is out on the 28th, such as Infinity, Strash, Dragon Quest, Adventure of Dai, Fate Samurai, Remnant, Ys X, and I think that's it.
+5455217	5458279	No, Hitman, World of Assassination, is also out in Japan.
+5458279	5459800	I guess a localized version of Hitman.
+5461513	5463115	Meet.
+5463115	5465578	Let's go to Europe, Loki.
+5465578	5471906	Well, Europe is getting Paleo Pines as well on PlayStation and Switch.
+5471906	5476712	Ravensburger Labyrinth on the Switch and PlayStation.
+5477577	5503742	a game called games advent calendar 25 days 25 surprises uh that is on the switch surprise it's all trash probably it's your your dose of shovelware 25 days of shovelware if you will uh art of rally is a very confusing piece of box art there uh that is on playstation and switch it looks like it's like if you imagine like one of those kind of like
+5504460	5510602	Flurry artwork calendars, but then you also have a car like drifting through the landscape.
+5510602	5512643	That's kind of what we're getting with the cover here.
+5512643	5516505	That's unique, I should say.
+5516505	5518685	That is coming out as well.
+5518685	5523747	Vampire, The Masquerade, Swan Song on the Nintendo Switch.
+5523747	5529109	And then we have Dolphin Spirit Ocean Mission on PlayStation and the Switch.
+5529109	5532911	Enchanted Portals Tales Edition on the PlayStation.
+5533831	5539335	FC-24 also coming out on all consoles as well.
+5539335	5540515	And what else?
+5540515	5545859	Fate Samurai Remnant on PlayStation and Nintendo Switch.
+5545859	5553543	We've got My Time at Sandrock on PlayStation, Xbox, and the Switch.
+5553543	5557606	Paw Patrol World on PlayStation, Xbox, and Switch.
+5559047	5563613	Vampire the Masquerade, FireFightingSim, HumanFallFlatDreamCollection
+5579652	5583574	Well, we have just a few more stories for you, and then we'll be opening up our listener roundtable.
+5583574	5591518	If you want to call in tonight over at VOG Network dot com slash discord in our green room channel, or we will field questions from our mailbag as well as chat.
+5591518	5594520	We actually have an email tonight, so we'll get to that in a little bit.
+5594520	5596400	But first, some more stories.
+5596400	5598241	Loki, what do you got for us?
+5598241	5601703	Payday 2 launch was not great.
+5601703	5607226	They had server problems because Payday 3, whatever.
+5607226	5607726	Payday 2
+5610342	5612383	Payday 2, too.
+5612383	5617006	Yes, Payday 2 cheap to buy enough servers to run our game.
+5617006	5619748	So apparently they had infrastructure problems.
+5619748	5620569	We are so sorry.
+5620569	5624932	Infrastructure did not hold up as expected, although it's impossible to prepare for every scenario.
+5624932	5626873	We should be able to do better.
+5626873	5634538	We worked tirelessly until we have restored all services and players can get back to heisting again without issues.
+5634538	5637320	Keep in mind that this game is always online.
+5637740	5638741	Thank you for watching!
+5658181	5660204	Yeah, so, not great.
+5660204	5667254	It says, no matter what you choose, public, friends only, invite only, it will just matchmaker forever.
+5667254	5671180	It says, release days are usually tough for studios, but this, this is embarrassing.
+5673367	5681353	And then, of course, on PlayStation 5, there was also apparently the wrong build of the game pushed out to the network.
+5681353	5686777	For some reason, they were playing an older version of the game, so they were rolling out a patch to fix that.
+5686777	5689059	So it's actually the launch edition of the game.
+5689059	5689579	Whoops.
+5689579	5692121	Whoops.
+5692121	5694543	And that came, of course, a day later.
+5694543	5699687	But it does suck for the people that paid an extra $30 to play the game before everybody else.
+5700612	5703134	You paid to be a beta tester.
+5703134	5708637	You should be getting that money back at a class action as far as I'm concerned.
+5708637	5715161	I mean, I'm pretty sure all the legal binding agreements you agree to make them immune to that sort of thing, but it's bull.
+5715161	5723846	Haven't we learned by now that like if you play a game, if you pay extra money to play a game a week before it comes out, you are the beta tester in this.
+5724659	5736569	that DemiNez was happening here because there are going to be bugs and you get to find them and tell them to the developers and then they patch it out for everybody else that you know, paid the regular price.
+5736569	5744676	Here's the problem is I can sit here and say yes, 100% that and at the same time go and I spent $100 on Diablo 4 and I got to play it early.
+5744676	5746017	It's me.
+5746017	5747198	Hi.
+5747198	5747958	I'm the problem.
+5747958	5748339	It's me.
+5748339	5751501	That's why they do it.
+5751501	5752822	That's why they do it.
+5752822	5753423	People will pay it.
+5754586	5759556	because people will pay it and even if you complain about it and stuff like that
+5760836	5765119	the next game that, you know, tickles your fancy that, you know.
+5765119	5767701	But for what it's worth, Diablo 4 had a smooth launch.
+5767701	5769002	It was nothing like Diablo 3.
+5769002	5774446	For what it's worth, they had those open, they were very smart to do those open test windows.
+5774446	5776888	So for what it's worth, maybe I'm not as big of a problem as you think.
+5776888	5779850	And I'm telling you right now, I am not better than the problem.
+5779850	5782552	Like, I am right now, 100%.
+5782552	5789917	If Rockstar Games came out tomorrow and said, hey, Grand Theft Auto 6 is going to be available to play in a week early, if you buy our special edition, I was like,
+5790818	5793259	How much is your special edition?
+5793259	5797679	And so like, yeah, that that is unfortunately, we are all part of the problem.
+5797679	5800380	That's right.
+5800380	5801180	But you know what?
+5801180	5802380	I've come to live.
+5802380	5806461	I've come to accept the fact that even if we weren't part of the problem, the problem would still exist.
+5806461	5808382	So.
+5808382	5809582	You know who doesn't do this, though?
+5809582	5811102	You know who isn't part of the problem?
+5811102	5812262	Nintendo.
+5812262	5818824	But if they ever did this with F-Zero, I would absolutely be like, oh, yes, let me let me pluck down the extra money.
+5818824	5819964	Absolutely.
+5819964	5820524	And on that note,
+5821784	5823405	Yeah.
+5823405	5833290	On that note, F099 is going to be adding more tracks soon, thanks to data miners who are mining that data.
+5833290	5836272	They're working overtime on mining data.
+5836272	5837712	They are out there looking.
+5837712	5841114	They have found an arcade mode, a survive mode.
+5841114	5845836	Arcade mode includes timers and time gates placed around the circuits.
+5845836	5846757	Survival mode.
+5847766	5849647	Don't know what that's about yet.
+5849647	5855411	They said only one model has been found in a big flat square with a circle inside of it.
+5855411	5860514	Could it be F099 battle mode like Mario Kart?
+5860514	5863216	Can we get some balloons and shells and stuff?
+5863216	5863837	That would be kind of cool.
+5863837	5865337	That would be fun.
+5865337	5866238	Can you imagine?
+5866238	5870781	Survival arcade mode sounds like it might be an offline type of version, though, that's based on time trials.
+5870781	5872042	That would be actually really cool.
+5872042	5873483	I hope I hope that's what that is.
+5874107	5875728	Let's back up for a second though.
+5875728	5879831	Let's imagine a world where Mario Kart 99 exists.
+5879831	5886796	Can you imagine battle, like original Mario Kart battle mode with 99 players?
+5886796	5889498	I mean, aside from how like chaotic and trash it would be.
+5891446	5893427	pretty cool.
+5893427	5896988	DarkSakura says, according to Bobby, we knew the extra tracks were coming.
+5896988	5899669	I just don't think it was as clear on the new modes, though.
+5899669	5905391	So probably, you know, spotted or what have you before maybe in the early sizzle reels and stuff.
+5905391	5907972	PodCulture says, I want a new Blur game.
+5907972	5910173	You know, yeah, Blur is awesome.
+5910173	5911333	Blur 2 would have been.
+5911333	5912494	Microsoft owns.
+5912494	5914275	I saw a great comment somewhere.
+5914275	5916315	I don't know if it was on social media or on Discord or what.
+5916315	5916875	Sorry.
+5916875	5918376	So I don't know who to attribute this comment to.
+5918376	5920217	But somebody had said, you know,
+5921337	5925200	Microsoft's going to own Activision and Blizzard now, and Activision's properties.
+5925200	5929963	So if you squawk loud enough where Phil Spencer can hear it, it might happen.
+5929963	5935667	And I think the comment, I want to say maybe it was our Discord said, I don't even care if it's Forza Blur.
+5935667	5936948	I'll take it.
+5936948	5939270	And to be honest, yes to that.
+5939270	5941491	Can you about Forza Blur?
+5941491	5943492	Yes.
+5943492	5945094	Bold it, underline it.
+5945094	5948416	That'd be great.
+5948416	5948656	Anyway.
+5949299	5955843	or even just make it a mode of like Horizon or something like that if you want to like, like spin it off or something.
+5955843	5956464	I don't know.
+5956464	5958805	But I think they could make it its own franchise.
+5958805	5962408	And besides, Blur 2 looked pretty cool.
+5962408	5965010	Like, you know, the early stuff that they showed of that.
+5965010	5967471	Yeah, it's a bummer it didn't happen.
+5967471	5969112	I still need to play F-Zero 99.
+5969112	5969693	Oops.
+5969693	5972655	I don't want to be the reason why we don't get a new F-Zero.
+5972655	5975597	It's probably too late because launch week's the most important.
+5975597	5976757	But, you know, I've been busy.
+5976757	5977198	Leave me alone.
+5977898	5978899	Umjammerlamie in MAME
+5998460	6021202	um this is awesome i had no idea about this or like you know oh this is you know and i'm like i remember driving to arcade infinity and there was one of these here like that's that's where we were able to play one of these in the u.s was at arcade infinity and the machine was tiny i remember that because the pictures make it look big it wasn't like to play that stupid guitar i had like get on my knees to actually play that guitar um so but anyway
+6022043	6027608	The good news is, if you want to be able to play this, it's been dumped and it's now playable in MAME.
+6027608	6036236	It's a port of the PS1 version, but it has some new high quality music, some new content and some new difficulty levels as well.
+6036236	6045143	And yeah, so apparently, some person kept this in a barn for literally 10 years, and it was found and dumped.
+6045143	6045564	How about that?
+6046715	6056441	They're saying that actually the person that held this arcade machine was Jonathan Ross, who's, I think he's like a commentator in the UK or some type of news personality over there.
+6056441	6059183	So it's kind of interesting.
+6059183	6061705	Yeah, but it's funny to hear people talk about lost games.
+6061705	6064587	I'm like, Okay, well, I literally remember playing this.
+6064587	6068689	But to be fair, that was probably the only place in the entire US that had this game.
+6068689	6072752	So I understand that like most people had no idea it existed to be to be fair.
+6072752	6075514	So anyway, I thought that was fun.
+6076300	6078641	Alright, let's get to the listener roundtable.
+6078641	6081703	Your chance to have a say on our program tonight.
+6081703	6085144	If you want to ask us a question in chat, you sure can.
+6085144	6093888	You can also join our Discord, vognetwork.com slash Discord, and you can join the green room and we'll take calls.
+6093888	6099911	Or you can email us, participate at orangeloungeradio.com and we read those emails here on the program.
+6099911	6102893	And we have one tonight from Garth Wolf.
+6103708	6108870	who wrote us, Dear OLR, this is funny because you're getting me and not DarkSakura.
+6108870	6113232	I don't think DarkSakura would have got this, but I know exactly what this is, what you're doing, Garth Wolfe.
+6113232	6117854	And the email reads here, Dear OLR, oh my God, touch me right there.
+6117854	6119695	Almost there, touch me right there.
+6119695	6120316	That's all.
+6120316	6122977	With love and tension, Kylie Minogue.
+6122977	6126278	Yes, those are the lyrics to Tension by Kylie Minogue.
+6126278	6129340	And you have hereby invited a tangent train onto the show.
+6130020	6132302	Last- yesterday, here's the thing.
+6132302	6134483	Yesterday, I actually went hiking.
+6134483	6144450	I went up in the mountains and I went and we went to these falls up in the mountains that my friend had been to once before and he thought they were really cool and he wanted to go back and I was like, I want to go hiking, that'll be fun.
+6144450	6147512	And it was fun, but it was very, very sore.
+6147512	6150654	On our way back, we decided, you know, we walked a lot yesterday.
+6150654	6153597	We decided to celebrate by going out to the bar last night.
+6154377	6182363	but here's the thing the bar was empty as fuck like there was a handful of people there that was it usually on Saturday night it's it's popping but this week empty dead you know why because a little thing is going on about 90 miles west of here called Folsom Street Fair and a lot of the people that I think would have been the crowd to go out last night probably went over there for the day for those types of shenanigans so we had the place to ourself pretty much
+6183426	6189612	which means we have the jukebox to ourselves because all through apps now you can request songs on apps and it's all digital.
+6189612	6193416	So like when things come out, they're pretty much instantly on these digital jukeboxes.
+6193416	6199042	So I will have you know, I played Tension twice and Padam Padam once.
+6200473	6202094	on the jukebox last night.
+6202094	6202515	There you go.
+6202515	6203776	And that was my gaming week.
+6203776	6209581	That's how I gamified the jukebox over there at the local club.
+6209581	6211062	So let's see.
+6211062	6213184	SJ100 Matt says, saw your hiking photos.
+6213184	6213704	Very nice.
+6213704	6215546	Yes, once in a while I get outside and play.
+6215546	6219229	And I am able to video game it because guess what?
+6219229	6225375	The trailhead way at the end by the falls was a Pokestop and a Pikmin mushroom.
+6226500	6232590	So somebody in Pikmin Bloom got a postcard for me today from the trailhead way out there in the middle of nowhere.
+6232590	6233312	So that's kind of fun.
+6234294	6242099	DarkDeadSteel wants to point out that The Misses and himself have been co-opping Illusion Island on Switch.
+6242099	6245281	It's a super fun platformer or Metroidvania.
+6245281	6248583	Yeah, I've heard a lot about Illusion Island and that it's a lot of fun.
+6248583	6253366	I think Bobby and Mrs. Blackwolf have also been playing their way through this game and it's a lot of fun.
+6253366	6255407	So I'll have to check this out.
+6255407	6258509	Kind of wasn't on my list, but I thought it looked cool.
+6259209	6263350	Um, so yeah, I'm glad to hear that the game is actually fun on top of that as well.
+6263350	6265110	That's, that's pretty great.
+6265110	6272172	So, um, Loki, do we have any last minute stories tonight for our folks?
+6272172	6273973	No, no, we don't.
+6273973	6275153	I looked.
+6275153	6276453	Gosh.
+6276453	6279154	I mean, I would say it's a slow news week, but it really wasn't.
+6279154	6283875	It's just that it was kind of like a couple really big stories.
+6283875	6287516	And then that was it.
+6287516	6288536	Silence everywhere else.
+6289573	6292094	Well, then with that, we're going to go ahead and wrap up the show.
+6292094	6298655	I know it's a little bit of a shorter show this week, but that's how it goes when we're down a host, although completely understandable with the holiday going on and everything.
+6298655	6307517	But we will be back next week to do this all again and talk about what we've been playing for the week, as well as whatever surprise news comes up Monday morning.
+6307517	6311938	Who knows what else is going to get leaked, whether it be in a court document or what have you.
+6313963	6316044	Loki, thank you so much for being here tonight.
+6316044	6320886	Let me read the standards feel and then I'll ask you to give us a final thought here.
+6320886	6323167	But thank you as always for listening to Orange Lounge Radio.
+6323167	6326128	If you enjoyed what you heard here, please tell a friend or two about the show.
+6326128	6330650	Help us spread the word because we are the show where every gamer has a voice but we need more voices to put out on air.
+6331010	6337715	So nice five star review on a site like iTunes, Spotify or wherever it is you found this program go an awful long way.
+6337715	6338816	Super appreciate it.
+6338816	6343460	Please make sure you're also following VOG Network on YouTube over at VOG Network.
+6343460	6346282	We got some fun stuff planned for the coming week.
+6346282	6351566	And our network as well on Twitch also at VOG Network.
+6351566	6354268	Um, let's go around to get final thoughts with that.
+6354268	6355469	So Loki, your final thought tonight.
+6356552	6360074	Uh, my final thought is, uh, go watch my finale if you haven't watched it yet.
+6360074	6362616	And if you have watched it, watch it again, because why not?
+6362616	6363136	It's great.
+6363136	6363957	I like watching it.
+6363957	6364738	I've watched it several times.
+6364738	6366359	Watch it with a friend.
+6366359	6366959	Exactly.
+6366959	6368340	It's, it's, it's a lot of fun.
+6368340	6371322	Um, hopefully I'll have my new episode out here soon.
+6371322	6377806	Um, sooner or later, I have a lot I've been working on and hey, you never know, there may be another giant robot in it.
+6377806	6378186	All right.
+6378186	6380208	I just can't get away from making giant robots.
+6380208	6380568	I don't know.
+6382475	6388360	Um, so my final thought tonight, I'll also plug my personal streaming, but I'm going to drop a whopper on all of you right now.
+6388360	6394045	And we'll talk about it more tomorrow because I have decided I'm no longer streaming Baldur's Gate 3 co-op.
+6394045	6398688	We're going to, we're going to end our co-op play of Baldur's Gate 3 after two sessions.
+6398688	6401391	I've decided we're moving on and I'm going to talk all about why.
+6401391	6402912	So I'll leave it on that cliffhanger.
+6402912	6406214	I'm going to talk all about why we're making that change tomorrow.
+6406214	6408696	Um, and I, I'll give you this hint.
+6408696	6410558	Um, I, I,
+6411137	6413118	I think we can do a better stream.
+6413118	6417160	And that may actually surprise you that I'm going to say that, but I think we can do a better stream.
+6417160	6420781	So Baldur's Gate 3 isn't working.
+6420781	6426744	And considering I was so complimentary about that game earlier, and there are still a lot of positive feelings I have around that game,
+6427084	6429365	I'm sure you all are curious what's going on there.
+6429365	6430585	Did Shane do something wrong?
+6430585	6431185	No, he didn't.
+6431185	6431505	No.
+6431505	6434046	I mean, besides opening that door when he shouldn't have.
+6434046	6436247	But that's neither here nor there.
+6436247	6448850	No, in fact, Shane will be joining myself tomorrow to start our playthrough of Pokemon Scarlet and Violet together, which I had started before, but never finished.
+6449270	6452631	So we're gonna start the Pokemon Scarlet playthrough tomorrow.
+6452631	6454752	Scarlet for me, Violet for Shane.
+6454752	6457394	We're gonna do that together on co-op tomorrow.
+6457394	6464336	And I know that's gonna go well because I've streamed that game before and that's gonna be a lot easier, I think, for a variety of reasons, which we'll talk about very soon.
+6466174	6468855	QuestBuster says it's all good, you gave it an honest go.
+6468855	6470255	Thank you very much, I appreciate that.
+6470255	6474777	And apparently some news breaking right here at the end of the show.
+6474777	6477538	It sounds like the Rider Strike is done.
+6477538	6483000	It's a deal, WGA and AMTP reached tentative agreement to end the Rider Strike.
+6483000	6484260	Well that is promising news.
+6484260	6485441	Now do the same for the actors.
+6486241	6502426	Hopefully that does mean, you know, if they've been able to come to an agreement on some of those things like AI and so forth, and that hopefully means they're about to come to an agreement with the actors and all that as well, because I'll tell you what, this year's TV movie roster is already fucked as a result of this.
+6502426	6510968	This is why there's certain things like, like, I think the Mean Girls musical movie was not supposed to get a theatrical release, but it is now.
+6512068	6518152	There's probably going to be a winter season of Big Brother on CBS, which is fine, because I love Big Brother.
+6518152	6523155	Although, can I just say my opinion on Big Brother real quick?
+6523155	6525217	Ciri domination yet again.
+6525217	6533142	And I know she's in a little trouble right now as of late, but look, look, if they were foolish not to evict her the very first week,
+6534068	6535509	That's all I'm saying.
+6535509	6539591	She that that that woman knows how to fucking play a strategy game.
+6539591	6541752	She's she's one of the best there ever was.
+6541752	6543913	And she's got a lock on that house.
+6543913	6544813	I'll tell you that.
+6544813	6545994	But there's gonna be a winner, big brother.
+6545994	6550016	And this is all because the writer strike went on for 110 days and all this.
+6550016	6554038	Yeah, SJ 100 Matt said we were gonna get a lot of game shows and things with influencers.
+6555500	6559462	Yeah, let's hope the actors follow suit on Monday and everybody can get back to work.
+6559462	6563223	But most of all, let's hope for a fair deal.
+6563223	6567905	But I know I will be really relieved as somebody who loves panels at cons.
+6567905	6578290	I'll be very relieved when the actors sign that deal so they can go back to talking about like, like you can actually get, you know, Gates, McFadden, Jonathan Frakes to talk about Star Trek.
+6579352	6581192	You've been listening to Orange Lounge Radio.
+6610615	6615697	Orange Lounge Radio is a production of OLR Studios.
+6615697	6621120	To join us for our live show, tune in to vognetwork.com Sunday nights at 6 p.m.
+6621120	6622680	Pacific, 9 p.m.
+6622680	6624541	Eastern.
+6624541	6634025	The views and opinions expressed in this program do not necessarily reflect those of the staff of Orange Lounge Radio nor VOG Network, but you know they were all still true.
