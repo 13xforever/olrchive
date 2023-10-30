@@ -5,6 +5,8 @@
 # set-alias whisper "$($env:localappdata)\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\scripts\whisper.exe"
 
 # pip install git+https://github.com/m-bain/whisperx.git
+# pip install git+https://github.com/m-bain/whisperx.git --upgrade
+# pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
 
 $useWhisperX = ($null -ne $env:hf_token) -and ($env:hf_token -ne '')
 #$useWhisperX = $False
