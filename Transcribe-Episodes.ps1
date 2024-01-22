@@ -62,7 +62,7 @@ foreach ($f in $files)
         $conditionOnPreviousText = $args[4]
 
         # --compression_ratio_threshold 2.0 --no_speech_threshold 0.5
-        $initialPrompt = "Skie, DarkSakura, Loki, VOG Network, Ranma, Actdeft, Drew, Carameldansen"
+        $initialPrompt = "Skie, DarkSakura, Loki, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen"
         if ($useWhisperX)
         {
             #  --print_progress True (currently broken)
