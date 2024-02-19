@@ -1,0 +1,4700 @@
+WEBVTT
+
+00:09.927 --> 00:17.349
+[SPEAKER_03]: Xbox president Sarah Bond has stated that Microsoft is working on the next-gen Xbox, which will be the largest technical leap you've ever seen in a hardware generation.
+
+00:17.349 --> 00:26.671
+[SPEAKER_03]: Maybe making up for the fact that the leap from the last generation to this one was not so incredible, despite consoles being larger than they ever have been, and if PC video cards are any indication, they're not getting any smaller.
+
+00:26.671 --> 00:28.651
+[SPEAKER_03]: Inside this cynic is a disappointed idealist.
+
+00:28.651 --> 00:36.233
+[SPEAKER_03]: Now it's time for your hosts, Rob Roberts, Jamie Sommers, and Loki to tell you about this, the Xbox podcast, and the rest of the week's gaming news, starting right now on the show, where every gamer has a voice.
+
+00:38.823 --> 00:41.685
+[SPEAKER_00]: Hello, my friends out there on the internet.
+
+00:41.685 --> 00:49.449
+[SPEAKER_00]: Welcome back to another week of the show where we always get it right on the first take and talk about all things video games.
+
+00:49.449 --> 01:01.275
+[SPEAKER_00]: It's the show where every gamer has a voice, Orange Lounge Radio, live tonight with episode number 993 of our show for tonight, February the 18th of 2024.
+
+01:01.275 --> 01:05.718
+[SPEAKER_00]: My name is Rob Roberts and I am joined live each and every week as we do tape live, of course,
+
+01:06.138 --> 01:14.042
+[SPEAKER_00]: Sunday nights at nine o'clock Eastern, six o'clock Pacific at The Voice Geeks Network, twitch.tv slash VOG Network, VOG Network, right after the Bobby Blackwell show.
+
+01:14.042 --> 01:19.725
+[SPEAKER_00]: And you can hear myself, Rob Roberts, and my co-host DarkSakura or Jamie Summers.
+
+01:19.725 --> 01:21.106
+[SPEAKER_06]: Hey, guess what?
+
+01:21.106 --> 01:22.867
+[SPEAKER_06]: I made a new theme song for us.
+
+01:22.867 --> 01:24.267
+[SPEAKER_00]: Did you?
+
+01:24.267 --> 01:24.567
+[SPEAKER_06]: Yeah.
+
+01:24.567 --> 01:25.608
+[SPEAKER_06]: You want a preview?
+
+01:25.608 --> 01:26.068
+[SPEAKER_00]: Yeah.
+
+01:26.068 --> 01:27.649
+[SPEAKER_00]: Like legit a new intro.
+
+01:27.649 --> 01:28.549
+[SPEAKER_00]: That's awesome.
+
+01:28.549 --> 01:29.170
+[SPEAKER_06]: You ready?
+
+01:29.170 --> 01:29.590
+[SPEAKER_00]: Yeah, yeah, yeah.
+
+01:34.824 --> 01:36.205
+[SPEAKER_00]: I hate you.
+
+01:36.205 --> 01:38.026
+[SPEAKER_01]: Delete it.
+
+01:38.026 --> 01:39.246
+[SPEAKER_00]: Show's over.
+
+01:39.246 --> 01:41.927
+[SPEAKER_00]: Okay, so here's the thing.
+
+01:41.927 --> 01:44.909
+[SPEAKER_00]: I've been having some microphone issues as we're doing live tonight.
+
+01:44.909 --> 01:46.009
+[SPEAKER_00]: It's not microphone issues.
+
+01:46.009 --> 01:48.870
+[SPEAKER_00]: It's setting issues and configurations that got reset and everything.
+
+01:48.870 --> 01:51.972
+[SPEAKER_00]: So this is actually the third take of the show's intro, but darn it.
+
+01:51.972 --> 01:54.513
+[SPEAKER_00]: This is going to get it right this time.
+
+01:54.513 --> 01:56.554
+[SPEAKER_00]: So yeah, exactly.
+
+01:57.074 --> 02:00.677
+[SPEAKER_00]: Anyway, uh, we got my soundboard came in handy.
+
+02:00.677 --> 02:01.558
+[SPEAKER_00]: Yeah, yeah, yeah.
+
+02:01.558 --> 02:02.758
+[SPEAKER_00]: All right.
+
+02:02.758 --> 02:04.080
+[SPEAKER_00]: But how's your week going?
+
+02:04.080 --> 02:08.503
+[SPEAKER_00]: Otherwise, DarkSakura, besides all the constant retakes tonight?
+
+02:08.503 --> 02:11.085
+[SPEAKER_06]: Um, well, it's been okay.
+
+02:11.085 --> 02:13.967
+[SPEAKER_06]: Yeah, it's it's been a medical week.
+
+02:13.967 --> 02:15.548
+[SPEAKER_06]: Does that make sense?
+
+02:15.548 --> 02:17.210
+[SPEAKER_00]: Yes, I think so.
+
+02:17.210 --> 02:21.173
+[SPEAKER_00]: But usually, I mean, that's a good good medical stuff, hopefully.
+
+02:22.045 --> 02:25.008
+[SPEAKER_06]: Well, I mean, in the I'll just go ahead and put it out here.
+
+02:25.008 --> 02:28.691
+[SPEAKER_06]: I had part of my toenail permanently removed.
+
+02:28.691 --> 02:29.712
+[SPEAKER_06]: Mm hmm.
+
+02:29.712 --> 02:34.536
+[SPEAKER_06]: And I had a cortisone shot in my hip.
+
+02:34.536 --> 02:35.516
+[SPEAKER_06]: And I had a blood draw.
+
+02:35.516 --> 02:41.081
+[SPEAKER_06]: OK, so you're you're getting your so like I'm like the human pin cushion today.
+
+02:41.081 --> 02:44.144
+[SPEAKER_00]: You're getting your punch card stamped for ten ten visits.
+
+02:44.144 --> 02:46.306
+[SPEAKER_00]: Get one free at the doctor's office type of thing, right?
+
+02:47.363 --> 02:56.565
+[SPEAKER_06]: I got at least two things done in one day so that was fine.
+
+02:56.565 --> 02:59.906
+[SPEAKER_06]: Not to mention when I got the jab in my toe.
+
+02:59.906 --> 03:04.306
+[SPEAKER_06]: Nothing hurts worse than getting the lidocaine in your toe.
+
+03:04.306 --> 03:06.207
+[SPEAKER_06]: Or whatever they want to give you.
+
+03:06.207 --> 03:09.007
+[SPEAKER_06]: But I will tell you this.
+
+03:09.007 --> 03:11.668
+[SPEAKER_06]: I found that it hurts worse when I can't see it happen.
+
+03:12.995 --> 03:13.496
+[SPEAKER_00]: Reaction
+
+03:30.140 --> 03:36.342
+[SPEAKER_00]: Oh no, when I get my blood drawn, I walk in there and I say, go ahead and take it from right here and put it on the arm.
+
+03:36.342 --> 03:38.003
+[SPEAKER_00]: I'm going to be looking out the window.
+
+03:38.003 --> 03:38.583
+[SPEAKER_00]: No offense.
+
+03:38.583 --> 03:39.544
+[SPEAKER_00]: I just don't like to watch.
+
+03:39.544 --> 03:42.345
+[SPEAKER_00]: You know, I have my system down.
+
+03:42.345 --> 03:44.045
+[SPEAKER_06]: Then do this instead.
+
+03:44.045 --> 03:52.408
+[SPEAKER_06]: When you feel the first, breathe in then, and then just let it out slowly and it will still force you to relax.
+
+03:52.408 --> 03:53.689
+[SPEAKER_06]: It'll make it hurt less.
+
+03:53.809 --> 03:56.270
+[SPEAKER_00]: I do feel like I kind of instinctively do that a little bit.
+
+03:56.270 --> 03:57.510
+[SPEAKER_00]: So maybe.
+
+03:57.510 --> 03:57.890
+[SPEAKER_00]: Yeah.
+
+03:57.890 --> 04:01.872
+[SPEAKER_00]: Anyway, I do want to anyway, I sort of mentioned Medical Lounge Radio.
+
+04:01.872 --> 04:03.932
+[SPEAKER_00]: Yeah, no, I want to mention our chat room, though.
+
+04:03.932 --> 04:04.933
+[SPEAKER_00]: Reekin Elite is there.
+
+04:04.933 --> 04:05.193
+[SPEAKER_00]: Hello.
+
+04:05.193 --> 04:08.194
+[SPEAKER_00]: Hello, saying OMG, you okay?
+
+04:08.194 --> 04:10.034
+[SPEAKER_00]: You know, you're talking to me.
+
+04:10.034 --> 04:10.995
+[SPEAKER_00]: Yeah, I'm fine.
+
+04:10.995 --> 04:11.215
+[SPEAKER_00]: Yeah.
+
+04:11.215 --> 04:11.975
+[SPEAKER_00]: Okay.
+
+04:11.975 --> 04:17.797
+[SPEAKER_06]: Keep in mind, a lot of stuff that I do when when I go in for stuff like this is preventative.
+
+04:17.797 --> 04:17.917
+[SPEAKER_02]: Hmm.
+
+04:19.382 --> 04:29.700
+[SPEAKER_06]: I would rather, like for example I get like mild ingrown toenails and since I'm doing ballet I know they'll get worse so I just had them do it
+
+04:30.686 --> 04:31.006
+[SPEAKER_06]: DarkSakura
+
+04:52.034 --> 04:55.717
+[SPEAKER_06]: DarkSakura, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen
+
+05:09.046 --> 05:34.238
+[SPEAKER_00]: which I think the normal age like 73, 74 and my dad's like 10 years above that so he finally had to have one of his eyes done this week and so I had to take him not just to the surgery but then the next day take him to the follow-up appointment so I just I had to basically play uber this week which is fine because it sounds like my dad like he's like yeah I can actually see better because right now now he has one eye without and one eye with because he has the other eye now scheduled to be done in April
+
+05:34.778 --> 05:36.739
+[SPEAKER_00]: So he has one eye without, one eye with.
+
+05:36.739 --> 05:38.060
+[SPEAKER_00]: He's like, yeah, I can see the difference.
+
+05:38.060 --> 05:38.821
+[SPEAKER_00]: It's kind of trippy.
+
+05:38.821 --> 05:41.963
+[SPEAKER_00]: Like the, one of them's got different color hues than the other.
+
+05:41.963 --> 05:45.525
+[SPEAKER_00]: So he's kind of living with that for a little bit until they do the other eye.
+
+05:45.525 --> 05:48.707
+[SPEAKER_00]: So, um, kind of interesting.
+
+05:48.707 --> 05:52.350
+[SPEAKER_06]: Once my right toe is healed up, then I'm going to get the left one done.
+
+05:52.350 --> 05:57.113
+[SPEAKER_06]: Um, I might wait and do it after my birthday trip to Disneyland.
+
+05:57.113 --> 05:58.834
+[SPEAKER_06]: Um, so we'll see.
+
+05:58.834 --> 06:01.516
+[SPEAKER_06]: Um, but I mean, you know, uh,
+
+06:03.467 --> 06:19.305
+[SPEAKER_06]: Ranma was saying that he gets a blood draw every three months and I get a full blood panel twice a year for my post-bariatric surgery panel and they also take a few extras like parathyroid and thyroid because I'm on thyroid medication.
+
+06:20.226 --> 06:22.767
+[SPEAKER_06]: So I watch the whole thing.
+
+06:22.767 --> 06:28.310
+[SPEAKER_06]: And every so often, I'll take a picture of the vials and then go get color matched for hair dye.
+
+06:28.310 --> 06:29.931
+[SPEAKER_00]: No, no.
+
+06:29.931 --> 06:30.771
+[SPEAKER_00]: Do you remember?
+
+06:30.771 --> 06:31.212
+[SPEAKER_00]: Do you remember?
+
+06:31.212 --> 06:33.233
+[SPEAKER_00]: Sorry, I promise it's a video game show.
+
+06:33.233 --> 06:35.034
+[SPEAKER_00]: But sometimes we catch up on our personal lives too.
+
+06:35.034 --> 06:37.035
+[SPEAKER_00]: This is our little little chat show every week.
+
+06:37.035 --> 06:39.516
+[SPEAKER_00]: Do you remember when I had that big bump on the back of my neck?
+
+06:39.963 --> 06:40.583
+[SPEAKER_00]: You remember?
+
+06:40.583 --> 06:41.724
+[SPEAKER_06]: I don't know.
+
+06:41.724 --> 06:42.365
+[SPEAKER_06]: The lipoma?
+
+06:42.365 --> 06:44.866
+[SPEAKER_00]: Yeah, most of that was during the pandemic, I think.
+
+06:44.866 --> 06:47.908
+[SPEAKER_00]: So I don't know how if you ever saw it, like when it got like really big or whatever.
+
+06:47.908 --> 06:50.270
+[SPEAKER_00]: But they finally cut that out a few years ago, right?
+
+06:50.270 --> 06:51.511
+[SPEAKER_00]: So I don't have it anymore.
+
+06:51.511 --> 06:53.492
+[SPEAKER_00]: And because because it was starting to hurt.
+
+06:53.492 --> 06:54.953
+[SPEAKER_00]: And the minute I said, I think it hurts.
+
+06:54.953 --> 06:56.354
+[SPEAKER_00]: They were like, Nope, we're taking it out.
+
+06:56.354 --> 06:57.695
+[SPEAKER_00]: We're making sure it's not anything bad.
+
+06:57.695 --> 06:58.976
+[SPEAKER_00]: Good news isn't anything bad.
+
+06:58.976 --> 07:03.779
+[SPEAKER_00]: But the first thing once they took that out, which they did not put me under for, which okay, fine.
+
+07:03.779 --> 07:04.380
+[SPEAKER_00]: It's local anesthetic.
+
+07:04.380 --> 07:04.760
+[SPEAKER_00]: That's normal.
+
+07:05.020 --> 07:08.381
+[SPEAKER_00]: Yeah, but when they took it out, the first thing they were like, do you want to see it?
+
+07:08.381 --> 07:11.322
+[SPEAKER_00]: And I said, absolutely the fuck not.
+
+07:11.322 --> 07:12.703
+[SPEAKER_00]: Do I want to see that?
+
+07:12.703 --> 07:14.724
+[SPEAKER_00]: Throw it in the garbage.
+
+07:14.724 --> 07:15.464
+[SPEAKER_00]: And they did.
+
+07:15.464 --> 07:16.905
+[SPEAKER_06]: My pomas aren't gross.
+
+07:16.905 --> 07:19.706
+[SPEAKER_06]: It literally is just fat.
+
+07:19.706 --> 07:21.606
+[SPEAKER_00]: That whole, that whole experience.
+
+07:21.606 --> 07:24.367
+[SPEAKER_00]: See, and this is people take to the medical stuff differently.
+
+07:24.367 --> 07:32.751
+[SPEAKER_00]: No, that whole thing, like I was in shock for like four hours after that whole thing happened, because I should not have been awake for it.
+
+07:32.751 --> 07:33.131
+[SPEAKER_06]: Honestly,
+
+07:34.071 --> 07:38.434
+[SPEAKER_06]: Lipoma, unless it's like within the muscle or something.
+
+07:38.434 --> 07:43.217
+[SPEAKER_06]: It's absolutely like common procedure to be awake during lipoma removal.
+
+07:43.217 --> 07:45.619
+[SPEAKER_00]: I'm sure it is, but I still should have been.
+
+07:45.619 --> 07:49.661
+[SPEAKER_00]: That's all I'm saying, because I was not a great experience.
+
+07:49.661 --> 08:00.388
+[SPEAKER_06]: But, you know, I actually had to be able to recognize lipoma and cysts and cancers and things as a massage therapist.
+
+08:00.388 --> 08:00.949
+[SPEAKER_06]: But I will.
+
+08:01.927 --> 08:05.549
+[SPEAKER_06]: I will tell you is like I told I told her flat out when I get the other toe done.
+
+08:05.549 --> 08:06.910
+[SPEAKER_06]: I want to watch it.
+
+08:06.910 --> 08:10.592
+[SPEAKER_06]: Gosh, I've been awake for a couple of different surgeries.
+
+08:10.592 --> 08:19.377
+[SPEAKER_06]: Although they said that I talked people's ear off and they that's why they had it to sedate me during the second of one of my surgeries because I want to know everything that's going on.
+
+08:19.377 --> 08:20.158
+[SPEAKER_06]: I want to watch.
+
+08:20.905 --> 08:23.327
+[SPEAKER_00]: All right, well, we need to check in with of course, our other hosts.
+
+08:23.327 --> 08:25.689
+[SPEAKER_00]: Say hello to Techmaster Loki.
+
+08:25.689 --> 08:26.169
+[SPEAKER_00]: Hello.
+
+08:26.169 --> 08:28.551
+[SPEAKER_00]: Hey, what fun medical procedures have you had done this week?
+
+08:28.551 --> 08:29.591
+[SPEAKER_00]: You or your family members?
+
+08:29.591 --> 08:33.554
+[SPEAKER_00]: Do you have any good trips to the doctor stories?
+
+08:33.554 --> 08:35.096
+[SPEAKER_00]: Eye surgeries?
+
+08:35.096 --> 08:35.996
+[SPEAKER_00]: Upcoming?
+
+08:35.996 --> 08:36.797
+[SPEAKER_00]: All right.
+
+08:36.797 --> 08:37.477
+[SPEAKER_00]: Well, you're boring.
+
+08:37.477 --> 08:37.898
+[SPEAKER_00]: No, no.
+
+08:37.898 --> 08:38.478
+[SPEAKER_00]: That's all right.
+
+08:38.478 --> 08:40.099
+[SPEAKER_00]: All right.
+
+08:40.099 --> 08:40.960
+[SPEAKER_00]: Well, how are you doing?
+
+08:40.960 --> 08:41.941
+[SPEAKER_00]: Have you had a good week too, Loki?
+
+08:42.745 --> 08:43.666
+[SPEAKER_04]: Thanks for watching!
+
+08:55.953 --> 08:57.654
+[SPEAKER_04]: You know, well, not in grade school.
+
+08:57.654 --> 09:02.195
+[SPEAKER_00]: So I guess that, you know, I can't complain because you know, everybody has Monday off.
+
+09:02.195 --> 09:06.717
+[SPEAKER_00]: I honestly I have so much because I was out for, you know, a good few hours.
+
+09:06.717 --> 09:12.539
+[SPEAKER_00]: My dad was like, I have to check in for a couple hours tomorrow just to get caught up because then I work Tuesday.
+
+09:12.539 --> 09:13.279
+[SPEAKER_00]: And then that's it.
+
+09:13.279 --> 09:16.100
+[SPEAKER_00]: I'm off for like 10 days because it's nice.
+
+09:16.100 --> 09:20.201
+[SPEAKER_00]: Yeah, the cruise and everything and having to travel out to Orlando and everything.
+
+09:20.201 --> 09:24.283
+[SPEAKER_00]: So it's it's Yeah, it's gonna be a nice break.
+
+09:24.283 --> 09:24.583
+[SPEAKER_00]: But yeah,
+
+09:25.808 --> 09:25.868
+[SPEAKER_00]: and
+
+09:48.809 --> 09:52.352
+[SPEAKER_00]: The people that are kind of there this week that hopefully everything's okay.
+
+09:52.352 --> 09:58.818
+[SPEAKER_00]: I really hope it's not like a bumpy road or anything because I'm like, dang, there's like a lot of people that all of a sudden are taking vacation at the end of February.
+
+09:58.818 --> 10:11.289
+[SPEAKER_00]: But I feel like it's a lot of people that had just delayed stuff for various reasons, whether it was, you know, COVID or just other types of, you know, obligations and things that just kind of popped up that like everybody's gone at the same time.
+
+10:11.289 --> 10:12.010
+[SPEAKER_00]: So this is interesting.
+
+10:12.557 --> 10:15.058
+[SPEAKER_06]: I've kind of noticed some of that, too.
+
+10:15.058 --> 10:20.659
+[SPEAKER_06]: Although I'll tell you what's what's weird is that my schedule has been going back and forth.
+
+10:20.659 --> 10:34.382
+[SPEAKER_06]: And finally, I'm just like, pick one, because I went back on my four by ten this past week and I realized that I don't think I can do my four by tens like like I was with the nature of what I do at work.
+
+10:34.382 --> 10:38.183
+[SPEAKER_06]: So I'm back on the five bytes Monday through Friday.
+
+10:38.183 --> 10:38.683
+[SPEAKER_06]: And you know what?
+
+10:38.683 --> 10:40.044
+[SPEAKER_06]: I think I'm OK with it.
+
+10:40.044 --> 10:40.624
+[SPEAKER_00]: Yeah.
+
+10:40.624 --> 10:40.784
+[SPEAKER_00]: Yeah.
+
+10:42.402 --> 10:47.367
+[SPEAKER_00]: SSJ100 Matt says, whatever you do, don't sign on to Slack, not even to see it burning.
+
+10:47.367 --> 10:48.388
+[SPEAKER_00]: Enjoy the break.
+
+10:48.388 --> 10:49.669
+[SPEAKER_00]: Well, we don't use Slack.
+
+10:49.669 --> 10:51.030
+[SPEAKER_00]: We use a different application.
+
+10:51.030 --> 10:52.672
+[SPEAKER_00]: It's essentially the same thing.
+
+10:52.672 --> 10:57.737
+[SPEAKER_00]: But I am lucky enough that I have a work and a personal so and my work... What's going on with Slack?
+
+10:57.737 --> 10:59.478
+[SPEAKER_00]: We don't use it.
+
+10:59.478 --> 11:00.039
+[SPEAKER_00]: That's all.
+
+11:00.039 --> 11:01.961
+[SPEAKER_06]: It's just... I mean, but why did he mention Slack?
+
+11:01.961 --> 11:03.222
+[SPEAKER_06]: Is there something going on with Slack?
+
+11:03.362 --> 11:10.327
+[SPEAKER_00]: No, no, no, it's like if you're awake, I think the point is if you're away on vacation, don't look at everything that's burning while you're away on vacation.
+
+11:10.327 --> 11:12.609
+[SPEAKER_00]: And anyway, I literally can't.
+
+11:12.609 --> 11:16.412
+[SPEAKER_00]: I literally can't take my work phone even if I wanted to because this trip is going out of the country.
+
+11:16.412 --> 11:18.053
+[SPEAKER_00]: And that's that's we're not supposed to do that.
+
+11:18.053 --> 11:21.836
+[SPEAKER_00]: So it's Yeah, so sorry, no work phone for me.
+
+11:21.836 --> 11:23.177
+[SPEAKER_00]: Oh, darn.
+
+11:23.177 --> 11:24.858
+[SPEAKER_00]: I have to enjoy the time off.
+
+11:24.858 --> 11:25.018
+[SPEAKER_00]: So
+
+11:26.039 --> 11:26.639
+[SPEAKER_00]: But it'll be fine.
+
+11:26.639 --> 11:27.500
+[SPEAKER_00]: Everything's gonna be fine.
+
+11:27.500 --> 11:29.300
+[SPEAKER_00]: You know, everything always has a way to work out.
+
+11:29.300 --> 11:32.602
+[SPEAKER_00]: And that's another thing to remember is that, you know, everything works out.
+
+11:32.602 --> 11:33.042
+[SPEAKER_00]: It's good.
+
+11:33.042 --> 11:34.483
+[SPEAKER_00]: I'm gonna have a good break.
+
+11:34.483 --> 11:41.085
+[SPEAKER_00]: So anyway, um, let's see, uh, as Chase Winermath says, I just assumed he was using Slack because most of my friends use Slack.
+
+11:41.085 --> 11:43.146
+[SPEAKER_00]: Bobby Blackwell says, I mute notifications in Slack.
+
+11:43.146 --> 11:44.507
+[SPEAKER_00]: Wow, a lot of you use Slack.
+
+11:44.507 --> 11:48.649
+[SPEAKER_00]: DJ Ranma S says, if I hear Slack go off multiple times in 30 seconds, then I'll answer it.
+
+11:48.649 --> 11:51.750
+[SPEAKER_00]: You know, the weird thing is, I've only ever used Slack because of video games.
+
+11:52.350 --> 11:59.517
+[SPEAKER_00]: A lot of Ingress planning has always happened on Slack, especially live events and things like that.
+
+11:59.517 --> 12:10.488
+[SPEAKER_00]: There's a big Pokemon Go event going on this weekend in LA actually, which if I wasn't going on the cruise, I probably would have tried to go to LA this weekend to do that with some friends because it's relatively close.
+
+12:10.488 --> 12:12.670
+[SPEAKER_00]: But yeah, didn't end up doing that.
+
+12:14.071 --> 12:20.374
+[SPEAKER_00]: I'm sure I'll have to ask my friend how that went because one of my good friends did go down to that so maybe I can get him to do a report next week.
+
+12:20.374 --> 12:25.015
+[SPEAKER_00]: I hear the first day was kind of rough, but he was doing the Sunday so maybe it was a little easier for him.
+
+12:25.015 --> 12:25.896
+[SPEAKER_00]: I don't know.
+
+12:25.896 --> 12:30.918
+[SPEAKER_00]: But anyway, let's get into the news of the week and talk about what is going on in video games.
+
+12:30.918 --> 12:37.840
+[SPEAKER_00]: And again, as I've hinted at a million times during the show, we will not be here next week because of the cruise I was just talking about.
+
+12:37.840 --> 12:40.381
+[SPEAKER_00]: So we'll be back in two weeks to do it all again.
+
+12:40.381 --> 12:41.542
+[SPEAKER_00]: So um,
+
+12:42.262 --> 12:45.444
+[SPEAKER_06]: in the meantime, someone will take requests for gaming.
+
+12:45.444 --> 12:46.705
+[SPEAKER_00]: There you go.
+
+12:46.705 --> 12:48.706
+[SPEAKER_00]: Bobby will be here, by the way, especially too.
+
+12:48.706 --> 12:52.089
+[SPEAKER_00]: So I should encourage everybody to still tune in to VOG Network live next week.
+
+12:52.089 --> 12:55.051
+[SPEAKER_00]: Bobby Blackwolf will be here, but obviously we will not.
+
+12:55.051 --> 12:57.852
+[SPEAKER_00]: And I know it's a weird week to not be here.
+
+12:57.852 --> 13:06.378
+[SPEAKER_00]: So that's why I'm especially after the power outage of last, you know, a couple weeks ago and all that other stuff, which, by the way, we have another big storm coming in tonight.
+
+13:06.378 --> 13:06.818
+[SPEAKER_00]: Yay.
+
+13:07.919 --> 13:09.701
+[SPEAKER_04]: It was so nice earlier too.
+
+13:09.701 --> 13:12.424
+[SPEAKER_00]: I know the worst of that rain is supposed to be till like 11 o'clock.
+
+13:12.424 --> 13:14.126
+[SPEAKER_00]: So we'll be we'll be off the air by that point.
+
+13:14.126 --> 13:15.107
+[SPEAKER_00]: But yeah.
+
+13:15.107 --> 13:19.752
+[SPEAKER_06]: Anyway, um, that means I'm gonna actually sleep like a baby tonight.
+
+13:19.752 --> 13:20.793
+[SPEAKER_06]: That's gonna be last night.
+
+13:20.793 --> 13:21.834
+[SPEAKER_06]: I slept really well too.
+
+13:21.834 --> 13:29.382
+[SPEAKER_06]: But like I was I sleep so incredibly well when there's a hard rain that I have an awful time trying to wake up the next day.
+
+13:29.382 --> 13:30.263
+[SPEAKER_00]: Interesting.
+
+13:30.263 --> 13:30.543
+[SPEAKER_00]: All right.
+
+13:31.227 --> 13:32.229
+[SPEAKER_06]: Let's get into the news.
+
+13:46.929 --> 13:47.169
+[SPEAKER_00]: and more!
+
+14:06.611 --> 14:08.012
+[SPEAKER_00]: Not so much.
+
+14:08.012 --> 14:09.493
+[SPEAKER_04]: This could be a nothing burger.
+
+14:09.493 --> 14:11.895
+[SPEAKER_00]: This could be a nothing burger is what this could be.
+
+14:11.895 --> 14:15.878
+[SPEAKER_00]: But Loki, let's it's I don't know if I would call it a nothing burger.
+
+14:15.878 --> 14:16.658
+[SPEAKER_00]: It's not.
+
+14:16.658 --> 14:18.739
+[SPEAKER_00]: This was definitely like nothing.
+
+14:18.739 --> 14:28.106
+[SPEAKER_00]: Like have you ever ordered your hamburger completely plain with nothing on it and no fixings and it's just a plain ass dry hamburger.
+
+14:28.106 --> 14:28.706
+[SPEAKER_00]: That's what this is.
+
+14:30.328 --> 14:32.691
+[SPEAKER_00]: But Loki, let's let's get into it.
+
+14:32.691 --> 14:37.599
+[SPEAKER_00]: So what happened with the big Xbox podcast and the future?
+
+14:37.599 --> 14:38.981
+[SPEAKER_00]: What is the future of Xbox?
+
+14:40.131 --> 14:43.132
+[SPEAKER_04]: So the future of Xbox is podcasts.
+
+14:43.132 --> 14:48.695
+[SPEAKER_04]: They're going to be doing lots of them to talk about the future of Xbox, and it's a very nice format.
+
+14:48.695 --> 14:53.797
+[SPEAKER_04]: No, they discussed a few things regarding of what's going to be coming up.
+
+14:53.797 --> 14:59.859
+[SPEAKER_04]: So they did confirm that, yes, there are games planned to be put out multi-platform.
+
+14:59.859 --> 15:04.841
+[SPEAKER_04]: However, they are not going to be Starfield or Indiana Jones and the Great Circle.
+
+15:04.841 --> 15:05.662
+[SPEAKER_04]: So it's going to be
+
+15:07.751 --> 15:08.612
+[SPEAKER_04]: We'll see.
+
+15:08.612 --> 15:10.213
+[SPEAKER_04]: I'm sorry, PlayStation fans.
+
+15:10.213 --> 15:11.534
+[SPEAKER_04]: You're going to be getting Redfall.
+
+15:11.534 --> 15:14.776
+[SPEAKER_04]: It's probably going to be all Redfall four times, actually.
+
+15:14.776 --> 15:15.697
+[SPEAKER_00]: Not getting Redfall.
+
+15:15.697 --> 15:18.238
+[SPEAKER_00]: They already know what the games are like.
+
+15:18.238 --> 15:19.139
+[SPEAKER_04]: Yeah, they do.
+
+15:19.139 --> 15:21.080
+[SPEAKER_04]: They know what the games are.
+
+15:21.080 --> 15:23.162
+[SPEAKER_04]: They're waiting for those.
+
+15:23.162 --> 15:29.306
+[SPEAKER_04]: They basically said that they didn't want to take away from those teams making those announcements themselves.
+
+15:29.306 --> 15:32.728
+[SPEAKER_04]: So they're waiting on those development teams to make those announcements.
+
+15:32.728 --> 15:34.990
+[SPEAKER_04]: So those will probably come later on the year, honestly, like
+
+15:36.340 --> 15:40.950
+[SPEAKER_04]: I don't think it's a big deal until we find out what it is, like if it's Halo coming to PlayStation 5.
+
+15:42.352 --> 16:06.554
+[SPEAKER_00]: maybe I mean like I I don't I don't know I think like we might tell you right now I'm gonna tell you right now the four games are Grounded, Pentament, Hi-Fi Rush and Sea of Thieves those are the four games like it's yeah I mean Xbox hasn't confirmed that Microsoft hasn't confirmed that but it's one of those things where all of the others that we already knew about Hi-Fi Rush we were reporting on that four weeks ago
+
+16:07.495 --> 16:31.945
+[SPEAKER_00]: all of the signs are pointing that way and especially when you consider that Microsoft has laid off a lot of people and some of them are going to start squeaking even though they're doing it in a way they're not going to get caught because they still have an NDA for their severance and all that stuff like it's it's all but certain these are the four games and when you look at the four games it's four games that make a lot of sense to go multi-platform that's why I think we're sitting here going this is this is a plain burger this is barely anything this is not
+
+16:32.145 --> 16:32.365
+[SPEAKER_00]: and more.
+
+16:55.686 --> 16:56.026
+[SPEAKER_00]: Elder Scrolls
+
+17:12.671 --> 17:12.871
+[SPEAKER_00]: Setsuna
+
+17:42.688 --> 17:45.170
+[SPEAKER_04]: or... Oh, I don't even remember what the game was.
+
+17:45.170 --> 17:51.274
+[SPEAKER_04]: But they had like a major AA game that now is kind of a AAA game that's getting a sequel.
+
+17:51.274 --> 17:56.598
+[SPEAKER_04]: And I can't remember the name of it because I don't... Who does?
+
+17:56.598 --> 17:57.939
+[SPEAKER_04]: Microsoft does.
+
+17:57.939 --> 18:02.222
+[SPEAKER_04]: They have... They came out with one and now they've been teasing it for like... Hellblade?
+
+18:03.001 --> 18:03.581
+[SPEAKER_00]: Hellblade.
+
+18:03.581 --> 18:04.062
+[SPEAKER_04]: Yes.
+
+18:04.062 --> 18:04.262
+[SPEAKER_04]: Yeah.
+
+18:04.262 --> 18:04.622
+[SPEAKER_04]: Hellblade.
+
+18:04.622 --> 18:05.422
+[SPEAKER_04]: That's what I was thinking.
+
+18:05.422 --> 18:05.643
+[SPEAKER_04]: Yeah.
+
+18:05.643 --> 18:06.163
+[SPEAKER_04]: Hellblade.
+
+18:06.163 --> 18:09.745
+[SPEAKER_04]: So Hellblade was more of like a double A game when it first came out.
+
+18:09.745 --> 18:19.551
+[SPEAKER_04]: And now it's kind of, you know, still being treated like that, but it's kind of elevating itself to a triple A game just because of quality and everything.
+
+18:19.551 --> 18:22.412
+[SPEAKER_04]: But it's still relatively small studio putting that out.
+
+18:22.412 --> 18:27.395
+[SPEAKER_04]: I mean, you could even argue that like a No Man's Sky is almost like a double A game.
+
+18:27.395 --> 18:29.497
+[SPEAKER_04]: That's kind of a triple A game in a sense.
+
+18:30.584 --> 18:38.868
+[SPEAKER_04]: Also, we should probably stop referring to games with A's because it's just stupid anyways and that's really only marketing speak for, you know, publishers and who cares.
+
+18:41.135 --> 18:58.038
+[SPEAKER_04]: Along with that, though, they did announce that coming to Game Pass, one of the first Activision Blizzard games, aside from I think Call of Duty's been on there before, but Diablo 4 is going to be one of the first from this merger that's going to be coming to Game Pass, and that's going to be arriving at the end of March on the 28th.
+
+18:58.038 --> 18:59.439
+[SPEAKER_04]: So that's pretty exciting.
+
+18:59.439 --> 19:02.239
+[SPEAKER_00]: I thought I would be surprised by that news, but I'm not.
+
+19:02.239 --> 19:04.500
+[SPEAKER_00]: And you know why I'm not surprised?
+
+19:04.500 --> 19:08.641
+[SPEAKER_00]: It's it's because they haven't what's not coming to Game Pass, at least not yet.
+
+19:08.641 --> 19:10.321
+[SPEAKER_00]: Anyway, we haven't heard the expansion.
+
+19:11.121 --> 19:15.805
+[SPEAKER_00]: So they want people to tap into Diablo so they can sell more copies of that expansion.
+
+19:15.805 --> 19:25.311
+[SPEAKER_00]: Assuming, I don't know, I feel like when I read the transcript, because I didn't, I actually didn't watch the part, again, I was way too busy with what I was doing during the day.
+
+19:25.311 --> 19:27.293
+[SPEAKER_00]: So I didn't watch it live.
+
+19:27.293 --> 19:28.654
+[SPEAKER_00]: I read the transcript after the fact.
+
+19:29.034 --> 19:33.819
+[SPEAKER_00]: And I want to say in the transcript, he calls out the Diablo expansion as one of those big games.
+
+19:33.819 --> 19:36.521
+[SPEAKER_00]: And then he kind of says something about like they're all game pass or whatever.
+
+19:36.521 --> 19:39.424
+[SPEAKER_00]: So the waters were a little muddy on that.
+
+19:39.424 --> 19:42.707
+[SPEAKER_00]: But my assumption is that expansion will not be game pass day one.
+
+19:42.707 --> 19:43.948
+[SPEAKER_00]: I'd love to be wrong.
+
+19:43.948 --> 19:45.389
+[SPEAKER_04]: I would assume that's the case.
+
+19:45.389 --> 19:49.653
+[SPEAKER_04]: And maybe later on down the line when there's like a Diablo game of the year edition or something, they'll do that.
+
+19:49.893 --> 19:53.635
+[SPEAKER_00]: Even if it is included with Game Pass, Diablo still makes plenty of money.
+
+19:53.635 --> 19:55.916
+[SPEAKER_00]: Don't forget, they have a battle pass in Diablo now.
+
+19:55.916 --> 19:59.598
+[SPEAKER_00]: They're selling $30 portal colors and all these other things in the games.
+
+19:59.598 --> 20:06.622
+[SPEAKER_00]: They have other ways to make money with Diablo besides just, you know, the sale of the actual game.
+
+20:06.622 --> 20:17.027
+[SPEAKER_00]: So yeah, I was surprised at first and I was like, actually, you know what, this far out from the game's release now, of course, they're gonna try to just make money off that in other ways.
+
+20:18.956 --> 20:19.856
+[SPEAKER_04]: Yeah.
+
+20:19.856 --> 20:30.260
+[SPEAKER_04]: One of the other things that you talked about too was the fact that one of the catalysts for going multi-platform is, you know, having with all the layoffs they've had to do.
+
+20:30.260 --> 20:35.442
+[SPEAKER_04]: So basically saying that, you know, this way they're going to help, you know, be able to, I guess, retain more people.
+
+20:36.826 --> 20:39.668
+[SPEAKER_04]: If you believe that, I don't know.
+
+20:39.668 --> 20:42.251
+[SPEAKER_04]: So hopefully that's true.
+
+20:42.251 --> 20:42.651
+[SPEAKER_04]: We'll see.
+
+20:42.651 --> 20:48.396
+[SPEAKER_04]: Because if you have more devs working on porting games to other platforms, I could see that as a positive.
+
+20:48.396 --> 20:52.800
+[SPEAKER_04]: But we'll see what that actually ends up looking like.
+
+20:52.800 --> 20:55.382
+[SPEAKER_04]: Also, they've committed to new hardware coming.
+
+20:55.382 --> 21:02.928
+[SPEAKER_04]: And that it's going to be the largest technical leap that you've ever seen in the hardware generation.
+
+21:04.069 --> 21:04.990
+[SPEAKER_04]: I'll believe it when I see it.
+
+21:04.990 --> 21:07.411
+[SPEAKER_00]: Is it a holodeck?
+
+21:07.411 --> 21:11.512
+[SPEAKER_00]: They say that every time.
+
+21:11.512 --> 21:14.974
+[SPEAKER_00]: The technical leap and all that stuff, in one ear, out the other.
+
+21:14.974 --> 21:16.454
+[SPEAKER_00]: Yeah, I'll believe it when I see it.
+
+21:16.454 --> 21:20.796
+[SPEAKER_00]: But otherwise, it's, you know, okay, they're committed to the hardware game.
+
+21:20.796 --> 21:24.238
+[SPEAKER_04]: Yeah, it's supposed to be coming, or they're gonna announce it this holiday.
+
+21:25.365 --> 21:29.206
+[SPEAKER_06]: Have they mastered consumer level quantum computing?
+
+21:29.206 --> 21:31.767
+[SPEAKER_00]: Well, anything's possible.
+
+21:31.767 --> 21:40.929
+[SPEAKER_00]: But it's interesting that, you know, that goes right in the face of why all those people were, you know, smashing their Xboxes and returning to the store and all that stuff last week.
+
+21:40.929 --> 21:42.149
+[SPEAKER_04]: Those people are dumb.
+
+21:42.149 --> 21:43.229
+[SPEAKER_00]: I mean, come on.
+
+21:43.229 --> 21:45.270
+[SPEAKER_00]: We knew that.
+
+21:45.270 --> 21:47.550
+[SPEAKER_00]: It's attention grabbing nonsense.
+
+21:47.550 --> 21:50.511
+[SPEAKER_00]: Hysteria media is, you know, what it was.
+
+21:51.567 --> 21:53.970
+[SPEAKER_00]: Yeah, E3VL points out iPhone.
+
+21:53.970 --> 21:54.911
+[SPEAKER_00]: Name any product.
+
+21:54.911 --> 21:56.653
+[SPEAKER_00]: Just put any product where you put there.
+
+21:56.653 --> 21:58.856
+[SPEAKER_00]: Our best yet, it's always that.
+
+21:58.856 --> 21:59.236
+[SPEAKER_00]: Always that.
+
+21:59.236 --> 22:00.178
+[SPEAKER_00]: So it's the same thing with Xbox.
+
+22:00.178 --> 22:01.499
+[SPEAKER_04]: Of course it's going to be their best yet.
+
+22:01.499 --> 22:03.982
+[SPEAKER_04]: Because if it's not their best yet, then why am I buying it?
+
+22:03.982 --> 22:05.224
+[SPEAKER_00]: Or why should I buy it?
+
+22:05.224 --> 22:06.586
+[SPEAKER_00]: Because it's cheaper.
+
+22:06.586 --> 22:09.930
+[SPEAKER_06]: That would be the Xbox Series S. We've decided to lower your expectations.
+
+22:10.250 --> 22:10.891
+[SPEAKER_00]: Lower Your Expectations
+
+22:32.299 --> 22:49.422
+[SPEAKER_00]: anyway um yeah i uh it's you know all of this really doesn't seem to be that much the other thing that i kind of caught out of this was the whole like xbox on every screen which is which we knew that's been kind of yeah that's
+
+22:50.143 --> 22:50.383
+[SPEAKER_00]: DarkSakura
+
+23:06.528 --> 23:08.989
+[SPEAKER_04]: I think that's maybe that's what's coming to holiday me.
+
+23:08.989 --> 23:10.290
+[SPEAKER_04]: You don't know.
+
+23:10.290 --> 23:11.291
+[SPEAKER_00]: Maybe.
+
+23:11.291 --> 23:11.691
+[SPEAKER_00]: Maybe.
+
+23:11.691 --> 23:12.131
+[SPEAKER_00]: Who knows?
+
+23:12.131 --> 23:12.571
+[SPEAKER_00]: I'm not.
+
+23:12.571 --> 23:18.975
+[SPEAKER_00]: Yeah, I'm not going to speculate too much more on that because we've all done enough speculation when it comes to Microsoft for an entire five years.
+
+23:18.975 --> 23:20.996
+[SPEAKER_00]: But yeah, here's.
+
+23:22.162 --> 23:24.843
+[SPEAKER_00]: Here's where I think a mistake was made, though.
+
+23:24.843 --> 23:27.263
+[SPEAKER_00]: Here's where I think Phil Spencer's slipping a little bit.
+
+23:27.263 --> 23:28.303
+[SPEAKER_00]: And I'm going to look.
+
+23:28.303 --> 23:32.104
+[SPEAKER_00]: I realize I've praised the guy a lot.
+
+23:32.104 --> 23:35.125
+[SPEAKER_00]: I think he's made some bad calls in the last couple of months.
+
+23:35.125 --> 23:36.845
+[SPEAKER_00]: Obviously, the layoffs don't look good.
+
+23:36.845 --> 23:38.305
+[SPEAKER_00]: That's that's not a great thing.
+
+23:38.305 --> 23:48.227
+[SPEAKER_00]: There's no there's no easy way to slice that, especially doesn't look good when you kind of told the government that isn't exactly what you were going to do and then say, oh, but never mind, because Activision Blizzard was going to do it.
+
+23:48.227 --> 23:49.267
+[SPEAKER_00]: And that all that.
+
+23:49.267 --> 23:50.728
+[SPEAKER_00]: Not exactly a layoff.
+
+23:50.728 --> 23:51.628
+[SPEAKER_00]: That all looks crappy.
+
+23:52.148 --> 23:57.231
+[SPEAKER_00]: But what really looks crappy, I'm sorry, what was he thinking with that tweet?
+
+23:57.231 --> 24:08.498
+[SPEAKER_00]: What on earth was he thinking when he wrote that tweet that said, we hear a lot of buzz and rumors about what's going on and we look forward to clarifying next week?
+
+24:09.298 --> 24:12.260
+[SPEAKER_00]: There, he should have shut that shit down when he could.
+
+24:12.260 --> 24:17.022
+[SPEAKER_00]: Not that he needed to quell the hysterical YouTube users.
+
+24:17.022 --> 24:18.403
+[SPEAKER_00]: That's not what I'm talking about.
+
+24:18.403 --> 24:19.944
+[SPEAKER_00]: Fuck them and their Xboxes.
+
+24:19.944 --> 24:21.245
+[SPEAKER_00]: I don't give a shit.
+
+24:21.245 --> 24:36.053
+[SPEAKER_00]: I'm talking about the runaway clickbait headlines that are the reality of the internet and the reality that way too many people get their news from Facebook, Instagram, Twitter,
+
+24:37.173 --> 24:38.454
+[SPEAKER_00]: and Tik Tok.
+
+24:38.454 --> 24:39.274
+[SPEAKER_00]: And those types of things.
+
+24:39.274 --> 24:42.475
+[SPEAKER_06]: They don't get news, they get fed rhetoric.
+
+24:42.475 --> 24:44.196
+[SPEAKER_00]: They get a sentence.
+
+24:44.196 --> 24:48.658
+[SPEAKER_00]: They get the thing that's trying to entice you to do more.
+
+24:48.658 --> 24:56.042
+[SPEAKER_00]: And for me, that tweet that he wrote was completely ignorant of that fact that that was going to happen.
+
+24:56.042 --> 24:58.943
+[SPEAKER_00]: And he easily had an opportunity to say,
+
+25:00.296 --> 25:04.523
+[SPEAKER_00]: We hear a lot of rumors about the future of Xbox.
+
+25:04.523 --> 25:12.215
+[SPEAKER_00]: We remain committed to Xbox as a platform, including hardware, and we look forward to sharing our vision next week.
+
+25:14.580 --> 25:17.161
+[SPEAKER_00]: Yes, it's like you should be in PR or something.
+
+25:17.161 --> 25:20.183
+[SPEAKER_00]: Yeah.
+
+25:20.183 --> 25:25.685
+[SPEAKER_00]: It's almost like I've had to explain things to people in different ways a few times in my life, but we're not going to go there.
+
+25:25.685 --> 25:27.626
+[SPEAKER_00]: My point is it.
+
+25:27.626 --> 25:28.026
+[SPEAKER_00]: I just.
+
+25:28.026 --> 25:29.166
+[SPEAKER_00]: Welcome to my job.
+
+25:29.166 --> 25:39.231
+[SPEAKER_00]: I can't believe that like he didn't craft a better tweet to stop this hysteria from getting out of fucking control when he could have done it.
+
+25:39.870 --> 25:43.271
+[SPEAKER_04]: It's their marketing team that should have, or was, no, was it his own account?
+
+25:43.271 --> 25:45.412
+[SPEAKER_04]: I mean, it was his own marketing team.
+
+25:45.412 --> 25:45.872
+[SPEAKER_00]: Yeah, I'm sure.
+
+25:45.872 --> 25:47.413
+[SPEAKER_00]: But it is also a chance.
+
+25:47.413 --> 25:49.634
+[SPEAKER_00]: I'm sure a team did that, but still, yeah.
+
+25:49.634 --> 25:58.337
+[SPEAKER_06]: To build more buzz, hopefully, in their, like, to try to turn it around, to build a little bit more buzz in, hopefully, a positive way.
+
+25:58.337 --> 26:01.919
+[SPEAKER_06]: I mean, they say that there's no such thing as bad advertise, as a,
+
+26:02.939 --> 26:03.700
+[SPEAKER_06]: Bad Advertising
+
+26:18.024 --> 26:22.186
+[SPEAKER_00]: Let me make sure just for sake, I get the full tweet here.
+
+26:22.186 --> 26:22.807
+[SPEAKER_00]: Here it is.
+
+26:22.807 --> 26:24.468
+[SPEAKER_00]: And I don't, what are these replies?
+
+26:24.468 --> 26:25.749
+[SPEAKER_00]: I can't stand this.
+
+26:25.749 --> 26:31.852
+[SPEAKER_00]: Anyway, but just pay attention to the top of the screen here where it says, we're listening and we hear you.
+
+26:31.852 --> 26:39.196
+[SPEAKER_00]: We've been planning a business update event for next week, where we look forward to sharing more details with you about our vision for the future of Xbox.
+
+26:40.177 --> 26:48.299
+[SPEAKER_00]: He left this wide fucking open for people to say, oh, this means Xbox is now a publishing platform.
+
+26:48.299 --> 26:50.560
+[SPEAKER_00]: They're not going to make hardware anymore.
+
+26:50.560 --> 26:54.821
+[SPEAKER_00]: He should have said in that post, they're still committed to hardware.
+
+26:54.821 --> 26:57.401
+[SPEAKER_00]: I don't know why he left the door wide open like that.
+
+26:57.401 --> 27:01.842
+[SPEAKER_00]: And for me, I've said a lot of great things about Phil, but I got a call.
+
+27:01.842 --> 27:04.203
+[SPEAKER_00]: I'm always going to call it out on both sides.
+
+27:04.203 --> 27:05.223
+[SPEAKER_00]: When it's right, it's right.
+
+27:05.223 --> 27:06.463
+[SPEAKER_00]: When it's wrong, it's wrong.
+
+27:06.463 --> 27:07.484
+[SPEAKER_00]: This was wrong.
+
+27:07.484 --> 27:08.184
+[SPEAKER_00]: This is a bad move.
+
+27:09.324 --> 27:11.025
+[SPEAKER_06]: You know what this makes me think of?
+
+27:11.025 --> 27:22.649
+[SPEAKER_06]: I think it was Eddie Izzard said this at the start of a performance that the thing that's best is the anticipation right before the event happens.
+
+27:22.649 --> 27:27.091
+[SPEAKER_06]: You know, you speculate and you think and you get excited or it could be this, it could be that.
+
+27:27.091 --> 27:29.592
+[SPEAKER_06]: And then when it finally happens, it's like, oh, yeah.
+
+27:31.008 --> 27:59.171
+[SPEAKER_00]: I would be very definitely I would be very curious what Xbox console sales look like between the time that tweet happened and the time the event happened now granted it's February and you know it's they haven't had a new console in a bit they were probably pretty low anyway but I would be very curious what financial impact that tweet had because I bet it had some probably not a ton but some
+
+28:00.595 --> 28:01.575
+[SPEAKER_00]: DarkSakura
+
+28:26.357 --> 28:28.358
+[SPEAKER_00]: I don't understand why it won't.
+
+28:28.358 --> 28:34.402
+[SPEAKER_00]: And I know there's probably Xbox fans that would hit me with a rolled up newspaper to kind of paraphrase what someone said in chat a little bit ago.
+
+28:34.402 --> 28:42.886
+[SPEAKER_00]: I'm sure there's people that would say that, but I don't see how that wouldn't make that game and its reception even better to have a chance.
+
+28:42.886 --> 28:44.467
+[SPEAKER_00]: It's everything I said last week.
+
+28:44.467 --> 28:50.150
+[SPEAKER_00]: Relaunch, redo it on the PlayStation with the patch and the DLC and everything.
+
+28:50.150 --> 28:52.732
+[SPEAKER_00]: Redo it with Nintendo Switch, LOL.
+
+28:53.293 --> 29:01.615
+[SPEAKER_04]: It would literally implode on itself because it's running on such an old engine that maybe they just can't do it or they just...
+
+29:02.711 --> 29:04.311
+[SPEAKER_04]: don't know how to do it correctly.
+
+29:04.311 --> 29:14.234
+[SPEAKER_00]: Exactly what PogCulture says in chat, pull a No Man's Sky or a Diablo 3 or any, you know, any of these other games that, you know, used a multi-platform approach as a relaunch of the game.
+
+29:14.234 --> 29:22.076
+[SPEAKER_00]: I'm a little shocked that they're not willing to gamble with Starfield because I feel like Starfield has already made all the money it's going to make.
+
+29:22.076 --> 29:24.777
+[SPEAKER_00]: So why not try to gamble to get a little more?
+
+29:24.777 --> 29:27.337
+[SPEAKER_00]: I mean, I'm just, I am legit surprised.
+
+29:27.337 --> 29:28.558
+[SPEAKER_00]: The Indiana Jones game
+
+29:29.378 --> 29:30.579
+[SPEAKER_00]: Yes, I'm surprised.
+
+29:30.579 --> 29:33.942
+[SPEAKER_00]: I'm not surprised all they're they're saying Nope, this was this was Xbox.
+
+29:33.942 --> 29:39.306
+[SPEAKER_00]: And I I do see even with these other four games are talking about going multi platform.
+
+29:39.306 --> 29:41.888
+[SPEAKER_00]: They've all been out for a year.
+
+29:41.888 --> 29:47.072
+[SPEAKER_00]: And usually a game sells what it's going to sell to the fans in a first year.
+
+29:47.072 --> 29:50.534
+[SPEAKER_00]: And then everything after that is just icing on the cake.
+
+29:50.534 --> 29:54.898
+[SPEAKER_00]: Look at the Sony stuff like that, like a Final Fantasy seven remake.
+
+29:55.800 --> 29:56.161
+[SPEAKER_00]: and Matt.
+
+30:09.730 --> 30:16.035
+[SPEAKER_00]: It's still gonna mean a lot to have something exclusive for a period of time on the Microsoft platform.
+
+30:16.035 --> 30:17.376
+[SPEAKER_00]: I don't know.
+
+30:17.376 --> 30:21.038
+[SPEAKER_00]: Sj100mat says the game still has a lot of problems that they're still working on.
+
+30:21.038 --> 30:24.861
+[SPEAKER_00]: The last thing they want to do is getting it on other consoles when they're too busy working to fix it.
+
+30:24.861 --> 30:26.963
+[SPEAKER_00]: So maybe the timing's not right for this announcement.
+
+30:26.963 --> 30:28.003
+[SPEAKER_00]: I don't know.
+
+30:28.003 --> 30:32.227
+[SPEAKER_00]: But I just, I will say, I wouldn't have seen the harm.
+
+30:32.227 --> 30:38.031
+[SPEAKER_00]: I think if they said we had five games going multi-platform and Starfield was one of them, I would have said, yep, makes perfect sense.
+
+30:39.986 --> 30:42.631
+[SPEAKER_00]: And I still would have said this is a hamburger with nothing on it.
+
+30:42.631 --> 30:46.919
+[SPEAKER_00]: This is not as big of a deal as everybody was making it out to be.
+
+30:46.919 --> 30:50.886
+[SPEAKER_00]: This is not Microsoft goes Sega and this whole thing.
+
+30:53.683 --> 30:57.988
+[SPEAKER_00]: But we'll see how the strategy continues to work out for them.
+
+30:57.988 --> 31:06.717
+[SPEAKER_00]: I do think, you know, as cloud gaming gets more and more popular, it's going to be a very big disruptor in what we think of as far as traditional hardware.
+
+31:06.717 --> 31:09.720
+[SPEAKER_00]: And I sort of see Microsoft is ahead of the curve on some of that.
+
+31:09.720 --> 31:11.542
+[SPEAKER_00]: So we'll see.
+
+31:11.542 --> 31:12.203
+[SPEAKER_00]: We'll see what develops.
+
+31:15.561 --> 31:21.266
+[SPEAKER_00]: Starfield Game of the Year Editions with expansions releasing in 2025 for PCs, Xbox, and PS5.
+
+31:21.266 --> 31:21.987
+[SPEAKER_00]: Maybe.
+
+31:21.987 --> 31:24.069
+[SPEAKER_00]: Probably.
+
+31:24.069 --> 31:28.733
+[SPEAKER_00]: When Starfield will be out of Early Access, it will be on other places like Skyrim.
+
+31:28.733 --> 31:30.535
+[SPEAKER_00]: Ouch.
+
+31:30.535 --> 31:31.096
+[SPEAKER_00]: How true.
+
+31:33.779 --> 31:41.857
+[SPEAKER_00]: Enough about the Xbox drama now that we know, let's talk a little bit about our gaming weeks and the types of video games that we have been playing this week with How Was Your Gaming Week.
+
+31:41.857 --> 31:43.080
+[SPEAKER_00]: So DarkSakura, we'll start with you.
+
+31:43.080 --> 31:43.781
+[SPEAKER_00]: How was your gaming week?
+
+31:45.251 --> 31:46.892
+[SPEAKER_06]: Um, it was pretty good.
+
+31:46.892 --> 31:52.314
+[SPEAKER_06]: I played the last bit of the Dead by Daylight, Lights Out, and I loved it.
+
+31:52.314 --> 31:56.775
+[SPEAKER_06]: I really had such a good time with it.
+
+31:56.775 --> 32:00.157
+[SPEAKER_06]: Although, I pretty much played nothing but pig and hag.
+
+32:00.157 --> 32:01.357
+[SPEAKER_06]: I think I played a hag game.
+
+32:01.357 --> 32:02.317
+[SPEAKER_06]: I, um...
+
+32:05.768 --> 32:07.109
+[SPEAKER_06]: What else?
+
+32:07.109 --> 32:10.152
+[SPEAKER_06]: Of course I've played Genshin Impact.
+
+32:10.152 --> 32:15.237
+[SPEAKER_06]: I haven't decided on which RPG I'm going to play next.
+
+32:15.237 --> 32:20.701
+[SPEAKER_06]: I might go back and just start over on Star Ocean, but I'm kind of not feeling it.
+
+32:20.701 --> 32:26.487
+[SPEAKER_06]: So since I don't have a game in mind for Retro Night, I'm just playing Genshin Impact.
+
+32:26.487 --> 32:29.049
+[SPEAKER_06]: So it's been super fun.
+
+32:29.049 --> 32:29.770
+[SPEAKER_06]: Played a little pinball.
+
+32:32.898 --> 32:34.920
+[SPEAKER_06]: Genshin Impact and Dead by Daylight
+
+32:50.117 --> 32:50.657
+[SPEAKER_00]: You know what?
+
+32:50.657 --> 32:55.379
+[SPEAKER_00]: Start with, well, I'm assuming you mean Battle Royale within Fortnite.
+
+32:55.379 --> 33:00.761
+[SPEAKER_00]: I was gonna say start with Lego Fortnite, because it's a completely different game.
+
+33:00.761 --> 33:02.361
+[SPEAKER_00]: And it's really, I think it's fun.
+
+33:02.361 --> 33:03.402
+[SPEAKER_00]: And then of course, there's Fortnite Festival.
+
+33:03.402 --> 33:05.423
+[SPEAKER_00]: I want to play with my friends.
+
+33:05.423 --> 33:07.143
+[SPEAKER_00]: Okay, well, yeah, then.
+
+33:07.143 --> 33:08.564
+[SPEAKER_00]: Well, you can play Lego Fortnite.
+
+33:08.564 --> 33:09.104
+[SPEAKER_00]: But I get it.
+
+33:09.104 --> 33:11.325
+[SPEAKER_00]: If they're all playing the Battle Royale, then you would be in there too.
+
+33:11.325 --> 33:11.665
+[SPEAKER_00]: I get it.
+
+33:11.665 --> 33:11.945
+[SPEAKER_00]: I get it.
+
+33:13.226 --> 33:19.089
+[SPEAKER_06]: So yeah, although like I would just like nothing but like a build mode.
+
+33:19.089 --> 33:20.910
+[SPEAKER_06]: I want to do nothing but build.
+
+33:20.910 --> 33:24.712
+[SPEAKER_06]: But like in the normal version and not Lego-ish.
+
+33:24.712 --> 33:27.953
+[SPEAKER_00]: I believe you can do that in a creative mode.
+
+33:27.953 --> 33:30.915
+[SPEAKER_00]: Like people have their own islands and stuff.
+
+33:30.915 --> 33:32.196
+[SPEAKER_00]: I want to say that's a thing.
+
+33:32.196 --> 33:33.596
+[SPEAKER_00]: I'm not super familiar with it.
+
+33:33.596 --> 33:36.438
+[SPEAKER_00]: But you know, if that's a thing, sign me up.
+
+33:36.438 --> 33:40.960
+[SPEAKER_00]: Yeah, look at look at some of the more like artistic things they put in Fortnite sometimes.
+
+33:40.960 --> 33:42.281
+[SPEAKER_00]: I think you'll find your jam in there.
+
+33:43.081 --> 33:44.141
+[SPEAKER_00]: So, okay.
+
+33:44.141 --> 33:45.262
+[SPEAKER_06]: Yeah, we'll see.
+
+33:45.262 --> 33:46.122
+[SPEAKER_00]: Cool.
+
+33:46.122 --> 33:54.625
+[SPEAKER_00]: If somebody in chat is a little more familiar with it than I am, by all means, be very curious to refer Jamie to that type of stuff.
+
+33:54.625 --> 34:02.748
+[SPEAKER_06]: So, but I'm also waiting for Islands of Insight to get a GeForce version so I can play it because I've been excited about that.
+
+34:02.748 --> 34:04.248
+[SPEAKER_01]: Okay.
+
+34:04.248 --> 34:04.769
+[SPEAKER_06]: All right.
+
+34:04.769 --> 34:07.870
+[SPEAKER_06]: The new behavior MMO.
+
+34:07.870 --> 34:08.430
+[SPEAKER_00]: Oh, okay.
+
+34:08.430 --> 34:10.390
+[SPEAKER_00]: Thanks.
+
+34:10.390 --> 34:11.291
+[SPEAKER_00]: Loki, we'll go to you.
+
+34:11.291 --> 34:11.911
+[SPEAKER_00]: How was your gaming week?
+
+34:13.612 --> 34:17.255
+[SPEAKER_04]: My week was finishing up my video that is playing behind me now.
+
+34:17.255 --> 34:25.000
+[SPEAKER_04]: So I have a new episode out now that was on the Fever Dream SMP, which took place back in January.
+
+34:25.000 --> 34:32.505
+[SPEAKER_04]: It is kind of tying in with the Channel 64 SMP in the sense that I have lore that kind of starts off there.
+
+34:32.505 --> 34:36.588
+[SPEAKER_04]: Essentially, the whole thing, I mean, like it sounds, it's a fever dream.
+
+34:36.588 --> 34:39.070
+[SPEAKER_04]: So as that SMP went on, it was
+
+34:39.790 --> 34:40.951
+[SPEAKER_04]: more and more chaotic.
+
+34:40.951 --> 34:44.153
+[SPEAKER_04]: They kept adding more things that were strange in it.
+
+34:44.153 --> 34:47.015
+[SPEAKER_04]: And so my video is also very strange.
+
+34:47.015 --> 34:49.877
+[SPEAKER_04]: It is the complete opposite of the content that I normally make.
+
+34:49.877 --> 34:57.662
+[SPEAKER_04]: It is kind of a satire on the modern Minecraft YouTuber, I guess, if you will.
+
+34:57.662 --> 35:08.549
+[SPEAKER_04]: You know, the quick, the over editing, the shouting at the camera, the constant calls to action for like subscribing and liking stuff.
+
+35:08.549 --> 35:08.689
+[SPEAKER_04]: It's
+
+35:10.530 --> 35:12.672
+[SPEAKER_04]: It's interesting, but it's also funny.
+
+35:12.672 --> 35:14.192
+[SPEAKER_00]: No, I thought it was great parody.
+
+35:14.192 --> 35:14.873
+[SPEAKER_00]: I watched it.
+
+35:14.873 --> 35:15.993
+[SPEAKER_00]: I thought it was great parody.
+
+35:15.993 --> 35:17.314
+[SPEAKER_00]: You're funny.
+
+35:17.314 --> 35:24.518
+[SPEAKER_04]: Yeah, so it's it's, you know, it gets dark in parts and stuff, but it's also going to tie in, like I said, with our season.
+
+35:24.518 --> 35:26.399
+[SPEAKER_04]: So it works out in that sense.
+
+35:26.399 --> 35:28.600
+[SPEAKER_04]: And so I think it's been it was good.
+
+35:28.600 --> 35:29.401
+[SPEAKER_04]: I liked it.
+
+35:29.401 --> 35:36.745
+[SPEAKER_04]: I was hoping that it would pop off a bit more than it did, because, you know, I thought that for sure that thumbnail be very clickbaity and
+
+35:37.185 --> 35:40.349
+[SPEAKER_04]: And we built it by community, which was fun.
+
+35:40.349 --> 35:47.077
+[SPEAKER_04]: You know, lots of people suggesting all sorts of red arrows to put on it and everything, just to a ridiculous extent.
+
+35:47.077 --> 35:48.719
+[SPEAKER_04]: So it's been a lot of fun.
+
+35:48.719 --> 35:54.647
+[SPEAKER_04]: And then I've been working on designing my dark
+
+35:55.428 --> 36:19.111
+[SPEAKER_04]: My water dark ride that I've got so I'm doing a theme park this season and I'm going through the process to design rides like you would an actual like theme park ride so including all the theming and everything like that so I've been working on a water ride a dark ride that's kind of similar to like not Pirates of the Caribbean but in that sense like you know your Disney rides where you're in a boat and water and stuff
+
+36:19.851 --> 36:24.936
+[SPEAKER_04]: Um, and you're supposed to be target shooting raccoons that have taken over a lumber mill.
+
+36:24.936 --> 36:29.360
+[SPEAKER_04]: And there's like a, it's just, you're not like killing them.
+
+36:29.360 --> 36:30.581
+[SPEAKER_04]: You're just capturing them.
+
+36:30.581 --> 36:33.503
+[SPEAKER_00]: And then, you know, I mean, you're not killing them.
+
+36:33.503 --> 36:35.105
+[SPEAKER_04]: You're just, you know, no, no, seriously.
+
+36:35.105 --> 36:37.046
+[SPEAKER_04]: Like you're not supposed, you're not killing them.
+
+36:37.046 --> 36:44.473
+[SPEAKER_04]: I mean, they're not, they're not even really raccoons essentially, but, um, it, it's just, it's a silly ride and that hopefully,
+
+36:45.154 --> 36:45.855
+[SPEAKER_04]: Thank you for watching!
+
+37:01.314 --> 37:02.394
+[SPEAKER_04]: Thank you for watching!
+
+37:29.938 --> 37:35.760
+[SPEAKER_00]: Uh, well, if that's it for your gaming week, I'll talk about my gaming week, which was pretty, you know, I, I play a lot of Final Fantasy 14.
+
+37:35.760 --> 37:39.121
+[SPEAKER_00]: Uh, so, you know, uh, again, one of my friends recently started playing that IRL.
+
+37:39.121 --> 37:43.322
+[SPEAKER_00]: So I've been helping him through the game and just, you know, doing a lot of roulettes and stuff like that.
+
+37:43.322 --> 37:46.363
+[SPEAKER_00]: Um, working on my Dark Knight is level 89 now.
+
+37:46.363 --> 37:49.944
+[SPEAKER_00]: So it's one level before cap and just, you know, working on the different stuff in that game.
+
+37:49.944 --> 37:53.325
+[SPEAKER_00]: I made my mini goals and honestly, that has been really the bulk of my week.
+
+37:53.325 --> 37:54.505
+[SPEAKER_00]: I haven't played a lot of other stuff.
+
+37:55.165 --> 38:21.135
+[SPEAKER_00]: I know, yes, there was an expansion to No Man's Sky, sort of, a patch, I shouldn't say expansion, a patch, which is usually the type of thing I get right on there and stream right away, but just with how busy everything has been between, you know, prepping for crews, day job stuff, and my dad's stuff all going on at once, there just, there really has not been room for that type of stuff, but I look forward very much to checking that all out when I get back from my trip along with Final Fantasy VII
+
+38:21.835 --> 38:22.275
+[SPEAKER_00]: Rebirth
+
+38:42.885 --> 38:49.309
+[SPEAKER_00]: Remember Rock Band 3, which had a keyboard or if you want to go way back to Bomani Games, Drum Mania, right?
+
+38:49.309 --> 38:51.050
+[SPEAKER_00]: Keyboard Mania was always my jam.
+
+38:51.050 --> 38:52.291
+[SPEAKER_00]: I loved Keyboard Mania.
+
+38:52.291 --> 38:53.651
+[SPEAKER_00]: I love Keyboard Rock Band 3.
+
+38:53.651 --> 39:01.316
+[SPEAKER_00]: And so I'm so happy that they're putting more synthesizer and keyboard songs and really general like pop songs into Fortnite Festival.
+
+39:01.316 --> 39:08.080
+[SPEAKER_00]: Just yesterday in the rotation, they had what Into You by Ariana Grande, some Selena Gomez song I never heard, but it was actually good.
+
+39:08.080 --> 39:09.181
+[SPEAKER_00]: I liked it.
+
+39:09.181 --> 39:10.962
+[SPEAKER_00]: And What Is Love by Hadaway.
+
+39:11.482 --> 39:14.885
+[SPEAKER_00]: I wonder if you did keyboard stuff if it would work with a MIDI keyboard?
+
+39:31.418 --> 39:33.539
+[SPEAKER_00]: Sadly, because there's only five lanes.
+
+39:33.539 --> 39:37.882
+[SPEAKER_00]: I mean, maybe because of the rock band, there was only five lanes in most modes.
+
+39:37.882 --> 39:40.144
+[SPEAKER_00]: I think there was like a real keyboard mode, if I remember right.
+
+39:40.144 --> 39:42.745
+[SPEAKER_00]: But most of the time you played, you had the same five lane thing.
+
+39:42.745 --> 39:45.647
+[SPEAKER_00]: So maybe it could do a similar thing to rock band three.
+
+39:45.647 --> 39:51.731
+[SPEAKER_00]: But that's actually a really good question for when they release the plastic instruments and that whole thing.
+
+39:51.731 --> 39:55.713
+[SPEAKER_00]: But I would assume that your guitar just becomes your keyboard.
+
+39:55.713 --> 39:58.875
+[SPEAKER_00]: But I would be thrilled if they would have like a little keyboard.
+
+39:58.875 --> 39:59.396
+[SPEAKER_06]: I mean, I have.
+
+40:00.436 --> 40:08.500
+[SPEAKER_06]: I have a USB MIDI keyboard that like, if I could do keyboard parts, like on a keyboard, maybe I'd actually learn how to use it.
+
+40:08.500 --> 40:10.981
+[SPEAKER_00]: I of course, I'm sitting here going, I would be thrilled.
+
+40:10.981 --> 40:14.562
+[SPEAKER_00]: But then I also know myself, I'd use it like twice and be like, that was fun.
+
+40:14.562 --> 40:22.126
+[SPEAKER_00]: And now it just, you know, is this extra thing I have, you know, in my, in my room, but I think one of our emails tonight gets into this later.
+
+40:22.126 --> 40:23.707
+[SPEAKER_00]: So we'll, we'll save that for them.
+
+40:23.707 --> 40:24.367
+[SPEAKER_06]: We actually have email.
+
+40:24.947 --> 40:25.848
+[SPEAKER_00]: Uh huh.
+
+40:25.848 --> 40:30.572
+[SPEAKER_00]: But that's, that's it for really my gaming week was just those two things.
+
+40:30.572 --> 40:33.394
+[SPEAKER_00]: So looking forward to when I get back and starting Final Fantasy VII Rebirth.
+
+40:33.394 --> 40:37.758
+[SPEAKER_00]: So all right, let's get into more gaming news.
+
+40:37.758 --> 40:42.642
+[SPEAKER_00]: And oh, hey, you know what talking about rumors served us so well last week.
+
+40:42.642 --> 40:44.724
+[SPEAKER_00]: But here's the thing.
+
+40:44.724 --> 40:45.064
+[SPEAKER_00]: I know,
+
+40:46.411 --> 40:51.593
+[SPEAKER_00]: Sometimes, you know, it's like, why would you talk about rumors on a gaming news podcast?
+
+40:51.593 --> 40:54.255
+[SPEAKER_00]: I've never said this is a gaming news podcast.
+
+40:54.255 --> 40:59.057
+[SPEAKER_00]: This is the show where we talk about video games, gaming culture, and the gamer lifestyle.
+
+40:59.057 --> 41:05.640
+[SPEAKER_00]: And I would say these types of rumors and things that go around social media, especially when they catch fire and all that stuff.
+
+41:05.640 --> 41:06.920
+[SPEAKER_00]: Bobby says at me next time.
+
+41:06.920 --> 41:07.921
+[SPEAKER_00]: This is at everyone.
+
+41:07.921 --> 41:10.142
+[SPEAKER_00]: It's not at one specific person.
+
+41:10.142 --> 41:11.923
+[SPEAKER_00]: But if you believe it applies, apply it.
+
+41:13.069 --> 41:32.903
+[SPEAKER_00]: But anyway, but no, all joking aside, like, you know, that's especially when things catch this type of fire that, because even when I first read this, I was like, I rolled my eyes and I was like, whatever, this is like some random website in Brazil talking about this, but, but now like, it won't go away.
+
+41:32.903 --> 41:39.588
+[SPEAKER_00]: Like it keeps catching fire and it feels like everything is starting to collaborate with this, where there might be some sense of truth to this.
+
+41:39.588 --> 41:42.630
+[SPEAKER_00]: Loki, I'll let you clarify what we're talking about here.
+
+41:43.228 --> 41:51.449
+[SPEAKER_04]: Yeah, so apparently the rumor is that the Nintendo Switch successor is going to be coming out next year, or been pushed back.
+
+41:51.449 --> 41:52.490
+[SPEAKER_04]: I don't know if it's been pushed back.
+
+41:52.490 --> 41:55.790
+[SPEAKER_04]: Did anyone really think it was coming out this year?
+
+41:55.790 --> 42:11.493
+[SPEAKER_04]: But apparently, so we have, of course, you know, that Brazilian publication that found the information they said from five sources, then that got backed up later on by from Eurogamer, which also heard similar things from their sources.
+
+42:12.133 --> 42:14.054
+[SPEAKER_00]: That's when I paid attention, for the record.
+
+42:14.054 --> 42:17.917
+[SPEAKER_00]: When Eurogamer collaborated, I was like, oh, okay, shit, there might be something here.
+
+42:17.917 --> 42:33.907
+[SPEAKER_04]: And then VGC also collaborated as well, saying their sources have, that publications have been told that, or I should say, publishers have been told that Nintendo has been pushing the console to launch in Q1 2025.
+
+42:33.907 --> 42:36.749
+[SPEAKER_04]: So I could see that, you know, March,
+
+42:38.021 --> 42:40.042
+[SPEAKER_04]: That's kind of when the Switch came out.
+
+42:40.042 --> 42:43.683
+[SPEAKER_00]: So yeah, I I don't think there's any problem with a first quarter launch.
+
+42:43.683 --> 42:46.784
+[SPEAKER_00]: Nintendo has shown it doesn't fucking matter when they put out a new console.
+
+42:46.784 --> 42:47.984
+[SPEAKER_00]: People are going to buy it.
+
+42:47.984 --> 42:51.086
+[SPEAKER_00]: That that part isn't the surprising part.
+
+42:51.086 --> 42:58.328
+[SPEAKER_00]: It's just I think it's the fact that really everybody's expectations has been 2024 Nintendo.
+
+42:58.328 --> 43:03.810
+[SPEAKER_00]: It's really time to catch up on technology and they're letting it slip further.
+
+43:03.810 --> 43:04.790
+[SPEAKER_00]: It's surprising.
+
+43:04.790 --> 43:06.511
+[SPEAKER_00]: Yeah, but it's not.
+
+43:07.259 --> 43:08.520
+[SPEAKER_00]: I understand the long game is important.
+
+43:25.250 --> 43:27.170
+[SPEAKER_00]: They thought it was launching strongly.
+
+43:27.170 --> 43:32.031
+[SPEAKER_00]: It wasn't, because again, it was a bunch of stuff that had already been out for a year.
+
+43:32.031 --> 43:36.092
+[SPEAKER_00]: Remember their strategic key partnership with EA that was launched?
+
+43:36.092 --> 43:38.553
+[SPEAKER_00]: And then that fucking fizzled so fucking fast.
+
+43:38.553 --> 43:41.813
+[SPEAKER_00]: My God, EA left them at the altar after like 60 days.
+
+43:41.813 --> 43:43.074
+[SPEAKER_00]: It was wild.
+
+43:43.074 --> 43:45.614
+[SPEAKER_00]: But anyway, you know, they didn't have the long game.
+
+43:45.614 --> 43:53.336
+[SPEAKER_00]: They didn't have that year of releases to keep things going and keep the Wii U buoyed throughout those early years.
+
+43:53.336 --> 43:54.776
+[SPEAKER_00]: And it just tumbled down the hill from there.
+
+43:55.296 --> 44:00.492
+[SPEAKER_00]: So if they are delaying it to make sure that the chess pieces are aligned so that way...
+
+44:01.513 --> 44:07.678
+[SPEAKER_00]: There's games that come out in March, a game in April, a game in May, a game in June, because that's kind of what they did with the Switch.
+
+44:07.678 --> 44:21.049
+[SPEAKER_00]: If you look at the release patterns, yes, it released in March, but they made sure whether it was them or a third party partner, they had a major release coming in April, May, June, July, August, they made sure they were doing one a month.
+
+44:21.049 --> 44:28.576
+[SPEAKER_00]: And I think that might be why this delay in the moment feels a little concerning because, well, then what are they going to do this year?
+
+44:30.100 --> 44:33.242
+[SPEAKER_00]: And maybe the answer is they don't really have to do shit.
+
+44:33.242 --> 44:35.563
+[SPEAKER_00]: Like, you know, the switch is still selling Nintendo.
+
+44:35.563 --> 44:37.204
+[SPEAKER_00]: It's done well.
+
+44:37.204 --> 44:39.025
+[SPEAKER_00]: Um, you know what they could do?
+
+44:39.025 --> 44:46.249
+[SPEAKER_00]: They could finally put the fucking Netflix paramount plus those apps on it, you know, but I guess it's gone.
+
+44:46.249 --> 44:47.590
+[SPEAKER_00]: It's gone this long without it.
+
+44:47.590 --> 44:48.170
+[SPEAKER_00]: Who needs it?
+
+44:48.170 --> 44:49.991
+[SPEAKER_00]: I guess, you know, but I don't know.
+
+44:49.991 --> 44:52.153
+[SPEAKER_00]: No, I, I would anticipate.
+
+44:53.365 --> 44:59.651
+[SPEAKER_00]: We get something that's going to be easy for them to throw together, which sounds really bad.
+
+44:59.651 --> 45:06.297
+[SPEAKER_00]: I don't so mean it that way, but I mean like a Wii U remaster, which I know what's left.
+
+45:06.297 --> 45:07.358
+[SPEAKER_00]: There's not a lot left.
+
+45:07.358 --> 45:07.838
+[SPEAKER_00]: The Wonderful 101.
+
+45:09.181 --> 45:10.081
+[SPEAKER_00]: Maybe?
+
+45:10.081 --> 45:12.242
+[SPEAKER_00]: They can remaster the remasters.
+
+45:12.242 --> 45:13.523
+[SPEAKER_04]: Remaster Wind Waker.
+
+45:13.523 --> 45:14.803
+[SPEAKER_00]: No, I'll tell you exactly what it is.
+
+45:14.803 --> 45:18.165
+[SPEAKER_00]: ZWA Chronicles X, that one, the one that was Wii U exclusive.
+
+45:18.165 --> 45:19.486
+[SPEAKER_00]: That will be one of them.
+
+45:19.486 --> 45:28.389
+[SPEAKER_00]: It could be something that they could they could very easily buff up and put out for the holiday or something like that.
+
+45:28.389 --> 45:36.453
+[SPEAKER_00]: But that's if that's what the holiday releases start looking like, then, you know, yeah, that's that's what happened is this thing is definitely delayed to 2025.
+
+45:36.453 --> 45:38.014
+[SPEAKER_00]: But can you really delay?
+
+45:39.048 --> 45:42.909
+[SPEAKER_00]: a game, a console that was never announced in the first place.
+
+45:42.909 --> 45:54.073
+[SPEAKER_04]: I mean, no, that's what I say is like, you know, delayed in the sense that maybe you were expecting in 2024, but no one said anything about it coming out in 2024 or even being announced in 2024.
+
+45:54.073 --> 45:57.355
+[SPEAKER_04]: It's just that, you know, that was the assumption, I guess.
+
+45:57.355 --> 45:58.355
+[SPEAKER_04]: Yeah, it's been a while.
+
+45:58.755 --> 46:01.677
+[SPEAKER_00]: SJ100 Matt in chat says, yeah, there's some smoke to this rumor.
+
+46:01.677 --> 46:06.020
+[SPEAKER_00]: Nintendo did nothing holiday window 2016 and they were just fine.
+
+46:06.020 --> 46:08.702
+[SPEAKER_00]: Well, they weren't fine.
+
+46:08.702 --> 46:10.563
+[SPEAKER_00]: The Wii U was kind of tanking.
+
+46:10.563 --> 46:12.024
+[SPEAKER_00]: It is a slightly different.
+
+46:12.024 --> 46:12.905
+[SPEAKER_00]: I mean, I get what you're saying.
+
+46:12.905 --> 46:15.506
+[SPEAKER_00]: Yes, they ended up OK in the long run, and that's what's important.
+
+46:15.506 --> 46:18.648
+[SPEAKER_00]: But the Wii U is in a very different place than where the Switch is now.
+
+46:18.648 --> 46:19.029
+[SPEAKER_00]: Right.
+
+46:19.029 --> 46:20.550
+[SPEAKER_00]: And so there is a little bit of a difference there.
+
+46:20.550 --> 46:24.172
+[SPEAKER_00]: But yeah, if Nintendo kind of.
+
+46:24.172 --> 46:26.294
+[SPEAKER_00]: Oh, no, it just hit me.
+
+46:27.182 --> 46:28.943
+[SPEAKER_00]: This is what this is what they'll do.
+
+46:28.943 --> 46:31.964
+[SPEAKER_00]: This is how Nintendo salvages their holiday period.
+
+46:31.964 --> 46:34.185
+[SPEAKER_00]: It's gonna have nothing to do with the switch.
+
+46:34.185 --> 46:36.226
+[SPEAKER_00]: They're gonna put out a new classic system.
+
+46:36.226 --> 46:37.107
+[SPEAKER_00]: Guaranteed.
+
+46:37.107 --> 46:38.087
+[SPEAKER_00]: That's what they'll do.
+
+46:38.087 --> 46:40.568
+[SPEAKER_00]: They'll do one of the they'll do an emulation hardware thing.
+
+46:40.568 --> 46:47.892
+[SPEAKER_00]: Remember, like the NES classic SNES classic, maybe a Game Boy, a disk system classic.
+
+46:48.666 --> 46:49.267
+[SPEAKER_00]: I can't hear Rob.
+
+47:07.763 --> 47:15.310
+[SPEAKER_00]: Gameboy Classic, N64 Classic, and I said maybe even an NES Classic Volume 2 or an SNES Classic Volume 2.
+
+47:15.310 --> 47:17.112
+[SPEAKER_00]: Like what's to stop them from doing that?
+
+47:17.112 --> 47:18.233
+[SPEAKER_00]: People would pick that up as well.
+
+47:18.233 --> 47:20.035
+[SPEAKER_00]: And then you said a disc classic as well.
+
+47:20.035 --> 47:24.979
+[SPEAKER_00]: Yeah, they'll do the top loader system.
+
+47:24.979 --> 47:28.263
+[SPEAKER_00]: You joke, but yes, it will be that.
+
+47:30.885 --> 47:37.069
+[SPEAKER_00]: And it will have different games, maybe that they've worked with third-party publishers, and maybe repeat some of the classics in there as well.
+
+47:37.069 --> 47:41.692
+[SPEAKER_04]: I don't think that they would, because I think it would devalue... I mean, maybe.
+
+47:41.692 --> 47:43.914
+[SPEAKER_04]: Like, Game Boy, I could... I don't know.
+
+47:43.914 --> 47:50.678
+[SPEAKER_04]: I still think that their path now is that they want to push people to Nintendo Switch Online in the expansion path, so...
+
+47:52.458 --> 48:01.874
+[SPEAKER_04]: I think it's a great idea because, you know, Nintendo Switch Online Expansion Pass is only $25 in a year, whereas the console, they could sell it for $100, but I don't know.
+
+48:01.874 --> 48:02.195
+[SPEAKER_04]: We'll see.
+
+48:02.694 --> 48:05.157
+[SPEAKER_00]: Yeah, respectfully, totally disagree.
+
+48:05.157 --> 48:09.601
+[SPEAKER_00]: The NES classic and the SNES classic didn't do a damn thing to sales or cannibalize.
+
+48:09.601 --> 48:23.056
+[SPEAKER_00]: People still wanted those things and I think if they did an N64 classic or a top loader NES classic or a Game Boy, which would be the three likely candidates to me, as a fan, now as a fan, DarkSakura,
+
+48:23.616 --> 48:27.217
+[SPEAKER_00]: I would love, love exactly what you're talking about.
+
+48:27.217 --> 48:32.619
+[SPEAKER_00]: A disc system with a bunch of games that have never been released in the U.S.
+
+48:32.619 --> 48:33.700
+[SPEAKER_00]: or something like that.
+
+48:33.700 --> 48:46.044
+[SPEAKER_00]: Or just, you know, most people have never, even though you can do it on the Switch's virtual console or whatever, I'm sorry, the Switch Online, you can play Metroid with the extra sound chip.
+
+48:46.044 --> 48:49.686
+[SPEAKER_06]: They'll put it, they can do a whole- Yeah, that's what I'm thinking, like an FM series.
+
+48:49.686 --> 48:49.906
+[SPEAKER_00]: Yes.
+
+48:49.906 --> 48:53.067
+[SPEAKER_06]: Or maybe even coordinate with Sega.
+
+48:55.012 --> 48:58.914
+[SPEAKER_06]: and actually do a good master system mini.
+
+49:13.281 --> 49:18.266
+[SPEAKER_06]: I already have the Famicom Mini.
+
+49:18.266 --> 49:23.450
+[SPEAKER_00]: Bobby Blackwolf points out, my in-laws have an NES Classic because my mother-in-law grew up playing NES games.
+
+49:23.450 --> 49:25.472
+[SPEAKER_00]: She doesn't want to switch, it's too complex.
+
+49:25.472 --> 49:27.714
+[SPEAKER_00]: There's still a lot they could do with an NES Classic.
+
+49:27.714 --> 49:36.622
+[SPEAKER_00]: Keep in mind, just piggybacking right on Bobby Blackwolf's comment about they have an NES Classic because they grew up playing NES games.
+
+49:37.742 --> 49:47.233
+[SPEAKER_00]: There is a huge game that everybody grew up playing that has never been in one of these releases, and it's not on Switch Online either.
+
+49:47.233 --> 49:49.295
+[SPEAKER_00]: Duck Hunt.
+
+49:49.295 --> 49:50.957
+[SPEAKER_00]: That's the one.
+
+49:50.957 --> 49:53.781
+[SPEAKER_06]: Because guns are hard to do when you don't have a CRT.
+
+49:55.305 --> 49:55.645
+[SPEAKER_06]: but now
+
+50:13.550 --> 50:14.590
+[SPEAKER_00]: That's that's it.
+
+50:14.590 --> 50:15.891
+[SPEAKER_00]: I'm a I'm a genius.
+
+50:15.891 --> 50:17.691
+[SPEAKER_00]: Mark my words.
+
+50:17.691 --> 50:19.351
+[SPEAKER_00]: That is Nintendo's holiday plan.
+
+50:19.351 --> 50:22.892
+[SPEAKER_00]: They're going to put out a new classic or some type of hardware thing.
+
+50:22.892 --> 50:26.613
+[SPEAKER_00]: And that will be the thing that moves hardware when the switch is having an off year.
+
+50:26.613 --> 50:32.135
+[SPEAKER_00]: But they'll still they'll still do the the Wii U release or something like that will still be a thing.
+
+50:32.135 --> 50:33.515
+[SPEAKER_00]: But that'll that'll be it.
+
+50:37.232 --> 50:44.217
+[SPEAKER_00]: DarkTetsuya says Duck Hunt showed up on Wii U with Wiimote support, so if they could figure that out for a mini, sure.
+
+50:44.217 --> 50:51.102
+[SPEAKER_00]: And Bobby Blackwolf says, there is a way to do light gun games on modern LCDs, Arcade1Up figured it out.
+
+50:51.102 --> 50:53.283
+[SPEAKER_00]: Yes, and I think we have another light gun story coming up later.
+
+50:53.283 --> 50:56.025
+[SPEAKER_04]: I mean, to be fair, you could take one of those.
+
+50:56.025 --> 50:56.886
+[SPEAKER_04]: Remember the Wii
+
+50:59.307 --> 51:01.250
+[SPEAKER_04]: What was it, the Wii console that they put out?
+
+51:01.250 --> 51:13.946
+[SPEAKER_04]: Like, the very end of the life cycle of the Wii that had, like, no internet access, like, no GameCube backwards compatibility and stuff like that, and they were selling it for, like, I think it was, it was under, like, a hundred bucks, I think.
+
+51:13.946 --> 51:15.568
+[SPEAKER_06]: It wasn't the Wii, it was the Wii.
+
+51:17.186 --> 51:17.707
+[SPEAKER_04]: Right.
+
+51:17.707 --> 51:18.808
+[SPEAKER_04]: It was the Wii.
+
+51:18.808 --> 51:20.390
+[SPEAKER_04]: Yeah, it was.
+
+51:20.390 --> 51:21.191
+[SPEAKER_04]: I don't remember what they called it.
+
+51:21.191 --> 51:22.212
+[SPEAKER_04]: They called it something different.
+
+51:22.212 --> 51:24.955
+[SPEAKER_04]: It was the Wii, but it had like an extra name on it.
+
+51:24.955 --> 51:26.516
+[SPEAKER_04]: They could repurpose that.
+
+51:26.516 --> 51:31.422
+[SPEAKER_04]: I mean, that thing could emulate, obviously, Nintendo games since it did.
+
+51:31.422 --> 51:35.186
+[SPEAKER_04]: And then you have a light gun right there because you have the Wii remotes.
+
+51:36.026 --> 51:43.231
+[SPEAKER_00]: And to be fair to DarkSakura's original point about the fact that Duck Hunt would have to be repurposed, in a sense, to run now.
+
+51:43.231 --> 51:45.932
+[SPEAKER_06]: I'm just stating why it hadn't been done to this date.
+
+51:45.932 --> 51:46.232
+[SPEAKER_00]: Right.
+
+51:46.232 --> 51:57.599
+[SPEAKER_00]: But it's also one of the things, to that point, is that the NES classic, the SES classic, they were nice, they were cute, but they were just ROMs thrown on a piece of hardware.
+
+51:57.599 --> 52:01.962
+[SPEAKER_00]: Nintendo, if they really went in, think about the rich trove
+
+52:02.722 --> 52:05.323
+[SPEAKER_00]: of things that Nintendo is sitting on that they could do.
+
+52:05.323 --> 52:14.508
+[SPEAKER_00]: Seriously, they could do some of their satellites, Teleview games, now that those are all back, and they could do something that incorporates all of those.
+
+52:14.508 --> 52:20.311
+[SPEAKER_06]: They could do- And all they have to do is work with the fan translators, because like some of those games have already been fully dumped and translated.
+
+52:20.311 --> 52:22.632
+[SPEAKER_06]: There was the thing we talked about F-Zero last week.
+
+52:22.632 --> 52:22.892
+[SPEAKER_00]: Right.
+
+52:22.892 --> 52:28.475
+[SPEAKER_00]: Well, there's legal reasons they don't do that, but it would- I don't think it would be very hard for them to translate internally.
+
+52:29.804 --> 52:37.430
+[SPEAKER_06]: But I mean, they've done it before, like they've put out the like they did Star Fox 2, you know, finally gave us a full release of that.
+
+52:37.430 --> 52:38.110
+[SPEAKER_00]: Oh, yeah.
+
+52:38.110 --> 52:38.631
+[SPEAKER_00]: No, you're right.
+
+52:38.631 --> 52:39.231
+[SPEAKER_00]: You're right.
+
+52:39.231 --> 52:43.254
+[SPEAKER_06]: They they've got all of the material for the Satellaview games.
+
+52:43.254 --> 52:53.582
+[SPEAKER_06]: I would think that, you know, if they see how popular that ended up being, maybe they would translate some of the Satellaview games or put them in a standard play version.
+
+52:53.582 --> 52:53.782
+[SPEAKER_00]: Yeah.
+
+52:54.381 --> 52:58.623
+[SPEAKER_00]: I've been saying this for years.
+
+52:58.623 --> 53:04.865
+[SPEAKER_00]: I would love for Nintendo to embrace the randomizer concept with some of their old games.
+
+53:04.865 --> 53:07.286
+[SPEAKER_00]: They don't have to use the literal stuff that's out there now.
+
+53:07.286 --> 53:11.247
+[SPEAKER_00]: Nintendo could come up with their own thing to do a true randomizer for something like Metroid
+
+53:11.767 --> 53:38.494
+[SPEAKER_00]: or Zelda 1 or you know all these games that get this treatment and I think that would be so much fun and people would be so into that so I I feel like there's a lot of low-hanging fruit Nintendo could do to make something that would be very mildly interesting for the holiday that they just they just have to do it so we'll see but anyway yes if this if the switch is delayed then fine whatever they're doing it for the right reasons and even though we sit here going wow 2024 is gonna suck
+
+53:40.686 --> 53:44.687
+[SPEAKER_00]: Nintendo's position strongly for 2025, so what does it matter in the long game?
+
+53:44.687 --> 53:49.989
+[SPEAKER_00]: But I'm just saying 2024 doesn't have to suck, Nintendo.
+
+53:49.989 --> 53:52.029
+[SPEAKER_00]: We'll see what happens.
+
+53:52.029 --> 53:57.251
+[SPEAKER_00]: Dr. C in chat says this reminds me I saw an article on one of the blogs about NES Remix.
+
+53:57.251 --> 53:58.891
+[SPEAKER_00]: They should bring that back in some form.
+
+53:58.891 --> 54:01.172
+[SPEAKER_00]: Hell yes, NES Remix was awesome.
+
+54:01.172 --> 54:03.393
+[SPEAKER_00]: That was a lot of fun.
+
+54:03.393 --> 54:07.634
+[SPEAKER_00]: All right, let's move on and talk about this headline that kind of
+
+54:08.939 --> 54:28.165
+[SPEAKER_00]: Kinda slipped under a little bit considering all the things going on with Xbox, but how different at its core, really, is this comment, besides the obvious, from Sony President Hiroki Totoki, who was talking recently in an earnings call Q&A session.
+
+54:28.165 --> 54:36.087
+[SPEAKER_00]: He was asked about Sony's profits not keeping up with increasing gross income, and he mentioned that hardware and first-party games were areas of focus,
+
+54:36.687 --> 54:43.089
+[SPEAKER_00]: Hardware cost reduction was difficult to come by, so don't expect the price of a PS5 to drop.
+
+54:43.089 --> 54:54.051
+[SPEAKER_00]: But then goes on to say, I personally think there are opportunities out there for improvement of margin, so I would like to go aggressive on improving our margin performance.
+
+54:54.051 --> 55:01.593
+[SPEAKER_00]: In the past, we wanted to popularize consoles, and a first-party title's main purpose was to make the console popular.
+
+55:02.253 --> 55:04.994
+[SPEAKER_00]: This is true, but there's a synergy to it.
+
+55:04.994 --> 55:20.021
+[SPEAKER_00]: If you have strong first party content, not only on our console, but also other platforms like computers, a first party game can be grown with multi platform, and that can help operating profit to improve.
+
+55:20.021 --> 55:22.823
+[SPEAKER_00]: So that's another one we want to proactively work on.
+
+55:23.911 --> 55:27.814
+[SPEAKER_00]: So Sony also talking about multi-platform.
+
+55:27.814 --> 55:30.856
+[SPEAKER_00]: Granted, not Xbox, not Switch.
+
+55:30.856 --> 55:31.737
+[SPEAKER_00]: Sure.
+
+55:31.737 --> 55:34.639
+[SPEAKER_00]: But look at that quote and what he's saying.
+
+55:34.639 --> 55:37.321
+[SPEAKER_00]: Is it that different from Xbox?
+
+55:37.321 --> 55:40.503
+[SPEAKER_00]: Xbox is just taking this road to get to that point.
+
+55:40.503 --> 55:43.285
+[SPEAKER_00]: Sony is taking a different road to get to that point.
+
+55:43.285 --> 55:50.451
+[SPEAKER_00]: But it's at the same at the end of the day, it's a first party game can be grown with multi-platform and that can help the overall profit to improve.
+
+55:52.202 --> 55:54.998
+[SPEAKER_00]: It's just- But wait, where are the people throwing away their PlayStation 5s?
+
+55:56.584 --> 56:05.532
+[SPEAKER_00]: They're not gonna because, well, actually, Loki, to be fair, when they first went to Steam and PC, we saw the YouTube hysteria on that front.
+
+56:05.532 --> 56:06.713
+[SPEAKER_00]: That did happen.
+
+56:06.713 --> 56:12.177
+[SPEAKER_00]: To be completely fair, Sony fanboys are just as insufferable as the Xbox ones, okay?
+
+56:12.177 --> 56:14.479
+[SPEAKER_00]: They're all bad.
+
+56:14.479 --> 56:19.223
+[SPEAKER_00]: But yeah, and this far along, does it really matter at the end of the day?
+
+56:19.223 --> 56:21.805
+[SPEAKER_00]: Has it really killed the PlayStation exclusives?
+
+56:21.805 --> 56:22.006
+[SPEAKER_00]: No.
+
+56:23.663 --> 56:38.863
+[SPEAKER_00]: But, he did point out, in 2022, at the time, he said PC gamers would have to wait at least a year to play things like God of War 2018, Marvel's Spider-Man, and Miles Morales was actually a two year turnaround.
+
+56:40.285 --> 56:51.271
+[SPEAKER_00]: Something to note, Helldivers 2, a Sony game, just came out on February 8th on PlayStation 5 and Windows, and it's doing very well.
+
+56:51.271 --> 56:52.792
+[SPEAKER_00]: We'll talk about that again later in the show.
+
+56:52.792 --> 56:58.415
+[SPEAKER_00]: In fact, it is doing better than they expected it to do, which is very interesting.
+
+56:58.415 --> 56:59.416
+[SPEAKER_00]: So now again,
+
+57:00.416 --> 57:06.458
+[SPEAKER_00]: Unlike Microsoft, Sony didn't name any specifics because this was more of an asterisk during a Q&A at the call.
+
+57:06.458 --> 57:09.298
+[SPEAKER_00]: So we don't know if we're talking about like, does this mean Wolverine?
+
+57:09.298 --> 57:12.479
+[SPEAKER_00]: Does this mean, you know, a potential future Naughty Dog game or anything?
+
+57:12.479 --> 57:15.580
+[SPEAKER_00]: Because we all know Last of Us 3 is going to happen eventually.
+
+57:15.580 --> 57:17.060
+[SPEAKER_00]: We don't know yet.
+
+57:17.060 --> 57:23.362
+[SPEAKER_00]: But it is very interesting that Sony also sees the benefit of going multi platform.
+
+57:23.362 --> 57:24.062
+[SPEAKER_00]: And I think that is
+
+57:25.404 --> 57:29.747
+[SPEAKER_00]: that I think that window of the year might get a little smaller, but not too much.
+
+57:29.747 --> 57:34.429
+[SPEAKER_00]: I don't I don't know if we see a lot of same day and date, like we're seeing with Helldivers 2.
+
+57:34.429 --> 57:41.033
+[SPEAKER_00]: But maybe, maybe the Helldivers 2 is a very interesting because I that game was not on my radar at all.
+
+57:41.033 --> 57:45.216
+[SPEAKER_00]: And now it's, I feel like lots of people are talking about that.
+
+57:45.216 --> 57:48.418
+[SPEAKER_00]: So anyway, let's move on.
+
+57:48.418 --> 57:50.919
+[SPEAKER_00]: DarkSakura, I know you love to talk about classics here.
+
+57:50.919 --> 57:53.421
+[SPEAKER_00]: And this is definitely something with the classics, right?
+
+57:54.662 --> 57:59.525
+[SPEAKER_06]: Well, Rob, are you familiar with the term, um, kusoge?
+
+57:59.525 --> 58:01.606
+[SPEAKER_06]: Uh, no.
+
+58:01.606 --> 58:04.268
+[SPEAKER_06]: Kuso means shit.
+
+58:04.268 --> 58:07.930
+[SPEAKER_06]: Basically, it means shitty game.
+
+58:07.930 --> 58:17.576
+[SPEAKER_06]: So, they have, there is a translation patch for a Dreamcast light gun game that is a pretty shitty game.
+
+58:19.713 --> 58:28.396
+[SPEAKER_06]: But it does have some notable music to it, and it's just got a lot of stuff to it.
+
+58:28.396 --> 58:39.479
+[SPEAKER_06]: But it's called Death Crimson II, Altar of Melanito, and there is an English patch put out for it.
+
+58:39.479 --> 58:43.440
+[SPEAKER_06]: Yeah, and Bobby points out about the Cuso Grande,
+
+58:45.072 --> 58:49.175
+[SPEAKER_06]: which is, you know, same thing.
+
+58:49.175 --> 58:59.563
+[SPEAKER_06]: But there's also cheat codes that let you use the L and R trigger to increase your credit counts and change your timer.
+
+58:59.563 --> 59:09.771
+[SPEAKER_06]: But there's a patch online that you can go get from Derek Pascarella, P-A-S-C-A-R-E-L-L-A, on...
+
+59:15.703 --> 59:16.504
+[SPEAKER_06]: and Bobby Blackwolf
+
+59:42.403 --> 59:50.888
+[SPEAKER_06]: We were watching that just on their channel as like, it was like an ongoing thing just on the channel itself.
+
+59:50.888 --> 59:53.390
+[SPEAKER_06]: We would sometimes watch and go, hey, I know that game.
+
+59:53.390 --> 59:54.591
+[SPEAKER_00]: Yeah.
+
+59:54.591 --> 59:55.752
+[SPEAKER_06]: Yeah.
+
+59:55.752 --> 59:56.972
+[SPEAKER_00]: All right.
+
+59:56.972 --> 59:58.974
+[SPEAKER_00]: Well, let's move on.
+
+59:58.974 --> 59:59.194
+[SPEAKER_00]: Loki.
+
+01:00:00.946 --> 01:00:02.007
+[SPEAKER_04]: Uh, yes.
+
+01:00:02.007 --> 01:00:03.368
+[SPEAKER_04]: Um, it's funny.
+
+01:00:03.368 --> 01:00:04.209
+[SPEAKER_04]: I mean, it's not funny.
+
+01:00:04.209 --> 01:00:08.652
+[SPEAKER_04]: None of this is funny, but it, it reminds me of EA in a sense.
+
+01:00:08.652 --> 01:00:13.696
+[SPEAKER_04]: So Embracer has canceled nearly 30 unannounced games in the last six months.
+
+01:00:15.938 --> 01:00:26.686
+[SPEAKER_04]: And if you think about it, it's very, this feels a lot like EA and how they used to basically buy up studios and then those studios just go under.
+
+01:00:26.686 --> 01:00:29.348
+[SPEAKER_04]: But except they're just speed running this now.
+
+01:00:29.348 --> 01:00:31.550
+[SPEAKER_04]: So apparently the last physical report,
+
+01:00:32.990 --> 01:00:33.470
+[SPEAKER_04]: Disgusting.
+
+01:01:02.914 --> 01:01:19.233
+[SPEAKER_00]: and I and all these people who had nothing to do with that decision are the ones that are having to pay for it and it's just it's just so gross the entire mismanagement of the whole thing like I almost feel like certain executives should be personally accountable for some of this stuff it's so bad
+
+01:01:20.037 --> 01:01:22.158
+[SPEAKER_00]: Absolutely, I would imagine.
+
+01:01:22.158 --> 01:01:24.080
+[SPEAKER_00]: I would love to see that lawsuit happen.
+
+01:01:24.080 --> 01:01:27.402
+[SPEAKER_00]: Although, you know, technically, I think a lot of those executives aren't based here.
+
+01:01:27.402 --> 01:01:28.263
+[SPEAKER_00]: I think it's overseas.
+
+01:01:28.263 --> 01:01:29.723
+[SPEAKER_00]: So it gets complicated.
+
+01:01:29.723 --> 01:01:35.908
+[SPEAKER_00]: But it's just it's just really gross to see how horribly mismanaged the whole thing was.
+
+01:01:35.908 --> 01:01:40.811
+[SPEAKER_00]: Buying all this stuff just to shut it all down sucks.
+
+01:01:40.811 --> 01:01:43.753
+[SPEAKER_06]: Anyway, I don't care as long as they still have their money.
+
+01:01:45.031 --> 01:01:47.812
+[SPEAKER_00]: Well, let's talk about something that's completely different.
+
+01:01:47.812 --> 01:01:56.216
+[SPEAKER_00]: Let's talk about a company that knows how to keep a good thing going and support, support, support a game with free patches, even though you bought it one time.
+
+01:01:56.216 --> 01:02:01.759
+[SPEAKER_00]: And sure, maybe when you first bought it, it wasn't great, but it's hard to say that this game isn't in a great place now.
+
+01:02:01.759 --> 01:02:03.940
+[SPEAKER_00]: And that, of course, is No Man's Sky.
+
+01:02:03.940 --> 01:02:07.782
+[SPEAKER_00]: And I have to admit, I was kind of wondering, like, when's the next patch coming?
+
+01:02:07.782 --> 01:02:08.662
+[SPEAKER_00]: It's been a minute.
+
+01:02:08.662 --> 01:02:12.484
+[SPEAKER_00]: And sure enough, this week, in comes the Omega patch.
+
+01:02:13.064 --> 01:02:18.549
+[SPEAKER_00]: And is the Omega patch, a lot of folks wondering, is the Omega patch the final patch for No Man's Sky?
+
+01:02:18.549 --> 01:02:20.391
+[SPEAKER_00]: Because it's called Omega.
+
+01:02:20.391 --> 01:02:21.692
+[SPEAKER_00]: I don't think so, folks.
+
+01:02:21.692 --> 01:02:26.997
+[SPEAKER_00]: I think it's called that because some of the elements of this actually affect the ending.
+
+01:02:26.997 --> 01:02:32.282
+[SPEAKER_00]: They changed the Atlas ending a little bit to have a little more choice with it, but...
+
+01:02:35.825 --> 01:02:50.809
+[SPEAKER_00]: Hello Games has kind of said that they're not ending No Man's Sky support because of Light No Fire, which you know, of course, the folks that made No Man's Sky are working on a kind of single planet sort of game called Light No Fire at this point.
+
+01:02:50.809 --> 01:02:54.130
+[SPEAKER_00]: And they have explicitly said they're not stopping No Man's Sky.
+
+01:02:54.130 --> 01:02:58.471
+[SPEAKER_00]: It might get scaled back a little bit, but they're still going to continue on that game.
+
+01:02:58.471 --> 01:03:00.671
+[SPEAKER_00]: So I don't think Omega needs ending at this point.
+
+01:03:00.671 --> 01:03:03.792
+[SPEAKER_00]: I think there would have been a lot more fanfare if that was going to be the case.
+
+01:03:03.792 --> 01:03:03.912
+[SPEAKER_00]: But
+
+01:03:04.312 --> 01:03:05.494
+[SPEAKER_00]: Oh, excuse me.
+
+01:03:05.494 --> 01:03:08.138
+[SPEAKER_00]: But what else is sorry how to root beer.
+
+01:03:08.138 --> 01:03:13.044
+[SPEAKER_00]: But what I think is very interesting is that the game actually was free to play this weekend.
+
+01:03:13.044 --> 01:03:16.870
+[SPEAKER_00]: I'm sorry to say by the time most of you are hearing this, that free to play window is done.
+
+01:03:16.870 --> 01:03:17.911
+[SPEAKER_00]: So you probably missed it.
+
+01:03:17.911 --> 01:03:19.253
+[SPEAKER_00]: But the game was free to play.
+
+01:03:20.635 --> 01:03:21.056
+[SPEAKER_00]: Twitch Twitch Drops
+
+01:03:38.115 --> 01:04:06.475
+[SPEAKER_00]: there is a new expedition and it sounds like they've already kind of really changed up the expedition system so instead of having to create a whole new game a whole new save file for the expedition you can fire up the expedition in your existing save which is a very big quality of life thing for a lot of people that want to like have their main save and not all these sub saves and all that so that's pretty cool and then they're doing um a brand new ship type uh there's a really cool staff that they have now in place of a multi-tool so you can look like a
+
+01:04:06.775 --> 01:04:07.495
+[SPEAKER_00]: Big Pirate Fleets
+
+01:04:19.216 --> 01:04:23.837
+[SPEAKER_00]: QuestBuster says it was wild seeing so many people in the player hubs.
+
+01:04:38.982 --> 01:04:41.123
+[SPEAKER_00]: DarkSakura, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen
+
+01:04:59.292 --> 01:05:04.674
+[SPEAKER_00]: and so like I'm going to have maybe a week when I get back and I want to play Final Fantasy VII Rebirth.
+
+01:05:04.674 --> 01:05:12.337
+[SPEAKER_00]: So I might miss this one, but I'm going to try not to because I love No Man's Sky is just one of my go to comfort games.
+
+01:05:12.337 --> 01:05:13.897
+[SPEAKER_00]: It's my comfort food.
+
+01:05:13.897 --> 01:05:16.358
+[SPEAKER_00]: It's my it's my Taco Bell.
+
+01:05:16.358 --> 01:05:22.101
+[SPEAKER_00]: I don't eat it every day, but once in a while I crave it and I want it and I go play it.
+
+01:05:22.101 --> 01:05:24.221
+[SPEAKER_00]: So there's that.
+
+01:05:24.221 --> 01:05:25.442
+[SPEAKER_00]: All right.
+
+01:05:25.442 --> 01:05:28.503
+[SPEAKER_00]: DarkSakura with another cool little classic update.
+
+01:05:32.949 --> 01:05:39.202
+[SPEAKER_06]: Switch had a new release on the 15th and that is the
+
+01:05:41.938 --> 01:05:45.481
+[SPEAKER_06]: East for the PC-8801.
+
+01:05:45.481 --> 01:05:50.224
+[SPEAKER_06]: As in, it's a very different... Well, actually, I take that back.
+
+01:05:50.224 --> 01:05:54.707
+[SPEAKER_06]: East... I was thinking of Valis, never mind.
+
+01:05:54.707 --> 01:06:00.991
+[SPEAKER_06]: But it's still... It's the original... One of the original versions of East.
+
+01:06:00.991 --> 01:06:01.791
+[SPEAKER_06]: It's gonna be $6.49.
+
+01:06:01.791 --> 01:06:05.134
+[SPEAKER_06]: It's a small little game.
+
+01:06:05.134 --> 01:06:11.038
+[SPEAKER_06]: But it's the game that began the East series put out by Nihon Falcom.
+
+01:06:11.958 --> 01:06:15.759
+[SPEAKER_06]: So definitely it's worth it.
+
+01:06:15.759 --> 01:06:20.281
+[SPEAKER_06]: I mean, my jam was YS III and I like the series.
+
+01:06:20.281 --> 01:06:24.802
+[SPEAKER_06]: So if you want to know where now we're like what on YS IX, something like that.
+
+01:06:24.802 --> 01:06:27.763
+[SPEAKER_06]: I want to say X. Are we?
+
+01:06:27.763 --> 01:06:28.603
+[SPEAKER_06]: I lost.
+
+01:06:28.603 --> 01:06:31.704
+[SPEAKER_00]: I want to say I saw like YX.
+
+01:06:31.704 --> 01:06:35.005
+[SPEAKER_00]: I know it's YS, but YX.
+
+01:06:35.005 --> 01:06:35.806
+[SPEAKER_00]: I could be wrong.
+
+01:06:35.806 --> 01:06:36.986
+[SPEAKER_00]: I thought I saw a thing of that.
+
+01:06:38.348 --> 01:06:41.291
+[SPEAKER_06]: At any rate, you can go back and play the original.
+
+01:06:41.291 --> 01:06:50.022
+[SPEAKER_06]: And it's actually been dubbed Egg Console East PC 8801 Mark 2 SR.
+
+01:06:50.022 --> 01:06:50.943
+[SPEAKER_00]: Sounds like Iron Man's arm.
+
+01:06:52.607 --> 01:06:58.894
+[SPEAKER_00]: DarkSakura in chat says, I'm tempted to get it just to show the wife some of the early Falcom stuff.
+
+01:06:58.894 --> 01:07:02.678
+[SPEAKER_00]: And apparently it's still in Japanese, but I'm sure Google Translate might help.
+
+01:07:02.678 --> 01:07:13.529
+[SPEAKER_06]: Um, oh, well, actually, um, the, um, the menus and how to play is all in English, but the main gaming gallery is in Japanese.
+
+01:07:14.150 --> 01:07:17.533
+[SPEAKER_00]: Okay, so they translate as the the necessary stuff to get through the game.
+
+01:07:17.533 --> 01:07:19.435
+[SPEAKER_00]: It sounds like interesting.
+
+01:07:19.435 --> 01:07:26.541
+[SPEAKER_06]: Well, yeah, I mean, you won't really unless you know enough Japanese to kind of get the gist of the conversation.
+
+01:07:26.541 --> 01:07:28.703
+[SPEAKER_06]: You know, you will be missing out on some story.
+
+01:07:28.703 --> 01:07:37.652
+[SPEAKER_00]: But that's still a cool thing for them to release like just and I get you know, Dr. Seuss comment like just almost wanting to buy it just to support this and see this kind of thing.
+
+01:07:37.652 --> 01:07:37.952
+[SPEAKER_00]: No, do
+
+01:07:38.152 --> 01:07:39.994
+[SPEAKER_00]: And I do think that is important.
+
+01:07:39.994 --> 01:07:45.578
+[SPEAKER_00]: Like if this kind of like really like, let's be honest, this is a deep dive in classics.
+
+01:07:45.578 --> 01:07:50.902
+[SPEAKER_00]: This is not I realize ease is a great thing for a lot of people as are these, you know, Japanese consoles.
+
+01:07:50.902 --> 01:07:52.624
+[SPEAKER_00]: But you know, like, let's be real.
+
+01:07:52.624 --> 01:07:54.565
+[SPEAKER_00]: We're not talking about Mario Brothers or Zelda.
+
+01:07:54.565 --> 01:07:56.366
+[SPEAKER_00]: We're not talking about a re-release of a huge game.
+
+01:07:56.366 --> 01:07:58.168
+[SPEAKER_00]: We're talking about something that's rather pretty niche.
+
+01:07:58.508 --> 01:08:00.549
+[SPEAKER_00]: EZ10 Nordics has a page on Steam and is coming out here later
+
+01:08:27.222 --> 01:08:31.005
+[SPEAKER_00]: I know, I know, I know it makes you all shiver, but it's funny.
+
+01:08:31.005 --> 01:08:32.806
+[SPEAKER_00]: It's funny.
+
+01:08:32.806 --> 01:08:33.907
+[SPEAKER_00]: What, Rob?
+
+01:08:33.907 --> 01:08:34.568
+[SPEAKER_00]: What?
+
+01:08:34.568 --> 01:08:37.310
+[SPEAKER_00]: All right.
+
+01:08:37.310 --> 01:08:39.091
+[SPEAKER_00]: No.
+
+01:08:39.091 --> 01:08:40.172
+[SPEAKER_00]: Moving on, Loki.
+
+01:08:42.104 --> 01:08:50.671
+[SPEAKER_04]: We have some news regarding a lawsuit against Activision by Optics Gaming.
+
+01:08:50.671 --> 01:08:53.673
+[SPEAKER_04]: I'm not too familiar with all of this.
+
+01:08:53.673 --> 01:08:55.995
+[SPEAKER_04]: This is more of the Call of Duty league.
+
+01:08:55.995 --> 01:08:58.537
+[SPEAKER_04]: It's their professional esports gaming league.
+
+01:08:59.518 --> 01:09:01.921
+[SPEAKER_04]: And kind of some of the stuff that went along with that.
+
+01:09:01.921 --> 01:09:12.011
+[SPEAKER_04]: So kind of for context, apparently before the Call of Duty League, there were other professional Call of Duty kind of tournament setups that were out there.
+
+01:09:12.011 --> 01:09:14.914
+[SPEAKER_04]: Of course, once Activision purchased
+
+01:09:17.526 --> 01:09:27.833
+[SPEAKER_04]: Some of the competing leagues, they kind of got it down to almost where it was more of a monopoly on the whole competitive space.
+
+01:09:27.833 --> 01:09:32.777
+[SPEAKER_04]: And so because of that, they were able to leverage some deals that
+
+01:09:34.438 --> 01:09:39.443
+[SPEAKER_04]: that apparently they found were not beneficial to them.
+
+01:09:39.443 --> 01:09:51.274
+[SPEAKER_04]: So as such, for example, the founder of the group said that Activision forced him to sell the majority of his company in addition to a $27.5 million entry fee to get into the Call of Duty League.
+
+01:09:56.459 --> 01:10:07.007
+[SPEAKER_04]: and also that they demanded an unconstitutional 50% share of the revenue the teams generated from ticket sales, sponsorships, and other revenue streams.
+
+01:10:07.007 --> 01:10:17.676
+[SPEAKER_04]: Along with that, also accusing them of basically forcing players to sign a contract without them being able to run it by their lawyers.
+
+01:10:18.977 --> 01:10:20.839
+[SPEAKER_04]: do you think there's a case here Loki?
+
+01:10:37.600 --> 01:10:39.301
+[SPEAKER_04]: I don't know.
+
+01:10:39.301 --> 01:10:40.601
+[SPEAKER_04]: I don't know if there is or not.
+
+01:10:40.601 --> 01:10:52.527
+[SPEAKER_04]: It sounds to me, this reminds me a lot of like the whole Smash scene and kind of like the stuff that they're, the regulations Nintendo's putting on people that are running tournaments and stuff like that.
+
+01:10:52.527 --> 01:10:59.390
+[SPEAKER_04]: To a lesser extent, obviously this is much larger than that when we're talking $680 million where some of these Smash tournaments are.
+
+01:11:01.007 --> 01:11:01.568
+[SPEAKER_04]: Thanks for watching!
+
+01:11:15.247 --> 01:11:16.648
+[SPEAKER_00]: Fair enough.
+
+01:11:16.648 --> 01:11:21.152
+[SPEAKER_00]: Sjohn100mat says, yeah, this and the Overwatch League ended in such disaster.
+
+01:11:21.152 --> 01:11:25.856
+[SPEAKER_00]: It's kind of a bummer to see this sort of setback for gaming sports.
+
+01:11:25.856 --> 01:11:26.216
+[SPEAKER_00]: I don't know.
+
+01:11:26.216 --> 01:11:34.824
+[SPEAKER_00]: I realize people feel some sorts of ways about it, but I, as somebody who was picked on a lot growing up, and I, there's a lot of you that share this with me.
+
+01:11:34.824 --> 01:11:36.005
+[SPEAKER_00]: I'm not just talking about myself.
+
+01:11:36.445 --> 01:11:51.271
+[SPEAKER_00]: As somebody who was picked on a lot growing up because I didn't play sports and I tended to lean more towards video games, seeing video games start to have their place amongst the sports and that type of stuff on, you know, ABC Wild, Wide World of Sports or whatever, kind of felt some sort of way.
+
+01:11:51.271 --> 01:11:52.812
+[SPEAKER_06]: Wide World of Sports, oh my God.
+
+01:11:52.812 --> 01:12:01.316
+[SPEAKER_00]: Yeah, it kind of felt some sort of way that felt really good, you know, and it was it's just a bummer that you're having all these setbacks because now it feels like shit.
+
+01:12:02.136 --> 01:12:08.438
+[SPEAKER_00]: Maybe video games aren't going to be able to hold their own there because we keep having these financial and other types of fuck-ups.
+
+01:12:08.438 --> 01:12:16.641
+[SPEAKER_04]: Well, to be fair, I mean, in the sports world, they have these same types of arrangements with their players that kind of suck.
+
+01:12:16.641 --> 01:12:26.665
+[SPEAKER_04]: Like, look at the whole college leagues and everything and the amount of ownership that those players have over their likenesses and even some of the EA games and Madden and stuff like that.
+
+01:12:27.125 --> 01:12:39.625
+[SPEAKER_04]: you know there's the whole it's very regulated in that sense and sometimes especially for like people that are not necessarily savvy in legal stuff they can get run over by these companies and
+
+01:12:40.711 --> 01:12:43.193
+[SPEAKER_04]: DarkSakura, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen
+
+01:13:03.288 --> 01:13:10.133
+[SPEAKER_00]: You know, and it's and it's not to say that regular sports quote unquote don't have their problems as well.
+
+01:13:10.133 --> 01:13:14.676
+[SPEAKER_00]: Did you all hear the news by the way here here locally in our hometown of Sacramento where we're based?
+
+01:13:14.676 --> 01:13:17.358
+[SPEAKER_00]: We might suddenly have a Major League Baseball team for two years.
+
+01:13:17.358 --> 01:13:18.359
+[SPEAKER_00]: Have you heard about this?
+
+01:13:18.359 --> 01:13:18.919
+[SPEAKER_06]: What?
+
+01:13:18.919 --> 01:13:19.299
+[SPEAKER_00]: No.
+
+01:13:19.299 --> 01:13:20.120
+[SPEAKER_00]: Yeah, we know.
+
+01:13:20.120 --> 01:13:21.541
+[SPEAKER_00]: That's that's the latest rumor going around.
+
+01:13:21.541 --> 01:13:24.603
+[SPEAKER_00]: Yeah, apparently Vegas isn't ready for the A's.
+
+01:13:24.603 --> 01:13:25.664
+[SPEAKER_00]: So the A's might move here.
+
+01:13:26.204 --> 01:13:27.225
+[SPEAKER_00]: for just a couple of years.
+
+01:13:27.225 --> 01:13:28.725
+[SPEAKER_00]: That's that's the latest thing people are talking about.
+
+01:13:28.725 --> 01:13:37.910
+[SPEAKER_00]: Because if you think about it, the park over in West Sac that has the River Cats, like it's actually a pretty decent facility that's relatively newer and I've enjoyed games there.
+
+01:13:37.910 --> 01:13:38.511
+[SPEAKER_00]: Yeah.
+
+01:13:38.511 --> 01:13:49.577
+[SPEAKER_00]: So like they're talking and the fact that it's, you know, down the street, so to speak, from Oakland, they're talking about the Sacramento is like the leading place to hold the A's for a couple of years before Vegas is ready for them.
+
+01:13:49.577 --> 01:13:50.878
+[SPEAKER_00]: And that came out of fucking nowhere.
+
+01:13:51.772 --> 01:13:54.954
+[SPEAKER_00]: But that's because of all the fuckery.
+
+01:13:54.954 --> 01:13:55.995
+[SPEAKER_00]: I wouldn't mind.
+
+01:13:55.995 --> 01:13:56.695
+[SPEAKER_00]: No, I wouldn't at all.
+
+01:13:56.695 --> 01:13:57.996
+[SPEAKER_00]: I think it would be very interesting.
+
+01:13:57.996 --> 01:14:05.080
+[SPEAKER_00]: But that's because of all the fuckery of the guy that owns the A's and how he was dicking around the city and all this stuff.
+
+01:14:05.080 --> 01:14:08.403
+[SPEAKER_04]: So we're moving just all the Oakland teams to Vegas now?
+
+01:14:08.403 --> 01:14:08.563
+[SPEAKER_00]: Yes.
+
+01:14:08.563 --> 01:14:09.383
+[SPEAKER_04]: Is that what's happening?
+
+01:14:09.383 --> 01:14:11.444
+[SPEAKER_04]: Yes.
+
+01:14:11.444 --> 01:14:13.426
+[SPEAKER_00]: That is what is happening.
+
+01:14:13.426 --> 01:14:18.369
+[SPEAKER_00]: There's no clever comeback or pun or joke to make because yes, that is happening.
+
+01:14:19.648 --> 01:14:23.629
+[SPEAKER_06]: I would pray they take them somewhere else to train though, cause ugh.
+
+01:14:23.629 --> 01:14:24.610
+[SPEAKER_00]: Yeah.
+
+01:14:24.610 --> 01:14:25.450
+[SPEAKER_00]: Yeah.
+
+01:14:25.450 --> 01:14:28.271
+[SPEAKER_00]: Uh, as Jonah Matt says, yeah, the A's move has become a circus.
+
+01:14:28.271 --> 01:14:29.171
+[SPEAKER_00]: Hey, but you know what?
+
+01:14:29.171 --> 01:14:32.192
+[SPEAKER_00]: Maybe we'll like, like DarkSakura said, I'll go, I'll go.
+
+01:14:32.192 --> 01:14:32.492
+[SPEAKER_00]: Sure.
+
+01:14:32.492 --> 01:14:35.153
+[SPEAKER_00]: I'll go watch an A's game at the Sutter Park or whatever.
+
+01:14:35.153 --> 01:14:35.953
+[SPEAKER_00]: I think that's the name.
+
+01:14:35.953 --> 01:14:36.753
+[SPEAKER_00]: It's Sutter Park, right?
+
+01:14:36.753 --> 01:14:37.733
+[SPEAKER_00]: It's named after Sutter.
+
+01:14:37.733 --> 01:14:37.954
+[SPEAKER_06]: Yeah.
+
+01:14:37.954 --> 01:14:42.395
+[SPEAKER_06]: I've had a good time going to, um, our, our minor league games.
+
+01:14:42.395 --> 01:14:42.875
+[SPEAKER_00]: Yeah.
+
+01:14:42.875 --> 01:14:47.216
+[SPEAKER_00]: It's, it's not a bad, it's a smaller facility than a major league stadium.
+
+01:14:47.216 --> 01:14:49.257
+[SPEAKER_00]: So they're definitely going to take a hit on attendance, but
+
+01:14:50.458 --> 01:14:51.859
+[SPEAKER_00]: Who is going to A's games anyway?
+
+01:14:51.859 --> 01:14:55.802
+[SPEAKER_04]: Who told you to move them to Vegas?
+
+01:14:55.802 --> 01:14:59.384
+[SPEAKER_00]: More people are going to go to them here than we're probably going in Oakland, to be quite honest.
+
+01:14:59.384 --> 01:15:04.307
+[SPEAKER_00]: I think a lot of people in Sacramento will be like, oh, this is this is a novelty, to be honest.
+
+01:15:04.307 --> 01:15:07.790
+[SPEAKER_06]: So they're not quite so hot as Las Vegas.
+
+01:15:07.790 --> 01:15:08.130
+[SPEAKER_00]: No.
+
+01:15:08.130 --> 01:15:13.794
+[SPEAKER_06]: We're like we're like we're like the Sir Robin of of league towns.
+
+01:15:13.794 --> 01:15:13.994
+[SPEAKER_00]: Yeah.
+
+01:15:14.830 --> 01:15:15.511
+[SPEAKER_00]: I think they feed Oakland.
+
+01:15:27.659 --> 01:15:31.861
+[SPEAKER_00]: Yeah, they were feeding the giant, they feed one of the, they always go back and forth.
+
+01:15:31.861 --> 01:15:37.064
+[SPEAKER_00]: They're feeding one Bay Area team or the other, but yes, was there like, you know, ground for that.
+
+01:15:37.064 --> 01:15:39.145
+[SPEAKER_00]: But you know, Sacramento's still trying to get a soccer team too.
+
+01:15:39.145 --> 01:15:40.146
+[SPEAKER_00]: They've been thinking of that.
+
+01:15:40.146 --> 01:15:47.650
+[SPEAKER_00]: So, you know, it's been, it's been growing here ever since, ever since they, ever since they put a giant fucking purple laser
+
+01:15:48.550 --> 01:15:51.351
+[SPEAKER_00]: on top of NotCo Arena downtown.
+
+01:15:51.351 --> 01:15:53.992
+[SPEAKER_00]: Ever since they put a big purple laser on top of that thing.
+
+01:15:53.992 --> 01:15:54.752
+[SPEAKER_00]: Let me tell you.
+
+01:15:54.752 --> 01:15:56.093
+[SPEAKER_00]: NotCo Arena.
+
+01:15:56.093 --> 01:15:57.853
+[SPEAKER_00]: NotCo Arena downtown.
+
+01:15:57.853 --> 01:16:00.874
+[SPEAKER_00]: Let me tell you, sports suddenly is like this.
+
+01:16:00.874 --> 01:16:03.875
+[SPEAKER_00]: This town is just like, wants more sports.
+
+01:16:03.875 --> 01:16:05.356
+[SPEAKER_00]: And we have a team that's good at sports.
+
+01:16:05.356 --> 01:16:11.718
+[SPEAKER_00]: And now it's like, wow, we actually have the, you know, infrastructure and the people with all the people relocated to support more sports.
+
+01:16:11.718 --> 01:16:14.079
+[SPEAKER_04]: I, on the contrary, want more lasers.
+
+01:16:16.203 --> 01:16:17.964
+[SPEAKER_00]: I want a laser on every roof.
+
+01:16:17.964 --> 01:16:18.965
+[SPEAKER_00]: Yeah, no, think about it.
+
+01:16:18.965 --> 01:16:20.265
+[SPEAKER_00]: Think about it, Loki.
+
+01:16:20.265 --> 01:16:22.766
+[SPEAKER_00]: The Kings could have their laser like the beam.
+
+01:16:22.766 --> 01:16:31.050
+[SPEAKER_00]: And then the Oakland A's could have a green laser, excuse me, the Sacramento A's or the not not yet Vegas A's could have a green laser like that beam.
+
+01:16:31.050 --> 01:16:34.352
+[SPEAKER_06]: And then they get to get a soccer team.
+
+01:16:34.352 --> 01:16:35.732
+[SPEAKER_00]: Light this beam too.
+
+01:16:35.732 --> 01:16:39.234
+[SPEAKER_00]: We could have like fucking 17 lasers going off in the sky all at once.
+
+01:16:41.277 --> 01:16:46.522
+[SPEAKER_04]: And I'm sure that there's no concern whatsoever being the flight path for the nearby airport as well.
+
+01:16:46.522 --> 01:16:49.824
+[SPEAKER_00]: I'm sure that it hasn't stopped the purple laser.
+
+01:16:49.824 --> 01:16:52.747
+[SPEAKER_00]: Usually, usually planes don't fly right over downtowns anyway.
+
+01:16:52.747 --> 01:16:55.289
+[SPEAKER_00]: So that's why that's why the laser is not a big deal.
+
+01:16:55.289 --> 01:16:56.750
+[SPEAKER_00]: So anyway,
+
+01:16:58.232 --> 01:17:00.093
+[SPEAKER_00]: All right, let's start.
+
+01:17:00.093 --> 01:17:02.975
+[SPEAKER_06]: Yeah, we have the Nays playing at NotCo Arena.
+
+01:17:02.975 --> 01:17:03.536
+[SPEAKER_00]: I'm down for that.
+
+01:17:03.536 --> 01:17:04.356
+[SPEAKER_00]: I'm sorry.
+
+01:17:04.356 --> 01:17:08.079
+[SPEAKER_00]: I'd like to apologize to the listeners, starting with PodCulture.
+
+01:17:08.079 --> 01:17:15.705
+[SPEAKER_00]: I'd like to apologize for the fact that even we here at Orange Alliance Radio somehow, after all these years, have succumbed to sports talk.
+
+01:17:15.705 --> 01:17:19.488
+[SPEAKER_00]: I'd like to apologize, everybody.
+
+01:17:19.488 --> 01:17:20.549
+[SPEAKER_00]: I'm sorry about that.
+
+01:17:20.549 --> 01:17:21.770
+[SPEAKER_04]: I was talking about lasers.
+
+01:17:21.770 --> 01:17:24.032
+[SPEAKER_04]: I never mentioned sports at all.
+
+01:17:24.032 --> 01:17:25.013
+[SPEAKER_04]: I'll have the record show.
+
+01:17:26.969 --> 01:17:30.112
+[SPEAKER_06]: I was just using it as an excuse to make fun of team names.
+
+01:17:30.112 --> 01:17:33.336
+[SPEAKER_04]: I have been a long fan of lasers.
+
+01:17:33.336 --> 01:17:37.740
+[SPEAKER_04]: Have I not played like thousands of games of laser tag?
+
+01:17:37.740 --> 01:17:40.303
+[SPEAKER_04]: It's not because I like the competitiveness of it.
+
+01:17:40.303 --> 01:17:41.764
+[SPEAKER_04]: I'm just a fan of lasers.
+
+01:17:41.764 --> 01:17:42.825
+[SPEAKER_00]: Lasers are fucking rad.
+
+01:17:42.825 --> 01:17:46.389
+[SPEAKER_00]: I mean, unless we're talking about like that scene in Resident Evil with the lasers, that's a little scary.
+
+01:17:46.389 --> 01:17:50.093
+[SPEAKER_00]: But like otherwise, lasers that don't cut people up are pretty cool.
+
+01:17:52.059 --> 01:17:54.802
+[SPEAKER_00]: and that you don't shine directly in people's eyes because that's not fun either.
+
+01:17:54.802 --> 01:17:58.025
+[SPEAKER_00]: But you know, the space lasers that just shoot in the sky.
+
+01:17:58.025 --> 01:18:00.868
+[SPEAKER_00]: That's pretty fun.
+
+01:18:00.868 --> 01:18:03.270
+[SPEAKER_00]: All right, anyway, moving on.
+
+01:18:03.270 --> 01:18:04.071
+[SPEAKER_00]: You know what else is fun?
+
+01:18:04.071 --> 01:18:05.553
+[SPEAKER_00]: Video games.
+
+01:18:05.553 --> 01:18:06.874
+[SPEAKER_00]: Uh, and- Laser tag.
+
+01:18:06.874 --> 01:18:08.716
+[SPEAKER_00]: I brought- Yeah, laser tag is fun.
+
+01:18:08.716 --> 01:18:09.737
+[SPEAKER_00]: We're overdue to do that.
+
+01:18:11.363 --> 01:18:14.065
+[SPEAKER_00]: Let's talk about a game that's been doing very well lately.
+
+01:18:14.065 --> 01:18:15.927
+[SPEAKER_00]: It's Helldivers 2.
+
+01:18:15.927 --> 01:18:17.809
+[SPEAKER_00]: I mentioned this earlier in the show.
+
+01:18:17.809 --> 01:18:19.310
+[SPEAKER_00]: It is doing very well.
+
+01:18:19.310 --> 01:18:27.818
+[SPEAKER_00]: It's Arrowhead Games Studios' newest third-person PvE co-op shooter, and it has broken records for PlayStation Studios.
+
+01:18:27.818 --> 01:18:28.379
+[SPEAKER_00]: It's reached 150,000
+
+01:18:31.861 --> 01:18:36.043
+[SPEAKER_00]: 150,000 concurrent Steam players on its opening weekend and it is still growing.
+
+01:18:36.043 --> 01:18:45.787
+[SPEAKER_00]: It has now surpassed the all time concurrent player records of several big games like Starfield, Destiny 2, Halo Infinite.
+
+01:18:45.787 --> 01:18:52.750
+[SPEAKER_00]: Now, I believe that's on Steam, so I sort of feel like that's an unfair comparison to games that a lot of people are consuming on Game Pass.
+
+01:18:52.750 --> 01:18:56.732
+[SPEAKER_00]: However, I will let the I will let the comments stand because that is still a lot of people.
+
+01:18:59.036 --> 01:19:07.379
+[SPEAKER_00]: Apparently there are server capacity issues resulting from how popular this game is, as tends to happen with video games when they get unexpectedly popular.
+
+01:19:07.379 --> 01:19:16.282
+[SPEAKER_00]: Arrowhead has capped Helldiver's two servers to 450,000 concurrent players to try to improve server stability.
+
+01:19:16.282 --> 01:19:20.263
+[SPEAKER_00]: They say they will continue to work with partners to get the ceiling raised.
+
+01:19:20.563 --> 01:19:21.664
+[SPEAKER_00]: Helldiver 2 is doing really well
+
+01:19:39.444 --> 01:19:47.847
+[SPEAKER_00]: I mean, although I will, I will point out for Loki, I noticed when I'm looking at some of like the promo art for this game, and maybe Loki, you can see this with me here.
+
+01:19:47.847 --> 01:19:54.630
+[SPEAKER_00]: You'll notice that in this promotional shot, we have the three people that are, you know, doing their thing, but what's, what's this one got?
+
+01:19:54.630 --> 01:19:56.170
+[SPEAKER_00]: What's this one got, Loki?
+
+01:19:56.170 --> 01:19:57.051
+[SPEAKER_00]: A laser sight.
+
+01:19:57.051 --> 01:19:58.531
+[SPEAKER_00]: That's right.
+
+01:19:58.531 --> 01:20:02.033
+[SPEAKER_00]: So maybe, maybe we're missing something, Loki.
+
+01:20:02.033 --> 01:20:05.574
+[SPEAKER_04]: So it does certainly look like knockoff stormtroopers, but you know, that's just,
+
+01:20:06.775 --> 01:20:07.715
+[SPEAKER_04]: That's fine.
+
+01:20:07.715 --> 01:20:08.316
+[SPEAKER_04]: That's fine.
+
+01:20:08.316 --> 01:20:09.276
+[SPEAKER_00]: Fine.
+
+01:20:09.276 --> 01:20:11.977
+[SPEAKER_00]: Quest Buster says it's wild how viral the game has gone.
+
+01:20:11.977 --> 01:20:12.337
+[SPEAKER_00]: Yeah.
+
+01:20:12.337 --> 01:20:14.298
+[SPEAKER_00]: And SEO 100 Matt says it's the new hotness.
+
+01:20:14.298 --> 01:20:16.299
+[SPEAKER_00]: Clearly, it needs to be something I put on my radar.
+
+01:20:16.299 --> 01:20:19.120
+[SPEAKER_00]: But I need to watch some people stream at first.
+
+01:20:19.120 --> 01:20:23.722
+[SPEAKER_00]: That's usually how I feel about these types of games, especially the ones that are asking for $40.
+
+01:20:23.722 --> 01:20:29.384
+[SPEAKER_00]: I need to watch somebody stream at first and see is this for me because I can usually tell pretty quick if it's for me or not.
+
+01:20:29.384 --> 01:20:29.484
+[SPEAKER_00]: So
+
+01:20:30.169 --> 01:20:30.429
+[SPEAKER_04]: What?
+
+01:20:30.429 --> 01:20:37.472
+[SPEAKER_04]: You're just not going to like buy into it like some sort of quadruple A game that came out to grave reviews.
+
+01:20:37.472 --> 01:20:43.114
+[SPEAKER_04]: That game was amazing and totally not worse than the game that came out 11 years ago.
+
+01:20:43.114 --> 01:20:49.816
+[SPEAKER_00]: Let me tell you, I didn't even, I didn't even realize that game came out if that tells you how well the marketing is behind that game.
+
+01:20:49.816 --> 01:20:55.819
+[SPEAKER_04]: It is, it's just hilarious like what they, it's so,
+
+01:20:57.253 --> 01:21:08.203
+[SPEAKER_04]: Like, it's funny because we like think back to like Peter Molyneux and like Molyneux, I guess, and like how like all of the stuff that he said was just a bunch of bullshit.
+
+01:21:08.203 --> 01:21:10.225
+[SPEAKER_04]: And like, nowadays, it's like that.
+
+01:21:10.225 --> 01:21:15.029
+[SPEAKER_04]: But like, you have Todd Howard, you have just everything thing coming from Ysgamon.
+
+01:21:15.029 --> 01:21:17.171
+[SPEAKER_04]: I mean, just it's all bullshit.
+
+01:21:17.171 --> 01:21:18.512
+[SPEAKER_04]: Just don't believe anybody.
+
+01:21:18.512 --> 01:21:19.973
+[SPEAKER_04]: Just wait for the game to come out.
+
+01:21:19.973 --> 01:21:20.674
+[SPEAKER_04]: Don't preorder because
+
+01:21:21.174 --> 01:21:23.175
+[SPEAKER_04]: They want $70 for that game.
+
+01:21:23.175 --> 01:21:24.255
+[SPEAKER_04]: It's garbage.
+
+01:21:24.255 --> 01:21:44.780
+[SPEAKER_00]: It's just it's at very best It's just kind of mid just kind of yeah, whatever, but it's certainly not a quadruple quadruple a game look English is a complicated language Loki and the whole thing was it wasn't a quadruple a game it was a quadruple a Game quadruple a game
+
+01:21:45.816 --> 01:21:49.958
+[SPEAKER_00]: That's yeah, it's just it's sometimes it's hard to know how to pronounce the vowel.
+
+01:21:49.958 --> 01:21:51.559
+[SPEAKER_00]: Like it's very, it's very complicated.
+
+01:21:51.559 --> 01:21:52.719
+[SPEAKER_00]: And that's that's what it is.
+
+01:21:52.719 --> 01:21:55.200
+[SPEAKER_00]: It's a quadruple a game.
+
+01:21:55.200 --> 01:21:55.941
+[SPEAKER_00]: Yeah.
+
+01:21:55.941 --> 01:21:56.421
+[SPEAKER_04]: Makes sense.
+
+01:21:56.421 --> 01:21:59.042
+[SPEAKER_04]: Yeah.
+
+01:21:59.042 --> 01:21:59.522
+[SPEAKER_00]: I did.
+
+01:21:59.522 --> 01:22:02.223
+[SPEAKER_00]: I didn't I didn't even fucking know it came out.
+
+01:22:02.223 --> 01:22:04.444
+[SPEAKER_00]: What does that tell you?
+
+01:22:04.444 --> 01:22:12.288
+[SPEAKER_04]: I know it came out because it's fun watching the reviews for it because I know it's going to be just like watching the reviews for like, say, Madam Web or something like that.
+
+01:22:14.188 --> 01:22:33.521
+[SPEAKER_00]: it's fun because there's a lot of mid stuff happening right now isn't there like what is going on i'm a little afraid for madam webb is a quadruple a movie you just don't understand it's just it goes above everyone's head which is why no no no that no no no loki you have to pronounce the vowels differently there too madam webb is a quadruple
+
+01:22:34.261 --> 01:22:34.481
+[SPEAKER_00]: Zanadu
+
+01:22:58.079 --> 01:22:58.360
+[SPEAKER_04]: and Matt.
+
+01:23:10.540 --> 01:23:11.320
+[SPEAKER_04]: Did I watch it?
+
+01:23:11.320 --> 01:23:16.103
+[SPEAKER_04]: No, because I am not giving Sony any money for their crappy Spider-Man ripoffs.
+
+01:23:16.103 --> 01:23:21.627
+[SPEAKER_04]: I'll give them money for Across the Spider-Verse, because that's a good movie.
+
+01:23:21.627 --> 01:23:22.307
+[SPEAKER_04]: Here's an idea.
+
+01:23:22.307 --> 01:23:29.051
+[SPEAKER_04]: You should take your good writers and make them make those movies, not take the writers that put out Morbius and said, hey, you know what?
+
+01:23:29.051 --> 01:23:32.153
+[SPEAKER_04]: I want more of that.
+
+01:23:32.153 --> 01:23:33.674
+[SPEAKER_04]: Give me some more of that Morbius.
+
+01:23:34.554 --> 01:23:40.878
+[SPEAKER_04]: And so they have Madame Web now, which like it's a bunch of characters that don't even.
+
+01:23:40.878 --> 01:23:46.342
+[SPEAKER_04]: So like even the marketing was deceptive with it, too, because they showed like all these different spider women in it and stuff.
+
+01:23:46.342 --> 01:23:53.267
+[SPEAKER_04]: And really, that's just like kind of a really quick vision that she gets of the future that like takes place in like 30 seconds or something.
+
+01:23:53.267 --> 01:23:55.668
+[SPEAKER_04]: And the rest of the movie is not that at all.
+
+01:23:55.668 --> 01:23:57.990
+[SPEAKER_04]: But that's what they show off in the trailers.
+
+01:23:57.990 --> 01:23:58.130
+[SPEAKER_04]: Hmm.
+
+01:23:59.601 --> 01:24:04.863
+[SPEAKER_00]: Um, let's see, I wanted to point out pod culture points out Rocky Horror is a bad movie too.
+
+01:24:04.863 --> 01:24:07.885
+[SPEAKER_00]: Well, like I said, there's a time and a place for bad movies.
+
+01:24:07.885 --> 01:24:14.647
+[SPEAKER_00]: And plus the thing with Rocky Horror, the whole phenomenon with Rocky Horror has very little to do with the movie actually.
+
+01:24:14.647 --> 01:24:17.268
+[SPEAKER_00]: It's it's more about the community and the people for sure.
+
+01:24:17.268 --> 01:24:18.309
+[SPEAKER_00]: But that
+
+01:24:18.789 --> 01:24:20.752
+[SPEAKER_00]: would be a whole other podcast.
+
+01:24:20.752 --> 01:24:29.584
+[SPEAKER_00]: For now, let's talk about, hey, we're talking about, you know, unfortunately, too many cancelled games and maybe a game that should have been cancelled here, Skull & Bones.
+
+01:24:29.584 --> 01:24:34.030
+[SPEAKER_00]: But let's talk about a classic cancelled game in this next segment.
+
+01:24:34.030 --> 01:24:35.252
+[SPEAKER_00]: We'll run the bumper right now.
+
+01:24:45.894 --> 01:24:53.637
+[SPEAKER_05]: And now it's time to travel back to a simpler time, where I'll dive into the vault and pull out a classic and tell you about it.
+
+01:24:53.637 --> 01:24:57.659
+[SPEAKER_05]: It's time for the classic game of the week.
+
+01:24:57.659 --> 01:25:04.702
+[SPEAKER_00]: All right, DarkSakura, once a month here at Orange Lounge Radio, you actually pick a little twist.
+
+01:25:04.702 --> 01:25:07.683
+[SPEAKER_00]: You actually do a classic cancelled game.
+
+01:25:07.683 --> 01:25:10.804
+[SPEAKER_00]: So what is this month's classic cancelled game?
+
+01:25:12.819 --> 01:25:17.342
+[SPEAKER_06]: I did the classic, the legend, Thrillkill.
+
+01:25:17.342 --> 01:25:17.823
+[SPEAKER_06]: Oh boy.
+
+01:25:17.823 --> 01:25:31.011
+[SPEAKER_06]: And how many people have remembered playing various builds of this game and various levels of completion off of some, you know, burned disc, you know?
+
+01:25:31.011 --> 01:25:31.832
+[SPEAKER_04]: I think I have.
+
+01:25:31.832 --> 01:25:39.257
+[SPEAKER_06]: Yeah, I mean, I think that most people, I would say.
+
+01:25:39.257 --> 01:25:40.158
+[SPEAKER_06]: Yeah.
+
+01:25:40.158 --> 01:25:41.599
+[SPEAKER_06]: So Thrillkill,
+
+01:25:42.814 --> 01:25:50.138
+[SPEAKER_06]: was a fighting game that was developed by Paradox Development for the PlayStation.
+
+01:25:50.138 --> 01:26:08.947
+[SPEAKER_06]: It was intended to be released in 1998 and the game's plot is about 10 people who get sent to hell after dying on Earth and are forced by Marutka, the goddess of secrets, to fight to the death, I guess the again death, for a chance at reincarnation.
+
+01:26:10.063 --> 01:26:18.509
+[SPEAKER_06]: And it was marketed to be the first four-player 3D fighting game because you could play with the multi-tap.
+
+01:26:20.959 --> 01:26:31.806
+[SPEAKER_06]: And each of the character has a kill meter that as you keep attacking, once it's filled up, you get a gory finisher move called a thrill kill.
+
+01:26:31.806 --> 01:26:45.756
+[SPEAKER_06]: The game began life as a game called Earth Monster, which was a sport video game that was based off of a Mesoamerican ball game where you are
+
+01:26:46.937 --> 01:26:47.598
+[SPEAKER_06]: DarkSakura
+
+01:27:03.037 --> 01:27:15.405
+[SPEAKER_06]: It basically got an AO rating and it was the, you know, first game to receive its rating like that for violence.
+
+01:27:15.405 --> 01:27:22.409
+[SPEAKER_06]: But at any rate, the Thrill Kill was considered to be very fun.
+
+01:27:22.409 --> 01:27:26.272
+[SPEAKER_06]: It was in, you know, going back in beta, people really loved it.
+
+01:27:26.272 --> 01:27:29.314
+[SPEAKER_06]: I think I played an early beta of it.
+
+01:27:30.200 --> 01:27:45.061
+[SPEAKER_06]: but then EA, it was actually going to be published by Virgin, Virgin Interactive, but then EA got the publishing rights and chose not to release it or sell it to other publishers because it was considered too graphic.
+
+01:27:45.908 --> 01:27:50.512
+[SPEAKER_06]: Now that said, welcome to the internet.
+
+01:27:50.512 --> 01:27:59.581
+[SPEAKER_06]: So there were bootleg versions of the game going around on various pirating platforms and ROM releases.
+
+01:27:59.581 --> 01:28:06.307
+[SPEAKER_06]: And then the game did live on in a
+
+01:28:07.870 --> 01:28:10.113
+[SPEAKER_06]: a different version of the game.
+
+01:28:10.113 --> 01:28:18.003
+[SPEAKER_06]: It was released in 1999 as a re-skinned game called Wu-Tang Shaolin Style.
+
+01:28:18.003 --> 01:28:22.889
+[SPEAKER_06]: It was developed by Paradox and they used Thrill Kill's engine to do it.
+
+01:28:22.889 --> 01:28:26.073
+[SPEAKER_06]: In fact, they used Thrill Kill's engine in a few other games.
+
+01:28:27.394 --> 01:28:40.285
+[SPEAKER_06]: So basically, as it goes, you've got four opponents in a closed 3D room who have to fight each other with gory thrill kills and stuff.
+
+01:28:40.285 --> 01:28:47.571
+[SPEAKER_06]: So you've got four attack buttons, and each one corresponds to an arm and a leg.
+
+01:28:47.571 --> 01:28:50.694
+[SPEAKER_06]: If you stand still, you auto-block or hold down a guard button.
+
+01:28:52.254 --> 01:28:55.436
+[SPEAKER_06]: Double tapping in the direction lets you dash.
+
+01:28:55.436 --> 01:29:01.639
+[SPEAKER_06]: You have throws, including a swap throw, so you can switch places with another character.
+
+01:29:01.639 --> 01:29:05.440
+[SPEAKER_06]: You have a hold throw where you, you know, do like a lock or something.
+
+01:29:07.882 --> 01:29:12.125
+[SPEAKER_06]: And you have a high and low counters instead of, you know, your life bar.
+
+01:29:12.125 --> 01:29:33.041
+[SPEAKER_06]: Like I said, you've got your kill meter and it increases with each successful attack and whoever hits that meter first has to use their thrill kill on another appointment of their choice which then removes them from the round and you're, you know, so basically whoever hits the most and kills the fastest, you know, ends up on top.
+
+01:29:33.781 --> 01:29:35.003
+[SPEAKER_06]: You've got different modes.
+
+01:29:35.003 --> 01:29:43.073
+[SPEAKER_06]: You have an arcade mode where you are a single player through 8 stages against computer controlled opponents.
+
+01:29:43.073 --> 01:29:49.681
+[SPEAKER_06]: The first 6 or 4 player matches and the latter 2 are 1 on 1 where you fight Judas and Maruka.
+
+01:29:52.384 --> 01:30:13.641
+[SPEAKER_06]: the Versus where you can play with your friends, you can use the PlayStation MultiTap, there's a training mode for a single player to go against a computer opponent to learn the moves, and you can even do... if you perform each of their moves in this mode, you get a 5th costume to the character.
+
+01:30:19.644 --> 01:30:32.868
+[SPEAKER_06]: Dante's Cage, The Crematorium, Sacrificial Ruins, Chamber of Anguish, The Lavatory, Insane Asylum, Slaughterhouse of the Flesh, Sewer of Sticks, Sinner's Cell, and Homicide Avenue.
+
+01:30:35.229 --> 01:30:38.831
+[SPEAKER_06]: So your characters, let's let's begin with the characters.
+
+01:30:38.831 --> 01:30:48.418
+[SPEAKER_06]: So you have Bella Donna, who is a librarian who became a dominatrix and killed her husband and sister after discovering they were having an affair.
+
+01:30:48.418 --> 01:30:52.520
+[SPEAKER_06]: And she died by electrocuting herself with a cattle prod.
+
+01:30:52.520 --> 01:30:53.181
+[SPEAKER_00]: My goodness.
+
+01:30:54.611 --> 01:30:55.191
+[SPEAKER_06]: Yeah.
+
+01:30:55.191 --> 01:30:59.754
+[SPEAKER_06]: Oh, these character descriptions, these are gold.
+
+01:30:59.754 --> 01:31:06.497
+[SPEAKER_06]: You have Cain, who is an arsonist who got trapped inside a building he set on fire and was burned alive.
+
+01:31:06.497 --> 01:31:11.279
+[SPEAKER_06]: And he has very wide reaches and he farts fire.
+
+01:31:11.279 --> 01:31:12.480
+[SPEAKER_02]: Nice.
+
+01:31:12.480 --> 01:31:18.042
+[SPEAKER_06]: You have Cletus, the cannibal who sold homestyle sausages made from people.
+
+01:31:18.042 --> 01:31:22.545
+[SPEAKER_06]: And he died from a tapeworm infection from one of his victims.
+
+01:31:23.542 --> 01:31:29.727
+[SPEAKER_06]: He fights with a detached leg and can bite his opponents.
+
+01:31:29.727 --> 01:31:42.236
+[SPEAKER_06]: There's Dr. Faustus, a plastic surgeon who killed and disfigured his patients and died from an infection after affixing a bear trap to his face.
+
+01:31:42.236 --> 01:31:45.599
+[SPEAKER_06]: And he uses a scalpel and uses the bear trap as a mouth.
+
+01:31:47.059 --> 01:31:55.301
+[SPEAKER_06]: And then you have The Imp, who is a small person leather daddy who hates tall people.
+
+01:31:55.301 --> 01:32:03.783
+[SPEAKER_06]: And he died after amputating his legs and instilling stilts instead.
+
+01:32:03.783 --> 01:32:07.464
+[SPEAKER_06]: But he hasn't killed anybody during his time on Earth, and he uses the stilts as weapons.
+
+01:32:10.487 --> 01:32:16.389
+[SPEAKER_06]: Yeah, there's Judas, who is the pair of conjoined twins connected at the torso.
+
+01:32:16.389 --> 01:32:19.410
+[SPEAKER_06]: No one knows how they ended up in hell.
+
+01:32:19.410 --> 01:32:23.572
+[SPEAKER_06]: So depending on who's on top, one is the upper and one is the lower.
+
+01:32:23.572 --> 01:32:31.255
+[SPEAKER_06]: And one of their skins, for the record, looks like Ken and Ryu joined at the torso.
+
+01:32:31.255 --> 01:32:32.295
+[SPEAKER_04]: That's awesome.
+
+01:32:32.295 --> 01:32:32.676
+[SPEAKER_06]: Yeah.
+
+01:32:35.389 --> 01:32:36.790
+[SPEAKER_06]: I used to use that one.
+
+01:32:36.790 --> 01:32:42.235
+[SPEAKER_06]: There was Mammoth who was a postal employee who went postal after getting fired.
+
+01:32:42.235 --> 01:32:45.137
+[SPEAKER_06]: And he looks like a large skinless gorilla.
+
+01:32:45.137 --> 01:32:51.262
+[SPEAKER_06]: Maruka, the demon and goddess of secrets who fights and she can teleport.
+
+01:32:51.262 --> 01:32:58.527
+[SPEAKER_06]: Oddball is a FBI behavioral analyst who became a serial killer and still wears a straitjacket in hell and can't use his arms.
+
+01:32:58.527 --> 01:33:02.811
+[SPEAKER_06]: So he kicks in headbutts and he breakdances.
+
+01:33:02.811 --> 01:33:03.792
+[SPEAKER_06]: Like I said, these are gold.
+
+01:33:04.522 --> 01:33:14.886
+[SPEAKER_06]: Tormentor, a judge named William Whitefield who would acquit criminals in order to kidnap and torture them later and was eventually executed for his crimes.
+
+01:33:14.886 --> 01:33:19.067
+[SPEAKER_06]: His outfit is bondage related and he uses a heated whip.
+
+01:33:19.067 --> 01:33:27.230
+[SPEAKER_06]: Violet, a circus contortionist who developed a strong hatred for men after someone broke into her room and abused her.
+
+01:33:29.631 --> 01:33:32.772
+[SPEAKER_06]: Stop using that as a plot point for women, by the way.
+
+01:33:32.772 --> 01:33:34.072
+[SPEAKER_06]: Ugh, I'm gonna go.
+
+01:33:34.072 --> 01:33:40.894
+[SPEAKER_06]: Anyway, she died of a spinal cord rupture, and she fights as a contortionist.
+
+01:33:40.894 --> 01:33:50.558
+[SPEAKER_06]: There is a 12th non-player character who is called the Gimp, as in the one from Pulp Fiction.
+
+01:33:50.558 --> 01:33:51.438
+[SPEAKER_06]: He's a training opponent.
+
+01:33:52.697 --> 01:33:53.658
+[SPEAKER_06]: So, yeah.
+
+01:33:53.658 --> 01:33:56.320
+[SPEAKER_06]: This game is, I mean, clearly problematic.
+
+01:33:56.320 --> 01:34:00.163
+[SPEAKER_06]: I mean, to say the minimum.
+
+01:34:00.163 --> 01:34:07.669
+[SPEAKER_06]: And it, like I said, it got an AO rating, Adults Only rating, for its content.
+
+01:34:07.669 --> 01:34:10.131
+[SPEAKER_06]: It's very problematic.
+
+01:34:10.131 --> 01:34:11.492
+[SPEAKER_06]: But it was a fun game.
+
+01:34:11.492 --> 01:34:17.597
+[SPEAKER_06]: I mean, despite all of the problematic stuff, the game played well.
+
+01:34:17.597 --> 01:34:18.318
+[SPEAKER_06]: And, you know,
+
+01:34:19.253 --> 01:34:30.459
+[SPEAKER_06]: The game already even had, it was 99% done and had a sequel planned that was either going to be called S&M or FUBAR.
+
+01:34:30.459 --> 01:34:38.404
+[SPEAKER_06]: Yeah, for people who don't, who never have known what FUBAR means, it's for fucked up beyond all recognition.
+
+01:34:38.404 --> 01:34:42.106
+[SPEAKER_06]: Anyway, they were,
+
+01:34:43.363 --> 01:34:45.304
+[SPEAKER_06]: They had offers to buy it.
+
+01:34:45.304 --> 01:34:47.406
+[SPEAKER_06]: Eidos wanted it.
+
+01:34:47.406 --> 01:34:57.773
+[SPEAKER_06]: But EA was trying to get over the industry stigma about being a violent medium and all of that.
+
+01:34:57.773 --> 01:35:00.054
+[SPEAKER_06]: It was just a big clusterfuck.
+
+01:35:00.054 --> 01:35:03.537
+[SPEAKER_06]: And this also had to do with
+
+01:35:05.327 --> 01:35:14.854
+[SPEAKER_06]: I don't think we were supposed to say his name again, but maybe the Statue of Limitations has, you know, let off on that due to, I'll say, relevancy.
+
+01:35:14.854 --> 01:35:21.799
+[SPEAKER_06]: So it was the Joe Lieberman connections to EA.
+
+01:35:21.799 --> 01:35:23.641
+[SPEAKER_06]: I don't think it was him.
+
+01:35:23.641 --> 01:35:24.882
+[SPEAKER_00]: You're thinking of Jack Thompson.
+
+01:35:24.882 --> 01:35:25.962
+[SPEAKER_00]: I think that lawyer guy.
+
+01:35:25.962 --> 01:35:26.703
+[SPEAKER_00]: Yeah, I think I am.
+
+01:35:27.003 --> 01:35:32.985
+[SPEAKER_06]: that I know Lieberman had been a big thing in there, but he was very opposed to video game violence.
+
+01:35:32.985 --> 01:35:34.946
+[SPEAKER_00]: And then we call them Jack Voldemort for a while.
+
+01:35:34.946 --> 01:35:38.507
+[SPEAKER_00]: But now we don't say that term either, because that all got tainted.
+
+01:35:38.507 --> 01:35:42.448
+[SPEAKER_00]: So my goodness, everything that gets attached, call them all the tainted.
+
+01:35:42.668 --> 01:35:45.430
+[SPEAKER_00]: Yeah, the Tainted, that's what it is.
+
+01:35:45.430 --> 01:35:49.572
+[SPEAKER_06]: But anyway, there were tons of bootleg copies that made it out.
+
+01:35:49.572 --> 01:35:55.876
+[SPEAKER_06]: It was considered one of the most popular downloaded ROMs on the Internet, you know, into the late 90s and early 2000s.
+
+01:35:59.598 --> 01:36:06.503
+[SPEAKER_06]: Remember Hyde earlier said that the Thrill Kill engine was used in other games by Paradox?
+
+01:36:06.503 --> 01:36:18.270
+[SPEAKER_06]: It was also used for X-Men Mutant Academy in 2000 and its sequel in 2001, X-Men Mutant Academy 2, and then Rock'em Sock'em Robots Arena in 2000.
+
+01:36:22.330 --> 01:36:33.756
+[SPEAKER_06]: One reviewer described this game as perfect for mindless fun with friends and cold drinks.
+
+01:36:33.756 --> 01:36:35.617
+[SPEAKER_06]: Mindless but not brainless.
+
+01:36:39.439 --> 01:36:48.967
+[SPEAKER_06]: There should be enough depth to this gameplay to satisfy the hardcore 3D fighting fans once Paradox has completed its final few months of dedicated beta tweaking.
+
+01:36:57.173 --> 01:37:06.896
+[SPEAKER_06]: I mean, GamePro put it on the list of 50 best fighting game characters ever in 2011 for, uh, you know, for some of the characters there.
+
+01:37:06.896 --> 01:37:13.018
+[SPEAKER_06]: I mean, it was, it's, it's a classic.
+
+01:37:13.018 --> 01:37:20.400
+[SPEAKER_06]: I mean, and as far as I'm considered, because it was just so available, I, I,
+
+01:37:23.652 --> 01:37:28.154
+[SPEAKER_06]: It was hard for me to even remember that this actually had been a cancelled game.
+
+01:37:28.154 --> 01:37:29.775
+[SPEAKER_06]: Because it was just everywhere.
+
+01:37:29.775 --> 01:37:38.799
+[SPEAKER_06]: I mean, you can buy, quote, commercial copies, like the 99% finished ones, with people having filled in the gaps and everything.
+
+01:37:38.799 --> 01:37:42.641
+[SPEAKER_06]: So, I mean, yeah, that's it.
+
+01:37:42.641 --> 01:37:43.202
+[SPEAKER_06]: It's Thrill Kill.
+
+01:37:44.062 --> 01:37:52.606
+[SPEAKER_00]: It is very interesting that, you know, this is a very good story of once it's on the internet, there's no stopping it, right?
+
+01:37:52.606 --> 01:37:56.727
+[SPEAKER_00]: Like a lot of fan projects to get cancelled by Nintendo and that sort of thing, right?
+
+01:37:56.727 --> 01:38:02.029
+[SPEAKER_00]: We learned that, you know, you don't announce those sort of things and tell the ROMs on the internet because at that point, well, there's no stopping it.
+
+01:38:02.029 --> 01:38:03.190
+[SPEAKER_00]: It's everywhere now.
+
+01:38:03.190 --> 01:38:06.311
+[SPEAKER_00]: This is a very interesting early example of that, right?
+
+01:38:06.311 --> 01:38:08.512
+[SPEAKER_00]: So, but to... Yeah, something like that.
+
+01:38:08.852 --> 01:38:10.794
+[SPEAKER_00]: I actually knew very little about this game.
+
+01:38:10.794 --> 01:38:14.139
+[SPEAKER_00]: I knew of it because I think you've brought it up on the show before.
+
+01:38:14.139 --> 01:38:17.062
+[SPEAKER_06]: But I brought it over to your house to your apartment.
+
+01:38:17.062 --> 01:38:18.884
+[SPEAKER_00]: I literally never remember playing this.
+
+01:38:18.884 --> 01:38:19.325
+[SPEAKER_00]: I know.
+
+01:38:19.325 --> 01:38:20.446
+[SPEAKER_00]: I don't doubt that that's true.
+
+01:38:20.446 --> 01:38:24.331
+[SPEAKER_00]: But it's just one of those like, I don't remember it.
+
+01:38:24.331 --> 01:38:27.475
+[SPEAKER_00]: But now now that I'm seeing it again, I'm like, wow, it looks like garbage.
+
+01:38:29.176 --> 01:38:30.838
+[SPEAKER_06]: The PS1 was not 100% polished.
+
+01:38:47.600 --> 01:38:51.443
+[SPEAKER_06]: But it was it played really solidly.
+
+01:38:51.443 --> 01:39:00.930
+[SPEAKER_06]: Like I could see why they would want to have reused that engine for other games because it was it was a solid engine to boot.
+
+01:39:00.930 --> 01:39:01.470
+[SPEAKER_00]: Yeah.
+
+01:39:01.470 --> 01:39:07.334
+[SPEAKER_06]: You know, we had a lot of fun playing playing the game, you know, and just going, Oh, look at that.
+
+01:39:07.334 --> 01:39:10.196
+[SPEAKER_06]: You know, being like five year olds pointing at the naughty bits.
+
+01:39:10.196 --> 01:39:10.837
+[SPEAKER_00]: Mm hmm.
+
+01:39:11.537 --> 01:39:12.299
+[SPEAKER_06]: TeeHee Bloods
+
+01:39:26.650 --> 01:39:32.814
+[SPEAKER_00]: All right, well, there it is your classic canceled game of the month and we will look forward to next month's canceled game.
+
+01:39:32.814 --> 01:39:36.096
+[SPEAKER_00]: All right, unless, you know, the segment gets canceled.
+
+01:39:36.096 --> 01:39:36.576
+[SPEAKER_00]: No, it won't.
+
+01:39:36.576 --> 01:39:37.957
+[SPEAKER_00]: We'll be back next month with that.
+
+01:39:37.957 --> 01:39:46.483
+[SPEAKER_00]: Okay, let's travel around and check out some rapid fire news and some other quick headlines before we get to the listener roundtable here.
+
+01:39:46.483 --> 01:39:48.144
+[SPEAKER_00]: So we'll start with Loki with a few quick headlines.
+
+01:39:49.020 --> 01:39:54.024
+[SPEAKER_04]: Sony is saying that the PlayStation 5 is entering the latter half of its life cycle.
+
+01:39:54.024 --> 01:39:58.267
+[SPEAKER_04]: I mean, yes, it's been out for a while, so that makes sense.
+
+01:39:58.267 --> 01:40:03.411
+[SPEAKER_00]: It doesn't feel like it, but only because I waited so long to buy one, because remember, you can't keep a party fine for forever, yeah.
+
+01:40:03.991 --> 01:40:05.532
+[SPEAKER_04]: That's true.
+
+01:40:05.532 --> 01:40:23.743
+[SPEAKER_04]: Regarding the PlayStation 5 hardware, which enters its fifth year since launch, partially due to it entering the latter half of the console cycle, we aim to optimize sales with a greater emphasis on balance with profits, so we anticipate a gradual decline in unit sales from the next fiscal year onwards.
+
+01:40:23.743 --> 01:40:30.187
+[SPEAKER_04]: They may be selling less units, but they still want to be profitable, I guess, is what that means.
+
+01:40:30.187 --> 01:40:32.229
+[SPEAKER_04]: And then, news that's important to me,
+
+01:40:33.317 --> 01:40:33.477
+[SPEAKER_04]: Ale
+
+01:41:01.885 --> 01:41:15.332
+[SPEAKER_06]: Arcade1up had a leak that for the Marvel vs. Capcom 2 cabinet that they have X-Men 97 deluxe arcade art.
+
+01:41:15.332 --> 01:41:19.334
+[SPEAKER_06]: So that's going to be pretty neat.
+
+01:41:19.334 --> 01:41:24.277
+[SPEAKER_06]: I'm looking at the image that was leaked for it.
+
+01:41:25.848 --> 01:41:28.511
+[SPEAKER_06]: And yeah, it's like got all of those outfits.
+
+01:41:28.511 --> 01:41:35.258
+[SPEAKER_06]: It's got, you know, the the Jim Lee era costumes and whatnot.
+
+01:41:35.258 --> 01:41:37.280
+[SPEAKER_06]: So.
+
+01:41:37.280 --> 01:41:38.601
+[SPEAKER_06]: Cool.
+
+01:41:38.601 --> 01:41:43.727
+[SPEAKER_06]: But I'm sure they're kind of kicking themselves about the leak, but I mean, it's artwork.
+
+01:41:43.727 --> 01:41:44.267
+[SPEAKER_06]: It's pretty good.
+
+01:41:44.267 --> 01:41:44.788
+[SPEAKER_06]: It's pretty neat.
+
+01:41:45.290 --> 01:41:50.856
+[SPEAKER_00]: A lot of people very excited about that X-Men 97 cartoon.
+
+01:41:50.856 --> 01:41:52.538
+[SPEAKER_00]: Even I'd watch that, to be honest.
+
+01:41:52.538 --> 01:41:54.720
+[SPEAKER_00]: I remember watching the old cartoon.
+
+01:41:54.720 --> 01:41:56.082
+[SPEAKER_00]: I think it's good times.
+
+01:41:57.404 --> 01:42:05.748
+[SPEAKER_00]: Alright, well, in Evercade news, which is a thing we're reporting on now, now that I guess I have a vested interest in this, but no, this does sound cool.
+
+01:42:05.748 --> 01:42:12.051
+[SPEAKER_00]: We actually have news of another cartridge that's going to be coming out for the Evercade that is coming out very soon.
+
+01:42:12.051 --> 01:42:24.837
+[SPEAKER_00]: It is the Sunsoft Collection 2, which will have Euphoria the Saga, Blaster Master, Enemy Below, that's the Game Boy one, Arrow the Acrobat 2, Zero the Kamikaze Squirrel, Days Before Christmas,
+
+01:42:25.517 --> 01:42:29.140
+[SPEAKER_00]: Galaxy Fight, Universal Warriors, and Pre-Pre-Primitive Princess
+
+01:42:47.024 --> 01:42:48.705
+[SPEAKER_00]: That might be fun to play.
+
+01:42:48.705 --> 01:42:50.466
+[SPEAKER_04]: I do want to get one of those.
+
+01:42:50.466 --> 01:42:52.327
+[SPEAKER_04]: I was actually looking at two they have.
+
+01:42:52.327 --> 01:42:55.830
+[SPEAKER_04]: So there is.
+
+01:42:55.830 --> 01:42:57.511
+[SPEAKER_04]: Oh, God, they have one.
+
+01:42:57.511 --> 01:43:02.754
+[SPEAKER_04]: It's not the Evercade, but it's it's similar to that.
+
+01:43:02.754 --> 01:43:05.336
+[SPEAKER_04]: And it also plays Evercade cartridges.
+
+01:43:05.336 --> 01:43:07.017
+[SPEAKER_04]: I think it was.
+
+01:43:07.017 --> 01:43:09.939
+[SPEAKER_04]: It's like it looks like a Game Boy almost.
+
+01:43:09.939 --> 01:43:12.161
+[SPEAKER_04]: I don't know if Evercade's super popular.
+
+01:43:12.461 --> 01:43:14.663
+[SPEAKER_00]: Pocket is what it's called.
+
+01:43:14.663 --> 01:43:15.363
+[SPEAKER_00]: That's the thing.
+
+01:43:15.363 --> 01:43:17.785
+[SPEAKER_00]: They have a like a desktop and a portable.
+
+01:43:17.785 --> 01:43:19.066
+[SPEAKER_00]: They have two different systems.
+
+01:43:19.066 --> 01:43:19.326
+[SPEAKER_04]: Right.
+
+01:43:19.326 --> 01:43:25.171
+[SPEAKER_04]: But this they have the portal one that's kind of more of the form factor of like a PSP or something like that.
+
+01:43:25.171 --> 01:43:29.714
+[SPEAKER_04]: And this is more of a form factor of like a Game Boy type of thing.
+
+01:43:29.714 --> 01:43:34.097
+[SPEAKER_04]: Oh, it's it's the Super Pocket is what it's called.
+
+01:43:34.097 --> 01:43:35.338
+[SPEAKER_04]: It looks cool.
+
+01:43:35.338 --> 01:43:35.899
+[SPEAKER_04]: Yeah.
+
+01:43:35.899 --> 01:43:38.541
+[SPEAKER_04]: I want to get some.
+
+01:43:38.541 --> 01:43:38.921
+[SPEAKER_00]: All right.
+
+01:43:40.240 --> 01:43:48.497
+[SPEAKER_00]: Well, I think we have now a chance to travel the world and check out some release dates and see what's coming out in a game store near you.
+
+01:43:48.497 --> 01:43:50.522
+[SPEAKER_00]: So let's start with the US Loki.
+
+01:43:51.802 --> 01:44:04.091
+[SPEAKER_04]: Let's see, so in the US we have The Lost Legends of Redwall, The Scout Anthology on PC, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series.
+
+01:44:04.091 --> 01:44:06.193
+[SPEAKER_04]: Irem Collection Vol.
+
+01:44:06.193 --> 01:44:10.976
+[SPEAKER_04]: 2 on Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series.
+
+01:44:12.458 --> 01:44:20.845
+[SPEAKER_04]: Nightingale, BandleTale, League of Legends, LastEpoch, SlaveZeroX, PS4, PS5, Xbox One, Xbox Series
+
+01:44:32.276 --> 01:44:48.236
+[SPEAKER_04]: Terminator Dark Fate Defiance on PC Corpo Nation The Sorting Process on PC King Arthur Knight's Tale on PS5 and Xbox Series Pacific Drive on PS5 and PC
+
+01:44:51.432 --> 01:44:54.516
+[SPEAKER_04]: Retro Game Challenge, Japan, Suns of the Forest, PC
+
+01:45:05.499 --> 01:45:19.307
+[SPEAKER_04]: And then we've got Yohani, the Parhelion, Namazu in the Mirage, and that's on PC, Nintendo Switch, and PlayStation 5.
+
+01:45:19.307 --> 01:45:28.473
+[SPEAKER_04]: And last but not least for the week, we have Promenade on PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series.
+
+01:45:28.473 --> 01:45:28.753
+[SPEAKER_04]: That's it.
+
+01:45:29.705 --> 01:45:32.507
+[SPEAKER_00]: Shin Chan, Shiro of Coal Town, Yohane the Parhyllian, Premium Box Limited Edition
+
+01:45:49.617 --> 01:45:50.918
+[SPEAKER_00]: School Girl Dating Sim, Seifuku Kanojo
+
+01:46:07.307 --> 01:46:10.149
+[SPEAKER_06]: Schoolgirl, it's called Schoolgirl.
+
+01:46:10.149 --> 01:46:12.010
+[SPEAKER_00]: That's what it is.
+
+01:46:12.010 --> 01:46:17.172
+[SPEAKER_00]: Lunaria, Virtualized Moonchild comes out in regular and limited edition as well.
+
+01:46:17.172 --> 01:46:19.714
+[SPEAKER_00]: Retro Game Challenge 1 plus 2 replay.
+
+01:46:19.714 --> 01:46:21.875
+[SPEAKER_00]: I think that's the one Loki was starting to read.
+
+01:46:21.875 --> 01:46:26.117
+[SPEAKER_00]: That is, I think that's the one based off the show, the CX.
+
+01:46:26.117 --> 01:46:27.078
+[SPEAKER_00]: Yeah, it's that one.
+
+01:46:27.078 --> 01:46:28.539
+[SPEAKER_00]: So that's coming out of Japan as well.
+
+01:46:28.539 --> 01:46:30.840
+[SPEAKER_00]: It looks like it has its own little cute little mini games.
+
+01:46:30.840 --> 01:46:34.522
+[SPEAKER_00]: I don't know if there are things that were like popularized for the show or what, but it looks cute.
+
+01:46:34.522 --> 01:46:35.122
+[SPEAKER_00]: So check that out.
+
+01:46:38.067 --> 01:46:42.370
+[SPEAKER_00]: Retro Game Challenge that is out on this 22nd with everything else on the Switch.
+
+01:46:42.370 --> 01:46:54.359
+[SPEAKER_00]: We also have Five Fun Go Nii Gai na Ketsumatsu Monochrome no Toshikan comes out as well from D3.
+
+01:46:54.359 --> 01:46:57.741
+[SPEAKER_00]: And that is it for Japanese releases on the Switch.
+
+01:46:57.741 --> 01:46:59.262
+[SPEAKER_00]: But let me check the PlayStation 5.
+
+01:46:59.262 --> 01:47:01.644
+[SPEAKER_00]: I'm gonna guess we're gonna get some overlap there.
+
+01:47:01.644 --> 01:47:06.007
+[SPEAKER_00]: And yeah, Yohane the Parhelion comes out as well on the PS5.
+
+01:47:07.188 --> 01:47:07.568
+[SPEAKER_00]: DarkSakura
+
+01:47:31.348 --> 01:47:34.130
+[SPEAKER_06]: A handful, I'm going to go through the end of the month.
+
+01:47:34.130 --> 01:47:40.294
+[SPEAKER_06]: We have Operation Serpents for PlayStation for February 23rd.
+
+01:47:40.294 --> 01:47:44.817
+[SPEAKER_06]: For PlayStation and Switch we have Broforce.
+
+01:47:44.817 --> 01:47:51.041
+[SPEAKER_06]: On the 27th for PlayStation and Xbox we have Warhammer Age of Sigmar Realms of Ruin.
+
+01:47:53.062 --> 01:48:02.087
+[SPEAKER_06]: On the 29th we have Welcome to Paradise with a Z for Xbox and PlayStation and then for PlayStation we have Final Fantasy 7 Rebirth.
+
+01:48:05.868 --> 01:48:09.672
+[SPEAKER_00]: Well, we will get to our listener roundtable in just a moment.
+
+01:48:09.672 --> 01:48:11.534
+[SPEAKER_00]: But unfortunately, we do have one more headline.
+
+01:48:11.534 --> 01:48:15.478
+[SPEAKER_00]: I say unfortunately, because this is a little bit of shocking and sad news.
+
+01:48:15.478 --> 01:48:17.680
+[SPEAKER_00]: Loki with our final headline tonight.
+
+01:48:17.680 --> 01:48:23.606
+[SPEAKER_04]: Yes, unfortunately, Yoshitaka Murayama has passed away.
+
+01:48:23.606 --> 01:48:26.689
+[SPEAKER_04]: And he was best known for, of course,
+
+01:48:30.072 --> 01:48:35.136
+[SPEAKER_04]: Suikoden, and of course Iodine Chronicles 100 Heroes was the newest game.
+
+01:48:35.136 --> 01:48:38.618
+[SPEAKER_04]: It was kind of a spiritual successor that he had put together.
+
+01:48:38.618 --> 01:48:45.082
+[SPEAKER_04]: He passed away at age of 55 from complications due to his illness.
+
+01:48:45.082 --> 01:48:48.244
+[SPEAKER_00]: And they didn't really disclose much more about what the illness is.
+
+01:48:48.244 --> 01:48:50.586
+[SPEAKER_04]: Yeah, they're trying to keep it pretty private, it sounds like.
+
+01:48:50.586 --> 01:48:50.726
+[SPEAKER_04]: Yeah.
+
+01:48:51.687 --> 01:48:52.787
+[SPEAKER_00]: That's still bad.
+
+01:48:52.787 --> 01:48:55.108
+[SPEAKER_00]: Yeah, very young, very sad.
+
+01:48:55.108 --> 01:49:01.809
+[SPEAKER_00]: And, you know, also when you consider that Aiden Chronicles is coming out in like just a couple of months, I think it's an April release, if I remember right.
+
+01:49:01.809 --> 01:49:09.151
+[SPEAKER_00]: So it's really tragic that he didn't get a chance to see how the game ultimately ends up being received, which hopefully is pretty good.
+
+01:49:09.151 --> 01:49:11.212
+[SPEAKER_00]: You know, we won't know until we ultimately get our hands on it.
+
+01:49:11.212 --> 01:49:20.814
+[SPEAKER_00]: But you know, or just the mere fact of getting to see Suikoden, you know, amongst all the Konami fuckery, get a second life of sorts.
+
+01:49:21.614 --> 01:49:24.876
+[SPEAKER_00]: Um, with this, you know, spiritual successor, it's, it's, it's a bummer.
+
+01:49:24.876 --> 01:49:25.876
+[SPEAKER_00]: He didn't get to see that.
+
+01:49:25.876 --> 01:49:27.937
+[SPEAKER_00]: So this makes this news very, very sad.
+
+01:49:27.937 --> 01:49:29.918
+[SPEAKER_00]: And I see a lot of you in chat kind of echoing that.
+
+01:49:29.918 --> 01:49:34.020
+[SPEAKER_00]: Bonds006 says, I saw the news of his passing earlier today on socials.
+
+01:49:34.020 --> 01:49:35.181
+[SPEAKER_00]: Yeah, it's been making the rounds.
+
+01:49:35.181 --> 01:49:35.961
+[SPEAKER_00]: He actually passed.
+
+01:49:35.961 --> 01:49:42.544
+[SPEAKER_00]: I want to say he passed on February 6th, but they withheld the news for about a week, probably because of like the privacy and all that stuff.
+
+01:49:42.544 --> 01:49:46.506
+[SPEAKER_00]: So, um, yeah, just still very shocking, very shocking and sad.
+
+01:49:47.742 --> 01:49:49.803
+[SPEAKER_00]: DarkSakura, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen
+
+01:50:13.376 --> 01:50:14.036
+[SPEAKER_00]: Thanks for watching!
+
+01:50:27.751 --> 01:50:29.851
+[SPEAKER_00]: Let's get into the listener roundtable.
+
+01:50:29.851 --> 01:50:34.672
+[SPEAKER_00]: We'd like to invite your emails, your calls, your carrier pigeons.
+
+01:50:34.672 --> 01:50:38.553
+[SPEAKER_00]: Participate at OrangeLingerie.com is the place where you can send an email.
+
+01:50:38.553 --> 01:50:45.755
+[SPEAKER_00]: If you'd like to call in tonight, visit our discord over at VOGNetwork.com slash discord and head over to our green room.
+
+01:50:45.755 --> 01:50:51.276
+[SPEAKER_00]: But I do believe we have at least one email tonight, so I'm going to throw it over to DarkSakura.
+
+01:50:51.276 --> 01:50:55.937
+[SPEAKER_06]: We do indeed have the just one.
+
+01:50:55.937 --> 01:50:56.597
+[SPEAKER_06]: We have
+
+01:50:58.230 --> 01:51:06.954
+[SPEAKER_06]: Hello LR!
+
+01:51:06.954 --> 01:51:11.656
+[SPEAKER_06]: I couldn't help but comment on reactions last week to the news that new plastic instruments are coming.
+
+01:51:11.656 --> 01:51:14.658
+[SPEAKER_06]: I believe the reactions included Goodwill, Ozone, Landfill, and OK.
+
+01:51:16.156 --> 01:51:26.938
+[SPEAKER_06]: Way, way back in 2015, when Rock Band 4 and Guitar Hero Live both launched, I believe they both arrived at least two to three years too early, and they needed to have waited longer to generate adequate demand.
+
+01:51:26.938 --> 01:51:28.298
+[SPEAKER_06]: Today, I still believe that.
+
+01:51:28.298 --> 01:51:42.601
+[SPEAKER_06]: We know today that sales of both titles did not meet expectations, but despite that, even now, there are still many devoted fans who continue to enjoy the Rock Band series of games, including many who enjoyed the series back in its heyday, but have not actually played Rock Band 4 yet.
+
+01:51:44.144 --> 01:51:48.632
+[SPEAKER_06]: I was one of the folks that was thinking about trying Rock Band 4 on Xbox during the pandemic.
+
+01:51:48.632 --> 01:51:53.220
+[SPEAKER_06]: I managed to get the software cheap, $10 for the disc, and of course I already had a USB microphone.
+
+01:51:53.220 --> 01:51:56.085
+[SPEAKER_06]: Next I needed the guitar, and here's where the problem begins.
+
+01:51:59.275 --> 01:52:06.678
+[SPEAKER_06]: Personally, I have a wireless guitar hero controller as well as a wired rock band 1 guitar, both for Xbox 360.
+
+01:52:06.678 --> 01:52:09.839
+[SPEAKER_06]: Of course, none of those work on modern Xbox consoles out of the gate.
+
+01:52:09.839 --> 01:52:11.180
+[SPEAKER_06]: Good thing they made adapters.
+
+01:52:11.180 --> 01:52:13.120
+[SPEAKER_06]: Okay, what do those adapters cost in 2024?
+
+01:52:15.641 --> 01:52:24.564
+[SPEAKER_06]: The adapter that allows you to use wireless Xbox 360 peripherals and RockBand 4 is currently going between $250 and $300 by itself in used condition.
+
+01:52:24.564 --> 01:52:26.985
+[SPEAKER_06]: The wired adapter can go up to $400.
+
+01:52:26.985 --> 01:52:30.607
+[SPEAKER_06]: Forget it, you might say, I'll just get the RockBand 4 guitar controllers.
+
+01:52:30.607 --> 01:52:35.348
+[SPEAKER_06]: Well, those are starting around $200 used, and you want drums, that'll be at least $250 to $300 used, of course.
+
+01:52:37.526 --> 01:52:53.048
+[SPEAKER_06]: It's true that music games through the last 20 plus years have often required people spending some serious money on controllers and accessories, especially the niche Japanese titles, but to even be able to play Rock Band 4 at all now is prohibitively expensive for most people.
+
+01:52:53.869 --> 01:52:59.392
+[SPEAKER_06]: And now in 2024, PDP has announced the production of new Rock Band 4 guitar controllers.
+
+01:52:59.392 --> 01:53:05.456
+[SPEAKER_06]: Joke if you like, but this means that a number of folks, myself included, will not actually be able to play the game.
+
+01:53:05.456 --> 01:53:13.000
+[SPEAKER_06]: Even if these new PDP guitars wind up costing over $100, that is still affordable to some folks when compared to some options right now.
+
+01:53:13.000 --> 01:53:17.843
+[SPEAKER_06]: Not to mention these controllers will be brand new and hopefully will have decent build quality.
+
+01:53:17.843 --> 01:53:20.905
+[SPEAKER_06]: So yeah, as ridiculous as this may seem, it actually is important to some
+
+01:53:21.525 --> 01:53:24.449
+[SPEAKER_06]: Folks, anyways, thanks as always for the show.
+
+01:53:24.449 --> 01:53:26.832
+[SPEAKER_06]: Let's march toward a thousand to continue.
+
+01:53:26.832 --> 01:53:28.555
+[SPEAKER_06]: Rock on OLR, Erin YYR.
+
+01:53:29.585 --> 01:53:35.149
+[SPEAKER_00]: Yeah, like, I understand how maybe our somewhat dismissive comments may have rubbed you the wrong way.
+
+01:53:35.149 --> 01:53:41.214
+[SPEAKER_00]: And I get it because I know you're a music and music game fan at heart, you know, and we were big music game fans too.
+
+01:53:41.214 --> 01:53:43.815
+[SPEAKER_00]: But yeah, at the end of the day, here's what it is with peripherals.
+
+01:53:43.815 --> 01:53:50.200
+[SPEAKER_00]: And why, you know, at least my comment was, you know, I think I'd said landfill or so I don't one of those words was mine.
+
+01:53:50.200 --> 01:53:52.142
+[SPEAKER_00]: But I think it was the end.
+
+01:53:52.842 --> 01:54:10.251
+[SPEAKER_00]: maybe yeah but but and here's why because in reality when those games were first out those controllers and things were everywhere and people were having rock band parties and you know it was all that good fun and stuff but then it's just kind of like that all kind of disappeared
+
+01:54:10.851 --> 01:54:18.493
+[SPEAKER_00]: And maybe not for you, but I'm talking about like on a large scale, you know, it's mass popularity kind of disappeared.
+
+01:54:18.493 --> 01:54:21.174
+[SPEAKER_00]: And now those plastic instruments really feel like they're piling up.
+
+01:54:21.174 --> 01:54:28.797
+[SPEAKER_00]: I bet a lot of people don't even know that they might be sitting on a gold mine in their garage or in their basement of how much those controllers are worth at this time.
+
+01:54:29.437 --> 01:54:38.107
+[SPEAKER_00]: But the reality is, I feel like, and I kind of hinted at this earlier in the show when I was talking about keyboards, I feel like if I were to pick one up, I would play it twice, I would be like, okay, that was cool.
+
+01:54:38.107 --> 01:54:39.269
+[SPEAKER_00]: And then it's done.
+
+01:54:39.269 --> 01:54:45.196
+[SPEAKER_00]: Because I think it would be a lot harder to find like a group of people who want to come together and do this thing in one place.
+
+01:54:45.196 --> 01:54:49.461
+[SPEAKER_00]: Because, and this is the other very important part, that's not what Fortnite Festival is.
+
+01:54:50.535 --> 01:54:55.258
+[SPEAKER_00]: As far as I know, and I could be wrong, you can't play Fortnite Festival on one screen all in the same room.
+
+01:54:55.258 --> 01:55:00.562
+[SPEAKER_00]: It's meant to be played with people across the internet in different places.
+
+01:55:00.562 --> 01:55:05.465
+[SPEAKER_00]: So by that nature, it's kind of like, well, they don't really see you with the controller.
+
+01:55:05.465 --> 01:55:10.569
+[SPEAKER_00]: So I feel like a lot of it kind of loses its charm with Fortnite Festival.
+
+01:55:10.569 --> 01:55:11.610
+[SPEAKER_00]: I understand that, you know,
+
+01:55:12.130 --> 01:55:18.772
+[SPEAKER_00]: people have very rich rock band libraries and this will allow people to tap into that still and so forth.
+
+01:55:18.772 --> 01:55:25.234
+[SPEAKER_00]: I do understand all that but I just kind of wonder for the for most gamers.
+
+01:55:25.234 --> 01:55:27.455
+[SPEAKER_00]: How long?
+
+01:55:27.455 --> 01:55:28.155
+[SPEAKER_00]: How?
+
+01:55:28.155 --> 01:55:30.495
+[SPEAKER_00]: Oh, the rain is really starting to come down outside.
+
+01:55:30.495 --> 01:55:31.956
+[SPEAKER_00]: How long does that really last?
+
+01:55:33.223 --> 01:55:34.063
+[SPEAKER_00]: That's all.
+
+01:55:34.063 --> 01:55:35.824
+[SPEAKER_00]: But I'm glad you know what, I'm glad for you.
+
+01:55:35.824 --> 01:55:41.927
+[SPEAKER_00]: And you know, there are a lot of music game fans that really appreciate it and would use it on a regular basis.
+
+01:55:41.927 --> 01:55:43.647
+[SPEAKER_00]: And for that reason, it's cool.
+
+01:55:43.647 --> 01:55:50.410
+[SPEAKER_00]: But I just I say landfill because for the most part, I think most of those plastic instruments, people don't know the value of them.
+
+01:55:50.410 --> 01:55:53.151
+[SPEAKER_00]: And that's where they ended up.
+
+01:55:53.151 --> 01:55:56.152
+[SPEAKER_01]: So, yeah.
+
+01:55:56.152 --> 01:55:57.413
+[SPEAKER_00]: But I appreciate the perspective.
+
+01:55:57.413 --> 01:55:59.614
+[SPEAKER_00]: Every gamer has a voice.
+
+01:55:59.614 --> 01:55:59.854
+[SPEAKER_00]: All right.
+
+01:56:00.765 --> 01:56:09.370
+[SPEAKER_00]: Well, if you want to send us an email in a future week, perhaps you have a differing opinion than we do that say, okay, participate at orange laundry.com as long as you're civil and respectful about it.
+
+01:56:09.370 --> 01:56:13.193
+[SPEAKER_00]: We will hear those differing opinions for sure.
+
+01:56:13.193 --> 01:56:14.373
+[SPEAKER_00]: All right.
+
+01:56:14.373 --> 01:56:17.335
+[SPEAKER_00]: That is definitely some red cell rain coming down outside right now.
+
+01:56:17.335 --> 01:56:18.116
+[SPEAKER_00]: It sounds like the shower.
+
+01:56:18.996 --> 01:56:20.037
+[SPEAKER_00]: That turned on outside.
+
+01:56:20.037 --> 01:56:20.257
+[SPEAKER_00]: Woo.
+
+01:56:20.257 --> 01:56:22.118
+[SPEAKER_00]: Has it hit your place?
+
+01:56:22.118 --> 01:56:24.899
+[SPEAKER_00]: Loki, I know you're a little Eastie here, so it probably hasn't hit you yet.
+
+01:56:24.899 --> 01:56:26.700
+[SPEAKER_00]: DarkSakura, has it hit your place yet?
+
+01:56:26.700 --> 01:56:27.300
+[SPEAKER_00]: It's pretty loud.
+
+01:56:27.300 --> 01:56:28.240
+[SPEAKER_06]: I haven't noticed.
+
+01:56:28.240 --> 01:56:30.301
+[SPEAKER_06]: I have noise canceling headphones on.
+
+01:56:30.301 --> 01:56:31.082
+[SPEAKER_06]: Oh, that's probably why.
+
+01:56:31.983 --> 01:56:34.484
+[SPEAKER_04]: I can't tell because someone's showering right now too.
+
+01:56:34.484 --> 01:56:35.984
+[SPEAKER_04]: So it just sounds like water anyways.
+
+01:56:35.984 --> 01:56:38.225
+[SPEAKER_00]: Yeah, it wouldn't it takes you're a little east of me.
+
+01:56:38.225 --> 01:56:39.385
+[SPEAKER_00]: So probably take some time to get over there.
+
+01:56:39.385 --> 01:56:40.166
+[SPEAKER_00]: But anyway.
+
+01:56:40.166 --> 01:56:41.426
+[SPEAKER_00]: All right.
+
+01:56:41.426 --> 01:56:43.967
+[SPEAKER_00]: Uh, yeah, I know smash the save button when the show ends for sure.
+
+01:56:43.967 --> 01:56:44.287
+[SPEAKER_00]: For sure.
+
+01:56:44.287 --> 01:56:49.268
+[SPEAKER_00]: Well, luckily we are getting toward maybe unluckily, luckily we're getting towards the end of the show anyway.
+
+01:56:49.268 --> 01:56:51.409
+[SPEAKER_00]: So we're gonna wrap things up here.
+
+01:56:51.409 --> 01:56:54.510
+[SPEAKER_00]: I did want to call out and ask real quick, though, if Loki had any last minute stories.
+
+01:56:55.055 --> 01:57:02.317
+[SPEAKER_04]: I do have one fun thing, and it is a fan-made remake of Zelda 2.
+
+01:57:02.317 --> 01:57:07.258
+[SPEAKER_04]: They enhanced it with an enhanced second quest to it as well.
+
+01:57:07.258 --> 01:57:08.878
+[SPEAKER_00]: We've been watching it today, actually.
+
+01:57:08.878 --> 01:57:10.599
+[SPEAKER_00]: Did this come out?
+
+01:57:10.599 --> 01:57:19.421
+[SPEAKER_04]: Yeah, it's available, it's on, so if you go to hoverbat.itch.io slash Z-I-I A-O-L
+
+01:57:20.454 --> 01:57:21.655
+[SPEAKER_04]: Zelda 2 Adventures of Link
+
+01:57:50.387 --> 01:57:51.187
+[SPEAKER_04]: Thanks for watching!
+
+01:58:12.233 --> 01:58:22.099
+[SPEAKER_04]: Some of the other things that they've changed too as well, they've added, yeah, the creator added new areas, new puzzles, as well as introducing heart and magic containers throughout the world.
+
+01:58:22.099 --> 01:58:28.703
+[SPEAKER_04]: They've also added one-ups that increase your permanent stock of lives even after you have to continue.
+
+01:58:28.703 --> 01:58:31.185
+[SPEAKER_04]: And there's better checkpoints as well.
+
+01:58:31.185 --> 01:58:32.806
+[SPEAKER_04]: So, that's nice.
+
+01:58:34.744 --> 01:58:40.168
+[SPEAKER_06]: Oh, and some of the magic has changed names.
+
+01:58:40.168 --> 01:58:43.029
+[SPEAKER_06]: So, I mean, I think it's very well done.
+
+01:58:43.029 --> 01:58:43.930
+[SPEAKER_06]: It's absolutely worth it.
+
+01:58:43.930 --> 01:58:48.013
+[SPEAKER_06]: I mean, it's still not my favorite game, so I'm not gonna play it.
+
+01:58:48.013 --> 01:58:53.176
+[SPEAKER_06]: I've never liked the style for Zelda 2, but if you are a fan of it, absolutely go get it.
+
+01:58:53.786 --> 01:58:57.128
+[SPEAKER_00]: Yeah, I liked it when I was younger, but it's it's aged.
+
+01:58:57.128 --> 01:59:00.931
+[SPEAKER_00]: Interestingly, I don't know how else to put it.
+
+01:59:00.931 --> 01:59:01.731
+[SPEAKER_00]: All right.
+
+01:59:01.731 --> 01:59:03.973
+[SPEAKER_00]: Well, with that, we're about towards the end of the show.
+
+01:59:03.973 --> 01:59:08.936
+[SPEAKER_00]: So this is a chance for us to wrap it all up and say, we're going to see you in two weeks.
+
+01:59:08.936 --> 01:59:11.698
+[SPEAKER_00]: Reminder, we will not be here next week, but we will be back in two weeks.
+
+01:59:11.698 --> 01:59:16.541
+[SPEAKER_00]: But stay tuned to our personal streams and our personal feeds, because it sounds like we might be cooking something up.
+
+01:59:16.541 --> 01:59:21.645
+[SPEAKER_00]: It sounds like Loki might have something on Saturday and the Dark Sakura could be doing something over here on Sunday.
+
+01:59:21.645 --> 01:59:23.726
+[SPEAKER_00]: But stay tuned to the local feed.
+
+01:59:23.826 --> 01:59:26.847
+[SPEAKER_00]: Thanks for checking out our show!
+
+01:59:45.055 --> 01:59:47.137
+[SPEAKER_00]: DarkSakura, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen
+
+01:59:58.494 --> 02:00:04.917
+[SPEAKER_06]: I've had some issues with the weather as well, with being able to stay online.
+
+02:00:04.917 --> 02:00:13.580
+[SPEAKER_06]: Like, it's been affecting the GeForce thing weird, and honestly, I need to take some me time to take care of some stuff tonight.
+
+02:00:13.580 --> 02:00:14.020
+[SPEAKER_06]: Fair enough.
+
+02:00:14.020 --> 02:00:22.043
+[SPEAKER_06]: So, as a result, I'm not going to stream, but I do have a deserving target in mind.
+
+02:00:22.043 --> 02:00:23.504
+[SPEAKER_00]: Cool.
+
+02:00:23.504 --> 02:00:26.125
+[SPEAKER_00]: Alright, well, do you have a final thought for us tonight before we wrap up?
+
+02:00:28.700 --> 02:00:31.143
+[SPEAKER_06]: Fact check all the things.
+
+02:00:31.143 --> 02:00:33.465
+[SPEAKER_06]: Don't believe what you read on the Internet.
+
+02:00:33.465 --> 02:00:38.171
+[SPEAKER_06]: Fact check all the fucking things.
+
+02:00:38.171 --> 02:00:39.412
+[SPEAKER_00]: Loki, with that, I'll go to you.
+
+02:00:39.412 --> 02:00:41.514
+[SPEAKER_00]: Your final thought tonight.
+
+02:00:41.514 --> 02:00:47.221
+[SPEAKER_04]: I'm just hopefully going to be working hard on getting more content out for my YouTube show.
+
+02:00:49.271 --> 02:00:59.238
+[SPEAKER_00]: Um, and for me, I just, I'm, I'm looking forward to as what Enya sung in a particular song of hers, sail away, sail away, sail away.
+
+02:00:59.238 --> 02:01:00.659
+[SPEAKER_00]: That's all I want to do right now.
+
+02:01:00.659 --> 02:01:02.560
+[SPEAKER_00]: So I will see everybody in two weeks.
+
+02:01:02.560 --> 02:01:03.921
+[SPEAKER_00]: I'm looking forward to it.
+
+02:01:03.921 --> 02:01:06.483
+[SPEAKER_00]: I hope you all have some happy gaming and some happy times.
+
+02:01:06.483 --> 02:01:08.624
+[SPEAKER_00]: Hey, enjoy Final Fantasy VII Rebirth.
+
+02:01:08.624 --> 02:01:09.985
+[SPEAKER_00]: I know a lot of you are going to be playing that.
+
+02:01:09.985 --> 02:01:15.969
+[SPEAKER_00]: That's out in two weeks, but whatever it is that you're playing, we hope you have a fantastic couple of weeks and we will see you next time.
+
+02:01:15.969 --> 02:01:17.009
+[SPEAKER_00]: You're on Orange Lounge Radio.
+
+02:01:17.009 --> 02:01:17.290
+[SPEAKER_00]: Good night.
+
+02:01:18.630 --> 02:01:23.152
+[SPEAKER_03]: You've been listening to Orange Lounge Radio.
+
+02:01:23.152 --> 02:01:28.255
+[SPEAKER_03]: Orange Lounge Radio is a production of OLR Studios.
+
+02:01:28.255 --> 02:01:33.677
+[SPEAKER_03]: To join us for our live show, tune in to vognetwork.com Sunday nights at 6 p.m.
+
+02:01:33.677 --> 02:01:35.218
+[SPEAKER_03]: Pacific, 9 p.m.
+
+02:01:35.218 --> 02:01:37.099
+[SPEAKER_03]: Eastern.
+
+02:01:37.099 --> 02:01:46.683
+[SPEAKER_03]: The views and opinions expressed in this program do not necessarily reflect those of the staff of Orange Lounge Radio nor VOG Network, but you know they were all still true.
+
