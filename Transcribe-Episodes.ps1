@@ -4,7 +4,7 @@
 # pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
 # set-alias whisper "$($env:localappdata)\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\scripts\whisper.exe"
 
-# pip install torch==2.5.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 # pip install git+https://github.com/m-bain/whisperx.git
 # pip install --upgrade git+https://github.com/m-bain/whisperx.git
 #
@@ -17,7 +17,7 @@
 $useWhisperX = ($null -ne $env:hf_token) -and ($env:hf_token -ne '')
 #$useWhisperX = $False
 
-$model = 'medium.en'
+$model = 'large-v3-turbo'
 if ($useWhisperX)
 {
     $model = 'large-v3'
