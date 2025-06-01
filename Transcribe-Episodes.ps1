@@ -1,18 +1,23 @@
 #!/usr/bin/pwsh
 
+# Prerequisites: CUDA, cuDNN 8.x, ffmpeg
+#   winget install Gyan.FFmpeg
+
 # pip install git+https://github.com/openai/whisper.git
 # pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
 # set-alias whisper "$($env:localappdata)\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\scripts\whisper.exe"
 
-# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
-# pip install git+https://github.com/m-bain/whisperx.git
-# pip install --upgrade git+https://github.com/m-bain/whisperx.git
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+# pip3 install git+https://github.com/m-bain/whisperx.git
+# pip3 install --upgrade git+https://github.com/m-bain/whisperx.git
+#
+# fix ctranslate2 version dependency: no packages for python 3.13+, use 3.12
 #
 # fix onnxruntime for diarization (see https://github.com/m-bain/whisperX/issues/540)
-# pip uninstall onnxruntime
-# pip install --force-reinstall onnxruntime-gpu
+#   pip3 uninstall onnxruntime
+#   pip3 install --force-reinstall onnxruntime-gpu
 #
-# if pyannote complains about missing cudnn_ops_infer64_8.dll, copy cuDNN 8 libs to torch\libs (they upgraded to cuDNN 9 in 2.5)
+# if pyannote complains about missing cudnn_ops_infer64_8.dll, copy cuDNN 8 libs to torch\lib (they upgraded to cuDNN 9 in 2.5)
 
 $useWhisperX = ($null -ne $env:hf_token) -and ($env:hf_token -ne '')
 #$useWhisperX = $False
@@ -69,6 +74,7 @@ foreach ($f in $files)
         $initialPrompt = "Skie, DarkSakura, Loki, VOG Network, DJ Ranma S, Actdeft, Drew, Carameldansen"
         if ($useWhisperX)
         {
+            # test: $model = 'large-v3-turbo'; $conditionOnPreviousText = $False; $initialPrompt = ''; $dir = '.\2025\05'; $mp3Path = '.\2025\05\OLR_1048_052525.mp3'
             #  --print_progress True (currently broken)
             whisperx "$mp3Path" --task transcribe --device cuda --model $model --language en --output_dir "$dir" --verbose False --initial_prompt $initialPrompt --condition_on_previous_text $conditionOnPreviousText --align_model WAV2VEC2_ASR_LARGE_LV60K_960H --diarize --hf_token "$($env:hf_token)" *>&1
         }
