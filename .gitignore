@@ -1,3 +1,4 @@
 # Specify filepatterns you want git to ignore.
 *.mp3
 *.mp4
+.sync/
