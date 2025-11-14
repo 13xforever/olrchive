@@ -5,7 +5,7 @@
 
 # pip install git+https://github.com/openai/whisper.git
 # pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
-# set-alias whisper "$($env:localappdata)\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\scripts\whisper.exe"
+# set-alias whisper "$($env:localappdata)\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\scripts\whisper.exe"
 
 # pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 # pip3 install git+https://github.com/m-bain/whisperx.git
